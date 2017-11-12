@@ -1,0 +1,6 @@
+Size of:										Terms										Postings
+Uncompressed										15549										113410
+No numbers										14991										108262
+Case Folded										13203										108262
+30 stop words										13173										101606
+150 stop words										13083										93168
