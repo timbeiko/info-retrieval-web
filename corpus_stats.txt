@@ -1,3 +1,4 @@
+Average doc length: 3443.15384615
 Size of:										Terms										Postings
 Uncompressed										15549										113410
 No numbers										14991										108262
