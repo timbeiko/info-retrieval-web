@@ -1,5 +1,8 @@
-## Beautiful Soup Tutorial
-http://www.pythonforbeginners.com/beautifulsoup/beautifulsoup-4-python
+## Overview 
+
+`scrape.py`: used to scrape the webpages and output the BeautifulSoup objects to the `raw_webpages` directory. 
+`soup_to_documents.py`: used to remove non-text elements from the BeautifulSoup objects and output the result in the `documents` directory.
+
 
 ## Project Handout
 

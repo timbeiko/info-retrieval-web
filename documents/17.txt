@@ -1,0 +1,159 @@
+\n
+\n    
+\n    
+\n    
+VAV Gallery  A student-run exhibition space aimed at reflecting the excellence and diversity of artworks created by Concordia Fine Arts students.
+\n    
+\n    
+\n    
+\n    
+\n    
+\n    
+\n        
+\n    
+\n    
+\n\n    
+\n\n        
+\n
+\n
+\n
+\n
+\n
+\n\t\t
+\n\t\t
+\nimg.wp-smiley,\nimg.emoji {\n\tdisplay: inline !important;\n\tborder: none !important;\n\tbox-shadow: none !important;\n\theight: 1em !important;\n\twidth: 1em !important;\n\tmargin: 0 .07em !important;\n\tvertical-align: -0.1em !important;\n\tbackground: none !important;\n\tpadding: 0 !important;\n}\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar wpPathObject = {"templateUrl":"http:\\/\\/vavgallery.concordia.ca\\/wp-content\\/themes\\/bones","homeUrl":"http:\\/\\/vavgallery.concordia.ca"};\n/* ]]> */\n
+\n
+\n
+\n
+document.documentElement.className += " js";
+\n
+\n
+\n
+\n
+\n\n    
+var BASE = "http://vavgallery.concordia.ca";
+\n    \n        \n\n\n\n
+\n
+\n    
+\n      \n    
+\n\n      \n        
+\n            
+About
+\n        
+\n\n      \n        
+\n            
+Archive
+\n        
+\n\n      \n        
+\n            
+Contact
+\n        
+\n\n      \n        
+\n            
+Exhibitions
+\n        
+\n\n      \n        
+\n            
+Hiring
+\n        
+\n\n      \n        
+\n            
+Submission
+\n        
+\n\n      \n    
+\n\n          
+\n            
+\n                
+y
+\n                
+r
+\n                
+e
+\n                
+l
+\n                
+l
+\n                
+a
+\n                
+G
+\n                
+\xa0
+\n                
+s
+\n                
+l
+\n                
+e
+\n                
+u
+\n                
+s
+\n                
+i
+\n                
+V
+\n                
+\xa0
+\n                
+s
+\n                
+t
+\n                
+r
+\n                
+A
+\n                
+\xa0
+\n                
+l
+\n                
+a
+\n                
+u
+\n                
+s
+\n                
+i
+\n                
+V
+\n                
+\xa0
+\n                
+e
+\n                
+i
+\n                
+r
+\n                
+e
+\n                
+l
+\n                
+a
+\n                
+G
+\n            
+\n            
+VAV
+\n        
+\n    
+\n
+\n\n
+var BASE = "http://vavgallery.concordia.ca";
+\n
+\n
+\n\n \n>

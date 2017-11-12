@@ -1,0 +1,294 @@
+\n\n
+\n
+\n
+\n
+\n
+\n\n\t
+\n
+CUJAH \u2013 Concordia Undergraduate Journal of Art History
+\n
+\n
+\n
+\n
+\n\t\t
+\n\t\t\twindow._wpemojiSettings = {"baseUrl":"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/2\\/72x72\\/","ext":".png","svgUrl":"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/2\\/svg\\/","svgExt":".svg","source":{"concatemoji":"http:\\/\\/cujah.org\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=4.6.8"}};\n\t\t\t!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);\n\t\t
+\n\t\t
+\nimg.wp-smiley,\nimg.emoji {\n\tdisplay: inline !important;\n\tborder: none !important;\n\tbox-shadow: none !important;\n\theight: 1em !important;\n\twidth: 1em !important;\n\tmargin: 0 .07em !important;\n\tvertical-align: -0.1em !important;\n\tbackground: none !important;\n\tpadding: 0 !important;\n}\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+ \n
+\n
+\n  
+\n    var xx_cal_xx = '&';\n  
+\n  \n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n\n\n\n\n\t
+Skip to content
+\n\n\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+CUJAH
+\n\t\t\t\t\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+About CUJAH
+\n
+\n\t
+About Us
+\n\t
+Contact Us
+\n
+\n
+\n
+Volumes
+\n
+\n\t
+Volume XII
+\n\t
+Volume XI
+\n\t
+Volume X
+\n\t
+Volume IX
+\n\t
+Volume VIII
+\n\t
+Volume VII
+\n\t
+Volume VI
+\n\t
+Volume V
+\n\t
+Volume IV
+\n\t
+Volume III
+\n\t
+Volume II
+\n\t
+Volume I
+\n
+\n
+\n
+Conference
+\n
+Events
+\n
+Submissions
+\n
+\n\t
+Submit
+\n\t
+Submission Guidelines
+\n
+\n
+\n
+\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n\n\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+Concordia Undergraduate Journal of Art History
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n\n\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t
+\n\t\t\t\t
+\n\t\t\n\t\t
+CUJAH Vol. XIV is looking to hire students to fill positions on our Executive Team!
+\t\t\t\t
+CUJAH is on the lookout for a Managing Editor, Conference Coordinator, Events Coordinator, and Communications Coordinator to form our 2017-2018 Executive Team! See below for position descriptions and task breakdowns.
+\n
+Job Title:\xa0Managing Editor
+\n
+Working with closely the Editor-in-Chief, the Managing Editor will chiefly be responsible for managing all CUJAH editors, overseeing all final edits of CUJAH\u2019s annual publication and managing the CUJAH Archive Project.
+\n
+Tasks:
+\n
+\n
+Coordinate and oversee editorial activities
+\n
+Work directly with Editor-in-Chief in all facets of CUJAH
+\n
+Take lead on the CUJAH Archive Project
+\n
+\n
+N.B.
+\xa0The Managing Editor\u2019s work for CUJAH\xa0
+can qualify as an independent study.
+ 
+However, it is their responsibility to obtain the permission and supervision of a faculty member in the Department of Art History.
+\n
+Job Title:\xa0Conference Coordinator
+\n
+The Conference Coordinator organizes and brings to fruition CUJAH\u2019s annual Undergraduate Art History Undergraduate Conference, which usually takes place at the end of February / beginning of March.
+\n
+Tasks:
+\n
+\n
+Organize and oversee CUJAH\u2019s 7th annual Undergraduate Art History Conference
+\n
+Create budget, organize room rental, contact speakers, secure refreshments & beverages, etc.
+\n
+Work with Assistant Graphic Designer in the creation of conference booklets
+\n
+\n
+The Conference Coordinator will receive an honorarium of\xa0
+$150
+.
+\n
+Job Title:\xa0Events Coordinator
+\n
+The Events Coordinator is responsible for organizing all CUJAH events throughout the year and maintaining connections with collaborators.
+\n
+Tasks:
+\n
+\n
+Organize and oversee CUJAH events: concept development, budget creation, room reservation, etc.
+\n
+Work directly with Communications Coordinator and event collaborators
+\n
+Ensure online access to events with Web Programmer
+\n
+\n
+Job Title:\xa0Communications Coordinator
+\n
+The Communications Coordinator is responsible for promoting CUJAH and all of CUJAH\u2019s activities throughout the year on a consistent basis.
+\n
+Tasks:
+\n
+\n
+Maintain CUJAH Social Media presence, working directly with Graphic Designers in creating a visual identity for CUJAH
+\n
+Maintain external communications: press, news & media
+\n
+Maintain internal communications: Concordia, FASA affiliates, CUJAH teams, etc.
+\n
+\n
+HOW TO APPLY:
+\n
+Please send the following documents in a single PDF to 
+thecujah@gmail.com
+\xa0by:
+\n
+Sunday\xa0September 17, 2017 at 11:00 p.m
+:
+\n
+01
+\xa0CV
+\n
+02
+\xa0Short bio (200 words maximum) stating your academic interests and current student status, and 
+indicate which position you are applying for
+\n
+03
+\xa0Contact information (name, phone number, email address, student ID)
+\n
+If you have questions about any of these positions, please contact us at 
+thecujah@gmail.com
+, we would be glad to answer them!
+\n\t\t\t\t\t\t\t
+\n\t\t\t
+\n
+\n\t\t\t\t\t\n\t\t\t\t\t\t\t
+\n\t\t\t
+\n\t\t\t\t
+Older posts
+\t\t\t
+\n\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\t
+\n\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t
+\n\n\t\t\t\t\t
+\n\t
+\n\n\n \t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\n\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+CUJAH @ Copyright 2017. - Created by 
+SliceJack
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n\n\t\t
+\n\t
+\n
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar jetpackSlideshowSettings = {"spinner":"http:\\/\\/cujah.org\\/wp-content\\/plugins\\/jetpack\\/modules\\/shortcodes\\/img\\/slideshow-loader.gif"};\n/* ]]> */\n
+\n
+\n
+\n/* <![CDATA[ */\nvar thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\\/\\/cujah.org\\/wp-includes\\/js\\/thickbox\\/loadingAnimation.gif"};\n/* ]]> */\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n\t_stq = window._stq || [];\n\t_stq.push([ 'view', {v:'ext',j:'1:3.9.7',blog:'42202817',post:'0',tz:'-5',srv:'cujah.org'} ]);\n\t_stq.push([ 'clickTrackerInit', '42202817', '0' ]);\n
+\n\n\n\n>

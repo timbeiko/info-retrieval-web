@@ -1,0 +1,1165 @@
+\n
+\n
+\n
+\n
+Concordia Stores
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n\n\n\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n\n
+\n//<![CDATA[\nMage.Cookies.path     = '/';\nMage.Cookies.domain   = '.stores.concordia.ca';\n//]]>\n
+\n
+\n\n
+\n//<![CDATA[\noptionalZipCountries = ["CA"];\n//]]>\n
+\n
+//<![CDATA[\n        var Translator = new Translate([]);\n        //]]>
+\n\n.carousel-inner {\n    background-color: #fff;\n}\n\n.carousel-control.right {\n    background-image: none;\n}\n\n.carousel-control.left {\n    background-image: none;\n}\n\n@media only screen and (max-width: 734px) {\n.skip-account .icon {\n    background-position: 4px -44px;\n    display: inline-block;\n    /* To fix sizing issue for now */\n}\n}\n\n::selection {\nbackground: #0072a8;\ncolor: #fff;\n}\n\n::-moz-selection {\nbackground: #0072a8;\ncolor: #fff;\n}\n\n.configurable-price-from-label {\n    display: block;\n    font-weight: bold;\n    color: rgb(147, 36, 57);\n}\n
+\n\n\n
+\n
+\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '728997837267976'); // Insert your pixel ID here.\nfbq('track', 'PageView');\n
+\n
+&lt;img height="1" width="1" style="display:none"\nsrc="https://www.facebook.com/tr?id=728997837267976&amp;ev=PageView&amp;noscript=1"\n/&gt;
+\n
+\n
+\n\n\n\n\n
+\n
+\n\tFreshWidget.init("", {"queryString": "&widgetType=popup&formTitle=Help+%26+support", "utf8": "\u2713", "widgetType": "popup", "buttonType": "text", "buttonText": "Help & support", "buttonColor": "white", "buttonBg": "#932439", "alignment": "2", "offset": "500px", "formHeight": "500px", "url": "https://concordiastores.freshdesk.com"} );\n
+\n
+var fc_CSS=document.createElement('link');fc_CSS.setAttribute('rel','stylesheet');var fc_isSecured = (window.location && window.location.protocol == 'https:');var fc_lang = document.getElementsByTagName('html')[0].getAttribute('lang'); var fc_rtlLanguages = ['ar','he']; var fc_rtlSuffix = (fc_rtlLanguages.indexOf(fc_lang) >= 0) ? '-rtl' : '';fc_CSS.setAttribute('type','text/css');fc_CSS.setAttribute('href',((fc_isSecured)? 'https://d36mpcpuzc4ztk.cloudfront.net':'http://assets1.chat.freshdesk.com')+'/css/visitor'+fc_rtlSuffix+'.css');document.getElementsByTagName('head')[0].appendChild(fc_CSS);var fc_JS=document.createElement('script'); fc_JS.type='text/javascript'; fc_JS.defer=true;fc_JS.src=((fc_isSecured)?'https://d36mpcpuzc4ztk.cloudfront.net':'http://assets.chat.freshdesk.com')+'/js/visitor.js';(document.body?document.body:document.getElementsByTagName('head')[0]).appendChild(fc_JS);window.livechat_setting= 'eyJ3aWRnZXRfc2l0ZV91cmwiOiJjb25jb3JkaWFzdG9yZXMuZnJlc2hkZXNrLmNvbSIsInByb2R1Y3RfaWQiOm51bGwsIm5hbWUiOiJDb25jb3JkaWEgVW5pdmVyc2l0eSBSZXRhaWwgU3RvcmVzIiwid2lkZ2V0X2V4dGVybmFsX2lkIjpudWxsLCJ3aWRnZXRfaWQiOiJkMzJiMWIxMy03NTFiLTRlMmUtYjYyYi02MWZmMjMxZDQwYjAiLCJzaG93X29uX3BvcnRhbCI6dHJ1ZSwicG9ydGFsX2xvZ2luX3JlcXVpcmVkIjpmYWxzZSwibGFuZ3VhZ2UiOm51bGwsInRpbWV6b25lIjpudWxsLCJpZCI6NjAwMDAzMTc2MywibWFpbl93aWRnZXQiOjEsImZjX2lkIjoiN2IxYWVmYTI0M2IxOWE5NGU5M2VjMGFkNTQ5MGNkYjciLCJzaG93IjoxLCJyZXF1aXJlZCI6MiwiaGVscGRlc2tuYW1lIjoiQ29uY29yZGlhIFVuaXZlcnNpdHkgUmV0YWlsIFN0b3JlcyIsIm5hbWVfbGFiZWwiOiJOYW1lIiwibWVzc2FnZV9sYWJlbCI6Ik1lc3NhZ2UiLCJwaG9uZV9sYWJlbCI6IlBob25lIiwidGV4dGZpZWxkX2xhYmVsIjoiVGV4dGZpZWxkIiwiZHJvcGRvd25fbGFiZWwiOiJEcm9wZG93biIsIndlYnVybCI6ImNvbmNvcmRpYXN0b3Jlcy5mcmVzaGRlc2suY29tIiwibm9kZXVybCI6ImNoYXQuZnJlc2hkZXNrLmNvbSIsImRlYnVnIjoxLCJtZSI6Ik1lIiwiZXhwaXJ5IjowLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJlbmRfY2hhdF90aGFua19tc2ciOiJUaGFuayB5b3UhISEiLCJlbmRfY2hhdF9lbmRfdGl0bGUiOiJFbmQiLCJlbmRfY2hhdF9jYW5jZWxfdGl0bGUiOiJDYW5jZWwiLCJzaXRlX2lkIjoiN2IxYWVmYTI0M2IxOWE5NGU5M2VjMGFkNTQ5MGNkYjciLCJhY3RpdmUiOjEsInJvdXRpbmciOm51bGwsInByZWNoYXRfZm9ybSI6MSwiYnVzaW5lc3NfY2FsZW5kYXIiOm51bGwsInByb2FjdGl2ZV9jaGF0IjowLCJwcm9hY3RpdmVfdGltZSI6MzAsInNpdGVfdXJsIjoiY29uY29yZGlhc3RvcmVzLmZyZXNoZGVzay5jb20iLCJleHRlcm5hbF9pZCI6bnVsbCwiZGVsZXRlZCI6MCwibW9iaWxlIjoxLCJhY2NvdW50X2lkIjpudWxsLCJjcmVhdGVkX2F0IjoiMjAxNS0wNi0yMlQxODowNjoyNC4wMDBaIiwidXBkYXRlZF9hdCI6IjIwMTYtMDYtMjlUMTQ6NTM6MTguMDAwWiIsImNiRGVmYXVsdE1lc3NhZ2VzIjp7ImNvYnJvd3Npbmdfc3RhcnRfbXNnIjoiWW91ciBzY3JlZW5zaGFyZSBzZXNzaW9uIGhhcyBzdGFydGVkIiwiY29icm93c2luZ19zdG9wX21zZyI6IllvdXIgc2NyZWVuc2hhcmluZyBzZXNzaW9uIGhhcyBlbmRlZCIsImNvYnJvd3NpbmdfZGVueV9tc2ciOiJZb3VyIHJlcXVlc3Qgd2FzIGRlY2xpbmVkIiwiY29icm93c2luZ192aWV3aW5nX3NjcmVlbiI6IllvdSBhcmUgdmlld2luZyB0aGUgdmlzaXRvcuKAmXMgc2NyZWVuIiwiY29icm93c2luZ19jb250cm9sbGluZ19zY3JlZW4iOiJZb3UgYXJlIGNvbnRyb2xsaW5nIHRoZSB2aXNpdG9y4oCZcyBzY3JlZW4iLCJjb2Jyb3dzaW5nX3JlcXVlc3RfY29udHJvbCI6IlJlcXVlc3QgdmlzaXRvciBmb3IgY29udHJvbCIsImNvYnJvd3Npbmdfc3RvcF9yZXF1ZXN0IjoiRW5kIHlvdXIgc2NyZWVuc2hhcmluZyBzZXNzaW9uIiwiY29icm93c2luZ19yZXF1ZXN0X2NvbnRyb2xfcmVqZWN0ZWQiOiJZb3VyIHJlcXVlc3Qgd2FzIGRlY2xpbmVkIiwiY29icm93c2luZ19jYW5jZWxfdmlzaXRvcl9tc2ciOiJTY3JlZW5zaGFyaW5nIGlzIGN1cnJlbnRseSB1bmF2YWlsYWJsZSIsImNiX3ZpZXdpbmdfc2NyZWVuX3ZpIjoiQWdlbnQgY2FuIHZpZXcgeW91ciBzY3JlZW4gIiwiY2JfY29udHJvbGxpbmdfc2NyZWVuX3ZpIjoiQWdlbnQgY2FuIGNvbnRyb2wgeW91ciBzY3JlZW4iLCJjYl9naXZlX2NvbnRyb2xfdmkiOiJBbGxvdyBhZ2VudCB0byBjb250cm9sIHlvdXIgc2NyZWVuIiwiY2JfdmlzaXRvcl9zZXNzaW9uX3JlcXVlc3QiOiJDYW4gYWdlbnQgY29udHJvbCB5b3VyIGN1cnJlbnQgc2NyZWVuPyJ9fQ==';
+\n\n            
+\n    
+\n        //<![CDATA[\n        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\n        \nga('create', 'UA-70868488-1', 'auto');\n\nga('send', 'pageview');\n        \n        //]]>\n    
+\n    
+\n        \n\n\n\n\n
+\n
+Free shipping
+ over 
+$
+75*
+\n
+    
+\n        
+\n        &lt;div class="global-site-notice noscript"&gt;\n            &lt;div class="notice-inner"&gt;\n                &lt;p&gt;\n                    &lt;strong&gt;JavaScript seems to be disabled in your browser.&lt;/strong&gt;&lt;br /&gt;\n                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                &lt;/p&gt;\n            &lt;/div&gt;\n        &lt;/div&gt;\n    
+\n\n\n\n    
+\n        \n\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Our stores
+Alumni
+\n                
+New students
+Faculty & staff
+\n                
+\n                
+\n                
+log in / register
+ 
+\n                
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                            
+\n                        
+\n                log in / register                            
+\n        
+\n    
+\n    
+\n    
+\n        
+\n            
+\n            
+\n            
+\n            
+\n                        
+\n            
+\n                    
+\n        
+\n            
+\n                Search:            
+\n            
+\n            
+Search
+\n            
+\n\n            
+\n                    
+\n                    
+Courselist
+\n                    
+Booklist
+\n            
+\n\n        
+\n        
+\n        
+\n        //<![CDATA[\n        var searchForm = new Varien.searchForm('search_mini_form', 'search', '');\n        searchForm.initAutocomplete('https://stores.concordia.ca/catalogsearch/ajax/suggest/', 'search_autocomplete');  \n        //]]>\n        
+\n    
+\n            
+\n                        
+\n            
+\n                
+\n        
+\n                                    
+Your account
+\n                                                
+Wishlist
+\n                                                
+Cart
+\n                                                
+Checkout
+\n                                                
+Log in / register
+\n                        
+\n
+\n\n\n            
+\n        \n                        
+\n            
+\n            
+\n                
+\n                    
+\n                    
+Menu
+\n                
+\n                
+\n                    
+\n                    
+Search
+\n                
+\n                
+\n                    
+\n                    
+Courselist
+\n                    
+Booklist
+\n                
+\n                
+\n                    
+\n                    
+\n                        
+\n                        
+\n                        \n                    
+\n                    
+\n                        \n\n
+\n    
+\n    
+\n    
+0
+\n
+\n\n
+\n    
+\n
+\n
+\n\n
+\n\n    
+\n        Recently added item(s)        
+\xd7
+\n    
+\n\n                    
+You have no items in your shopping cart.
+\n\n    
+\n
+\n\n\n\n                    
+\n                
+\n            
+\n            
+\n            
+\n                
+\n                    \n\n
+\n\n    \t
+\n
+Textbooks
+.
+\n
+\n
+\n
+New
+\n
+Fast shipping right to
+your front door
+\n
+\n
+\n\n\n\n\n\n
+\n
+\n
+\n
+Used
+\n
+Save up to 25% on used textbooks
+\n
+\n
+\n\n
+\n
+\n
+\n
+Digital
+\n
+Get instant access to course material
+\n
+\n
+\n\n\n
+\n
+\n
+\n
+Rent
+\n
+Rent for the term and save up to 60%
+\n
+\n
+\n\n
+\n
+\n
+\n
+Sell your textbooks
+\n
+Get cash for your
+textbooks
+\n
+\n
+\n\n\n\n
+\n
+\n
+Reference material
+\n
+Dictionaries, thesauruses, study prep, and more!
+\n
+\n
+\n\n
+\n
+Technology
+.
+\n
+\n
+Accessories
+\n
+\n
+\n
+Printers & ink
+\n
+\n
+\n
+Software
+\n
+\n
+\n
+Storage & networking
+\n
+\n
+Popular categories
+\n
+\n
+Headphones & speakers
+\n
+USB keys
+\n
+\n
+Apple for education
+\n
+\n\n
+\n
+Apparel
+.
+\n
+\n
+Accessories
+\n
+\n
+\n
+Bags
+\n
+\n
+\n
+Outerwear
+\n
+\n
+\n
+Shorts
+\n
+\n
+\n
+Sweatpants
+\n
+\n
+\n
+Sweatshirts
+\n
+\n
+\n
+Tops
+\n
+\n
+Popular categories
+\n
+\n
+T-Shirts
+\n
+Hoodies
+\n
+JMSB
+\n
+Stingers
+\n
+Scarves & mitts
+\n
+For kids
+\n
+Caps
+\n
+\n\n
+\n
+Gifts
+.
+\n
+\n
+Branded
+\n
+\n
+\n
+Gift cards
+\n
+\n
+\n
+Grad gifts
+\n
+\n
+\n
+Memorabilia
+\n
+\n
+Popular categories
+\n
+\n
+Drinkware
+\n
+\n
+Diploma frames
+\n
+Grad rings
+\n
+\n\n
+\n
+Supplies
+.
+\n
+\n
+Fine Arts Lab Fees
+\n
+\n
+\n
+Office & school supplies
+\n
+\n
+Popular categories
+\n
+\n
+Notebooks
+\n
+Calculators
+\n
+Lab coats
+\n
+\n\n
+\n
+Printing
+.
+\n
+\n
+DPrint
+\n
+\n
+\n
+Print advisory
+\n
+\n
+\n
+Print Store
+\n
+\n
+Popular categories
+\n
+\n
+DPrint account balance
+\n
+WebPrint
+\n
+Business cards
+\n
+\n\n
+\n
+Services
+.
+\n
+\n
+Athletics
+\n
+\n
+\n
+Bike parking
+\n
+\n
+\n
+Passport photos
+\n
+\n
+\n
+PERFORM Centre
+\n
+\n
+Special pricing for students!
+\n
+\n
+Get back into shape with a Le Gym membership!
+\n
+\n\n
+\n
+Sale
+\n\n
+\n\n
+\n    document.observe("dom:loaded", function() \n    {\n        //run navigation without delays and with default id="#meuexpand"\n        //expandedMenu();\n        //run navigation with delays\n        expandedMenu("menuexpand-top", {"show_delay": "100", "hide_delay": "100", "dropmenu_side": ""});\n    });\n    \n    new accordion('menuexpand-top');\n
+\n                
+\n            
+\n\n            
+\n\n        
+\n    \n        \n\n
+\n    
+\n              \t
+\xd7
+\n        
+\n            
+\n            \t
+Search by course
+\n            
+\n\t        
+\n\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t    
+\n\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t    
+\n\t\t\t\t\t
+\n\t\t\t\t\t
+        \n\t\t\t\t\t    
+Search
+\n\t\t\t\t\t
+\n\n\t\t\t\t
+\n\t\t\t\t
+Search for course material by course. Just enter the department, course number and section (optional). 
+Example: ACCO 220 01
+\n\t\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t    
+\n\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t    
+\n\t\t\t\t\t
+\n\t\t\t\t\t
+        \n\t\t\t\t\t    
+Search
+\n\t\t\t\t\t
+\n\n\t\t\t\t
+\n\t\t\t\t
+Search for course material by course. Just enter the department, course number and section (optional). 
+Example: ACCO 220 01
+\n\t\t\t
+\t\t\t\n\t\t
+\n\n\n\n\t
+\n
+\n    \n\n
+\n    
+\n              \t
+\xd7
+\n        
+\n            
+\n            \t
+Student booklist
+\n            
+\n\t        
+\n                
+\n\t\t\t\t\t
+  \n                        
+  \n                            
+\n                        
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n                
+Enter in your Concordia student ID to get your personalized booklist for all of the courses you are registered for.
+\n    \t\t
+\n\t\t\t
+\n                
+\n\t\t\t\t\t
+   \n                        
+  \n                            
+\n                        
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n                
+Enter in your Concordia student ID to get your personalized booklist for all of the courses you are registered for.
+ \n\t\t\t
+\t\t\t\n\t\t
+\n\t
+\n
+\n            
+\n    
+\n        
+\n            
+\n            
+\n                
+\n
+\n                
+\n
+\n            
+\n            
+\n            
+\n\n\n                
+\n    
+\n
+\n                    
+   \n                        
+           \n                            
+\n
+\n                            
+\n                        
+\n                    
+\n                
+\n\n                
+\n\n                
+\n                
+\n \n\n\n     
+\n
+\n                    
+   \n                        
+           \n                            
+\n
+\n                            
+\n                        
+\n                    
+\n                
+\n\n
+\n\n               
+\n\n            
+\n            
+\n\n\n  
+\n    
+\n\n  
+\n  
+\n    
+\n\n  
+\n\n
+\n    
+\n
+            
+\n            
+\n                                
+\n                                        
+\xa0
+\n\n\n
+\n\n
+\n\n
+\n
+\n\n\n
+\n
+\n
+\n\n\n
+\n
+\n\n\n
+\n
+\n
+\n\n
+\n
+\n\n\n\n
+\n\n\n\n\n\n
+\n    
+\n        
+New to the store
+\n    
+\n    
+\n                                
+\n                    
+\n                
+\n                    
+\n               
+\n\n               
+\n                     
+\n                
+\n                \n\n                
+\n                        
+Concordia Ugly Christmas Sweatshirt                         - \n\n                                    \n    
+\n                                                                
+\n                                            
+$39.99
+                                    
+\n                        \n        
+\n\n
+\n                        \n                        
+\n                            
+\n                            
+View details
+\n                            
+\n                                                            
+Add to Cart
+\n                                          
+              \n                        
+\n                
+\n                \n            
+\n                                    
+\n                
+\n                    
+\n               
+\n\n               
+\n                     
+\n                
+\n                \n\n                
+\n                        
+Concordia decorative spoon                         - \n\n                                    \n    
+\n                                                                
+\n                                            
+$14.99
+                                    
+\n                        \n        
+\n\n
+\n                        \n                        
+\n                            
+\n                            
+View details
+\n                            
+\n                                                            
+Add to Cart
+\n                                          
+              \n                        
+\n                
+\n                \n            
+\n                                    
+\n                
+\n                    
+\n               
+\n\n               
+\n                     
+\n                
+\n                \n\n                
+\n                        
+Concordia Camp Fire Mug                         - \n\n                                    \n    
+\n                                                                
+\n                                            
+$12.99
+                                    
+\n                        \n        
+\n\n
+\n                        \n                        
+\n                            
+\n                            
+View details
+\n                            
+\n                                                            
+Add to Cart
+\n                                          
+              \n                        
+\n                
+\n                \n            
+\n                                    
+\n                
+\n                    
+\n               
+\n\n               
+\n                     
+\n                
+\n                \n\n                
+\n                        
+Concordia "C" NeoSkin hardcover Journal                         - \n\n                                    \n    
+\n                                                                
+\n                                            
+$19.99
+                                    
+\n                        \n        
+\n\n
+\n                        \n                        
+\n                            
+\n                            
+View details
+\n                            
+\n                                                            
+Add to Cart
+\n                                          
+              \n                        
+\n                
+\n                \n            
+\n                
+\n                                
+\n                    
+\n                
+\n                    
+\n               
+\n\n               
+\n                     
+\n                
+\n                \n\n                
+\n                        
+Concordia letter opener                         - \n\n                                    \n    
+\n                                                                
+\n                                            
+$32.99
+                                    
+\n                        \n        
+\n\n
+\n                        \n                        
+\n                            
+\n                            
+View details
+\n                            
+\n                                                            
+Add to Cart
+\n                                          
+              \n                        
+\n                
+\n                \n            
+\n                                    
+\n                
+\n                    
+\n               
+\n\n               
+\n                     
+\n                
+\n                \n\n                
+\n                        
+Concordia decorative spoon                         - \n\n                                    \n    
+\n                                                                
+\n                                            
+$16.99
+                                    
+\n                        \n        
+\n\n
+\n                        \n                        
+\n                            
+\n                            
+View details
+\n                            
+\n                                                            
+Add to Cart
+\n                                          
+              \n                        
+\n                
+\n                \n            
+\n                                    
+\n                
+\n                    
+\n               
+\n\n               
+\n                     
+\n                
+\n                \n\n                
+\n                        
+Concorida Ugly Sweatshirt Christmas Ornament                         - \n\n                                    \n    
+\n                                                                
+\n                                            
+$12.95
+                                    
+\n                        \n        
+\n\n
+\n                        \n                        
+\n                            
+\n                            
+View details
+\n                            
+\n                                                            
+Add to Cart
+\n                                          
+              \n                        
+\n                
+\n                \n            
+\n                                    
+\n                
+\n                    
+\n               
+\n\n               
+\n                     
+\n                
+\n                \n\n                
+\n                        
+Helios backpack                         - \n\n                                    \n    
+\n                                                                
+\n                                            
+$89.99
+                                    
+\n                        \n        
+\n\n
+\n                        \n                        
+\n                            
+\n                            
+View details
+\n                            
+\n                                                            
+Add to Cart
+\n                                          
+              \n                        
+\n                
+\n                \n            
+\n                
+\n                                
+\n                    
+\n                
+\n                    
+\n               
+\n\n               
+\n                     
+\n                
+\n                \n\n                
+\n                        
+Animal hand puppet                         - \n\n                                    \n    
+\n                                                                
+\n                                            
+$39.99
+                                    
+\n                        \n        
+\n\n
+\n                        \n                        
+\n                            
+\n                            
+View details
+\n                            
+\n                                                            
+Add to Cart
+\n                                          
+              \n                        
+\n                
+\n                \n            
+\n                                    
+\n                
+\n                    
+\n               
+\n\n               
+\n                     
+\n                
+\n                \n\n                
+\n                        
+Women's pyjama set                         - \n\n                                    \n    
+\n                                                                
+\n                                            
+$45.00
+                                    
+\n                        \n        
+\n\n
+\n                        \n                        
+\n                            
+\n                            
+View details
+\n                            
+\n                                                            
+Add to Cart
+\n                                          
+              \n                        
+\n                
+\n                \n            
+\n                                    
+\n                
+\n                    
+\n               
+\n\n               
+\n                     
+\n                
+\n                \n\n                
+\n                        
+Keep Calm and Call Mom Mugs                         - \n\n                                    \n    
+\n                                                                
+\n                                            
+$9.99
+                                    
+\n                        \n        
+\n\n
+\n                        \n                        
+\n                            
+\n                            
+View details
+\n                            
+\n                                                            
+Add to Cart
+\n                                          
+              \n                        
+\n                
+\n                \n            
+\n                                    
+\n                
+\n                    
+\n               
+\n\n               
+\n                     
+\n                
+\n                \n\n                
+\n                        
+Concordia Sweatpants "C" Design                         - \n\n                                    \n    
+\n                                                                
+\n                                            
+$39.99
+                                    
+\n                        \n        
+\n\n
+\n                        \n                        
+\n                            
+\n                            
+View details
+\n                            
+\n                                                            
+Add to Cart
+\n                                          
+              \n                        
+\n                
+\n                \n            
+\n                
+\n                    
+\n
+\n\n\n
+\n\n\n
+\n
+\n    
+\n        
+\n        
+News & events
+\n        
+\n    
+\n\n\n    
+\n\n                
+\n                            
+\n                                        
+\n                    
+\n                        
+\n                                                        
+Appreciation Days sale
+\n      
+\n\n                            
+\n                            
+Find out more
+\n                                  
+\n                        
+\n                    
+\n                
+\n                            
+\n                                        
+\n                    
+\n                        
+\n                                                        
+Win your purchase winners 2017
+\n      
+\n\n                            
+\n                            
+Find out more
+\n                                  
+\n                        
+\n                    
+\n                
+\n                            
+\n                                        
+\n                    
+\n                        
+\n                                                        
+iPad Pentel contest winner
+\n      
+\n\n                            
+\n                            
+Find out more
+\n                                  
+\n                        
+\n                    
+\n                
+\n                    
+\n        
+decorateList('news-list', 'none-recursive')
+\n\n    
+\n
+\n
+                
+\n            
+\n        
+\n                \n
+\n\t
+\n\t
+\n\n\t
+\n\t
+\n\n\n    
+\n        
+Newsletter sign-up
+\n    
+\n    
+\n        
+\n            
+\n                
+Sign Up for Our Newsletter:
+\n            
+\n            
+\n               
+\n            
+\n            
+\n                
+Subscribe
+\n            
+\n        
+\n    
+\n    
+\n    //<![CDATA[\n        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');\n    //]]>\n    
+\n\n    
+\n   \tSign up to receive our latest deals and promotions right to your inbox.\n    
+\n\n\t
+\n\n    
+\n\n\n \t
+\n        
+Student booklist
+\n    
+\n    
+\n    
+\n        
+\n            
+\n                
+Enter in  your 8-digit student ID:
+\n            
+\n            
+\n               
+\n            
+\n            
+\n                
+List books
+\n            
+\n        
+\n    
+\n\n    
+\n    Enter your Concordia student ID to look up your personalized student booklist.\n    
+\n\n\n
+\n\n\n
+\n\n\t
+\n\t
+\n\n  \n   \n    
+\n    
+    \n    
+Back to top
+\n    
+\n    
+\n    
+\n
+\n\n\n
+\n\t
+\n    \t
+\n        
+\n
+\n
+Textbooks
+\n
+Technology
+\n
+Apparel
+\n
+Gifts
+\n
+Supplies
+\n
+Printing
+\n
+Services
+\n
+Sale
+\n
+\n
+\n
+About us
+\n
+\n
+General policies
+\n
+Privacy policies
+\n
+Click & Collect
+\n
+Be part of the team
+\n
+Locations & hours
+\n
+\n
+\n
+Contact us
+\n
+\n
+Customer support
+\n
+Custom orders
+\n
+Sponsorship
+\n
+Comments / suggestions
+\n
+\n
+\n
+\n
+Quick links
+\n
+\n
+Faculty & staff services
+\n
+Book Stop directory
+\n
+Sell your textbooks
+\n
+Textbook rentals
+\n
+Fine Arts lab fees
+\n
+News & events
+\n
+Gift cards
+\n
+\n
+    \t
+\n\t
+\n
+\n\n
+\n\t
+\n\t\t
+\n        
+\n        
+Concordia Stores social
+\n        
+\n\t\t
+\xa9 Concordia University
+\xa0\xa0\xa0 \n
+Terms
+\xa0\xa0\xa0 \n
+Privacy
+\xa0\xa0\xa0 \n
+Accessibility
+\xa0\xa0\xa0
+\n\t\t
+\n\t
+\n
+\n\n
+                \n\n
+\n
+    
+\n\n\n\n\n>

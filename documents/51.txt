@@ -1,0 +1,1267 @@
+\n\n
+Concordia University Library
+\n
+\n
+\n
+\n
+ \n
+ \n\t
+\n\t  
+\n    \n    
+\n \n    
+\n    
+\n   \n\t\t
+\n\t\t
+\t\n\t   \n    
+\n    
+\n    
+\n
+\n\t \t\t
+\n     
+\n\t  
+ \n 
+\n    
+\n\t\n\t
+\n    \n\t\n\t
+\n\t\t
+\n\t\t
+\n\t  
+\n\t  
+\n\t\t
+\n\t  
+\n\t\t
+\n\t\t
+\n\t\t
+\n\t\t<!--tracking outbound links-->\n\t\t/**\n\t\t* Function that tracks a click on an outbound link in Google Analytics.\n\t\t* This function takes a valid URL string as an argument, and uses that URL string\n\t\t* as the event label. Setting the transport method to 'beacon' lets the hit be sent\n\t\t* using 'navigator.sendBeacon' in browser that support it.\n\t\t* Added February 24 2016 by PC\n\t\t*/\n\t\tvar trackOutboundLink = function(url) {\n\t\t   ga('send', 'event', 'outbound', 'click', url, {\n\t\t     'transport': 'beacon',\n\t\t     'hitCallback': function(){document.location = url;}\n\t\t   });\n\t\t}\n\t\t
+\n    \n\t\n\t\t\n
+\n\t//modify this date whenever new hours are added to the calendar\n\t//this is global variable, used in getHours.js below\n  var newMaxDate = new Date('2018-01-07');\n\n
+\n
+\n
+\n\n
+\n\t.calendar {margin-bottom:10px; border:1px solid #e5e5e5;}\n\t.event {width:"100%;"}\n\t.event .body {padding:10px;}\n\t#boot .c-eventbar .event .calendar {width:100px;margin-right:5px;}\n\t\n\t
+\n\t\n\n\n  \n \t\n \t
+\n
+\n
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t\t
+\n
+\n\t\t\t\t\t
+Study resources
+\n        \t
+Calendar - Graduate
+\n        \t
+Calendar - Undergraduate
+\n        \t
+Class cancellations
+\n        \t
+Class schedules
+\n        \t
+Course registration
+\n        \t
+Important academic dates
+\n        \t
+More academic resources
+\n        
+\n        
+\n        \t
+Campus services
+\n        \t
+Concordia Stores
+\n        \t
+IT services
+\n        \t
+Job opportunities
+\n        \t
+Security
+\n        \t
+Shuttle bus
+\n        \t
+Student Service Centre (Birks)
+\n        \t
+All campus services
+\n        
+\n        
+\n        \t
+What's New
+\n        \t
+Calendar of events
+\n        \t
+Latest news
+\n        \t
+Media Relations
+\n        
+\n        
+\n        \t
+Faculties, Schools & Colleges
+\n        \t
+Arts and Science
+\n        \t
+Engineering and Computer Science
+\n        \t
+Fine Arts
+\n        \t
+John Molson School of Business
+\n        \t
+School of Graduate Studies
+\n        \t
+All Schools, Colleges & Departments
+\n        
+\t\n\n\n\n\t\t\t
+\n\t\t
+\n\t
+\n\t
+\n\t  
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+Concordia University
+\n    \t\t
+\n\t\t\t
+\n\t\t\t\n\t\t\t
+Quick links 
+\n      
+The Campaign for Concordia
+\n      
+\n        
+MyConcordia
+\n        
+Cspace
+\n      \t
+Webmail
+\n      \t
+Directories
+\n      \t
+Hours
+\n      \t
+A-Z
+\n        
+Maps
+\n      
+\n      \n\t\t
+\n\t
+\n\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\n\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\n\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n    \t
+\n\t\t\t
+\n\t\t\t\t
+Library
+\n\t\t\t\t
+Live chat \xa0
+\n         
+\n          \tLog into ...\xa0
+\n         
+\n         
+\n         \t
+\n          \t
+\n            \t
+My Library Account
+\n              
+Renew books and more
+\n            
+\n           
+\n           
+\n           \t
+\n            \t
+MyClues (mobile)
+\n            
+\n           
+\n \t\t\t\t\t\t
+\n            \t
+\n              \t
+Book a study room or scanner
+\n                
+Reserve a space for your group online
+\n              
+\n\t\t\t\t\t\t
+\n             
+\n             \t
+\n              \t
+Interlibrary loans
+\n                
+Request books from external libraries
+\n              
+\n             
+\n             
+\n              
+\n              \t
+RefWorks
+\n                
+Manage your citations and create bibliographies
+\n              
+\n             
+\n                  
+\n                  \t
+\n                    \t
+Article delivery
+\n                      
+Request a PDF of an article we have in our physical collection
+\n                    
+\n                   
+\n                   
+\n                   
+\n                         \t
+WebPrint
+\n                         \t
+Upload documents to print on campus
+\n                          
+\n                      
+\n\n                      
+\n                        
+\n                          
+Course reserves
+\n                          
+Online course readings
+\n                        
+\n                       
+\n\n                       
+\n                       
+\n                         
+Spectrum
+\n                         
+Deposit a thesis or article
+\n                       
+\n                       
+\n                      
+\n                \t\t
+\n            \t\t\t
+\n\n\t     
+\n\t\n\t
+\n\t    \t\t\t
+\n\n\t         
+\n\t         
+\n\t         
+\n\t         \t
+Library hours
+\n\t         \t
+Ask a librarian
+\n\t         \t
+A-Z
+\n\t        
+\n\t         
+\n\n\t            
+\n\n\t          
+\n\t                \t         
+\n\t\t\t\t\t\t\t\t\t
+Find
+\n\t                        
+\n\t                      \t\t 
+\n\n\t                             
+\n\t                                
+Discovery Search
+\n\t                                
+Library Catalogue
+\n\t                                
+Databases by subject
+\n\t                                
+Course Reserves
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t  
+E-journals
+\n\t                                
+Interlibrary Loans (COLOMBO)
+\n\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t
+Article Delivery
+\n\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t
+Spectrum Research Repository
+\n\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t
+Special Collections
+\n\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t
+Additional resources & services
+\n\t                              
+\n\t                             
+\n\t                            
+\n\n\t         \t\t\t\t\t\t
+\n\n\t                    
+\n 
+Help & how-to
+\n\t                        
+\n\t                         \t
+\n                              
+\n                                
+Subject & course guides
+\n                                
+Finding...
+\n                                
+Writing...
+\n                                
+Citing...
+\n                                
+Using...
+\n                                
+Copyright & publishing
+\n                              \t
+Technology & connecting
+\n                              \t
+Ask a librarian
+\n                              \t
+Workshops
+\n                              \t
+General guides for users
+\n                              \t
+Borrowing & renewing
+\n\n                              
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t                        
+\n\t                    \t
+\n\n\n\t                    
+\n\t 
+Locations & hours
+\n\t                        
+\n\t                        \t
+\n                              
+\n                                
+Webster Library
+\n                                
+Vanier Library
+\n                                
+Grey Nuns Reading Room
+\n                                
+Study spaces
+\n\t\t\t                          
+Floor plans
+\n\t\t\t                           
+Book a group study room/scanner
+\n\t\t\t                          
+Room booking for academic events
+\n\t\t\t                          
+Computer availability
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 
+Technology Sandbox
+\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t                           
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t                    
+\n\n\n\t                    
+\n\t 
+About the library
+\n\t                        
+\n\t                           
+\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\n\t                              
+News & events
+\n\t                              
+Webster Library Transformation blog
+\n\t                              
+Librarians & staff
+\n\t                              
+University Librarian
+\n\t                           \t\t
+Policies & Code of Conduct
+\n\t                           \t\t
+Strategic Plan 2016/21
+\n\t                           \t\t
+Annual Report 2015/16
+\n\t                              
+Feedback & Suggestions
+\n\t                              
+Job opportunities
+\n\t                              
+Researcher-in-residence program
+\n\t                              
+Library Services Fund
+\n\t                              
+Giving to the Library
+\n\t                              
+LibQual+ survey & results
+\n\t                              
+Concordia University Press
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+Call for Proposals for Public Art
+\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t                           
+\n\t                          
+\n\t\t\t\t\t\t\t\t\t\t\t
+\n\t    \t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t
+\n\n\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\n
+\n\t
+\n\t\t
+\n    \t
+\n      \t
+\n        \t
+\n          Log into...
+\n        \t
+\n\t\t\t\t
+\n    \t
+\n    \t
+\n      \t
+\n\t\t     \t
+\n\t\t        
+MyCLUES (mobile)
+\n\t\t     \t\t
+Book a study room or scanner
+\n\t\t\t\t\t\t
+Interlibrary loans
+\n\t\t      \t
+RefWorks
+\n\t\t        
+Article delivery
+\n\t\t        
+WebPrint
+\n\t\t\t\t\t\t
+Course reserves
+\n\t\t        
+Spectrum
+\n\t\t      
+\n\t\t\t\t
+\n    \t
+\n  \t
+\n\n\t\t
+\n    \t\n    \t
+\n      \t
+\n        \t
+\n          Quick links
+\n        \t
+\n\t\t\t\t
+\n    \t
+\n    \t
+\n      \t
+\n
+\n\t\t\t\t\t
+Study resources
+\n        \t
+Calendar - Graduate
+\n        \t
+Calendar - Undergraduate
+\n        \t
+Class cancellations
+\n        \t
+Class schedules
+\n        \t
+Course registration
+\n        \t
+Important academic dates
+\n        \t
+More academic resources
+\n        
+\n        
+\n        \t
+Campus services
+\n        \t
+Concordia Stores
+\n        \t
+IT services
+\n        \t
+Job opportunities
+\n        \t
+Security
+\n        \t
+Shuttle bus
+\n        \t
+Student Service Centre (Birks)
+\n        \t
+All campus services
+\n        
+\n        
+\n        \t
+What's New
+\n        \t
+Calendar of events
+\n        \t
+Latest news
+\n        \t
+Media Relations
+\n        
+\n        
+\n        \t
+Faculties, Schools & Colleges
+\n        \t
+Arts and Science
+\n        \t
+Engineering and Computer Science
+\n        \t
+Fine Arts
+\n        \t
+John Molson School of Business
+\n        \t
+School of Graduate Studies
+\n        \t
+All Schools, Colleges & Departments
+\n        
+\t\n\n\n\n\t\t\t\t
+\n    \t
+\n  \t
+\n\t
+\n
+\n\n\t
+\n\n\n\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n        
+\n        
+\n\t\t\t
+\n      \t
+\n      \t
+\n        \t
+\n          
+\n           \t
+\n          
+\n           Discovery Search\n        
+\n        
+\n        \t
+\n          
+\n          \t
+\n          
+\n          Library\n         
+\n         
+\n         \t
+\n          
+\n           \t
+\n          
+\n          Concordia\n         
+\n      \t
+\n      
+\n\n\n\t\t\t 
+\n       \t
+\n\t        
+\n\t        
+\n\t\t\t\t\t
+\n        
+\n        
+Search
+\n       
+\n\n    
+\n\n\n
+\n\t
+\n\n
+\n\n
+\n
+\n\n
+\n
+\n\t\n
+\n
+\xab 
+Back
+\xa0|\xa0
+Print
+\xa0
+\n
+\n            
+\n
+\n\t\tvar switchTo5x=true;\n    (function() {\n\t\tvar stscr = document.createElement('script'); stscr.type = 'text/javascript'; stscr.async = true;\n\t    stscr.src ="https://ws.sharethis.com/button/buttons.js";\n\t    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(stscr, s);\n\t\tstscr.onload=stCB;\n\t\tstscr.onreadystatechange=function(){if(stscr.readyState=='loaded'){stCB();}};})();\n\t\tfunction stCB(){\n\t\t\tstLight.options({\n        publisher: "1b41924c-dbc7-42c7-ba66-45110c12db48",\n        onhover: false,\n        doNotHash: true,\n        doNotCopy: true,\n        hashAddressBar: false,\n    });\n\t\t}\n
+\n    \t  
+\n    \t  \n    \t  
+\n            \t
+\n
+\n
+\n\ncurrentURL=window.location.href;\nnewURL=currentURL;\nuri = parseUri(currentURL);\nnewURL=uri.protocol+"://"+uri.authority+uri.path+"?print=1";\nif (uri.query){\n\tnewURL=newURL+"&"+uri.query;\n\t}\nif (uri.anchor){\n \tnewURL=newURL+"#"+uri.anchor;\n \t}\ndocument.write('<div class=\\"screenOnlyContent\\" id=\\"screenOnlyContent\\"><a href="'+newURL+'" id="myPrintHref" title="Display Print Preview"><i class="fa fa-print"></i></a></div>');\n\n
+\n\n\n            \n                
+\n                    
+\n                        
+Print
+\n                    
+\n                
+\n                
+\n                    
+\n                    \t
+Email
+\n                    
+\n                
+\n                
+\n                    
+\n                    \t
+Facebook
+\n                    
+\n                
+\n                
+\n                    
+\n                    \t
+Twitter
+\n                    
+\n                
+\n\n\n                \n                \n                \n                \n            
+   \n        
+\n\n        
+\n        \t\t\t\t\tfunction refreshSocialBar(){\n                   var decal = $('.c-socialbar-cta:not(.horizontal)').parent().width();\n                   $('.c-socialbar-cta:not(.horizontal)').css({'margin-left':decal+5});\n                 \t}\n                 \trefreshSocialBar();\n                 \t$( window ).resize(refreshSocialBar);\n        
+\n
+ 
+Concordia.ca
+ \xa0\xa0/\xa0\xa0  
+Library
+  
+\t\n\n\n
+\n    HomePageLoad(); \n
+\n\n
+\n
+\n
+\n\t
+\n
+\n    \t\n    \t
+Discovery search
+\n\t\t\t
+Library catalogue
+\n\n\t\t
+\n\t\t
+\n\t\t\t\t\t\t\n\t\t\t
+\t\n\t\t\t\t
+\n\t\t\t\t\t\t\t  \n\t                \t\t
+\n\t                    \t
+\n\t                    \t
+\n\t                    \t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t 
+FAQ
+\n\t\t\t\t\t\t\t\t\t\t\t\t 
+CLUES Library Catalogue
+\n\t                \t\t
+\n\t            \t\t\t\n\t\t\t\t
+\n\t\t\t
+\n\t\t\t
+\t\n\t\t\t\t
+\n\t                \t\t
+\n\t                    \t
+\n\t                    \t
+\n\t                    \t\t
+ \n\t                    \t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t
+\n\t                \t\t
+\n\t            \t\t\t\n\t\t\t\t
+\n\t\t\t
+\n\n
+\n
+\n
+\n\tdocument.getElementById("encoreSearchInput").focus();\n\t
+\n\t
+\n\t\n
+\n
+\n\n\n
+\n\n\n\n\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\tBook a group study room/scanner
+\n\t\t\t
+\n\t\t\t
+\n\t\t\t\t
+Databases by subject
+\t\n\t\t\t
+Citation guides & RefWorks
+\t\t\t\n\t\t\t
+E-journals
+\n\t\t\t
+Course reserves
+\n\t\t\t
+Renew books, etc.
+\n\t\t
+\n\t
+\n\t\n
+\n\n
+\n    
+\n      
+\n        
+\n          Undergraduate students
+\n        
+\n\n      
+\n    
+\n    
+\n      
+\n     \t
+\n\t\t\t\t
+Find databases & more via the 
+subject guide
+ for your department
+\t\t\t\t\n\t\t\t\t
+Search for 
+textbooks
+ by course code
+\n\t\t\t\t
+Use the 
+Article Finder
+ to locate a specific article
+\n\t\t\t\t
+Use my laptop in the library
+ (Wi-Fi & printing)
+\n\t\t\t\t
+Write 
+research papers
+, 
+annotated bibliographies
+, 
+literature reviews
+, etc.
+\n\t\t\t\t
+More...
+\n\t\t\t
+\n\t\t\t
+\n    
+\n  
+ \n  \n
+\n    
+\n      
+\n        
+\n          Graduate students
+\n        
+\n\n      
+\n    
+\n    
+\n      
+\n     \t\t     \t\t
+\n\t\t\t\t
+Find databases & more via the 
+subject guide
+ for your department
+\n\t\t\t\t
+Graduate student study spaces
+\n\t\t\t\t\n\t\t\t\t
+Borrow books from Quebec libraries
+ (BCI card)
+\n\t\t\t\t
+Article Delivery
+ & 
+Interlibrary loans
+ (COLOMBO)
+\n\t\t\t\t
+Connect from off-campus
+\n\t\t\t\t
+Copyright
+ information for your thesis
+\n\t\t\t\t
+Spectrum
+: Concordia Research Repository
+\n\t\t\t\t
+Contact my librarian
+ (research help, book suggestions, ...)
+\n\t\t\t\t
+More...
+\n\t\t\t
+\n\t\n\t\t\t
+\n    
+\n  
+\n\n 
+\n    
+\n      
+\n        
+\n          Faculty
+\n        
+\n\n      
+\n    
+\n    
+\n      
+\n\t\t
+\n\t\t\t\t
+Find databases & more via the 
+subject guide
+ for your department
+\n\t\t\t\t\n\t\t\t\t
+Borrow books from Quebec libraries
+ (BCI card)
+\n\t\t\t\t
+Article Delivery
+ & 
+Interlibrary loans
+ (COLOMBO)
+\n\t\t\t\t
+Connect from off-campus
+\n\t\t\t\t
+Spectrum
+: Concordia Research Repository
+\n\t\t\t\t
+Copyright
+ & 
+Open Access
+\n\t\t\t\t
+Contact my librarian
+\n\t\t\t\t
+Research data management
+\n\t\t\t\t
+More...
+\n\t\t\t
+\n\t\t\t
+\n    
+\n  
+\n  \n \n\n\n
+\n
+\n\t\t
+\n  \t
+Undergraduate students
+\n\t\t
+Graduate students
+\n\t\t
+Faculty
+\n\t
+\n\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+Find databases & more via the 
+subject guide
+ for your department
+\t\t\t\t\n\t\t\t\t
+Search for 
+textbooks
+ by course code
+\n\t\t\t\t
+Use the 
+Article Finder
+ to locate a specific article
+\n\t\t\t\t
+Use my laptop in the library
+ (Wi-Fi & printing)
+\n\t\t\t\t
+Write 
+research papers
+, 
+annotated bibliographies
+, 
+literature reviews
+, etc.
+\n\t\t\t\t
+More...
+\n\t\t\t
+\n\t\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+Find databases & more via the 
+subject guide
+ for your department
+\n\t\t\t\t
+Graduate student study spaces
+\n\t\t\t\t\n\t\t\t\t
+Borrow books from Quebec libraries
+ (BCI card)
+\n\t\t\t\t
+Article Delivery
+ & 
+Interlibrary loans
+ (COLOMBO)
+\n\t\t\t\t
+Connect from off-campus
+\n\t\t\t\t
+Copyright
+ information for your thesis
+\n\t\t\t\t
+Spectrum
+: Concordia Research Repository
+\n\t\t\t\t
+Contact my librarian
+ (research help, book suggestions, ...)
+\n\t\t\t\t
+More...
+\n\t\t\t
+\n\t\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+Find databases & more via the 
+subject guide
+ for your department
+\n\t\t\t\t\n\t\t\t\t
+Borrow books from Quebec libraries
+ (BCI card)
+\n\t\t\t\t
+Article Delivery
+ & 
+Interlibrary loans
+ (COLOMBO)
+\n\t\t\t\t
+Connect from off-campus
+\n\t\t\t\t
+Spectrum
+: Concordia Research Repository
+\n\t\t\t\t
+Copyright
+ & 
+Open Access
+\n\t\t\t\t
+Contact my librarian
+\n\t\t\t\t
+Research data management
+\n\t\t\t\t
+More...
+\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n\n\t\t
+\n\t
+Today's opening hours
+\n\t\t
+ Webster Library:\n\t\t\t
+\n\t\t\t
+\n\t\t\t\tgetHoursHomepage("lib-webteam@concordia.ca", "2017-11-12", "websterHoursID");\n\t\t\t\t
+\n        
+\n\t\tVanier Library:\n\t\t\t\t\t
+\n\t\t\t
+\n\t\t\t\tgetHoursHomepage("r6ipsfcj9qiiivefnapse560ug@group.calendar.google.com", "2017-11-12", "vanierHoursID");\n\t\t\t\t
+\n\t\t
+\n\t  \tGrey Nuns: \n\t  \t\t\t\t
+\n\t  \t\t
+\n\t  \t\t\t\tgetHoursHomepage("c43s6171dc2eicj3jeh356f3sk@group.calendar.google.com", "2017-11-12","greyNunsHoursID");\n\t  \t\t\t
+\n               \n        
+\n\t\t
+Locations & hours
+\n
+\n
+\n\t\n
+\n\n
+\n\t\t\t\n\t\t
+What's new
+\n\t\t\t
+\xa0 \n\t\t\t
+\xa0 
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t
+Upcoming public lecture by Dr. Guy Berthiaume, Librarian and Archivist of Canada, on November 23
+November 1, 2017
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t
+Undergrads: Test a new Library tutorial and get a $10 Starbucks gift card for 1 hour of your time
+October 30, 2017
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t
+Birks Family Foundation invests $287,500 in Concordia
+October 27, 2017
+ \n
+\n
+New books by subject
+ \n
+\n\n
+\n\t
+\n\t\t
+Events
+\n\t\t
+\n\t\t
+\t
+General Library workshops
+\n\t
+Grad Pro Skills Library workshops
+\n\t
+Technology Sandbox workshops
+\n\t
+\n\n\t
+\n\t\t
+Available now
+\t  \n\t\t
+\t
+\n\n\t
+\n\t\t
+Notices
+\n       
+\n        
+        \n\t
+\n
+\n
+\n\n
+\n\n\t\n
+\n
+ 
+  \n\n
+\n
+page\xa0last\xa0updated on:\xa0Friday 6 October 2017
+\n
+\n\t\t
+\n    
+Back to top
+\n    
+\n\t\t
+\n
+\n\t
+\n\t\t
+\n\t\t\t
+CONCORDIA UNIVERSITY LIBRARY - \n\t\t\t\t
+Locations & phone numbers
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+        \n\t\t\t\t\t\t
+\n            \t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t
+\n     \t\t\t\t\t\t\t\t\t
+Home
+\n     \t\t\t\t\t\t\t\t\t
+Find
+\n\t                    
+Help & how-to
+\n\t                    
+Locations & hours
+\n\t                    
+About the Library
+\t                  \n                    
+ \n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t
+\n\t\t                   
+Undergraduate students
+\n\t\t                    
+Graduate students
+\n\t\t                    
+Faculty
+\n\t\t                    
+Administrative staff
+\n\t\t                    
+Support staff
+\n\t                   \t\t
+External community
+\t\n                    
+ \n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n            
+\n          
+  \n          
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t
+Webster Library
+\n\t\t\t\t\t\t\t\t\t\t\t
+ 1400 De Maisonneuve Blvd. W.
+\n\t\t\t\t\t\t\t\t\t\t\t
+ 1455 De Maisonneuve Blvd. W.
+\n\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t
+Montreal
+, \n\t\t\t\t\t\t\t\t\t\t\t\t
+Quebec
+, \n\t\t\t\t\t\t\t\t\t\t\t\t
+Canada
+\n\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t
+H3G 1M8
+\n\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t
+See on map 
+\n\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t
+Vanier Library
+\n\t\t\t\t\t\t\t\t\t\t\t
+7141 Sherbrooke St. W.
+\n\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t
+Montreal
+, \n\t\t\t\t\t\t\t\t\t\t\t\t
+Quebec
+, \n\t\t\t\t\t\t\t\t\t\t\t\t
+Canada
+\n\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t
+H4B 1R6
+\n\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t
+See on map 
+\n\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n        
+\n    
+\n  
+\n\t
+       \n\t\t
+    \n    \t
+\n      \t
+\n        \t
+\n\t\t\t\t\t\t
+\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+facebook
+\n\t\t\t\t\t\t\t\t\t
+twitter
+\n\t\t\t\t          
+google
+\n\t\t\t\t          
+youtube
+\n\t\t\t\t          
+linkedin
+\n\t\t\t\t          
+pinterest
+\n\t\t\t\t          
+instagram
+\n\t\t\t\t          
+flickr
+\n\t\t\t\t\t\t\t\t
+ \n\t\t\t\t\t\t\t\t
+Concordia social
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\xa9 Concordia University
+ \n\t              
+Terms
+\n\t              
+Privacy
+\n\t              
+Accessibility
+\n\t              
+Feedback
+\n\t            
+ \n\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n    \t
+\n  \t
+\n\t
+\n    
+Provide feedback
+\n
+\n
+\n
+\n  
+\n    
+\n      
+\n        
+Feedback forms
+\n        
+\n      
+\n      
+\n        
+Thanks for your time. Please select your area of feedback.
+\n\t\t\t\t
+\n    \t\t\t
+Give feedback about the Library's spaces, services, and/or collections
+\n    \t\t\t
+Get help with my research, course work, or report a broken link
+\n    \t\t
+\n      
+\n     
+\n  
+\n\n\t
+\n
+\n\n
+\n\t
+\n\t\t
+Concordia social
+\n\t\t\n\t\t
+\n    \t
+\n    
+\n    
+\n\t\t\t
+\n    
+\n    
+\n    \t
+\n    
+\n    
+\n    \t
+\n    
+\n    
+\n   
+\n\t
+\n  \t
+ Concordia University Library
+\n    
+Locations & phone numbers
+\n    
+\n  
+\n\t
+\n\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+Webster Library
+\n\t\t\t\t\t
+ 1400 De Maisonneuve Blvd. W.
+\n\t\t\t\t\t
+ 1455 De Maisonneuve Blvd. W.
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t
+Montreal
+, \n\t\t\t\t\t\t
+Quebec
+, \n\t\t\t\t\t\t
+Canada
+\n\t\t\t\t\t
+\n\t\t\t\t\t
+H3G 1M8
+\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+See on map 
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+Vanier Library
+\n\t\t\t\t\t
+7141 Sherbrooke St. W.
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t
+Montreal
+, \n\t\t\t\t\t\t
+Quebec
+, \n\t\t\t\t\t\t
+Canada
+\n\t\t\t\t\t
+\n\t\t\t\t\t
+H4B 1R6
+\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+See on map 
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n\t
+\n  \t
+Feedback
+\n  \t
+\n    \t
+Terms
+\n      
+Privacy
+\n      
+Accessibility
+\n      
+\n    
+\n  
+\n\t
+\xa9 Concordia University
+\n
+        \n\t
+\n\t\n
+\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-27398486-1', 'auto');\n  ga('set', 'anonymizeIp', true);\n  ga('send', 'pageview');\n\n
+\n
+ 
+\t
+\n\n\n>
