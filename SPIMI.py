@@ -10,12 +10,12 @@ from operator import itemgetter
 blockSizeLimitMB = 1
 merged_index_file = "merged_index.dat"
 index_file = "index.dat"
-length_of_docs = []
+length_of_docs = {}
 
 def create_SPIMI_index(input_file, docID):
     token_stream = []
     blockNumber = 0 
-    fileNumber = docID - 1 
+    fileNumber = docID
     doc_length = 0 
 
     for line in input_file:
@@ -39,7 +39,7 @@ def create_SPIMI_index(input_file, docID):
 
     if token_stream != []:
         SPIMI_invert(token_stream, blockNumber, fileNumber)
-    length_of_docs.append(doc_length)
+    length_of_docs[docID] = doc_length
 
 def SPIMI_invert(token_stream, blockNumber, fileNumber):
     output_file = "blocks/output_block_" + str(fileNumber) + "_" + str(blockNumber) + ".dat"
@@ -154,17 +154,16 @@ def writeCorpusStats(index_stage, terms, postings):
 def compress_SPIMI_index():
     # Clear corpus stats
     corpus_stats_file = open('corpus_stats.txt', 'w')
-    if len(length_of_docs) != 0: 
-        average_doc_length = float(sum(length_of_docs)) / len(length_of_docs)
+    if len(length_of_docs.keys()) != 0: 
+        average_doc_length = float(sum(length_of_docs.values())) / len(length_of_docs.values())
         corpus_stats_file.write("Average doc length: ")
         print average_doc_length
         corpus_stats_file.write(str(average_doc_length) + "\n")
 
         doc_length_file = open('doc_lengths.txt', 'w')
-        i = 0
-        while i < len(length_of_docs):
-            doc_length_file.write(str(i+1) + " " + str(length_of_docs[i]) + "\n")
-            i += 1 
+        
+        for doc in sorted(length_of_docs):
+            doc_length_file.write(str(doc) + " " + str(length_of_docs[doc]) + "\n")
 
     corpus_stats_file.write("Size of:\t\t\t\t\t\t\t\t\t\tTerms\t\t\t\t\t\t\t\t\t\tPostings\n")
     uncompressed_index = loadIndexToMemory()
