@@ -3,8 +3,9 @@ import os
 import nltk
 from math import log
 
-stop_word_file = open('stop_words.txt', 'r')
-stop_words = stop_word_file.read().split()
+# --- Stop Words sections commented out --- 
+# stop_word_file = open('stop_words.txt', 'r')
+# stop_words = stop_word_file.read().split()
 DOCUMENT_COUNT = 21578   
 AVERAGE_DOC_LENGTH = 307.854206213
 
@@ -99,11 +100,14 @@ def preprocessQuery(query):
     for term in query_no_numbers:
         query_lowercase.append(term.lower())
 
-    # Remove Stop words
-    processed_query = []
-    for term in query_lowercase:
-        if term not in stop_words:
-            processed_query.append(term)
+    # Comment Out Stop Words Section
+    # # Remove Stop words
+    # processed_query = []
+    # for term in query_lowercase:
+    #     if term not in stop_words:
+    #         processed_query.append(term)
+
+    processed_query = query_lowercase
 
     return processed_query
 
