@@ -214,9 +214,6 @@ def compress_SPIMI_index():
             lowercase_term_count += 1
             lowercase_postings_count += len(postings)
         else:
-            print term 
-            print postings 
-            print lowercase_index[term.lower()]
             for doc in postings.keys():
                 if doc == "sentiment":
                     continue 
