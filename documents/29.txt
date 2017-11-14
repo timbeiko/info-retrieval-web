@@ -1,643 +1,2430 @@
-\n
-\n
-\n
-\n
- \n\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Public Class Search
-\n
-\ntry {\ndocument.domain = "concordia.ca";\n}\ncatch(err) {;}\n
-\n
-\nvar winName='win0';\nvar winParent = null;\nvar modalID = null;\nvar modalZoomName = null;\nvar baseKey_win0 = "\\x1b\\r\\n";\nvar altKey_win0 = "05678\\xbc\\xbe\\xbf\\xde";\nvar ctrlKey_win0 = "JKM";\nvar saveWarningKeys_win0 = "";\nvar isNewSaveWarn = true;\nvar bAccessibility_win0 =false;\nvar bFMode =false;\nvar bDoModal_win0 = false;\nvar bJSModal_win0 = false;\nvar bPromptPage_win0 = false;\nvar bTabOverTB_win0 = false;\nvar bTabOverPg_win0 = false;\nvar bTabOverNonPS_win0 = false;\nvar strCurrUrl='https://campus.concordia.ca/psc/pscsprd/EMPLOYEE/HRMS/c/CU_EXT.CU_CLASS_SEARCH.GBL?&PAGE=SSR_CLSRCH_ENTRY';\nvar bIncInNavigation='T';\nvar szCrefID='yyy';\nvar szCrefReged='F';\nvar szCrefVisible='F';\nvar szCrefLabel='zzz';\nbGenDomInfo = false;\nvar szCalendarType = 'G';\nvar bMenuSrchPage = false;\nvar bWSRP=0;var szMenuSrchText = "-999999-";\nvar disablePNSubscriptions=1;var modalCloseUrl = '/cs/pscsprd/cache/PT_TRANS_16PIX_1.png';\nvar modalCloseAlt = 'Close';\nvar modalResizeUrl= '/cs/pscsprd/cache/PT_RESIZE_IMG_1.gif';\nvar modalResizeAlt = 'Drag to resize';\nvar modalMoveAlt = 'Drag to move';\n
-\n
-\nvar PFieldList_win0 = [['CLASS_SRCH_WRK2_STRM$173$',1],['TERM_VAL_TBL_DESCR',1],['SSR_CLSRCH_WRK_CRSE_ID',12],['CRSE_CATALOG_DESCR',12]];\n
-\n
-\ntry {\ndocument.domain = "concordia.ca";\n}\ncatch(err) {;}\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\nvar nResubmit=0;\nvar nLastAction=0;\nvar loader=null;\nif (typeof(bCleanHtml) == 'undefined')\n\tvar bCleanHtml = false;\nsetupTimeout2();\nvar postUrl_win0='https://campus.concordia.ca/psc/pscsprd/EMPLOYEE/HRMS/c/CU_EXT.CU_CLASS_SEARCH.GBL';\nfunction aAction_win0(form, id, params, bAjax, bPrompt)\n{\nsetupTimeout2();\nif ((id != '#ICSave'))\nprocessing_win0(1,3000);\naAction0_win0(form, id, params, bAjax, bPrompt);\n}\nfunction submitAction_win0(form, id, event)\n{\nsetupTimeout2();\nif (!ptCommonObj2.isICQryDownload(form, id))\n { processing_win0(1,3000); }\npreSubmitProcess_win0(form, id);\nvar spellcheckpos = id.indexOf('$spellcheck');\nif ((spellcheckpos != -1) && (id.indexOf('#KEYA5') != -1))\n\tform.ICAction.value = id.substring(0,spellcheckpos);\nelse \n\tform.ICAction.value=id;\nvar actionName = form.ICAction.value;\nform.ICXPos.value=ptCommonObj2.getScrollX();\nform.ICYPos.value=ptCommonObj2.getScrollY();\nbcUpdater.storeBcDomData();\nif ((typeof(bAutoSave) != 'undefined') && bAutoSave)\n\tform.ICAutoSave.value = '1';\nif (!ptCommonObj2.isAJAXReq(form, id) && !ptCommonObj2.isPromptReq(id)){\nif (nLastAction == 1 && nResubmit > 0) return;\nform.ICResubmit.value=nResubmit;\nform.submit();\nif (!ptCommonObj2.isICQryDownload(form, id))\n\tnResubmit++;\n}\nelse if (ptCommonObj2.isPromptReq(id))\n\tpAction_win0(form, id, arguments[2]);\nelse\n\taAction_win0(form, actionName);\ncancelBubble(event);\n}\n
-\n
-\nvar pt_calHeadstyle=" class='PTCALHEAD' "\nvar pt_calWeekHeadstyle=" class='PTCALWEEKHEAD' "\nfunction dateitemrefs()\n{\nthis.pt_dateheader = "/cs/pscsprd/cache/PT_PORTAL_IC_CLOSE_SD_1.gif";\nthis.pt_datering = "/cs/pscsprd/cache/PT_CURRENT_DATE_SD_1.gif";\nthis.pt_datesel = "/cs/pscsprd/cache/PT_SELECTED_DATE_SD_1.gif";\nthis.pt_nextmonth = "/cs/pscsprd/cache/PT_RIGHT_SCROLL_SD_1.gif";\nthis.pt_prevmonth= "/cs/pscsprd/cache/PT_LEFT_SCROLL_SD_1.gif";\nthis.pt_daystitle_hijri = "/cs/pscsprd/cache/PT_DATE_TITLE_S6_1.GIF";\nthis.pt_daystitle_thai = "/cs/pscsprd/cache/PT_DATE_TITLE_S0_1.GIF";\nthis.pt_daystitle_s0 = "/cs/pscsprd/cache/PT_DATE_TITLE_S0_1.GIF";\nthis.pt_daystitle_m1 = "/cs/pscsprd/cache/PT_DATE_TITLE_M1_1.GIF";\nthis.pt_daystitle_t2 = "/cs/pscsprd/cache/PT_DATE_TITLE_T2_1.GIF";\nthis.pt_daystitle_w3 = "/cs/pscsprd/cache/PT_DATE_TITLE_W3_1.GIF";\nthis.pt_daystitle_t4 = "/cs/pscsprd/cache/PT_DATE_TITLE_T4_1.GIF";\nthis.pt_daystitle_f5 = "/cs/pscsprd/cache/PT_DATE_TITLE_F5_1.gif";\nthis.pt_daystitle_s6 = "/cs/pscsprd/cache/PT_DATE_TITLE_S6_1.GIF";\n}\n \nfunction LoadCalendar()\n{\nvar dateitems = new dateitemrefs();\nloadImages(dateitems);\n}\nfunction DatePrompt_win0(dtfield,promptfield,yrfmt,bsubmit)\n{\nsetupTimeout2();\nopenDate_win0(dtfield, promptfield, "MDY/"+yrfmt,bsubmit,"G",0);\n}\n
-\n
-\nif (typeof ptStyleSheet == "undefined") {\nptStyleSheet = 'SSS_STYLESHEET';\n}\nfunction onLoadExt_win0() {\nmodalZoomName = null;\nvar oWin=window;\nvar oDoc=document;\nptTAObj_win0.init(oWin,oDoc,oDoc.win0,'/cs/pscsprd/cache/PT_SRT2UP_SEL_1.gif','/cs/pscsprd/cache/PT_SRT2DN_SEL_1.gif','/cs/pscsprd/cache/PT_PORTAL_IC_CLOSE_1.gif',500);\nvar pt_pageinfo = document.getElementById('pt_pageinfo_win0');\nif (pt_pageinfo) {\npt_pageinfo.setAttribute('Page', 'SSR_CLSRCH_ENTRY');\npt_pageinfo.setAttribute('Component', 'CU_CLASS_SEARCH');\npt_pageinfo.setAttribute('Menu', 'CU_EXT');\npt_pageinfo.setAttribute('Mode', 'CLASSIC');\n}\ng_bAccessibilityMode=false;\nvar actn='';\nif (!isCrossDomainTop()) top.document.title=document.title;\nsetKeyEventHandler_win0();ptEvent.add(window,'scroll',positionWAIT_win0);\nptCommonObj2.generateABNSearchResults(document.win0);\ngetGblSrchPageNum(actn);\nif (gSrchRsltPageNum <= 5) getAllRelatedActions();\n\nptCommonObj2.moveUnivSrchDiv();\nif (typeof(ptLongEditCounter) != 'undefined' && ptLongEditCounter != null)\n   ptLongEditCounter.onLoadLongEditCounter();\nif (typeof(HelppopupObj_win0) != 'undefined' && HelppopupObj_win0 != null)\n HelppopupObj_win0.StopPopup('win0');\ndoModalOnLoad_win0(false, false);\nResetGlyph_win0();\nself.scroll(0,0);\nobjToBeFocus = null;\nif (typeof oWin == 'undefined') setEventHandlers_win0('ICFirstAnchor_win0', 'ICLastAnchor_win0', false);\n else\n oWin.setEventHandlers_win0('ICFirstAnchor_win0', 'ICLastAnchor_win0', false);\nsetFocus_win0('DERIVED_CLSMSG_SSR_MSG_PB',-1);\nptLoadingStatus_empty(0);\nsetupTimeout2();\nprocessing_win0(0,3000);\nptConsole2.enable();\n\nUpdateBreadCrumbs();\nGenerateABN();\nGenerateFakeBC();\nbcUpdateForPTF();if (typeof(myAppsWindowOpenJS) != 'undefined' && myAppsWindowOpenJS != null && myAppsWindowOpenJS != '')\n {\ntry {eval(myAppsWindowOpenJS);} catch(e) {}\n  myAppsWindowOpenJS=null;\n}\nResetGlyph_win0();setPageletInfoInCtxmenu_win0("false");\nGetDomData(win0, "TargetContent", "#GetDomInfo");\n}\ntry{ptEvent.load(onLoadExt_win0);}catch(e){}\n
-\n\n
-\n
-\n
-\xa0
-\xa0
-\xa0
-\n
-\xa0
-\n 
-\xa0
-\xa0
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
+
+
+
+try {
+document.domain = "concordia.ca";
+}
+catch(err) {;}
+
+
+
+
+var winName='win0';
+var winParent = null;
+var modalID = null;
+var modalZoomName = null;
+var baseKey_win0 = "\x1b\r\n";
+var altKey_win0 = "05678\xbc\xbe\xbf\xde";
+var ctrlKey_win0 = "JKM";
+var saveWarningKeys_win0 = "";
+var isNewSaveWarn = true;
+var bAccessibility_win0 =false;
+var bFMode =false;
+var bDoModal_win0 = false;
+var bJSModal_win0 = false;
+var bPromptPage_win0 = false;
+var bTabOverTB_win0 = false;
+var bTabOverPg_win0 = false;
+var bTabOverNonPS_win0 = false;
+var strCurrUrl='https://campus.concordia.ca/psc/pscsprd/EMPLOYEE/HRMS/c/CU_EXT.CU_CLASS_SEARCH.GBL?&PAGE=SSR_CLSRCH_ENTRY';
+var bIncInNavigation='T';
+var szCrefID='yyy';
+var szCrefReged='F';
+var szCrefVisible='F';
+var szCrefLabel='zzz';
+bGenDomInfo = false;
+var szCalendarType = 'G';
+var bMenuSrchPage = false;
+var bWSRP=0;var szMenuSrchText = "-999999-";
+var disablePNSubscriptions=1;var modalCloseUrl = '/cs/pscsprd/cache/PT_TRANS_16PIX_1.png';
+var modalCloseAlt = 'Close';
+var modalResizeUrl= '/cs/pscsprd/cache/PT_RESIZE_IMG_1.gif';
+var modalResizeAlt = 'Drag to resize';
+var modalMoveAlt = 'Drag to move';
+
+
+
+
+var PFieldList_win0 = [['CLASS_SRCH_WRK2_STRM$173$',1],['TERM_VAL_TBL_DESCR',1],['SSR_CLSRCH_WRK_CRSE_ID',12],['CRSE_CATALOG_DESCR',12]];
+
+
+
+
+try {
+document.domain = "concordia.ca";
+}
+catch(err) {;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var nResubmit=0;
+var nLastAction=0;
+var loader=null;
+if (typeof(bCleanHtml) == 'undefined')
+	var bCleanHtml = false;
+setupTimeout2();
+var postUrl_win0='https://campus.concordia.ca/psc/pscsprd/EMPLOYEE/HRMS/c/CU_EXT.CU_CLASS_SEARCH.GBL';
+function aAction_win0(form, id, params, bAjax, bPrompt)
+{
+setupTimeout2();
+if ((id != '#ICSave'))
+processing_win0(1,3000);
+aAction0_win0(form, id, params, bAjax, bPrompt);
+}
+function submitAction_win0(form, id, event)
+{
+setupTimeout2();
+if (!ptCommonObj2.isICQryDownload(form, id))
+ { processing_win0(1,3000); }
+preSubmitProcess_win0(form, id);
+var spellcheckpos = id.indexOf('$spellcheck');
+if ((spellcheckpos != -1) && (id.indexOf('#KEYA5') != -1))
+	form.ICAction.value = id.substring(0,spellcheckpos);
+else 
+	form.ICAction.value=id;
+var actionName = form.ICAction.value;
+form.ICXPos.value=ptCommonObj2.getScrollX();
+form.ICYPos.value=ptCommonObj2.getScrollY();
+bcUpdater.storeBcDomData();
+if ((typeof(bAutoSave) != 'undefined') && bAutoSave)
+	form.ICAutoSave.value = '1';
+if (!ptCommonObj2.isAJAXReq(form, id) && !ptCommonObj2.isPromptReq(id)){
+if (nLastAction == 1 && nResubmit > 0) return;
+form.ICResubmit.value=nResubmit;
+form.submit();
+if (!ptCommonObj2.isICQryDownload(form, id))
+	nResubmit++;
+}
+else if (ptCommonObj2.isPromptReq(id))
+	pAction_win0(form, id, arguments[2]);
+else
+	aAction_win0(form, actionName);
+cancelBubble(event);
+}
+
+
+
+
+var pt_calHeadstyle=" class='PTCALHEAD' "
+var pt_calWeekHeadstyle=" class='PTCALWEEKHEAD' "
+function dateitemrefs()
+{
+this.pt_dateheader = "/cs/pscsprd/cache/PT_PORTAL_IC_CLOSE_SD_1.gif";
+this.pt_datering = "/cs/pscsprd/cache/PT_CURRENT_DATE_SD_1.gif";
+this.pt_datesel = "/cs/pscsprd/cache/PT_SELECTED_DATE_SD_1.gif";
+this.pt_nextmonth = "/cs/pscsprd/cache/PT_RIGHT_SCROLL_SD_1.gif";
+this.pt_prevmonth= "/cs/pscsprd/cache/PT_LEFT_SCROLL_SD_1.gif";
+this.pt_daystitle_hijri = "/cs/pscsprd/cache/PT_DATE_TITLE_S6_1.GIF";
+this.pt_daystitle_thai = "/cs/pscsprd/cache/PT_DATE_TITLE_S0_1.GIF";
+this.pt_daystitle_s0 = "/cs/pscsprd/cache/PT_DATE_TITLE_S0_1.GIF";
+this.pt_daystitle_m1 = "/cs/pscsprd/cache/PT_DATE_TITLE_M1_1.GIF";
+this.pt_daystitle_t2 = "/cs/pscsprd/cache/PT_DATE_TITLE_T2_1.GIF";
+this.pt_daystitle_w3 = "/cs/pscsprd/cache/PT_DATE_TITLE_W3_1.GIF";
+this.pt_daystitle_t4 = "/cs/pscsprd/cache/PT_DATE_TITLE_T4_1.GIF";
+this.pt_daystitle_f5 = "/cs/pscsprd/cache/PT_DATE_TITLE_F5_1.gif";
+this.pt_daystitle_s6 = "/cs/pscsprd/cache/PT_DATE_TITLE_S6_1.GIF";
+}
+ 
+function LoadCalendar()
+{
+var dateitems = new dateitemrefs();
+loadImages(dateitems);
+}
+function DatePrompt_win0(dtfield,promptfield,yrfmt,bsubmit)
+{
+setupTimeout2();
+openDate_win0(dtfield, promptfield, "MDY/"+yrfmt,bsubmit,"G",0);
+}
+
+
+
+
+if (typeof ptStyleSheet == "undefined") {
+ptStyleSheet = 'SSS_STYLESHEET';
+}
+function onLoadExt_win0() {
+modalZoomName = null;
+var oWin=window;
+var oDoc=document;
+ptTAObj_win0.init(oWin,oDoc,oDoc.win0,'/cs/pscsprd/cache/PT_SRT2UP_SEL_1.gif','/cs/pscsprd/cache/PT_SRT2DN_SEL_1.gif','/cs/pscsprd/cache/PT_PORTAL_IC_CLOSE_1.gif',500);
+var pt_pageinfo = document.getElementById('pt_pageinfo_win0');
+if (pt_pageinfo) {
+pt_pageinfo.setAttribute('Page', 'SSR_CLSRCH_ENTRY');
+pt_pageinfo.setAttribute('Component', 'CU_CLASS_SEARCH');
+pt_pageinfo.setAttribute('Menu', 'CU_EXT');
+pt_pageinfo.setAttribute('Mode', 'CLASSIC');
+}
+g_bAccessibilityMode=false;
+var actn='';
+if (!isCrossDomainTop()) top.document.title=document.title;
+setKeyEventHandler_win0();ptEvent.add(window,'scroll',positionWAIT_win0);
+ptCommonObj2.generateABNSearchResults(document.win0);
+getGblSrchPageNum(actn);
+if (gSrchRsltPageNum <= 5) getAllRelatedActions();
+
+ptCommonObj2.moveUnivSrchDiv();
+if (typeof(ptLongEditCounter) != 'undefined' && ptLongEditCounter != null)
+   ptLongEditCounter.onLoadLongEditCounter();
+if (typeof(HelppopupObj_win0) != 'undefined' && HelppopupObj_win0 != null)
+ HelppopupObj_win0.StopPopup('win0');
+doModalOnLoad_win0(false, false);
+ResetGlyph_win0();
+self.scroll(0,0);
+objToBeFocus = null;
+if (typeof oWin == 'undefined') setEventHandlers_win0('ICFirstAnchor_win0', 'ICLastAnchor_win0', false);
+ else
+ oWin.setEventHandlers_win0('ICFirstAnchor_win0', 'ICLastAnchor_win0', false);
+setFocus_win0('DERIVED_CLSMSG_SSR_MSG_PB',-1);
+ptLoadingStatus_empty(0);
+setupTimeout2();
+processing_win0(0,3000);
+ptConsole2.enable();
+
+UpdateBreadCrumbs();
+GenerateABN();
+GenerateFakeBC();
+bcUpdateForPTF();if (typeof(myAppsWindowOpenJS) != 'undefined' && myAppsWindowOpenJS != null && myAppsWindowOpenJS != '')
+ {
+try {eval(myAppsWindowOpenJS);} catch(e) {}
+  myAppsWindowOpenJS=null;
+}
+ResetGlyph_win0();setPageletInfoInCtxmenu_win0("false");
+GetDomData(win0, "TargetContent", "#GetDomInfo");
+}
+try{ptEvent.load(onLoadExt_win0);}catch(e){}
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+ 
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Groupbox
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Search for Classes
-\n
-\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Enter Search Criteria below
  
-\n
+
+
+
+
 or
-\n
-\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-\n\n\n\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 Search for Classes
-\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Class Search Criteria
-\n
-\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Term
-\n
-\n
-\n
-\t
-\n
-\t\t\t\t\t\t\tALL TERMS (2017-2018)
-\n
-\t\t\t\t\t\t\xa0\xa0\xa0\xa0 Summer 2017
-\n
-\t\t\t\t\t\xa0\xa0\xa0\xa0 Fall 2017
-\n
-\t\t\t\t\xa0\xa0\xa0\xa0 Fall/Winter 2017-18
-\n
-\t\t\t\xa0\xa0\xa0\xa0 Winter 2018
-\n
-\t\t\xa0\xa0\xa0\xa0 Spring 2018 (CCE only)
-\n
-\t\xa0\xa0\xa0\xa0 Summer 2018 (CCE only)
-\n
-\n
-\n\n\n\n\n\n\n\n\n\n\n\n
-\n\n\n
-\n
-\n
-\n
+
+
+
+
+
+
+
+
+ 
+
+
+							ALL TERMS (2017-2018)
+
+
+						     Summer 2017
+
+
+					     Fall 2017
+
+
+				     Fall/Winter 2017-18
+
+
+			     Winter 2018
+
+
+		     Spring 2018 (CCE only)
+
+
+	     Summer 2018 (CCE only)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Select at least 2 search criteria.  Select Search to view your search results.
-\n
-\n\n\n\n\n\n\n\n\n\n\n
-\n\n\n
-\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-\n\n\n\n
-\n
-\n
-\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Class Search
-\n
-\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Class Search
  
-\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-\n\n\n\n
-\n
-\n
-\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Course Career
-\n
-\n
-\n
-\t\t\t\t\t\tUndergraduate
-\n
-\t\t\t\t\tGraduate
-\n
-\t\t\t\tContinuing Education
-\n
-\t\t\tProfessional Development
-\n
-\t\tResearch
-\n
-\xa0 
-\n
-\n
-\n
-\n
-\n
-\n
-\n
+
+
+
+
+
+
+
+
+						Undergraduate
+
+
+					Graduate
+
+
+				Continuing Education
+
+
+			Professional Development
+
+
+		Research
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 select subject
-\n
-\n\n\n\n\n\n\n\n\n\n
-\n\n\n
-\n
-\n
-\n
-\xa0
-\n
-\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-\n\n\n
-\n
-\n
-\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Course Number
-\n
-\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-\n\n\n
-\n
-\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 200
-\n\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
 300
-\n\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
 400
-\n\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
 Course Level
  
-\n
-\xa0
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
 (Credit Course Only)
  
-\n
-\n
+
+
+
+
+
+
 500
-\n\n
-\n
-\n
+
+
+
+
+
+
+
+
 600
-\n\n
-\n
-\n
+
+
+
+
+
+
+
+
 700
-\n\n
-\n
-\n
+
+
+
+
+
+
+
+
 800
-\n\n
-\n
-\xa0
-\n
-\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-\n\n\n
-\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Department or Faculty
  
-\n
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t CONCORDIA UNIVERSITY
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0 JOHN MOLSON EXECUTIVE CENTRE
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0 SCHOOL OF GRADUATE STUDIES
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0 STUDENT SUCCESS CENTRE
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Graduate and Professional Skil
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0 FACULTY OF FINE ARTS
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Art Education
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Art History
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Cinema
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Contemporary Dance
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Creative Arts Therapies
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Design and Computation Arts
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Fine Arts
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Music
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Studio Arts
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Theatre
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0 FACULTY OF ENGIN. & COMP SCI
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Building Civil & Environ Engin
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Centre for Engineer in Society
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Chemical & Materials Engin.
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Civil Engineering
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Computer Sc. & Software Engin.
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Dean of Engineering
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Electrical and Computer Engin.
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Institute for Information Sys
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Mech, Indu & Aerospace Eng.
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0 JOHN MOLSON SCHOOL OF BUSINESS
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Accountancy
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Aviation MBA
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Economics - JMSB
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Executive MBA
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Finance
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 General Administration
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Goodman Inst - Investment Mgmt
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 International Business
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Management
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Marketing
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Supply Chain & Business Mgmnt
-\n
-\t\t\t\t\t\t\t\t\t\t\t\t\xa0 FACULTY OF ARTS & SCIENCE
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Applied Human Sciences
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Biology
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Chemistry and Biochemistry
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Classics
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Classics, Mod Lang&Linguistics
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Communication Studies
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Dean of Arts & Science(Office)
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Economics
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Education
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 English
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Etudes Francaises
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Exercise Science
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Geography, Planning &Environmt
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Geology
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Historical - Other
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 History
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Interdisciplinary Studies
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Journalism
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Liberal Arts College
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Loyola International College
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Mathematics and Statistics
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Philosophy
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Physics
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Political Science
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Psychology
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Religions and Cultures
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 School of Community&Public Aff
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 School of Irish Studies
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Science College
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Simone deBeauvoir Inst&Wom Std
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Sociology and Anthropology
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 T.E.S.L.
-\n
-\t\t\t\t\t\t\t\t\t\t\t\xa0\xa0 Theological Studies
-\n
-\t\t\t\t\t\t\t\t\t\t\xa0 CENTRE CONTINUING EDUCATION
-\n
-\t\t\t\t\t\t\t\t\t\xa0\xa0 Business Administration
-\n
-\t\t\t\t\t\t\t\t\t\xa0\xa0 CCE Corporate Training
-\n
-\t\t\t\t\t\t\t\t\t\xa0\xa0 Communications
-\n
-\t\t\t\t\t\t\t\t\t\xa0\xa0 Computer Institute
-\n
-\t\t\t\t\t\t\t\t\t\xa0\xa0 French
-\n
-\t\t\t\t\t\t\t\t\t\xa0\xa0 Intensive English
-\n
-\t\t\t\t\t\t\t\t\t\xa0\xa0 Non-Intensive English
-\n
-\t\t\t\t\t\t\t\t\t\xa0\xa0 Photography
-\n
-\t\t\t\t\t\t\t\t\t\xa0\xa0 Spanish
-\n
-\t\t\t\t\t\t\t\t\t\xa0\xa0 Study Skills
-\n
-\n
-\n
-\xa0
-\n
-\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-\n\n\n
-\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-\n\n\n
-\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-\n\n\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+																							 CONCORDIA UNIVERSITY
+
+
+																						  JOHN MOLSON EXECUTIVE CENTRE
+
+
+																						  SCHOOL OF GRADUATE STUDIES
+
+
+																						  STUDENT SUCCESS CENTRE
+
+
+																					   Graduate and Professional Skil
+
+
+																		  FACULTY OF FINE ARTS
+
+
+																	   Art Education
+
+
+																	   Art History
+
+
+																	   Cinema
+
+
+																	   Contemporary Dance
+
+
+																	   Creative Arts Therapies
+
+
+																	   Design and Computation Arts
+
+
+																	   Fine Arts
+
+
+																	   Music
+
+
+																	   Studio Arts
+
+
+																	   Theatre
+
+
+																  FACULTY OF ENGIN. & COMP SCI
+
+
+															   Building Civil & Environ Engin
+
+
+															   Centre for Engineer in Society
+
+
+															   Chemical & Materials Engin.
+
+
+															   Civil Engineering
+
+
+															   Computer Sc. & Software Engin.
+
+
+															   Dean of Engineering
+
+
+															   Electrical and Computer Engin.
+
+
+															   Institute for Information Sys
+
+
+															   Mech, Indu & Aerospace Eng.
+
+
+														  JOHN MOLSON SCHOOL OF BUSINESS
+
+
+													   Accountancy
+
+
+													   Aviation MBA
+
+
+													   Economics - JMSB
+
+
+													   Executive MBA
+
+
+													   Finance
+
+
+													   General Administration
+
+
+													   Goodman Inst - Investment Mgmt
+
+
+													   International Business
+
+
+													   Management
+
+
+													   Marketing
+
+
+													   Supply Chain & Business Mgmnt
+
+
+												  FACULTY OF ARTS & SCIENCE
+
+
+											   Applied Human Sciences
+
+
+											   Biology
+
+
+											   Chemistry and Biochemistry
+
+
+											   Classics
+
+
+											   Classics, Mod Lang&Linguistics
+
+
+											   Communication Studies
+
+
+											   Dean of Arts & Science(Office)
+
+
+											   Economics
+
+
+											   Education
+
+
+											   English
+
+
+											   Etudes Francaises
+
+
+											   Exercise Science
+
+
+											   Geography, Planning &Environmt
+
+
+											   Geology
+
+
+											   Historical - Other
+
+
+											   History
+
+
+											   Interdisciplinary Studies
+
+
+											   Journalism
+
+
+											   Liberal Arts College
+
+
+											   Loyola International College
+
+
+											   Mathematics and Statistics
+
+
+											   Philosophy
+
+
+											   Physics
+
+
+											   Political Science
+
+
+											   Psychology
+
+
+											   Religions and Cultures
+
+
+											   School of Community&Public Aff
+
+
+											   School of Irish Studies
+
+
+											   Science College
+
+
+											   Simone deBeauvoir Inst&Wom Std
+
+
+											   Sociology and Anthropology
+
+
+											   T.E.S.L.
+
+
+											   Theological Studies
+
+
+										  CENTRE CONTINUING EDUCATION
+
+
+									   Business Administration
+
+
+									   CCE Corporate Training
+
+
+									   Communications
+
+
+									   Computer Institute
+
+
+									   French
+
+
+									   Intensive English
+
+
+									   Non-Intensive English
+
+
+									   Photography
+
+
+									   Spanish
+
+
+									   Study Skills
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Additional Search Criteria
-\n
-\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Additional Search Criteria
  
-\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-\n\n\n\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 (Example: 13:00)
  
-\n
+
+
+
+
+
+
+
+
+
+
 Class Times
  
-\n
+
+
+
+
 to
  
-\n
-\xa0
-\n
-\n
-\xa0
-\n
-\n
-\xa0
-\n
-\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Days of Week
  
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Mon
  
-\n
+
+
+
+
 Tues
  
-\n
+
+
+
+
 Wed
  
-\n
+
+
+
+
 Thurs
  
-\n
+
+
+
+
 Fri
  
-\n
+
+
+
+
 Sat
  
-\n
+
+
+
+
 Sun
  
-\n
-\xa0
-\n
-\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-\n\n\n
-\n
-\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Sir George Williams (Downtown)
-\n\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
 Location
  
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
 Loyola
-\n\n
-\n
-\xa0
-\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Online Courses
-\n\n
-\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-\n\n\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Instructor Last Name
  
-\n
-\n
-\n
-\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 example: statistics
  
-\n
+
+
+
+
+
+
+
+
+
+
 Course Keyword
  
-\n
-\n
-\n
-\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 example: 1136
  
-\n
+
+
+
+
+
+
+
+
+
+
 Class Nbr
-\n
-\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Mode of Instruction
-\n
-\n
-\n
-\xa0 
-\n
+
+
+
+
+
+
+
+
+  
+
+
 Blended Learning
-\n
+
+
 In Person
-\n
+
+
 On-Line
-\n
-\n
-\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-\n\n\n
-\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-\n\n\n
-\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-\n\n\n
-\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-\n\n\n
-\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Clear
-\n
-\n
+
+
+
+
+
+
 Search
-\n
-\n\n\n\n\n\n\n\n\n\n\n\n
-\n\n\n
-\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-\n\n\n\n
-\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-\n
-\n\n
-\n
-\n
-\n
-\n\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 t
-\n
-\xa0
-\n
-\n
+
+
+ 
+
+
+
+
+
+
+
+
+
+
 Help
-\n\n\n\n
+
+
+
+
+
+
 test
-\xa0
-\xa0
-\xa0
-\xa0
-\xa0
-\n\n\n\n\n
-\n
-\xa0
-\n
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+
+
 Class Search
-\xa0
-\n
+ 
+
+
 Default Local Node:
 DbName:
 Portal:
 Node:
 WorkCenter Id:
 Url:
-\n
-\xa0
-\n
-\n
-\n
+
+
+ 
+
+
+
+
+
+
+
+
 test
-\n\n\n\n
-\n\n
-\nvar nMaxSavedStates=5;\nvar sHistURL="https://campus.concordia.ca/psc/pscsprd/EMPLOYEE/HRMS/c/CU_EXT.CU_CLASS_SEARCH.GBL?page=SSR_CLSRCH_ENTRY&";\nvar bHtml5Doc = true;\nvar bClearBackState=false;\nvar bPageTransfered=false;\nvar bTransferAnimate=false;\nvar bCleanHtml = true;\nvar bDefer = true;\ndocument.deferFldArr_win0 = new Array();\ndocument.hiddenFldArr_win0 =new Array('ICType','ICElementNum','ICStateNum','ICAction','ICXPos','ICYPos','ResponsetoDiffFrame','TargetFrameName','FacetPath','ICFocus','ICSaveWarningFilter','ICChanged','ICAutoSave','ICResubmit','ICSID','ICActionPrompt','ICTypeAheadID','ICBcDomData','ICFind','ICAddCount','ICAPPCLSDATA');\ndocument.chgFldArr_win0 = new Array();\nAddToHistory('Criteria Entry', '', '', 'SSR_CLSRCH_ENTRY', 1, 0, 1);\nvar bCleanHtml = true;\nvar bDefer = true;\ndocument.hiddenFldArr_win0 =new Array('ICType','ICElementNum','ICStateNum','ICAction','ICXPos','ICYPos','ResponsetoDiffFrame','TargetFrameName','FacetPath','ICFocus','ICSaveWarningFilter','ICChanged','ICAutoSave','ICResubmit','ICSID','ICActionPrompt','ICTypeAheadID','ICBcDomData','ICFind','ICAddCount','ICAPPCLSDATA');\ndocument.chgFldArr_win0 = new Array();\nvar bCDATA = false;\nvar bAccessibleLayout = false;\nvar bLoadCompleted = true;\n
-\n>
+
+
+
+
+
+
+
+
+
+
+
+var nMaxSavedStates=5;
+var sHistURL="https://campus.concordia.ca/psc/pscsprd/EMPLOYEE/HRMS/c/CU_EXT.CU_CLASS_SEARCH.GBL?page=SSR_CLSRCH_ENTRY&";
+var bHtml5Doc = true;
+var bClearBackState=false;
+var bPageTransfered=false;
+var bTransferAnimate=false;
+var bCleanHtml = true;
+var bDefer = true;
+document.deferFldArr_win0 = new Array();
+document.hiddenFldArr_win0 =new Array('ICType','ICElementNum','ICStateNum','ICAction','ICXPos','ICYPos','ResponsetoDiffFrame','TargetFrameName','FacetPath','ICFocus','ICSaveWarningFilter','ICChanged','ICAutoSave','ICResubmit','ICSID','ICActionPrompt','ICTypeAheadID','ICBcDomData','ICFind','ICAddCount','ICAPPCLSDATA');
+document.chgFldArr_win0 = new Array();
+AddToHistory('Criteria Entry', '', '', 'SSR_CLSRCH_ENTRY', 1, 0, 1);
+var bCleanHtml = true;
+var bDefer = true;
+document.hiddenFldArr_win0 =new Array('ICType','ICElementNum','ICStateNum','ICAction','ICXPos','ICYPos','ResponsetoDiffFrame','TargetFrameName','FacetPath','ICFocus','ICSaveWarningFilter','ICChanged','ICAutoSave','ICResubmit','ICSID','ICActionPrompt','ICTypeAheadID','ICBcDomData','ICFind','ICAddCount','ICAPPCLSDATA');
+document.chgFldArr_win0 = new Array();
+var bCDATA = false;
+var bAccessibleLayout = false;
+var bLoadCompleted = true;
+
+
+>

@@ -12,6 +12,9 @@ merged_index_file = "merged_index.dat"
 index_file = "index.dat"
 length_of_docs = {}
 
+def getSentimentValue(term):
+    return 0 
+
 def create_SPIMI_index(input_file, docID):
     token_stream = []
     blockNumber = 0 
@@ -33,12 +36,15 @@ def create_SPIMI_index(input_file, docID):
         token_line = nltk.word_tokenize(line)
         doc_length += len(token_line)
 
+        # Getting tokens here
         for token in token_line:
             if len(token) >= 1: 
                 token_stream.append([token, docID])
 
     if token_stream != []:
         SPIMI_invert(token_stream, blockNumber, fileNumber)
+
+    # Doc finished to process 
     length_of_docs[docID] = doc_length
 
 def SPIMI_invert(token_stream, blockNumber, fileNumber):
@@ -129,8 +135,10 @@ def merge_blocks():
     for entry in merged_index:
         term = entry.keys()[0]
         postings = entry[term]
+        sentiment = getSentimentValue(term)
         sorted_postings = sorted(postings.items())
         s = str(term) + " "
+        s += str(sentiment) + " "
         s += str(sorted_postings)
         index_output.write(s)
         index_output.write('\n')
@@ -140,9 +148,15 @@ def loadIndexToMemory():
     disk_index = open('merged_index.dat', 'r')
     memory_index = {}
     for line in disk_index:
-        term = line.split(" ")[0]
-        postings = line.split()[1:]
-        memory_index[term] = postings
+        term = line.split()[0]
+        sentiment = line.split()[1]
+        docFreqs = "".join(line.split()[2:]).translate(None, "[]()'").split(",")
+        memory_index[term] = {}
+        memory_index[term]["sentiment"] = int(sentiment)
+        doc = 0 
+        while doc < len(docFreqs)-1:
+            memory_index[term][int(docFreqs[doc])] = int(docFreqs[doc+1])
+            doc += 2 
     return memory_index
 
 def writeCorpusStats(index_stage, terms, postings):
@@ -200,7 +214,13 @@ def compress_SPIMI_index():
             lowercase_term_count += 1
             lowercase_postings_count += len(postings)
         else:
-            lowercase_index[term.lower()] += postings
+            for doc in postings.keys():
+                if doc == "sentiment":
+                    continue 
+                if doc in lowercase_index[term.lower()]:
+                    lowercase_index[term.lower()][doc] += postings[doc]
+                else:
+                    lowercase_index[term.lower()][doc] = postings[doc]
             lowercase_postings_count += len(postings)
     corpus_stats_file.write("Case Folded\t\t\t\t\t\t\t\t\t\t" + str(lowercase_term_count) + "\t\t\t\t\t\t\t\t\t\t" + str(lowercase_postings_count) + "\n")
 

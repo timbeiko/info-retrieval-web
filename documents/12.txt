@@ -1,9 +1,224 @@
-\n
-var translated_warning_string = 'Warning: Never enter your Tumblr password unless \\u201chttps://www.tumblr.com/login\\u201d\\x0ais the address in your web browser.\\x0a\\x0aYou should also see a green \\u201cTumblr, Inc.\\u201d identification in the address bar.\\x0a\\x0aSpammers and other bad guys use fake forms to steal passwords.\\x0a\\x0aTumblr will never ask you to log in from a user\\u2019s blog.\\x0a\\x0aAre you absolutely sure you want to continue?';
+
+
+var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';
+
+
 Animate Concordia
 figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}
-\n    article.post {\n        margin-bottom: 30px;\n    }\n    .post .clearstyle {\n        text-decoration: none;\n    }\n    .post h2, .post h3, .post h4, .post h5, .post h6 {\n        font-family: 'Arial', sans-serif;\n    }\n    .post h3 {\n        font-weight: 700;\n        margin-top: 0;\n    }\n    .date-header h6 {\n        margin-top: 0;\n    }\n    .photo-wrapper img {\n      width: 100%;\n    }\n    .photoset-grid img {\n        width: 100%;\n        height: initial;\n    }    \n    figure {\n      margin: 0;\n    }\n    a.big-link {\n      color: #c32121;\n      text-decoration: none;\n      font-family: "Aller", sans-serif;\n      font-size: 32px;\n    }\n    a.big-link:hover {\n      text-decoration: underline;\n    }\n    ul.chat-list {\n      list-style: none;\n      padding: 0;\n    }\n    ul.chat-list li {\n        padding: 4px 8px;\n    }\n    li.odd {\n        background-color: #F2EFEF;\n    }\n    li.even {\n        background-color: #FFFFFF;\n    }\n    .post b {\n      color: #d72626;\n    }\n    .post a.tumblr_blog:link, .post a.tumblr_blog:visited {\n      color: #000;\n      text-decoration: none;\n      font-weight: 700;\n    }\n    .post p {\n      margin-bottom: 5px;\n    }\n    figcaption {\n        line-height: 1.67rem;\n    }\n    .quote blockquote {\n        border-left: none;\n    }\n    p.big-quote {\n        font-size: 21px !important;\n    }\n    .post.quote blockquote {\n      border-left: 0;\n    }\n    .post blockquote p {\n        font-size: 14px;\n        line-height: 1.8;\n    }\n    .post blockquote {\n        margin: 0 0 0 10px;\n        border-left: 2px solid #727272;\n        padding-left: 10px;\n        font-style: normal;\n    }\n    .post-info li {\n        float: left;\n        margin-right: 10px;\n    }\n    .post-options ul li {\n        float: right;\n        margin-left: 10px;\n    }\n    .post-footer ul {\n        margin: 0;\n        padding: 0;\n    }\n    .post-footer a {\n        color: #a9a9a9;\n        font-size: 13px;\n        letter-spacing: 0.3px;\n        text-decoration: none;\n    }\n    ul.tags li {\n        font-size: 13px;\n        margin-right: 5px;\n        float: left;\n    }\n    a.tag {\n        color: #6f6f6f;\n        text-decoration: none;\n    }\n    #tumblr-desc a {\n        color: #c32121;\n        font-weight: 700;\n        text-decoration: none;\n    }\n    div#pagination {\n        font-size: 13px;\n        letter-spacing: 0.5px;\n    }\n    span.current_page {\n        font-weight: 700;\n    }\n    #pagination a:hover {\n        color: #c32121;\n    }\n    #pagination a {\n        color: lightgray;\n        text-decoration: none;\n    }\n    #feature-section a {\n        text-decoration: none !important;\n    }\n    #feature-section img {\n        max-height: 130px;\n    }\n    #feature-section h3 {\n        font-size: 18px;\n        transform:scale(1,0.97);\n    }\n    #feature-section .feature-title {\n        margin-top: 0;\n        margin-bottom: 0;\n    }\n    #feature-section .feature-author {\n        margin-top: 0;\n        color: #666;\n        font-family: "Arial", sans-serif;\n        font-size: 15px;\n        font-weight: bold;\n        letter-spacing: 0.7px;\n    }\n    @media screen and (max-width: 740px) {\n        .video-wrapper > div.tumblr_video_container {\n            max-width: 400px;\n            width: 100% !important;\n            height: initial !important;\n        }\n        .video-wrapper iframe {\n            width: 100% !important;\n            margin: 0 auto !important;\n        }\n        .tumblr_video_container iframe {\n            height: initial !important;\n        }\n        .post-footer, figcaption, .post > p {\n            padding: 0 15px;\n        }\n        .post > blockquote {\n            margin-left: 15px;\n        }\n    }\n    #search {\n        margin-bottom: 10px;\n    }\n    .search_query {\n        font-weight: bold;\n    }\n    #search input[type="text"] {\n        background: url('http://static.tumblr.com/jibmv3h/vs3o0cf1p/search-white.png') no-repeat 5px 6px #fcfcfc;\n        border: 1px solid #d1d1d1;\n        font: 12px "Arial", sans-serif;\n        color: #666;\n        height: 1.7rem;\n        width: 100%;\n        padding: 6px 15px 6px 25px;\n        -webkit-border-radius: 20px;\n        -moz-border-radius: 20px;\n        border-radius: 3px;\n        -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) inset;\n        -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) inset;\n        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) inset;\n        -webkit-transition: all 0.7s ease 0s;\n        -moz-transition: all 0.7s ease 0s;\n        -o-transition: all 0.7s ease 0s;\n        transition: all 0.7s ease 0s;\n    }\n    \n    #search input[type="text"]:focus {\n        -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.45) inset;\n        -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.45) inset;\n        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.45) inset;\n        outline-style: none;\n    }\n    #tumblr-desc p {\n        font-size: 0.82rem;\n    }\n    .social-icons img {\n        margin: 0 !important;\n        padding: 0 !important;\n        /*width: 25px;*/\n    }\n    \n  
-\n\t{"@type":"ItemList","url":"http:\\/\\/blog.animateconcordia.ca","itemListElement":[{"@type":"ListItem","position":1,"url":"http:\\/\\/blog.animateconcordia.ca\\/post\\/166752406473\\/animate-concordia-new-friday-the-thirteenth-comic"},{"@type":"ListItem","position":2,"url":"http:\\/\\/blog.animateconcordia.ca\\/post\\/166752400098\\/animate-concordia-new-friday-the-thirteenth-comic"},{"@type":"ListItem","position":3,"url":"http:\\/\\/blog.animateconcordia.ca\\/post\\/166752393168\\/animate-concordia-new-our-vr-workshop-was-pretty"},{"@type":"ListItem","position":4,"url":"http:\\/\\/blog.animateconcordia.ca\\/post\\/166344632743\\/for-the-first-time-ever-animate-concordia"},{"@type":"ListItem","position":5,"url":"http:\\/\\/blog.animateconcordia.ca\\/post\\/158359264120\\/beesbouhs-i-picked-up-animal-crossing-again-v"},{"@type":"ListItem","position":6,"url":"http:\\/\\/blog.animateconcordia.ca\\/post\\/158316440669\\/trystan-warnock-juteau-2017"},{"@type":"ListItem","position":7,"url":"http:\\/\\/blog.animateconcordia.ca\\/post\\/158277155834\\/thesonoflilitu-sketches-from-the-last-few-weeks"},{"@type":"ListItem","position":8,"url":"http:\\/\\/blog.animateconcordia.ca\\/post\\/158276528015\\/tweedacaramel-inktober-day-31-last-one"},{"@type":"ListItem","position":9,"url":"http:\\/\\/blog.animateconcordia.ca\\/post\\/158236871995\\/williamjlawiii-some-wip-animation-from-my-3d"},{"@type":"ListItem","position":10,"url":"http:\\/\\/blog.animateconcordia.ca\\/post\\/158197543493\\/thejulianbata-couple-spot-illustrations-made"}],"@context":"http:\\/\\/schema.org"}
+
+    article.post {
+        margin-bottom: 30px;
+    }
+    .post .clearstyle {
+        text-decoration: none;
+    }
+    .post h2, .post h3, .post h4, .post h5, .post h6 {
+        font-family: 'Arial', sans-serif;
+    }
+    .post h3 {
+        font-weight: 700;
+        margin-top: 0;
+    }
+    .date-header h6 {
+        margin-top: 0;
+    }
+    .photo-wrapper img {
+      width: 100%;
+    }
+    .photoset-grid img {
+        width: 100%;
+        height: initial;
+    }    
+    figure {
+      margin: 0;
+    }
+    a.big-link {
+      color: #c32121;
+      text-decoration: none;
+      font-family: "Aller", sans-serif;
+      font-size: 32px;
+    }
+    a.big-link:hover {
+      text-decoration: underline;
+    }
+    ul.chat-list {
+      list-style: none;
+      padding: 0;
+    }
+    ul.chat-list li {
+        padding: 4px 8px;
+    }
+    li.odd {
+        background-color: #F2EFEF;
+    }
+    li.even {
+        background-color: #FFFFFF;
+    }
+    .post b {
+      color: #d72626;
+    }
+    .post a.tumblr_blog:link, .post a.tumblr_blog:visited {
+      color: #000;
+      text-decoration: none;
+      font-weight: 700;
+    }
+    .post p {
+      margin-bottom: 5px;
+    }
+    figcaption {
+        line-height: 1.67rem;
+    }
+    .quote blockquote {
+        border-left: none;
+    }
+    p.big-quote {
+        font-size: 21px !important;
+    }
+    .post.quote blockquote {
+      border-left: 0;
+    }
+    .post blockquote p {
+        font-size: 14px;
+        line-height: 1.8;
+    }
+    .post blockquote {
+        margin: 0 0 0 10px;
+        border-left: 2px solid #727272;
+        padding-left: 10px;
+        font-style: normal;
+    }
+    .post-info li {
+        float: left;
+        margin-right: 10px;
+    }
+    .post-options ul li {
+        float: right;
+        margin-left: 10px;
+    }
+    .post-footer ul {
+        margin: 0;
+        padding: 0;
+    }
+    .post-footer a {
+        color: #a9a9a9;
+        font-size: 13px;
+        letter-spacing: 0.3px;
+        text-decoration: none;
+    }
+    ul.tags li {
+        font-size: 13px;
+        margin-right: 5px;
+        float: left;
+    }
+    a.tag {
+        color: #6f6f6f;
+        text-decoration: none;
+    }
+    #tumblr-desc a {
+        color: #c32121;
+        font-weight: 700;
+        text-decoration: none;
+    }
+    div#pagination {
+        font-size: 13px;
+        letter-spacing: 0.5px;
+    }
+    span.current_page {
+        font-weight: 700;
+    }
+    #pagination a:hover {
+        color: #c32121;
+    }
+    #pagination a {
+        color: lightgray;
+        text-decoration: none;
+    }
+    #feature-section a {
+        text-decoration: none !important;
+    }
+    #feature-section img {
+        max-height: 130px;
+    }
+    #feature-section h3 {
+        font-size: 18px;
+        transform:scale(1,0.97);
+    }
+    #feature-section .feature-title {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    #feature-section .feature-author {
+        margin-top: 0;
+        color: #666;
+        font-family: "Arial", sans-serif;
+        font-size: 15px;
+        font-weight: bold;
+        letter-spacing: 0.7px;
+    }
+    @media screen and (max-width: 740px) {
+        .video-wrapper > div.tumblr_video_container {
+            max-width: 400px;
+            width: 100% !important;
+            height: initial !important;
+        }
+        .video-wrapper iframe {
+            width: 100% !important;
+            margin: 0 auto !important;
+        }
+        .tumblr_video_container iframe {
+            height: initial !important;
+        }
+        .post-footer, figcaption, .post > p {
+            padding: 0 15px;
+        }
+        .post > blockquote {
+            margin-left: 15px;
+        }
+    }
+    #search {
+        margin-bottom: 10px;
+    }
+    .search_query {
+        font-weight: bold;
+    }
+    #search input[type="text"] {
+        background: url('http://static.tumblr.com/jibmv3h/vs3o0cf1p/search-white.png') no-repeat 5px 6px #fcfcfc;
+        border: 1px solid #d1d1d1;
+        font: 12px "Arial", sans-serif;
+        color: #666;
+        height: 1.7rem;
+        width: 100%;
+        padding: 6px 15px 6px 25px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        border-radius: 3px;
+        -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) inset;
+        -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) inset;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) inset;
+        -webkit-transition: all 0.7s ease 0s;
+        -moz-transition: all 0.7s ease 0s;
+        -o-transition: all 0.7s ease 0s;
+        transition: all 0.7s ease 0s;
+    }
+    
+    #search input[type="text"]:focus {
+        -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.45) inset;
+        -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.45) inset;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.45) inset;
+        outline-style: none;
+    }
+    #tumblr-desc p {
+        font-size: 0.82rem;
+    }
+    .social-icons img {
+        margin: 0 !important;
+        padding: 0 !important;
+        /*width: 25px;*/
+    }
+    
+  
+
+	{"@type":"ItemList","url":"http:\/\/blog.animateconcordia.ca","itemListElement":[{"@type":"ListItem","position":1,"url":"http:\/\/blog.animateconcordia.ca\/post\/166752406473\/animate-concordia-new-friday-the-thirteenth-comic"},{"@type":"ListItem","position":2,"url":"http:\/\/blog.animateconcordia.ca\/post\/166752400098\/animate-concordia-new-friday-the-thirteenth-comic"},{"@type":"ListItem","position":3,"url":"http:\/\/blog.animateconcordia.ca\/post\/166752393168\/animate-concordia-new-our-vr-workshop-was-pretty"},{"@type":"ListItem","position":4,"url":"http:\/\/blog.animateconcordia.ca\/post\/166344632743\/for-the-first-time-ever-animate-concordia"},{"@type":"ListItem","position":5,"url":"http:\/\/blog.animateconcordia.ca\/post\/158359264120\/beesbouhs-i-picked-up-animal-crossing-again-v"},{"@type":"ListItem","position":6,"url":"http:\/\/blog.animateconcordia.ca\/post\/158316440669\/trystan-warnock-juteau-2017"},{"@type":"ListItem","position":7,"url":"http:\/\/blog.animateconcordia.ca\/post\/158277155834\/thesonoflilitu-sketches-from-the-last-few-weeks"},{"@type":"ListItem","position":8,"url":"http:\/\/blog.animateconcordia.ca\/post\/158276528015\/tweedacaramel-inktober-day-31-last-one"},{"@type":"ListItem","position":9,"url":"http:\/\/blog.animateconcordia.ca\/post\/158236871995\/williamjlawiii-some-wip-animation-from-my-3d"},{"@type":"ListItem","position":10,"url":"http:\/\/blog.animateconcordia.ca\/post\/158197543493\/thejulianbata-couple-spot-illustrations-made"}],"@context":"http:\/\/schema.org"}
 Animate Concordia
 Blog
 Home
@@ -14,28 +229,37 @@ Info
 animate-concordia-new
 :
 Friday the Thirteenth Comic Jam highlights! Part Two
-2 weeks ago
-\n                                        2 notes\n                                    
+3 weeks ago
+
+                                        2 notes
+                                    
 animate-concordia-new
 :
-Friday the Thirteenth Comic Jam highlights!\xa0
-2 weeks ago
-\n                                        2 notes\n                                    
+Friday the Thirteenth Comic Jam highlights! 
+3 weeks ago
+
+                                        2 notes
+                                    
 animate-concordia-new
 :
 Our VR Workshop was pretty rad. Thanks to all who attended!
-2 weeks ago
-\n                                        1 note\n                                    
+3 weeks ago
+
+                                        1 note
+                                    
 For the first time ever, Animate Concordia presents a collaborative Virtual Reality workshop, welcome to all Cinema students! Those attending will be allowed free access to top of the line VR equipment under technician supervision. Open hours are from 1-5pm in FB-327, but RSVP to claim your limited spot at the workshop from 6-9pm, as there will be limited availability. See you there!
 Tags
-:\n                        
+:
+                        
 #virtual reality
 #Concordia University
 #concordia animation
 #animate concordia
 #animation
 1 month ago
-\n                                        2 notes\n                                    
+
+                                        2 notes
+                                    
 beesbouhs
 :
 i picked up animal crossing again :v
@@ -44,13 +268,17 @@ Joulie Iv (2017)
 icedcoffi
 )
 8 months ago
-\n                                        148 notes\n                                    
+
+                                        148 notes
+                                    
 Trystan Warnock Juteau (2017)
 (Source: 
 tmurraywj
 )
 8 months ago
-\n                                        220 notes\n                                    
+
+                                        220 notes
+                                    
 thesonoflilitu
 :
 Sketches from the last few weeks, all done in-class.
@@ -59,22 +287,31 @@ Trystan Warnock Juteau (2017)
 tmurraywj
 )
 8 months ago
-\n                                        43 notes\n                                    
+
+                                        43 notes
+                                    
 tweedacaramel
 :
-Inktober DAY 31 \U0001f459\U0001f30a
-\nLAST ONE.
-\ndone. wow. haha -now to start making prints outta them! details TBA msg me if you\u2019d be interested in buying prints of any of my inktobers thus far :D
-\n#inktober #lateinktober #inktober2016 #lastone #swimsuit #indenial #summer #onepiece #girl #surf #watercolour #pen #whiteacrylic #goldpaint #goldacrylic #gellyroll
+Inktober DAY 31 ��
+
+LAST ONE.
+
+done. wow. haha -now to start making prints outta them! details TBA msg me if you’d be interested in buying prints of any of my inktobers thus far :D
+
+#inktober #lateinktober #inktober2016 #lastone #swimsuit #indenial #summer #onepiece #girl #surf #watercolour #pen #whiteacrylic #goldpaint #goldacrylic #gellyroll
 Teresa Kuo (2017)
 8 months ago
-\n                                        2 notes\n                                    
+
+                                        2 notes
+                                    
 williamjlawiii
 :
 Some WIP animation from my 3D class
 Simon Nguyen(2017)
 8 months ago
-\n                                        6 notes\n                                    
+
+                                        6 notes
+                                    
 thejulianbata
 :
 Couple spot illustrations made The Link newspaper at Concordia University. You can read em both here:
@@ -82,7 +319,9 @@ https://thelinknewspaper.ca/article/montreal-police-need-to-better-respond-to-ca
 https://thelinknewspaper.ca/article/editorial-a-call-for-better-reporting
 Julian Bata (2017)
 8 months ago
-\n                                        6 notes\n                                    
+
+                                        6 notes
+                                    
 1
 2
 3
@@ -90,14 +329,104 @@ Julian Bata (2017)
 5
 Next
 Animate Concordia
- is a place to both bring news about club events and showcase all works from the Mel Hoppenheim School of Cinema\xe2\u20ac\u2122s Film Animation Program.\n
-\nSubscribe to our 
+ is a place to both bring news about club events and showcase all works from the Mel Hoppenheim School of Cinema’s Film Animation Program.
+
+
+Subscribe to our 
 email newsletter
-\n      \xa9 Animate Concordia 2016
-\n    (function(){\n        var analytics_frame = document.getElementById('ga_target');\n        var analytics_iframe_loaded;\n        var user_logged_in;\n        var blog_is_nsfw = 'No';\n        var addthis_enabled = false;\n\n        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";\n        var eventer = window[eventMethod];\n        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";\n        eventer(messageEvent,function(e) {\n            var message = (e.data && e.data.split) ? e.data.split(';') : '';\n            switch (message[0]) {\n                case 'analytics_iframe_loaded':\n                    analytics_iframe_loaded = true;\n                    postCSMessage();\n                    postGAMessage();\n                    postATMessage();\n                    postRapidMessage();\n                    break;\n                case 'user_logged_in':\n                    user_logged_in = message[1];\n                    postGAMessage();\n                    postATMessage();\n                    break;\n            }\n        }, false);\n\n        analytics_frame.src = "https://assets.tumblr.com/analytics.html?e545bd2397476017430227533432638a#" +\n                              "http://blog.animateconcordia.ca";\n        function postGAMessage() {\n            if (analytics_iframe_loaded && user_logged_in) {\n                var is_ajax = false;\n                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/?route=%2F'].join(';'), analytics_frame.src.split('/analytics.html')[0]);\n            }\n        }\n        function postCSMessage() {\n            COMSCORE = true;\n            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);\n        }\n        function postATMessage() {\n            if (addthis_enabled && analytics_iframe_loaded) {\n                analytics_frame.contentWindow.postMessage('enable_addthis', analytics_frame.src.split('/analytics.html')[0]);\n            }\n        }\n        function postRapidMessage() {\n                            if (analytics_iframe_loaded) {\n                    var is_ajax = '';\n                    var route = '/';\n                    var tumblelog_id = '205981681';\n                    var yahoo_space_id = '1197719229';\n                    var rapid_client_only = '1';\n                    var apv = '1';\n                    var rapid_ex = '';\n\n                    analytics_frame.contentWindow.postMessage(\n                        [\n                            'tick_rapid', is_ajax, route, user_logged_in, tumblelog_id,\n                            yahoo_space_id, rapid_client_only, apv, rapid_ex\n                        ].join(';'),\n                        analytics_frame.src.split('/analytics.html')[0]\n                    );\n                }\n                    }\n    })();\n
-!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1510514521&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYmxvZy5hbmltYXRlY29uY29yZGlhLmNhXC8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvIn0=&U=GCBABCCMCN&K=97ca1bdd444c2b18e9557bcc676dbca2399e9c66845e8c3fb482bb4d3a3f7a02&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());
-&lt;img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1510514521&amp;J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYmxvZy5hbmltYXRlY29uY29yZGlhLmNhXC8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvIiwibm9zY3JpcHQiOjF9&amp;U=GCBABCCMCN&amp;K=bfe0226b564454bcc8215144de4ca4bb4f9e36901c2b576173aa8750d8f1616e&amp;R="&gt;
-\n        (function (w,d) {\n            'use strict';\n            var l = function(el, type, listener, useCapture) {\n                el.addEventListener ?\n                el.addEventListener(type, listener, !!useCapture) :\n                el.attachEvent && el.attachEvent('on' + type, listener, !!useCapture);\n            };\n            var a = function () {\n                                if (d.getElementById('tumblr-cdx')) {\n                    return;\n                }\n                var s = d.createElement('script');\n                var el = d.getElementsByTagName('script')[0];\n                s.async = true;\n                s.src = 'http://assets.tumblr.com/assets/scripts/vendor/cedexis/1-13960-radar10.min.js?_v=f1579c509dad6daa6d33b4284812ab90';\n                s.type = 'text/javascript';\n                s.id = 'tumblr-cdx';\n                d.body.appendChild(s);\n            };\n            l(w,'load',a);\n        }(window, document));\n
-!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1510514521&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Jsb2cuYW5pbWF0ZWNvbmNvcmRpYS5jYVwvIiwicmVxdHlwZSI6MCwicm91dGUiOiJcLyIsInBvc3RzIjpbeyJyb290X2Jsb2dpZCI6IjI2NDk3Mzc3NCIsInJvb3RfcG9zdGlkIjoiMTY2Mzk5MTg2NzQyIiwicG9zdGlkIjoiMTY2NzUyNDA2NDczIiwiYmxvZ2lkIjoiMjA1OTgxNjgxIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjI2NDk3Mzc3NCIsInJvb3RfcG9zdGlkIjoiMTY2Mzk4OTE4ODU3IiwicG9zdGlkIjoiMTY2NzUyNDAwMDk4IiwiYmxvZ2lkIjoiMjA1OTgxNjgxIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjI2NDk3Mzc3NCIsInJvb3RfcG9zdGlkIjoxNjY3NTIzMDE2ODIsInBvc3RpZCI6IjE2Njc1MjM5MzE2OCIsImJsb2dpZCI6IjIwNTk4MTY4MSIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTY2MzQ0NjMyNzQzIiwiYmxvZ2lkIjoiMjA1OTgxNjgxIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjE1ODQ4OTA4Iiwicm9vdF9wb3N0aWQiOiIxNTc4NDI1Mjg0NDAiLCJwb3N0aWQiOiIxNTgzNTkyNjQxMjAiLCJibG9naWQiOiIyMDU5ODE2ODEiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMjMwNzkyNjgyIiwicm9vdF9wb3N0aWQiOiIxNTQzODAwMDQ4NjgiLCJwb3N0aWQiOiIxNTgzMTY0NDA2NjkiLCJibG9naWQiOiIyMDU5ODE2ODEiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMjMwNzkyNjgyIiwicm9vdF9wb3N0aWQiOiIxNTY4NDU5MjYwNTgiLCJwb3N0aWQiOiIxNTgyNzcxNTU4MzQiLCJibG9naWQiOiIyMDU5ODE2ODEiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMTM2NzkyODMwIiwicm9vdF9wb3N0aWQiOiIxNTMxNDg4MTg3NzMiLCJwb3N0aWQiOiIxNTgyNzY1MjgwMTUiLCJibG9naWQiOiIyMDU5ODE2ODEiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMTA2OTA3ODgyIiwicm9vdF9wb3N0aWQiOiIxNTMxMjc2NDQ4MzgiLCJwb3N0aWQiOiIxNTgyMzY4NzE5OTUiLCJibG9naWQiOiIyMDU5ODE2ODEiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMjE2NTkxNzE5Iiwicm9vdF9wb3N0aWQiOiIxNTY5NDIyMjE3NDEiLCJwb3N0aWQiOiIxNTgxOTc1NDM0OTMiLCJibG9naWQiOiIyMDU5ODE2ODEiLCJzb3VyY2UiOjMzfV19&U=KEDMFEAFHF&K=546b4a6bc5d38e7ce7c828e09c57c3d4088759d061a9017811665e70f490034e&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());
-&lt;img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1510514521&amp;J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Jsb2cuYW5pbWF0ZWNvbmNvcmRpYS5jYVwvIiwicmVxdHlwZSI6MCwicm91dGUiOiJcLyIsInBvc3RzIjpbeyJyb290X2Jsb2dpZCI6IjI2NDk3Mzc3NCIsInJvb3RfcG9zdGlkIjoiMTY2Mzk5MTg2NzQyIiwicG9zdGlkIjoiMTY2NzUyNDA2NDczIiwiYmxvZ2lkIjoiMjA1OTgxNjgxIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjI2NDk3Mzc3NCIsInJvb3RfcG9zdGlkIjoiMTY2Mzk4OTE4ODU3IiwicG9zdGlkIjoiMTY2NzUyNDAwMDk4IiwiYmxvZ2lkIjoiMjA1OTgxNjgxIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjI2NDk3Mzc3NCIsInJvb3RfcG9zdGlkIjoxNjY3NTIzMDE2ODIsInBvc3RpZCI6IjE2Njc1MjM5MzE2OCIsImJsb2dpZCI6IjIwNTk4MTY4MSIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTY2MzQ0NjMyNzQzIiwiYmxvZ2lkIjoiMjA1OTgxNjgxIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjE1ODQ4OTA4Iiwicm9vdF9wb3N0aWQiOiIxNTc4NDI1Mjg0NDAiLCJwb3N0aWQiOiIxNTgzNTkyNjQxMjAiLCJibG9naWQiOiIyMDU5ODE2ODEiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMjMwNzkyNjgyIiwicm9vdF9wb3N0aWQiOiIxNTQzODAwMDQ4NjgiLCJwb3N0aWQiOiIxNTgzMTY0NDA2NjkiLCJibG9naWQiOiIyMDU5ODE2ODEiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMjMwNzkyNjgyIiwicm9vdF9wb3N0aWQiOiIxNTY4NDU5MjYwNTgiLCJwb3N0aWQiOiIxNTgyNzcxNTU4MzQiLCJibG9naWQiOiIyMDU5ODE2ODEiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMTM2NzkyODMwIiwicm9vdF9wb3N0aWQiOiIxNTMxNDg4MTg3NzMiLCJwb3N0aWQiOiIxNTgyNzY1MjgwMTUiLCJibG9naWQiOiIyMDU5ODE2ODEiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMTA2OTA3ODgyIiwicm9vdF9wb3N0aWQiOiIxNTMxMjc2NDQ4MzgiLCJwb3N0aWQiOiIxNTgyMzY4NzE5OTUiLCJibG9naWQiOiIyMDU5ODE2ODEiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMjE2NTkxNzE5Iiwicm9vdF9wb3N0aWQiOiIxNTY5NDIyMjE3NDEiLCJwb3N0aWQiOiIxNTgxOTc1NDM0OTMiLCJibG9naWQiOiIyMDU5ODE2ODEiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&amp;U=KEDMFEAFHF&amp;K=e8e9596ada43f4f1e2a41852a9a83c7d90efd627c060a1061cf761a0156beb50&amp;R="&gt;
-\n>
+
+      © Animate Concordia 2016
+
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+        var addthis_enabled = false;
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    postATMessage();
+                    postRapidMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    postATMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://assets.tumblr.com/analytics.html?a76144f6ac3f4c5ec0b80b2f2a5b4fd0#" +
+                              "http://blog.animateconcordia.ca";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/?route=%2F'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+        function postATMessage() {
+            if (addthis_enabled && analytics_iframe_loaded) {
+                analytics_frame.contentWindow.postMessage('enable_addthis', analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postRapidMessage() {
+                            if (analytics_iframe_loaded) {
+                    var is_ajax = '';
+                    var route = '/';
+                    var tumblelog_id = '205981681';
+                    var yahoo_space_id = '1197719229';
+                    var rapid_client_only = '1';
+                    var apv = '1';
+                    var rapid_ex = '';
+
+                    analytics_frame.contentWindow.postMessage(
+                        [
+                            'tick_rapid', is_ajax, route, user_logged_in, tumblelog_id,
+                            yahoo_space_id, rapid_client_only, apv, rapid_ex
+                        ].join(';'),
+                        analytics_frame.src.split('/analytics.html')[0]
+                    );
+                }
+                    }
+    })();
+
+!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1510695805&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvYmxvZy5hbmltYXRlY29uY29yZGlhLmNhXC8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvIn0=&U=OOMLGDPDHI&K=db77ed2a1862d15f38687be33e1a6f233c6607279c0f95b32bea9da9a4399221&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());
+
+        (function (w,d) {
+            'use strict';
+            var l = function(el, type, listener, useCapture) {
+                el.addEventListener ?
+                el.addEventListener(type, listener, !!useCapture) :
+                el.attachEvent && el.attachEvent('on' + type, listener, !!useCapture);
+            };
+            var a = function () {
+                                if (d.getElementById('tumblr-cdx')) {
+                    return;
+                }
+                var s = d.createElement('script');
+                var el = d.getElementsByTagName('script')[0];
+                s.async = true;
+                s.src = 'http://assets.tumblr.com/assets/scripts/vendor/cedexis/1-13960-radar10.min.js?_v=1c33ba57efaa7c45a6d00094f876fe73';
+                s.type = 'text/javascript';
+                s.id = 'tumblr-cdx';
+                d.body.appendChild(s);
+            };
+            l(w,'load',a);
+        }(window, document));
+
+!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1510695805&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Jsb2cuYW5pbWF0ZWNvbmNvcmRpYS5jYVwvIiwicmVxdHlwZSI6MCwicm91dGUiOiJcLyIsInBvc3RzIjpbeyJyb290X2Jsb2dpZCI6IjI2NDk3Mzc3NCIsInJvb3RfcG9zdGlkIjoiMTY2Mzk5MTg2NzQyIiwicG9zdGlkIjoiMTY2NzUyNDA2NDczIiwiYmxvZ2lkIjoiMjA1OTgxNjgxIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjI2NDk3Mzc3NCIsInJvb3RfcG9zdGlkIjoiMTY2Mzk4OTE4ODU3IiwicG9zdGlkIjoiMTY2NzUyNDAwMDk4IiwiYmxvZ2lkIjoiMjA1OTgxNjgxIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjI2NDk3Mzc3NCIsInJvb3RfcG9zdGlkIjoxNjY3NTIzMDE2ODIsInBvc3RpZCI6IjE2Njc1MjM5MzE2OCIsImJsb2dpZCI6IjIwNTk4MTY4MSIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTY2MzQ0NjMyNzQzIiwiYmxvZ2lkIjoiMjA1OTgxNjgxIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjE1ODQ4OTA4Iiwicm9vdF9wb3N0aWQiOiIxNTc4NDI1Mjg0NDAiLCJwb3N0aWQiOiIxNTgzNTkyNjQxMjAiLCJibG9naWQiOiIyMDU5ODE2ODEiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMjMwNzkyNjgyIiwicm9vdF9wb3N0aWQiOiIxNTQzODAwMDQ4NjgiLCJwb3N0aWQiOiIxNTgzMTY0NDA2NjkiLCJibG9naWQiOiIyMDU5ODE2ODEiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMjMwNzkyNjgyIiwicm9vdF9wb3N0aWQiOiIxNTY4NDU5MjYwNTgiLCJwb3N0aWQiOiIxNTgyNzcxNTU4MzQiLCJibG9naWQiOiIyMDU5ODE2ODEiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMTM2NzkyODMwIiwicm9vdF9wb3N0aWQiOiIxNTMxNDg4MTg3NzMiLCJwb3N0aWQiOiIxNTgyNzY1MjgwMTUiLCJibG9naWQiOiIyMDU5ODE2ODEiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMTA2OTA3ODgyIiwicm9vdF9wb3N0aWQiOiIxNTMxMjc2NDQ4MzgiLCJwb3N0aWQiOiIxNTgyMzY4NzE5OTUiLCJibG9naWQiOiIyMDU5ODE2ODEiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMjE2NTkxNzE5Iiwicm9vdF9wb3N0aWQiOiIxNTY5NDIyMjE3NDEiLCJwb3N0aWQiOiIxNTgxOTc1NDM0OTMiLCJibG9naWQiOiIyMDU5ODE2ODEiLCJzb3VyY2UiOjMzfV19&U=DFJFNCJDPP&K=a756020d72567d3d5409516fa16e8d98ee287851f01fbcf59fc4c460fa34df4f&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());
+
+>

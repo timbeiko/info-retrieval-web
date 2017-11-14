@@ -1,179 +1,1277 @@
-\n
-SOUTH ASIAN FILM FESTIVAL, Oct 27-29 / Nov 3-5, de S\xe8ves Theatre | CUPFA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bonnie Baxter | Lauréate du prix Charles-Biddle 2017 | Capsules | La Fabrique culturelle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+try{Typekit.load();}catch(e){}
+
+
+
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6035744", c3: "", c4: "" });
+
+	(function() {
+		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	})();
+
+
+
+
+    var GA_CustomDimensions = {'dimension1':'Multi','dimension2':'Montréal','dimension3':'Portrait','dimension4':'Télé-Québec','dimension5':'Montréal','dimension6':'MNMedia','dimension7':'Video','dimension8':'LaFab','dimension9':'Non-connecté'};
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-48304425-1', 'auto');
+    ga('send', 'pageview', GA_CustomDimensions );
+
+
+
+
+
+
+        {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "La Fabrique culturelle",
+        "alternateName": "La culture a une nouvelle adresse",
+        "url": "http://www.lafabriqueculturelle.tv/"
+        }
+    
+
+
+
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://www.lafabriqueculturelle.tv/",
+        "logo": "http://www.lafabriqueculturelle.tv/content/images/logo_w240_h135.jpg"
+        }
+    
+
+
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-TW5S3XJ');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La Fabrique Culturelle
+
+
+
+
+
+
+La Fabrique culturelle
+
+
+Répertoires
+
+
+
+
+Thèmes
+
+
+
+
+
+
+Arts visuels & numériques
+
+
+Cinéma
+
+
+Court métrage
+
+
+Danse
+
+
+Design
+
+
+Littérature
+
+
+Multi
+
+
+Musique
+
+
+Société & musées
+
+
+Théâtre & scène
+
+
+
+
+
+
+
+
+
+
+Régions
+
+
+
+
+
+
+Abitibi-Témiscamingue
+
+
+Bas-Saint-Laurent
+
+
+Capitale-Nationale
+
+
+Centre-du-Québec
+
+
+Chaudière-Appalaches
+
+
+Côte-Nord
+
+
+Estrie
+
+
+Gaspésie-Îles-de-la-Madeleine
+
+
+International
+
+
+
+
+
+
+Lanaudière
+
+
+Laurentides
+
+
+Laval
+
+
+Mauricie
+
+
+Montérégie
+
+
+Montréal
+
+
+Nord-du-Québec
+
+
+Outaouais
+
+
+Saguenay–Lac-Saint-Jean
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Se connecter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La Fabrique culturelle
+
+
+
+
+
+
+
+
+
+
+
+
+Répertoires
+
+
+
+
+
+
+Thèmes
+
+
+
+
+Arts visuels & numériques
+
+
+Cinéma
+
+
+Court métrage
+
+
+Danse
+
+
+Design
+
+
+Littérature
+
+
+Multi
+
+
+Musique
+
+
+Société & musées
+
+
+Théâtre & scène
+
+
+
+
+
+
+
+
+Régions
+
+
+
+
+Abitibi-Témiscamingue
+
+
+Bas-Saint-Laurent
+
+
+Capitale-Nationale
+
+
+Centre-du-Québec
+
+
+Chaudière-Appalaches
+
+
+Côte-Nord
+
+
+Estrie
+
+
+Gaspésie-Îles-de-la-Madeleine
+
+
+International
+
+
+Lanaudière
+
+
+Laurentides
+
+
+Laval
+
+
+Mauricie
+
+
+Montérégie
+
+
+Montréal
+
+
+Nord-du-Québec
+
+
+Outaouais
+
+
+Saguenay–Lac-Saint-Jean
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Se connecter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        $(document).ready(function () {
+            var mediaContentId = 10531;
+            var provider = 'mnmedia';
+            var referenceId = '35063';
+            var posterFrameUrl = 'https://images.telequebec.tv/medias/035063/default/w1008_h567.jpg';
+            var relativeUrl = '/capsules/10220/bonnie-baxter-laureate-du-prix-charles-biddle-2017';
+            var elementId = 'video-player-10531';
+            var permaLink = 'https://www.lafabriqueculturelle.tv/capsules/10220/bonnie-baxter-laureate-du-prix-charles-biddle-2017';
+            var isRelated = false;
+
+            LAFABRIQUE.Capsule.embedVideoPlayer(elementId, mediaContentId, 1000, 563, provider, referenceId, posterFrameUrl, relativeUrl, GA_CustomDimensions, isRelated, permaLink);
+        });
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Multi
+
+
+Bonnie Baxter | Lauréate du prix Charles-Biddle 2017
+
+
+
+
+
+
+La Fabrique culturelle
+
+
+
+
+
+
+Montréal
+
+
+
+
+        24 octobre 2017
+        
+    
+
+
+
+
+La Fabrique rencontre Bonnie Baxter, lauréate du prix Charles-Biddle 2017 qui souligne l’apport culturel d’une personne ayant immigré au Québec.
+
+
+ 
+
+
+Bonnie Baxter
  
- 
-img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-shadow:none !important;height:1em !important;width:1em !important;margin:0\n.07em !important;vertical-align:-0.1em !important;background:none !important;padding:0\n!important}
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-#site-title,#site-description{position:absolute;left:-9000px}
-Skip to content
-Professional Development
-Deadlines
-Teaching Application Form
-News
-Quick Links:
-\u2190
- CAMPUS EQUITY WEEK, Oct. 23-28
-BONNIE BAXTER wins Charles-Biddle Award 2017 
-\u2192
-SOUTH ASIAN FILM FESTIVAL, Oct 27-29 / Nov 3-5, de S\xe8ves Theatre
-\n
-Posted on
- 
-October 24, 2017
- 
-by
- 
-laurie
- 
-The South Asian Film Festival of Montreal \u2014 organized by 
-Dipti Gupta
- \u2014 highlights significant issues and themes being explored by South Asian and diaspora filmmakers. Filmmakers from India, the US, Canada will be present for panel discussions after each screening.
-October 27-29, November 3-5
-\nde S\xe8ves Theatre
-\nWebster Building
-For more information including the schedule, see: 
-http://www.saffm.centrekabir.com/en/
-\nThis entry was posted in 
-News
-. Bookmark the 
-permalink
-.
-\u2190
- CAMPUS EQUITY WEEK, Oct. 23-28
-BONNIE BAXTER wins Charles-Biddle Award 2017 
-\u2192
-Home
-About
-Mandate & History
-Executive 2017-20
-Committees
-Staff
-News & Events
-News
-Events
-Videos
-Media Coverage \u2013 Negotiations
-Collective Agreement
-Pensions and Retirement
-Pension Information
-Retirement Planning
-Professional Development
-About PD
-CUPFA Grants
-Travel and Expenses
-Grant Reports
-Small Claims
-PD \u2013 FAQ
-Office of Research
-Forms
-Publications
-Newsletters
-Survival Guide
-Commandments
-Multi-Section Courses
-Concordia Resources
-FAQ
-Contact Us
-\n
-Search for:
-\n
-\n
-Recent Posts
-Official Signing of 5th Collective Agreement
-Words and Public Space, Andrew Forster, Erin Moure...
-Campus Equity Week article in The Concordian
-Instability of Work a Cause of Stress for...
-BONNIE BAXTER wins Charles-Biddle Award 2017
-Post Archives
-\t\t
-Post Archives
-\n
-Select Month
- November 2017
- October 2017
- September 2017
- August 2017
- July 2017
- June 2017
- May 2017
- April 2017
- March 2017
- February 2017
- January 2017
- December 2016
- November 2016
- October 2016
- September 2016
- August 2016
- June 2016
- May 2016
- April 2016
- March 2016
- February 2016
- January 2016
- December 2015
- November 2015
- October 2015
- September 2015
- August 2015
- June 2015
- May 2015
- March 2015
- February 2015
- November 2014
- October 2014
- September 2014
- April 2014
- March 2014
- February 2014
- January 2014
- November 2013
- October 2013
- September 2013
- August 2013
- July 2013
- May 2013
- April 2013
- March 2013
- February 2013
- January 2013
- December 2012
- November 2012
- October 2012
- September 2012
- May 2012
- April 2012
- March 2012
- February 2012
-Contact Info
-Office Hours
-\nMonday \u2013 Thursday
-\n9 am to 4 pm
-2150 Bishop, S-K-310
-\nMontreal, Quebec  H3G 1M8
-Telephone
-\n514-848-2424-3691
-Facsimile
-\n514-848-3648
-\n
-\n
-\n
-\nCopyright \xa9 CUPFA. All Rights Reserved.
- 
-jQuery(document).ready(function($){jQuery('#dc_jqaccordion_widget-2-item .menu').dcAccordion({eventType:'click',hoverDelay:0,menuClose:false,autoClose:true,saveState:true,autoExpand:true,classExpand:'current-menu-item',classDisable:'',showCount:false,disableLink:true,cookie:'dc_jqaccordion_widget-2',speed:'fast'});});
- 
-jQuery(document).ready(function($){$("a[rel*=lightbox]").colorbox({speed:350,initialWidth:"300",initialHeight:"100",maxWidth:"75%",opacity:0.8,loop:false,scrolling:false,escKey:false,arrowKey:false,top:false,right:false,bottom:false,left:false});});
- 
- 
- \n>
+habite au Canada depuis 1972. Artiste multidisciplinaire, elle expose depuis 40 ans. Elle a fondé en 1982 l’Atelier d’impression d’art le Scarabée et enseigne l’art visuel à l’université Concordia depuis maintenant 30 ans.
+
+
+
+
+ 
+
+
+Originaire des États-Unis, mais fière résidente de Val-David, Bonnie Baxter est une artiste établie et inscrite dans son milieu. En effet, elle fait partie des membres fondateurs de l’Atelier de l’Ile et de l’Atelier du Scarabée dont elle fut également directrice. Ses talents pour l’imprimé et la gravure la mèneront à réaliser l’impression de corpus majeurs telle l’entièreté des 
+œ
+uvres imprimées de Jean-Paul Riopelle (1985-1993). Professeure à l’Université Concordia, Bonnie Baxter est également une artiste prolifique dont les 
+œ
+uvres ont une résonance et une reconnaissance internationale (Paris, New York, Toronto, Montréal, etc.). Combinant estampe traditionnelle et nouveaux médias, la graveuse travaille par strates lui permettant ainsi de lier par la technique différents niveaux de significations. (Source : 
+site de l’artiste
+)
+
+
+
+
+Nommé en l'honneur du célèbre jazzman Charles Biddle, ce prix est remis conjointement par le ministère de l'Immigration et l'organisme Culture pour tous. L’an dernier, le prix Charles-Biddle a été décerné à 
+l’auteure-compositrice-interprète 
+Lynda Thalie
+, 
+originaire d’Algérie.
+
+
+http://www.culturepourtous.ca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+artiste multidisciplinaire
+
+
+
+
+
+
+atelier du scarabée
+
+
+
+
+
+
+imprimeur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Crédits
+
+
+
+
+Coordination : Virginie Lamontagne
+
+
+Réalisation et montage : Jérôme Scaglia
+
+
+Caméra : Louis-Philippe Chagnon et Jérôme Scaglia
+
+
+
+
+
+
+
+
+Signaler un abus
+
+
+
+
+
+
+Commentaires
+
+
+
+
+
+
+
+
+
+
+Il n'y a aucun commentaire pour le moment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tweeter
+
+
+
+
+
+
+
+
+
+
+
+
+S'abonner à l'infolettre
+
+
+
+
+
+
+J'aime
+
+
+
+
+
+
+
+
+ Ajouter à mes collections
+
+
+
+
+
+
+
+
+
+
+ 
+941
+
+
+ 
+7
+
+
+ 
+0
+
+
+
+
+
+
+
+
+
+
+
+
+Vous aimerez aussi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Multi
+
+
+
+
+
+
+Montréal
+
+
+Ma migration
+
+
+Par 
+Bibliothèque et Archives nationales du Québec
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Multi
+
+
+
+
+
+
+Gaspésie-Îles-de-la-Madeleine
+
+
+Benjamin Claveau, douze ans et déjà de multiples talents!
+
+
+Par 
+La Fabrique culturelle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Multi
+
+
+
+
+
+
+Montréal
+
+
+Loto-Québec & le festival Vue sur la Relève présentent Les Bordéliques
+
+
+Par 
+Livetoune
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Multi
+
+
+
+
+
+
+Côte-Nord
+
+
+Natasha Durand : déambuler pour créer
+
+
+Par 
+La Fabrique culturelle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Multi
+
+
+
+
+
+
+Gaspésie-Îles-de-la-Madeleine
+
+
+Patrick Le Blond, céramiste qui peint ou peintre qui tourne?
+
+
+Par 
+La Fabrique culturelle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Multi
+
+
+
+
+
+
+Montréal
+
+
+Guillaume Brisson-Darveau : Poésie géométrique
+
+
+Par 
+La Fabrique culturelle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recevez notre infolettre
+
+
+S'abonner 
+
+
+
+
+
+
+Suivez-nous sur les réseaux sociaux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Répertoires
+
+
+
+
+La Fabrique culturelle
+
+
+Nos partenaires
+
+
+La communauté
+
+
+
+
+
+
+
+
+Régions
+
+
+
+
+Abitibi-Témiscamingue
+
+
+Bas-Saint-Laurent
+
+
+Capitale-Nationale
+
+
+Centre-du-Québec
+
+
+Chaudière-Appalaches
+
+
+Côte-Nord
+
+
+Estrie
+
+
+Gaspésie-Îles-de-la-Madeleine
+
+
+International
+
+
+Lanaudière
+
+
+Laurentides
+
+
+Laval
+
+
+Mauricie
+
+
+Montérégie
+
+
+Montréal
+
+
+Nord-du-Québec
+
+
+Outaouais
+
+
+Saguenay–Lac-Saint-Jean
+
+
+
+
+
+
+
+
+Thèmes
+
+
+
+
+Arts visuels & numériques
+
+
+Cinéma
+
+
+Court métrage
+
+
+Danse
+
+
+Design
+
+
+Littérature
+
+
+Multi
+
+
+Musique
+
+
+Société & musées
+
+
+Théâtre & scène
+
+
+
+
+
+
+
+
+Plan du site
+
+
+
+
+Webséries
+
+
+Billets
+
+
+Dossiers
+
+
+Nos partenaires
+
+
+À propos
+
+
+Foire aux questions
+
+
+Nous joindre
+
+
+S'abonner à l'infolettre 
+
+
+Fils RSS
+
+
+
+
+
+
+
+
+Une production de 
+
+
+
+
+
+
+
+
+
+
+© Télé-Québec — laFabriqueCulturelle.tv
+
+
+
+
+Avis Juridiques
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    window.fbAsyncInit = function () {
+        FB.init({
+            appId: '1428895017345551',
+            status: false,
+            xfbml: true
+        });
+        FB.Event.subscribe('edge.create', function(targetUrl) {
+            ga('send', 'social', 'Facebook', 'like', targetUrl);
+        });
+        FB.Event.subscribe('edge.remove', function(targetUrl) {
+            ga('send', 'social', 'Facebook', 'unlike', targetUrl);
+        });
+    };
+    // Asynchronously
+    (function (d) {
+        var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+        if (d.getElementById(id)) { return; }
+        js = d.createElement('script'); js.id = id; js.async = true;
+        js.src = "//connect.facebook.net/fr_CA/all.js";
+        ref.parentNode.insertBefore(js, ref);
+    } (document));
+
+
+
+
+
+
+window.___gcfg = {lang: 'fr-CA'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = '//apis.google.com/js/platform.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+
+
+
+
+(function(d){
+    var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');
+    p.type = 'text/javascript';
+    p.async = true;
+    p.src = '//assets.pinterest.com/js/pinit.js';
+    f.parentNode.insertBefore(p, f);
+}(document));
+
+
+
+
+        $(document)
+            .ready(function() {
+                var relativeUrl = '/capsules/10220/bonnie-baxter-laureate-du-prix-charles-biddle-2017';
+                var capsuleId = 10220;
+                LAFABRIQUE.Capsule.init(capsuleId);
+                LAFABRIQUE.Capsule.view(capsuleId, relativeUrl);
+            });
+
+        twttr.ready(function(twttr) {
+            twttr.events.bind('tweet',
+                function(event) {
+                    ga('send', 'social', 'Twitter', 'tweet', event.target.baseURI);
+                });
+        });
+    
+
+
+
+
+
+        var options = [];
+        var pub_manager = new Tq.Pub.Manager(options);
+    
+
+
+
+
+
+>

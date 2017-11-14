@@ -1,386 +1,1034 @@
-\n\n\t\t
+
+
+
+
+
+
 Academy of Art Video Art - IMCA+ArtX=Depot
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n\n\n\n
-\n    \n\t\t\n\t\t
-\n
-\n
-\n
-\n\n
-\n\n
-\n.wsite-header {\n\tbackground-image: url(/uploads/1/0/4/1/10415117/header_images/1418316158.jpg) !important;\n\tbackground-position: 0 0 !important;\n}\n
-\n\n\t\t
-\nvar STATIC_BASE = '//cdn1.editmysite.com/';\nvar ASSETS_BASE = '//cdn2.editmysite.com/';\nvar STYLE_PREFIX = 'wsite';\n
-\n
-\n\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.wsite-header {
+	background-image: url(/uploads/1/0/4/1/10415117/header_images/1418316158.jpg) !important;
+	background-position: 0 0 !important;
+}
+
+
+
+
+var STATIC_BASE = '//cdn1.editmysite.com/';
+var ASSETS_BASE = '//cdn2.editmysite.com/';
+var STYLE_PREFIX = 'wsite';
+
+
+
+
+
+
+
 _W.configDomain = "www.weebly.com";
 _W.relinquish && _W.relinquish()
-\n
+
+
  _W.themePlugins = [];
  _W.recaptchaUrl = "https://www.google.com/recaptcha/api.js"; 
-<!--\n\t\n\tvar DISABLE_NAV_MORE = 1;\n\tfunction initFlyouts(){\n\t\tinitPublishedFlyoutMenus(\n\t\t\t[{"id":"441618202762636123","title":"IMCA Resources Center","url":"index.html","target":"","nav_menu":false,"nonclickable":false},{"id":"448320175845503887","title":"IMCA Video Editing Suites","url":"imca-video-editing-suites.html","target":"","nav_menu":false,"nonclickable":false},{"id":"248093384698948783","title":"IMCA Production Studios","url":"imca-production-studios.html","target":"","nav_menu":false,"nonclickable":false},{"id":"886468432966600575","title":"IMCA Project Lab & Workshop","url":"imca-project-lab--workshop.html","target":"","nav_menu":false,"nonclickable":false},{"id":"228309228859243666","title":"IMCA EART Studios","url":"imca-eart-studios.html","target":"","nav_menu":false,"nonclickable":false},{"id":"379159595479729855","title":"IMCA Depot staff","url":"imca-depot-staff.html","target":"","nav_menu":false,"nonclickable":false},{"id":"662609960222368051","title":"IMCA Graduation Show","url":"imca-graduation-show.html","target":"","nav_menu":false,"nonclickable":false},{"id":"334655608876055387","title":"IMCA-SC","url":"imca-sc.html","target":"","nav_menu":false,"nonclickable":false},{"id":"662019359800846615","title":"Academy of Art Video Art","url":"academy-of-art-video-art.html","target":"","nav_menu":false,"nonclickable":false},{"id":"272816591507419915","title":"ARTX Facilities","url":"artx-facilities.html","target":"","nav_menu":false,"nonclickable":false}],\n\t\t\t"662019359800846615",\n\t\t\t'',\n\t\t\t'active',\n\t\t\tfalse,\n\t\t\t{"navigation\\/item":"<li {{#id}}id=\\"{{id}}\\"{{\\/id}} class=\\"wsite-menu-item-wrap\\">\\n\\t<a\\n\\t\\t{{^nonclickable}}\\n\\t\\t\\t{{^nav_menu}}\\n\\t\\t\\t\\thref=\\"{{url}}\\"\\n\\t\\t\\t{{\\/nav_menu}}\\n\\t\\t{{\\/nonclickable}}\\n\\t\\t{{#target}}\\n\\t\\t\\ttarget=\\"{{target}}\\"\\n\\t\\t{{\\/target}}\\n\\t\\t{{#membership_required}}\\n\\t\\t\\tdata-membership-required=\\"{{.}}\\"\\n\\t\\t{{\\/membership_required}}\\n\\t\\tclass=\\"wsite-menu-item\\"\\n\\t\\t>\\n\\t\\t{{{title_html}}}\\n\\t<\\/a>\\n\\t{{#has_children}}{{> navigation\\/flyout\\/list}}{{\\/has_children}}\\n<\\/li>\\n","navigation\\/flyout\\/list":"<div class=\\"wsite-menu-wrap\\" style=\\"display:none\\">\\n\\t<ul class=\\"wsite-menu\\">\\n\\t\\t{{#children}}{{> navigation\\/flyout\\/item}}{{\\/children}}\\n\\t<\\/ul>\\n<\\/div>\\n","navigation\\/flyout\\/item":"<li {{#id}}id=\\"{{id}}\\"{{\\/id}}\\n\\tclass=\\"wsite-menu-subitem-wrap {{#is_current}}wsite-nav-current{{\\/is_current}}\\"\\n\\t>\\n\\t<a\\n\\t\\t{{^nonclickable}}\\n\\t\\t\\t{{^nav_menu}}\\n\\t\\t\\t\\thref=\\"{{url}}\\"\\n\\t\\t\\t{{\\/nav_menu}}\\n\\t\\t{{\\/nonclickable}}\\n\\t\\t{{#target}}\\n\\t\\t\\ttarget=\\"{{target}}\\"\\n\\t\\t{{\\/target}}\\n\\t\\tclass=\\"wsite-menu-subitem\\"\\n\\t\\t>\\n\\t\\t<span class=\\"wsite-menu-title\\">\\n\\t\\t\\t{{{title_html}}}\\n\\t\\t<\\/span>{{#has_children}}<span class=\\"wsite-menu-arrow\\">&gt;<\\/span>{{\\/has_children}}\\n\\t<\\/a>\\n\\t{{#has_children}}{{> navigation\\/flyout\\/list}}{{\\/has_children}}\\n<\\/li>\\n"},\n\t\t\t{}\n\t\t)\n\t}\n//-->\n
-\n\t\t\n\t\t\n\t\n\t
-\n        
-\n            
-\n\t
+<!--
+	
+	var DISABLE_NAV_MORE = 1;
+	function initFlyouts(){
+		initPublishedFlyoutMenus(
+			[{"id":"441618202762636123","title":"IMCA Resources Center","url":"index.html","target":"","nav_menu":false,"nonclickable":false},{"id":"448320175845503887","title":"IMCA Video Editing Suites","url":"imca-video-editing-suites.html","target":"","nav_menu":false,"nonclickable":false},{"id":"248093384698948783","title":"IMCA Production Studios","url":"imca-production-studios.html","target":"","nav_menu":false,"nonclickable":false},{"id":"886468432966600575","title":"IMCA Project Lab & Workshop","url":"imca-project-lab--workshop.html","target":"","nav_menu":false,"nonclickable":false},{"id":"228309228859243666","title":"IMCA EART Studios","url":"imca-eart-studios.html","target":"","nav_menu":false,"nonclickable":false},{"id":"379159595479729855","title":"IMCA Depot staff","url":"imca-depot-staff.html","target":"","nav_menu":false,"nonclickable":false},{"id":"662609960222368051","title":"IMCA Graduation Show","url":"imca-graduation-show.html","target":"","nav_menu":false,"nonclickable":false},{"id":"334655608876055387","title":"IMCA-SC","url":"imca-sc.html","target":"","nav_menu":false,"nonclickable":false},{"id":"662019359800846615","title":"Academy of Art Video Art","url":"academy-of-art-video-art.html","target":"","nav_menu":false,"nonclickable":false},{"id":"272816591507419915","title":"ARTX Facilities","url":"artx-facilities.html","target":"","nav_menu":false,"nonclickable":false}],
+			"662019359800846615",
+			'',
+			'active',
+			false,
+			{"navigation\/item":"<li {{#id}}id=\"{{id}}\"{{\/id}} class=\"wsite-menu-item-wrap\">\n\t<a\n\t\t{{^nonclickable}}\n\t\t\t{{^nav_menu}}\n\t\t\t\thref=\"{{url}}\"\n\t\t\t{{\/nav_menu}}\n\t\t{{\/nonclickable}}\n\t\t{{#target}}\n\t\t\ttarget=\"{{target}}\"\n\t\t{{\/target}}\n\t\t{{#membership_required}}\n\t\t\tdata-membership-required=\"{{.}}\"\n\t\t{{\/membership_required}}\n\t\tclass=\"wsite-menu-item\"\n\t\t>\n\t\t{{{title_html}}}\n\t<\/a>\n\t{{#has_children}}{{> navigation\/flyout\/list}}{{\/has_children}}\n<\/li>\n","navigation\/flyout\/list":"<div class=\"wsite-menu-wrap\" style=\"display:none\">\n\t<ul class=\"wsite-menu\">\n\t\t{{#children}}{{> navigation\/flyout\/item}}{{\/children}}\n\t<\/ul>\n<\/div>\n","navigation\/flyout\/item":"<li {{#id}}id=\"{{id}}\"{{\/id}}\n\tclass=\"wsite-menu-subitem-wrap {{#is_current}}wsite-nav-current{{\/is_current}}\"\n\t>\n\t<a\n\t\t{{^nonclickable}}\n\t\t\t{{^nav_menu}}\n\t\t\t\thref=\"{{url}}\"\n\t\t\t{{\/nav_menu}}\n\t\t{{\/nonclickable}}\n\t\t{{#target}}\n\t\t\ttarget=\"{{target}}\"\n\t\t{{\/target}}\n\t\tclass=\"wsite-menu-subitem\"\n\t\t>\n\t\t<span class=\"wsite-menu-title\">\n\t\t\t{{{title_html}}}\n\t\t<\/span>{{#has_children}}<span class=\"wsite-menu-arrow\">&gt;<\/span>{{\/has_children}}\n\t<\/a>\n\t{{#has_children}}{{> navigation\/flyout\/list}}{{\/has_children}}\n<\/li>\n"},
+			{}
+		)
+	}
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 this unofficial website is sponsored by a student association
-\n
-\n                        
-\n                            \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n                            \n                        \n                    
-\n                \n\t\t\t\t\t\n                    \n                \n            \n        
-\n    
-  \n\n    
-\n        
-\n        \t
-\n\n\t
-\n\t\n\t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 IMCA+ArtX=Depot
-\n\t\n\t
-\n\n
-\n        
-\n    
-\n\n\t
-\n        
-\n        \t
-\n        \t\t\t
-\n        \t\t\t\t
-\n        \t\t\t\t\tIMCA Resources Center\n        \t\t\t\t
-\n        \t\t\t\t\n        \t\t\t
-\n        \t\t\t
-\n        \t\t\t\t
-\n        \t\t\t\t\tIMCA Video Editing Suites\n        \t\t\t\t
-\n        \t\t\t\t\n        \t\t\t
-\n        \t\t\t
-\n        \t\t\t\t
-\n        \t\t\t\t\tIMCA Production Studios\n        \t\t\t\t
-\n        \t\t\t\t\n        \t\t\t
-\n        \t\t\t
-\n        \t\t\t\t
-\n        \t\t\t\t\tIMCA Project Lab & Workshop\n        \t\t\t\t
-\n        \t\t\t\t\n        \t\t\t
-\n        \t\t\t
-\n        \t\t\t\t
-\n        \t\t\t\t\tIMCA EART Studios\n        \t\t\t\t
-\n        \t\t\t\t\n        \t\t\t
-\n        \t\t\t
-\n        \t\t\t\t
-\n        \t\t\t\t\tIMCA Depot staff\n        \t\t\t\t
-\n        \t\t\t\t\n        \t\t\t
-\n        \t\t\t
-\n        \t\t\t\t
-\n        \t\t\t\t\tIMCA Graduation Show\n        \t\t\t\t
-\n        \t\t\t\t\n        \t\t\t
-\n        \t\t\t
-\n        \t\t\t\t
-\n        \t\t\t\t\tIMCA-SC\n        \t\t\t\t
-\n        \t\t\t\t\n        \t\t\t
-\n        \t\t\t
-\n        \t\t\t\t
-\n        \t\t\t\t\tAcademy of Art Video Art\n        \t\t\t\t
-\n        \t\t\t\t\n        \t\t\t
-\n        \t\t\t
-\n        \t\t\t\t
-\n        \t\t\t\t\tARTX Facilities\n        \t\t\t\t
-\n        \t\t\t\t\n        \t\t\t
-\n        \t
-\n        
-\n    
-\n\n    
-\n        
-\n            
-\n\t\t\t\t
-\n\t\t\t\t\t
-\n\t\t\t\t\t\t
-\n\t\t\t\t\t
-\n\t\t\t\t\t\n\t\t\t\t\t
-\n\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t
-\n\t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        					IMCA Resources Center
+        				
+
+
+
+
+
+
+
+        					IMCA Video Editing Suites
+        				
+
+
+
+
+
+
+
+        					IMCA Production Studios
+        				
+
+
+
+
+
+
+
+        					IMCA Project Lab & Workshop
+        				
+
+
+
+
+
+
+
+        					IMCA EART Studios
+        				
+
+
+
+
+
+
+
+        					IMCA Depot staff
+        				
+
+
+
+
+
+
+
+        					IMCA Graduation Show
+        				
+
+
+
+
+
+
+
+        					IMCA-SC
+        				
+
+
+
+
+
+
+
+        					Academy of Art Video Art
+        				
+
+
+
+
+
+
+
+        					ARTX Facilities
+        				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 academy of art video art
-\n
-\n\t\t\t\t\t\t\t\t
-\n\t
-\n
-\n\t\t\t\t\t\t\t\t
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Visit our website - become a member
-\n
-\n
-\n\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t
-\n\t\t\t\t\t
-\n\n\t\t\t\t\t
-\n\t\t\t\t\t\n\t\t\t\t
-\n            
-\n        
-\n    
-\n\n    
-\n        
-\n   \t\t\t
-\n\t
-\n
-\n
-\n\n
-\n\t
-\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n
-\n\n\n\t\t\t\t\t\n\t\t\t\t
-\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
 the aCADEmy of art video art
-\n\n
-\n
-\xa0\xa0 Started  by Jacob MacDonnell in 2004/2005 the AAVA has enjoyed much success.\xa0  Events often organized with sponsorship from local artist run centers  continue to draw attention from both the Concordia artist community as  well as Montreal\u2019s larger artistic scene. Traditionally organized by  students enrolled in Intermedia (IMCA, Studio Arts, Concordia University), and sometimes, working at the  IMCA Depot, the Academy of Art Video Art is a great opportunity for  student video artists to see their creations displayed outside of the  University context..
-\n
-\n\n\n\t\t\t\t\t\n\t\t\t\t
-\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n
-\n\n\n\t\t\t\t\t\n\t\t\t\t
-\n\t\t\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\n\t\n
-\n\n
-\n
-\n
-\n\n
-\n\t
-\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n\n\t\t\t\t\t\n\t\t\t\t
-\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n\n\t\t\t\t\t\n\t\t\t\t
-\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n
-\n\t
-\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n\n\t\t\t\t\t\n\t\t\t\t
-\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n\n\n\t\t\t\t\t\n\t\t\t\t
-\n\t\t\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\n\t\n
-\n\n\n\t\t\t\t\t\n\t\t\t\t
-\n\t\t\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\n\t\n
-\n
-\n\n        
-\n    
-\n\n    
-\n        
-\n       \t\t
-\n\t
-\n\t\t
+
+
+
+
+   Started  by Jacob MacDonnell in 2004/2005 the AAVA has enjoyed much success.   Events often organized with sponsorship from local artist run centers  continue to draw attention from both the Concordia artist community as  well as Montreal’s larger artistic scene. Traditionally organized by  students enrolled in Intermedia (IMCA, Studio Arts, Concordia University), and sometimes, working at the  IMCA Depot, the Academy of Art Video Art is a great opportunity for  student video artists to see their creations displayed outside of the  University context..
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Create a free website
-\n\t\t
-\n\t\t\tPowered by 
-\n\t\t
-\n\t
-\n
-\n\n
-\n
-\n\tWeebly.footer.setupContainer('cdn2.editmysite.com', '1510346881', 'www.weebly.com');\n
-\n\n
-\n//<!--\n\nif (document.cookie.match(/(^|;)\\s*is_mobile=1/)) {\n\tvar windowHref = window.location.href || '';\n\tif (windowHref.indexOf('?') > -1) {\n\t\twindowHref += '&';\n\t} else {\n\t\twindowHref += '?';\n\t}\n\tdocument.write(\n\t\t"&nbsp;&nbsp;&nbsp;&nbsp;" +\n\t\t"<a class='wsite-view-link-mobile' href='" + windowHref + "view=mobile'>Mobile Site</a>"\n\t);\n}\n\n//-->\n
-\n        
-\n    
-\n\t\n\n\n\t\t
-\n\n\tvar _gaq = _gaq || [];\n\t_gaq.push(['_setAccount', 'UA-7870337-1']);\n\t_gaq.push(['_setDomainName', 'none']);\n\t_gaq.push(['_setAllowLinker', true]);\n\n\t(function() {\n\t\tvar ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n\t\tga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n\t\tvar s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n\t})();\n\n\t_W.Analytics = _W.Analytics || {'trackers': {}};\n\t_W.Analytics.trackers.wGA = '_gaq';\n\n
-\n\n
-\n\t;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];\n\t\t\tp.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)\n\t\t\t};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;\n\t\t\tn.src=w;g.parentNode.insertBefore(n,g)}}(window,document,'script','//cdn2.editmysite.com/js/wsnbn/snowday262.js','snowday'));\n\n\tvar r = [99, 104, 101, 99, 107, 111, 117, 116, 46, 40, 119, 101, 101, 98, 108, 121, 124, 101, 100, 105, 116, 109, 121, 115, 105, 116, 101, 41, 46, 99, 111, 109];\n\tvar snPlObR = function(arr) {\n\t\tvar s = '';\n\t\tfor (var i = 0 ; i < arr.length ; i++){\n\t\t\ts = s + String.fromCharCode(arr[i]);\n\t\t}\n\t\treturn s;\n\t};\n\tvar s = snPlObR(r);\n\n\tvar regEx = new RegExp(s);\n\n\t_W.Analytics = _W.Analytics || {'trackers': {}};\n\t_W.Analytics.trackers.wSP = 'snowday';\n\t_W.Analytics.user_id = '10415117';\n\t_W.Analytics.site_id = '518382264843726497';\n\n\n\t(function(app_id, ec_hostname, discover_root_domain) {\n\t\tvar track = window[_W.Analytics.trackers.wSP];\n\t\tif (!track) return;\n\t\ttrack('newTracker', app_id, ec_hostname, {\n\t\t\tappId: app_id,\n\t\t\tpost: true,\n\t\t\tplatform: 'web',\n\t\t\tdiscoverRootDomain: discover_root_domain,\n\t\t\tcookieName: '_snow_',\n\t\t\tcontexts: {\n\t\t\t\twebPage: true,\n\t\t\t\tperformanceTiming: true,\n\t\t\t\tgaCookies: true\n\t\t\t},\n\t\t\tcrossDomainLinker: function (linkElement) {\n\t\t\t\treturn regEx.test(linkElement.href);\n\t\t\t}\n\t\t});\n\t\ttrack('trackPageView', _W.Analytics.user_id+':'+_W.Analytics.site_id);\n\t\ttrack('crossDomainLinker', function (linkElement) {\n\t\t\treturn regEx.test(linkElement.href);\n\t\t});\n\t})(\n\t\t'_wn',\n\t\t'ec.editmysite.com',\n\t\ttrue\n\t);\n
-\n\n
-\n
-\nvar _qevents = _qevents || [];\n\n(function() {\nvar elem = document.createElement('script');\nelem.src = "https://secure.quantserve.com/quant.js";\nelem.async = true;\nelem.type = "text/javascript";\nvar scpt = document.getElementsByTagName('script')[0];\nscpt.parentNode.insertBefore(elem, scpt);\n})();\n\n_qevents.push({\nqacct:"p-0dYLvhSGGqUWo",\nlabels:"l0,u10415117.u10415117s518382264843726497"\n});\n
-\n\n
-\n&lt;div style="display:none;"&gt;\n&lt;img src="//pixel.quantserve.com/pixel/p-0dYLvhSGGqUWo.gif?labels=l0,u10415117.u10415117s518382264843726497" border="0" height="1" width="1" alt="Quantcast"/&gt;\n&lt;/div&gt;\n
-\n
-\n\n\n
-\n\n\t(function(jQuery) {\n\t\ttry {\n\t\t\tif (jQuery) {\n\t\t\t\tjQuery('div.blog-social div.fb-like').attr('class', 'blog-social-item blog-fb-like');\n\t\t\t\tvar $commentFrame = jQuery('#commentArea iframe');\n\t\t\t\tif ($commentFrame.length > 0) {\n\t\t\t\t\tvar frameHeight = jQuery($commentFrame[0].contentWindow.document).height() + 50;\n\t\t\t\t\t$commentFrame.css('min-height', frameHeight + 'px');\n\t\t\t\t}\n\t\t\t\tif (jQuery('.product-button').length > 0){\n\t\t\t\t\tjQuery(document).ready(function(){\n\t\t\t\t\t\tjQuery('.product-button').parent().each(function(index, product){\n\t\t\t\t\t\t\tif(jQuery(product).attr('target') == 'paypal'){\n\t\t\t\t\t\t\t\tif (!jQuery(product).find('> [name="bn"]').length){\n\t\t\t\t\t\t\t\t\tjQuery('<input>').attr({\n\t\t\t\t\t\t\t\t\t\ttype: 'hidden',\n\t\t\t\t\t\t\t\t\t\tname: 'bn',\n\t\t\t\t\t\t\t\t\t\tvalue: 'DragAndDropBuil_SP_EC'\n\t\t\t\t\t\t\t\t\t}).appendTo(product);\n\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t}\n\t\t\t}\n\t\t\telse {\n\t\t\t\t// Prototype\n\t\t\t\t$$('div.blog-social div.fb-like').each(function(div) {\n\t\t\t\t\tdiv.className = 'blog-social-item blog-fb-like';\n\t\t\t\t});\n\t\t\t\t$$('#commentArea iframe').each(function(iframe) {\n\t\t\t\t\tiframe.style.minHeight = '410px';\n\t\t\t\t});\n\t\t\t}\n\t\t}\n\t\tcatch(ex) {}\n\t})(window._W && _W.jQuery);\n\n
-\n
-\n\t
-\n\t
-\u2715
-\n
-\n\n
-\n\t(function($) {\n\t\twindow.cookie_location = '';\n\t\t// this cookie_content should already be pre-encoded from CookieSettingView.js\n\t\twindow.cookie_content = '' || _W.stl('templates.publish.virtual-includes.footerCode_1');\n\t\twindow.cookie_policy_key = '518382264843726497_cookie_policy';\n\t\twindow.cookie_content_hash = '';\n\n\t\tif (!_W.getCookie(window.cookie_policy_key) || _W.getCookie(window.cookie_policy_key) !== window.cookie_content_hash){\n\t\t\tif (window.cookie_location === 'top' || window.cookie_location === 'bottom'){\n\t\t\t\t$('#eu-cookie-content').text(decodeURIComponent(window.cookie_content));\n\t\t\t\t(window.cookie_location === 'top') ? animateFromTop() : animateFromBottom();\n\t\t\t\t$('#eu-cookie').show();\n\t\t\t}\n\t\t}\n\n\t\t$('#eu-cookie-close').click(function(){\n\t\t\t_W.setCookie(window.cookie_policy_key, window.cookie_content_hash, 100000);\n\t\t\t$('#eu-cookie').hide();\n\t\t});\n\n\t\tfunction animateFromTop(){\n\t\t\t$('#eu-cookie').css({\n\t\t\t\t'top': '0px',\n\t\t\t\t'animation': 'reveal-top 1 2s'\n\t\t\t});\n\t\t}\n\n\t\tfunction animateFromBottom(){\n\t\t\t$('#eu-cookie').css({\n\t\t\t\t'bottom': '0px',\n\t\t\t\t'animation': 'reveal-bottom 1 2s'\n\t\t\t});\n\t\t}\n\t})(window._W && _W.jQuery);\n
-\n\n\t\n\n>
+
+
+
+			Powered by 
+
+
+
+
+
+
+
+
+
+
+
+	Weebly.footer.setupContainer('cdn2.editmysite.com', '1510620350', 'www.weebly.com');
+
+
+
+
+//<!--
+
+if (document.cookie.match(/(^|;)\s*is_mobile=1/)) {
+	var windowHref = window.location.href || '';
+	if (windowHref.indexOf('?') > -1) {
+		windowHref += '&';
+	} else {
+		windowHref += '?';
+	}
+	document.write(
+		"&nbsp;&nbsp;&nbsp;&nbsp;" +
+		"<a class='wsite-view-link-mobile' href='" + windowHref + "view=mobile'>Mobile Site</a>"
+	);
+}
+
+//-->
+
+
+
+
+
+
+
+
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-7870337-1']);
+	_gaq.push(['_setDomainName', 'none']);
+	_gaq.push(['_setAllowLinker', true]);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+	_W.Analytics = _W.Analytics || {'trackers': {}};
+	_W.Analytics.trackers.wGA = '_gaq';
+
+
+
+
+
+	;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+			p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+			};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+			n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,'script','//cdn2.editmysite.com/js/wsnbn/snowday262.js','snowday'));
+
+	var r = [99, 104, 101, 99, 107, 111, 117, 116, 46, 40, 119, 101, 101, 98, 108, 121, 124, 101, 100, 105, 116, 109, 121, 115, 105, 116, 101, 41, 46, 99, 111, 109];
+	var snPlObR = function(arr) {
+		var s = '';
+		for (var i = 0 ; i < arr.length ; i++){
+			s = s + String.fromCharCode(arr[i]);
+		}
+		return s;
+	};
+	var s = snPlObR(r);
+
+	var regEx = new RegExp(s);
+
+	_W.Analytics = _W.Analytics || {'trackers': {}};
+	_W.Analytics.trackers.wSP = 'snowday';
+	_W.Analytics.user_id = '10415117';
+	_W.Analytics.site_id = '518382264843726497';
+
+
+	(function(app_id, ec_hostname, discover_root_domain) {
+		var track = window[_W.Analytics.trackers.wSP];
+		if (!track) return;
+		track('newTracker', app_id, ec_hostname, {
+			appId: app_id,
+			post: true,
+			platform: 'web',
+			discoverRootDomain: discover_root_domain,
+			cookieName: '_snow_',
+			contexts: {
+				webPage: true,
+				performanceTiming: true,
+				gaCookies: true
+			},
+			crossDomainLinker: function (linkElement) {
+				return regEx.test(linkElement.href);
+			}
+		});
+		track('trackPageView', _W.Analytics.user_id+':'+_W.Analytics.site_id);
+		track('crossDomainLinker', function (linkElement) {
+			return regEx.test(linkElement.href);
+		});
+	})(
+		'_wn',
+		'ec.editmysite.com',
+		true
+	);
+
+
+
+
+
+
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = "https://secure.quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-0dYLvhSGGqUWo",
+labels:"l0,u10415117.u10415117s518382264843726497"
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	(function(jQuery) {
+		try {
+			if (jQuery) {
+				jQuery('div.blog-social div.fb-like').attr('class', 'blog-social-item blog-fb-like');
+				var $commentFrame = jQuery('#commentArea iframe');
+				if ($commentFrame.length > 0) {
+					var frameHeight = jQuery($commentFrame[0].contentWindow.document).height() + 50;
+					$commentFrame.css('min-height', frameHeight + 'px');
+				}
+				if (jQuery('.product-button').length > 0){
+					jQuery(document).ready(function(){
+						jQuery('.product-button').parent().each(function(index, product){
+							if(jQuery(product).attr('target') == 'paypal'){
+								if (!jQuery(product).find('> [name="bn"]').length){
+									jQuery('<input>').attr({
+										type: 'hidden',
+										name: 'bn',
+										value: 'DragAndDropBuil_SP_EC'
+									}).appendTo(product);
+								}
+							}
+						});
+					});
+				}
+			}
+			else {
+				// Prototype
+				$$('div.blog-social div.fb-like').each(function(div) {
+					div.className = 'blog-social-item blog-fb-like';
+				});
+				$$('#commentArea iframe').each(function(iframe) {
+					iframe.style.minHeight = '410px';
+				});
+			}
+		}
+		catch(ex) {}
+	})(window._W && _W.jQuery);
+
+
+
+
+
+
+
+
+✕
+
+
+
+
+
+	(function($) {
+		window.cookie_location = '';
+		// this cookie_content should already be pre-encoded from CookieSettingView.js
+		window.cookie_content = '' || _W.stl('templates.publish.virtual-includes.footerCode_1');
+		window.cookie_policy_key = '518382264843726497_cookie_policy';
+		window.cookie_content_hash = '';
+
+		if (!_W.getCookie(window.cookie_policy_key) || _W.getCookie(window.cookie_policy_key) !== window.cookie_content_hash){
+			if (window.cookie_location === 'top' || window.cookie_location === 'bottom'){
+				$('#eu-cookie-content').text(decodeURIComponent(window.cookie_content));
+				(window.cookie_location === 'top') ? animateFromTop() : animateFromBottom();
+				$('#eu-cookie').show();
+			}
+		}
+
+		$('#eu-cookie-close').click(function(){
+			_W.setCookie(window.cookie_policy_key, window.cookie_content_hash, 100000);
+			$('#eu-cookie').hide();
+		});
+
+		function animateFromTop(){
+			$('#eu-cookie').css({
+				'top': '0px',
+				'animation': 'reveal-top 1 2s'
+			});
+		}
+
+		function animateFromBottom(){
+			$('#eu-cookie').css({
+				'bottom': '0px',
+				'animation': 'reveal-bottom 1 2s'
+			});
+		}
+	})(window._W && _W.jQuery);
+
+
+
+
+
+
+>

@@ -1,1 +1,1 @@
-<bound method BeautifulSoup.prettify of <html><head></head><body></body></html>>
+<bound method BeautifulSoup.prettify of >
