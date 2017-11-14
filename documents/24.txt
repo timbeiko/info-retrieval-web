@@ -1,505 +1,1135 @@
-\n
-\n
-\n
-Concordia Undergraduate Psychology Association
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n\t
-\n\t\t\t
-\n\t\t\twindow._wpemojiSettings = {"baseUrl":"https:\\/\\/s0.wp.com\\/wp-content\\/mu-plugins\\/wpcom-smileys\\/twemoji\\/2\\/72x72\\/","ext":".png","svgUrl":"https:\\/\\/s0.wp.com\\/wp-content\\/mu-plugins\\/wpcom-smileys\\/twemoji\\/2\\/svg\\/","svgExt":".svg","source":{"concatemoji":"https:\\/\\/s0.wp.com\\/wp-includes\\/js\\/wp-emoji-release.min.js?m=1505864856h&ver=4.8.2"}};\n\t\t\t!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);\n\t\t
-\n\t\t
-\nimg.wp-smiley,\nimg.emoji {\n\tdisplay: inline !important;\n\tborder: none !important;\n\tbox-shadow: none !important;\n\theight: 1em !important;\n\twidth: 1em !important;\n\tmargin: 0 .07em !important;\n\tvertical-align: -0.1em !important;\n\tbackground: none !important;\n\tpadding: 0 !important;\n}\n
-\n
-\n
-\n
-\n
-\n
-\n
- \n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n.widget_twitter li {\n\tword-wrap: break-word;\n}\n
-\n
-\n\t\t
-\n\t\tvar __ATA_PP = { pt: 0, ht: 0, tn: 'pilcrow', amp: false };\n\t\t
-\n\t\t
-\n\t\t
-\n
-\n\twindow.google_analytics_uacct = "UA-52447-2";\n
-\n\n
-\n\tvar _gaq = _gaq || [];\n\t_gaq.push(['_setAccount', 'UA-52447-2']);\n\t_gaq.push(['_setDomainName', 'wordpress.com']);\n\t_gaq.push(['_initData']);\n\t_gaq.push(['_trackPageview']);\n\n\t(function() {\n\t\tvar ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n\t\tga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n\t\t(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);\n\t})();\n
-\n\n\n\n
-\n\t
-\n\t\t
-\n\t\t\t\t\t\t
-\n\t\t\t\t
-\n\t\t\t\t\t
-Concordia Undergraduate Psychology Association
-\n\t\t\t\t
-\n\t\t\t
-\n\n\t\t\t
-\n\t\t\t  \t\t\t\t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CCSA | Concordia Classics Student Association
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1505864856h&ver=4.8.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  WebFontConfig = {"typekit":{"id":"pfh1mgi"}};
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+	})();
+
+
+
+
+
+
+		var __ATA_PP = { pt: 0, ht: 0, tn: 'pilcrow', amp: false };
+		var __ATA = __ATA || {};
+		__ATA.cmd = __ATA.cmd || [];
+		__ATA.criteo = __ATA.criteo || {};
+		__ATA.criteo.cmd = __ATA.criteo.cmd || [];
+		
+
+
+
+
+
+	window.google_analytics_uacct = "UA-52447-2";
+
+
+
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-52447-2']);
+	_gaq.push(['_setDomainName', 'wordpress.com']);
+	_gaq.push(['_initData']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+	})();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CCSA
+
+
+
+
+
+
+
+
 Skip to content
-\n\t\t\t\t\t\t\t\t
-\n
+
+
+
+
 Home
-Contact Us
-\n
-Executives
-\n
-\n\t\t\t
-\n\n\t\t\t
-\n\t\t\t\t
-\n\t\t\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t
-\n\t\t\t
-\n\t\t
-\n\n\t\t
-\n\n
-\n\t
-\n\n\t
-\n\t
-\u2190
+About Us
+
+
+Members
+
+
+The Market Place
+
+
+Photos
+
+
+Documents
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+←
  Older posts
-\n\t
-\n
-\n\n
-\n\t
-\n\n\t\tMay 29, 2012 \xb7 10:15 am\t
-\n\n\t
-Hoodies
-\t
-\n\t\t
-Hello everyone.
-\n
-In case you did not know at this point we have all the round 2 hoodies. You can pick it up on Thursday between 1 20 and 1 50. Otherwise you will have to contact me.
-\n\t\t\t
-\n\t\t\t\tdiv.wpmrec2x{max-width:610px;}\n\t\t\t\tdiv.wpmrec2x div.u > div{float:left;margin-right:10px;}\n\t\t\t\tdiv.wpmrec2x div.u > div:nth-child(3n){margin-right:0px;}\n\t\t\t
-\t\t
-\n\t\t\t
-\n\t\t\t\t
+
+
+
+
+
+
+
+
+
+
+		04/14/2012 · 6:42 PM	
+
+
+CCSA is Most Academically Focused!
+ 
+
+
+At last night’s ASFA Spring Ball, the Concordia Classics Student Association took home the title of “Most Academically Focused Member Association!” We’re thrilled to have been recognized for all our work organizing Brown Bag and Guest Lectures (as well as various other student and professor presentations) this year. And we want to thank all Classics faculty, CMLL staff, and, most importantly, participating Classics students (!) for helping make it a super productive and successful year. 
+
+
+Best of luck on finals/enjoy the start of your summer, as the case may be!
+
+
+-The CCSA
+
+
+
+
+
+
 Advertisements
-\n\t\t\t\t
-\n\t\t\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t(function(g,$){if("undefined"!=typeof g.__ATA){\n\t\t\t\t\t\t\tg.__ATA.initAd({collapseEmpty:'after', sectionId:26942, width:300, height:250});\n\t\t\t\t\t\t\tif($("#s26942").closest("div.wpcnt").outerWidth() > 305 ) {\n\t\t\t\t\t\t\t\tg.__ATA.initAd({collapseEmpty:'after', sectionId:114160, width:300, height:250});\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t}})(window,jQuery);\n\t\t\t\t\t
-\n\t\t\t\t
-\n\t\t\t\t\t\t
-\n\t\t
-\n\t\tvar o = document.getElementById('crt-1635467957');\n\t\tif ("undefined"!=typeof Criteo) {\n\t\t\tvar p = o.parentNode;\n\t\t\tp.style.setProperty('display', 'inline-block', 'important');\n\t\t\to.style.setProperty('display', 'block', 'important');\n\t\t\tCriteo.DisplayAcceptableAdIfAdblocked({zoneid:388248,containerid:"crt-1635467957",collapseContainerIfNotAdblocked:true,"callifnotadblocked": function () {var o = document.getElementById('crt-1635467957'); o.style.setProperty('display','none','important');o.style.setProperty('visbility','hidden','important'); } });\n\t\t} else {\n\t\t\to.style.setProperty('display', 'none', 'important');\n\t\t\to.style.setProperty('visibility', 'hidden', 'important');\n\t\t}\n\t\t
-\t\t
-\n\t\t
-\n\t\tvar o = document.getElementById('crt-215424067');\n\t\tif ("undefined"!=typeof Criteo) {\n\t\t\tvar p = o.parentNode;\n\t\t\tp.style.setProperty('display', 'inline-block', 'important');\n\t\t\to.style.setProperty('display', 'block', 'important');\n\t\t\tCriteo.DisplayAcceptableAdIfAdblocked({zoneid:837497,containerid:"crt-215424067",collapseContainerIfNotAdblocked:true,"callifnotadblocked": function () {var o = document.getElementById('crt-215424067'); o.style.setProperty('display','none','important');o.style.setProperty('visbility','hidden','important'); } });\n\t\t} else {\n\t\t\to.style.setProperty('display', 'none', 'important');\n\t\t\to.style.setProperty('visibility', 'hidden', 'important');\n\t\t}\n\t\t
-\n\t\t\t
-\n\t\t
-\t\t\t
-\n\t\n\t
-\n\t\t
+
+
+
+
+
+ __ATA.cmd.push(function() {
+                    __ATA.initSlot('atatags-26942',  {
+                        collapseEmpty: 'before',
+                        sectionId: '26942',
+                        width: 300,
+                        height: 250
+                    });
+                });
+	
+
+
+
+
+
+ __ATA.cmd.push(function() {
+                    __ATA.initSlot('atatags-114160',  {
+                        collapseEmpty: 'before',
+                        sectionId: '114160',
+                        width: 300,
+                        height: 250
+                    });
+                });
+	
+
+
+
+
+
+
+
+(function(){var c=function(){var a=document.getElementById("crt-637191893");window.Criteo?(a.parentNode.style.setProperty("display","inline-block","important"),a.style.setProperty("display","block","important"),window.Criteo.DisplayAcceptableAdIfAdblocked({zoneid:388248,containerid:"crt-637191893",collapseContainerIfNotAdblocked:!0,callifnotadblocked:function(){a.style.setProperty("display","none","important");a.style.setProperty("visbility","hidden","important")}})):(a.style.setProperty("display","none","important"),a.style.setProperty("visibility","hidden","important"))};if(window.Criteo)c();else{if(!__ATA.criteo.script){var b=document.createElement("script");b.src="//static.criteo.net/js/ld/publishertag.js";b.onload=function(){for(var a=0;a<__ATA.criteo.cmd.length;a++){var b=__ATA.criteo.cmd[a];"function"===typeof b&&b()}};(document.head||document.getElementsByTagName("head")[0]).appendChild(b);__ATA.criteo.script=b}__ATA.criteo.cmd.push(c)}})();
+		
+ 
+
+
+
+(function(){var c=function(){var a=document.getElementById("crt-548514868");window.Criteo?(a.parentNode.style.setProperty("display","inline-block","important"),a.style.setProperty("display","block","important"),window.Criteo.DisplayAcceptableAdIfAdblocked({zoneid:837497,containerid:"crt-548514868",collapseContainerIfNotAdblocked:!0,callifnotadblocked:function(){a.style.setProperty("display","none","important");a.style.setProperty("visbility","hidden","important")}})):(a.style.setProperty("display","none","important"),a.style.setProperty("visibility","hidden","important"))};if(window.Criteo)c();else{if(!__ATA.criteo.script){var b=document.createElement("script");b.src="//static.criteo.net/js/ld/publishertag.js";b.onload=function(){for(var a=0;a<__ATA.criteo.cmd.length;a++){var b=__ATA.criteo.cmd[a];"function"===typeof b&&b()}};(document.head||document.getElementsByTagName("head")[0]).appendChild(b);__ATA.criteo.script=b}__ATA.criteo.cmd.push(c)}})();
+		
+
+
+
+
+ 
+
+
+
+
 Leave a comment
-\n\n\t\t\t\t\t
+
+
 Filed under 
-News
-\n\t\t\t
-\n\t\t\t
-\n\n
-\n\n\n\n
-\n\t
-\n\n\t\tFebruary 4, 2012 \xb7 3:47 pm\t
-\n\n\t
-Hoodie Sale #2!!!
-\t
-\n\t\t
-Hey everyone!
-\n
-We\u2019re selling the next round of 100 hoodies on February 6th and 7th from 10 00 am till 4 00 pm on each day. We\u2019re selling the hoodies on a first come first served basis.
-\n
-Hoodies are 30 dollars each and there is a limit of three orders per person. You must be a psychology student to place an order. Don\u2019t forget to bring your ID card. 
-\n\t\t\t
-\n\t\n\t
-\n\t\t
+Uncategorized
+
+
+
+
+
+
+
+
+
+
+
+
+		03/30/2012 · 5:11 PM	
+
+
+Annual Spring Pub Social!
+ 
+
+
+The CCSA invites you to join us in celebrating the end of the academic term and year at 
+our Annual Spring 
+Pub Social. 
+It will be held at 
+The Irish Embassy Pub
+ (1234 Bishop Street), this Friday, 
+April 6 from 6:30pm onwards
+. There will be plenty of 
+FREE
+ drinks (alcoholic and non) and food! All are welcome. And bring a friend!
+
+
+
+
+
+
+
+
 Leave a comment
-\n\n\t\t\t\t\t
+
+
 Filed under 
-News
-\n\t\t\t
-\n\t\t\t
-\n\n
-\n\n\n\n
-\n\t
-\n\n\t\tJanuary 12, 2012 \xb7 1:21 pm\t
-\n\n\t
-Office Hours for Winter\xa0Semester
-\t
-\n\t\t
-Hey everyone!
-Our new office hours for winter 2012 will be:
-\n
-Mondays: 10 \u2013 1; 3 \u2013 4
-\n
-Tuesdays: 11:30 \u2013 1
-\n
-Wednesdays: 11 \u2013 4
-\n
-Thursday: 2 \u2013 4\xa0
-\n\t\t\t
-\n\t\n\t
-\n\t\t
+Uncategorized
+
+
+
+
+
+
+
+
+
+
+
+
+		03/30/2012 · 5:08 PM	
+
+
+CCSA Executive 2012-13
+ 
+
+
+Congratulations to the newly elected CCSA Executive for the 2012-13 Academic Year! Many thanks to all who voted! 
+
+
+President: Emilia Pagliaro-Therens
+VP Finance: Kristen Toohy
+VP Academic: Karolina Saghafi
+VP Social: Domenico Miletti
+VP Internal: Laura Sirkovsky 
+VP Communications: Vacant
+
+
+
+
+
+
 Leave a comment
-\n\n\t\t\t\t\t
+
+
 Filed under 
-News
-\n\t\t\t
-\n\t\t\t
-\n\n
-\n\n\n\n
-\n\t
-\n\n\t\tJanuary 4, 2012 \xb7 11:59 am\t
-\n\n\t
-Loyola Icebreaker Wine &\xa0Cheese
-\t
-\n\t\t
-Hello and happy new year to all the psychology students!
-\nWe hope you had a great break; sleep, food, family, friends, eggnog\u2026
-\nAnyways, to welcome you back for a new semester we have an event already lined up for you: the Loyola Icebreaker Wine & Cheese! CUPA, along with the Applied Human Sciences Association and the Biology Students Association have organized an event happening at the Hive this Thursday the 5th from 6 \u2013 10. There will be wine. There will be cheese. There will be beautiful people. And it\u2019s all free.
-\nSo come by, meet some new faces and hang out with old ones. You can invite people as well. Hope to see you there!
-\n\t\t\t
-\n\t\n\t
-\n\t\t
+Uncategorized
+
+
+
+
+
+
+
+
+
+
+
+
+		03/22/2012 · 7:12 PM	
+
+
+Classics Colloquium.
+ 
+
+
+Hey Students,
+
+
+The first day is going really well!  There are some really interesting presentations and a great turn out.  Don’t forget we continue with more presentations tomorrow.  It will take place at the Universite de Montreal.
+
+
+The presentations take place from 9 am – 5:30 pm.   Salle 580-31, 3744 rue Jean-Brillant, Universite de Montreal.
+  
+Come and support your fellow students.  The full brochure can be found online, but here is a list of the Concordia students who will be presenting.
+
+
+Concordia Students who are presenting:
+
+
+9:15 – 9:45
+
+
+Bryan Johnson, MA. Concordia
+
+
+Pergamon and the Renovation of the Asklepion:
+
+
+Constructing Sanctuary and Building Identity
+
+
+10:15 – 10:45
+
+
+Lisa Tweten, B.A. Concordia
+
+
+Macedonian Funerary Masks from Archontiko
+
+
+11:15 – 11:45
+
+
+Domenic M. Miletti, B.A. Concordia
+
+
+Native Egypt Collaboration in Ptolemaic Egypt:
+
+An Artistic Perspective
+
+
+12:15 – 12:45
+
+
+Kristen Toohy, B.A. Concordia
+
+
+Identity in Non-Realstic Portraiture:
+
+
+Why Demosthenes is Demosthenes but the Pope is Benito Mussolini
+
+
+2:15 – 2:45
+
+
+Karolina “Kiki” Saghafi, B.A. Concordia
+
+
+A Portrait of the Wicked Women:
+
+
+Magic, Women and the Occult in Roman Literature
+
+
+4:15 – 4:45
+
+
+Catherine Paragois, B.A. Concordia
+
+
+A Roman Glass Jar in the Montreal Museum of Fine Arts
+
+
+4:45 – 5:15
+
+
+Leah Wanklyn, B.A. Concordia
+
+
+Irish Illuminated Manuscripts:
+
+
+and Their Ties to the Late Antique East
+
+
+6:15 – Onwards
+
+
+Reception at Universite de Montreal, there will be free drinks and food available.
+
+
+
+
+
+
+
+
 Leave a comment
-\n\n\t\t\t\t\t
+
+
 Filed under 
-News
-\n\t\t\t
-\n\t\t\t
-\n\n
-\n\n\n\n
-\n\t
-\n\n\t\tNovember 15, 2011 \xb7 2:39 pm\t
-\n\n\t
-Psychology Hoodies!
-\t
-\n\t\t
-Good news guys!!!
-\nWe have a date for our hoodie orders! We will be selling the hoodies on November 29th and 30th from 10am \u2013 3pm on both days. We will have a table set up in the SP Atrium (near the security office). We\u2019ll have a big CUPA banner and some demo hoodies (so you can get an idea of the colours and the sizes). Remember, this year you can get a quote on the back of your hoodie for no extra charge. As always, hoodies cost $30 each. More good news: unlike previous years, we will be having two shipments, one per semester. So if you\u2019re going away this winter, you won\u2019t have to wait until next year to pick up your hoodie. If you\u2019re not going away, well, you\u2019ll get to be stylish starting December \U0001f642
-\nResources are limited so we can only take 100 orders this semester. 3 orders max per person. First come, first serve, so come quickly! And bring your Concordia IDs. Also, the hoodies are reserved for undergraduate psychology students at Concordia only
-\n\t\t\t
-\n\t\n\t
-\n\t\t
+Uncategorized
+
+
+
+
+
+
+
+
+
+
+
+
+		03/20/2012 · 9:39 PM	
+
+
+Colloquium Schedule (KEYNOTE Talk) Update
+ 
+
+
+Hi all! We have found a room for Dr. Jane Francis’ keynote on Thursday March 22 from 6pm-7pm: 
+McGill University, ARTS Building, room W-120
+ (
+AND NOT
+ in the Hall Building’s H-531). Here is an updated program of events:  
+Montreal Classics Colloquium 2012 UPDATED Brochure
+. We hope to see you all there!!
+
+
+
+
+
+
 Leave a comment
-\n\n\t\t\t\t\t
+
+
 Filed under 
-News
-\n\t\t\t
-\n\t\t\t
-\n\n
-\n\n\n\n
-\n\t
-\n\n\t\tSeptember 14, 2011 \xb7 9:27 pm\t
-\n\n\t
-Office Hours
-\t
-\n\t\t
-Hey everyone!
-\nWe have officially updated our weekly office hours. Check the \u201cContact Us\u201d tab for information on how to, you know, contact us.
-\nThe new office hours will be there!
-\n\t\t\t
-\n\t\n\t
-\n\t\t
+Uncategorized
+
+
+
+
+
+
+
+
+
+
+
+
+		03/19/2012 · 7:54 PM	
+
+
+Classics Colloquium Schedule March 22 & 23
+ 
+
+
+Classics Enthusiasts! This Thursday and Friday (March 22nd and 23rd), Concordia, McGill, and UdeM are hosting the 4th Annual Inter-University Montreal Classics Colloquium. The final schedule for the event is found here:
+ 
+Montreal Classics Colloquium 2012 Brochure.
+
+
+***PLEASE NOTE: Following the very recent news that Concordia University will be closed on March 22nd due to the provincial-wide student strike/march, we are looking to have Dr. Francis’ keynote lecture relocated to the McGill or UdeM campus. Please check back here for updates regularly until Thursday! Many thanks for your patience!
+
+
+
+
+
+
 Leave a comment
-\n\n\t\t\t\t\t
+
+
 Filed under 
-News
-\n\t\t\t
-\n\t\t\t
-\n\n
-\n\n\n\n
-\n\t
-\n\n\t\tSeptember 6, 2011 \xb7 11:41 am\t
-\n\n\t
-Welcome back!
-\t
-\n\t\t
-Hey everybody!
-\nWell, it\u2019s been another short summer and here we are back again. We hope you enjoyed your time off \U0001f642
-\nWe are planning some interesting activities and events this semester for you psychology people. Stay posted! We will also be updating our office hours shortly so keep an eye out for that if you want to speak to us in person. Enjoy your semester!
-\n\t\t\t
-\n\t\n\t
-\n\t\t
+Uncategorized
+
+
+
+
+
+
+
+
+
+
+
+
+		03/18/2012 · 12:00 PM	
+
+
+VOTE! VOTE! VOTE!
+ 
+
+
+Next week, on 
+Monday March 19 and Tuesday March 20
+, the CCSA is holding polling in room 
+H-665
+ for its annual elections! Here are your candidates and their profiles. Please remember that although there is only one candidate for each position, they still need your votes to meet quorum and have the election ratified. If you don’t come out and vote, there will be no CCSA next year! Please show your support – VOTE!
+
+
+President: Emilia Therens. 
+President Profile
+
+
+VP Finance: Kristen Toohy. 
+VP Finance Profile
+
+
+VP Internal: Laura Sirkovsky. 
+VP Internal Profile
+
+
+VP Academic: Karolina Saghafi. 
+VP Academic Profile
+.
+
+
+VP Social: Domenico Miletti. 
+VP Social Profile
+
+
+VP Communications: Vacant/No candidate.
+
+
+
+
+
+
 Leave a comment
-\n\n\t\t\t\t\t
+
+
 Filed under 
-News
-\n\t\t\t
-\n\t\t\t
-\n\n
-\n\n\n
-\n\t
-\u2190
+Uncategorized
+
+
+
+
+
+
+
+
+
+
+←
  Older posts
-\n\t
-\n
-\n\n\t
-\n
-\n\n\n\t
-\n\t\t\t\t
-\n\n\t\t\t
-CUPA Tweets
-\n\t\t\t
-\n\t\t\t\tHey! We're selling the next round of 100 hoodies on February 6th and 7th from 10 00 am till 4 00 pm on each day. Student ID required! \t\t\t\t
-5\xa0years\xa0ago
-\n\t\t\t
-\n\n\t\t\t\n\t\t\t
-\n\t\t\t\tHey everyone! Your hoodies have arrived! Come by the office (PY-321) during office hours to pick yours up. Remember to bring your receipt \t\t\t\t
-5\xa0years\xa0ago
-\n\t\t\t
-\n\n\t\t\t\n\t\t\t
-\n\t\t\t\tInterested in a psychology co-op program? Please fill out this 3 minute survey if you've got the time! 
- tinyurl.com/bta3vj9
- \t\t\t\t
-5\xa0years\xa0ago
-\n\t\t\t
-\n\n\t\t\t\n\t\t\t
-\n\t\t\t\tCUPA hoodies are going on sale!\nCome by the SP Atrium on November 29th or 30th from 10 - 3 to place your orders. $30 each. Bring ID! \t\t\t\t
-5\xa0years\xa0ago
-\n\t\t\t
-\n\n\t\t\t\n\t\t\t
-\n\t\t\t\tHELLO PSYCHOLOGY PEOPLE!! - 
- eepurl.com/gOV0n
- \t\t\t\t
-6\xa0years\xa0ago
-\n\t\t\t
-\n\n\t\t\t
-Blogroll
-\n\t
-\n
-American Psychology Association
-\n
-Canadian Psychology Association
-\n
-Concordia Career and Placement Services
-\n
-Concordia Counselling and Development
-\n
-Concordia Library Psychology Research Guide
-\n
-Concordia Psychology Department
-\n
-Dr. Mumby Getting into Graduate School Blog
-\n
-Ordre des Psychologues du Quebec
-\n
-Participant Pool Credit
-\n\n\t
-\n
-\n
-Calendar
-November 2017
-M
-T
-W
-T
-F
-S
-S
-\xab May
-\xa0
-\xa0
-\xa0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-\xa0
-\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\n\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t
-Archives
-\t\t
-\n\t\t\t
-May 2012
-\n\t
-February 2012
-\n\t
-January 2012
-\n\t
-November 2011
-\n\t
-September 2011
-\n\t
-July 2011
-\n\t
-June 2011
-\n\t
-November 2010
-\n\t
-October 2010
-\n\t
-September 2010
-\n\t
-March 2010
-\n\t
-January 2010
-\n\t
-October 2009
-\n\t
-September 2009
-\n\t
-April 2009
-\n\t
-February 2009
-\n\t
-January 2009
-\n\t
-November 2008
-\n\t
-October 2008
-\n\t\t
-\n\t\t
-\t\t
-\n\t
-\n\n\t\n\t\t
-\n\n\t\t
-\n\t\t\t
-\n\n\t\t\t\t\n\t\t\t\t
-\n\t\t\t\t\t
-Concordia Undergraduate Psychology Association
- \xb7 \t\t\t\t
-\n\n\t\t\t\t
-\n\t\t\t\t\t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Recent Entries
+
+
+
+
+CCSA is Most Academically Focused!
+
+
+Annual Spring Pub Social!
+
+
+CCSA Executive 2012-13
+
+
+Classics Colloquium.
+
+
+Colloquium Schedule (KEYNOTE Talk) Update
+
+
+Classics Colloquium Schedule March 22 & 23
+
+
+VOTE! VOTE! VOTE!
+
+
+Ides of March
+
+
+Next Week: CCSA EVENTS and the STRIKE
+
+
+CCSA Needs a VP COMMUNICATIONS
+
+
+
+
+
+
+
+
+Links
+
+
+
+
+Classics at Concordia
+
+
+
+
+Academic Advising
+
+
+Databases
+
+
+Faculty
+
+
+Get Credit for Archaeological Fieldwork!
+
+
+In-Library Sources
+
+
+Programs of Study
+
+
+The Diniacopoulos Antiquities Collection
+
+
+
+
+
+
+Classics on the Web
+
+
+
+
+Ancient Art History Resources
+
+
+Ancient World Mapping Centre
+
+
+Archaeological Institute of America Fieldwork
+
+
+Archaeology Magazine
+
+
+Classical Association of Canada
+
+
+Greek Tutorials
+
+
+Greek Word Study Tool
+
+
+Latin Grammar Aid
+
+
+Latin Word Study Tool
+
+
+McGill Classics Student Association
+
+
+Perseus Digital Library
+
+
+Rogue Classicism
+
+
+The Beazley Archive
+
+
+
+
+
+
+Misc. Help
+
+
+
+
+Access Centre for Students with Disabilities
+
+
+Citation Guides
+
+
+Counselling and Development
+
+
+Financial Aid and Awards
+
+
+Health Services
+
+
+Writing Assistance at Concordia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CCSA
+ · Concordia Classics Student Association				
+
+
+
+
 Create a free website or blog at WordPress.com.
-\t\t\t\t
-\n\n\t\t\t
-\n\t\t
-\n\t
-\n
-\n\n\t\t
-\n\t\t//<![CDATA[\n\t\tvar infiniteScroll = {"settings":{"id":"content","ajaxurl":"https:\\/\\/cupaconcordia.wordpress.com\\/?infinity=scrolling","type":"scroll","wrapper":true,"wrapper_class":"infinite-wrap","footer":"page","click_handle":"1","text":"Older posts","totop":"Scroll back to top","currentday":"06.09.11","order":"DESC","scripts":[],"styles":[],"google_analytics":false,"offset":0,"history":{"host":"cupaconcordia.wordpress.com","path":"\\/page\\/%d\\/","use_trailing_slashes":true,"parameters":""},"query_args":{"error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"","pagename":"","page_id":0,"second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"posts_per_page":7,"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":false,"update_post_term_cache":true,"lazy_load_term_meta":true,"update_post_meta_cache":true,"post_type":"","nopaging":false,"comments_per_page":"50","no_found_rows":false,"order":"DESC"},"last_post_date":"2011-09-06 11:41:27","stats":"blog=5230565&v=wpcom&tz=-5&user_id=0&subd=cupaconcordia&x_pagetype=infinite"}};\n\t\t//]]>\n\t\t
-\n\t\t
-\n
-\n
-\n/* <![CDATA[ */\nvar WPGroHo = {"my_hash":""};\n/* ]]> */\n
-\n
-\n\n\t
-\n\t\t//initialize and attach hovercards to all gravatars\n\t\tjQuery( document ).ready( function( $ ) {\n\n\t\t\tif (typeof Gravatar === "undefined"){\n\t\t\t\treturn;\n\t\t\t}\n\n\t\t\tif ( typeof Gravatar.init !== "function" ) {\n\t\t\t\treturn;\n\t\t\t}\t\t\t\n\n\t\t\tGravatar.profile_cb = function( hash, id ) {\n\t\t\t\tWPGroHo.syncProfileData( hash, id );\n\t\t\t};\n\t\t\tGravatar.my_hash = WPGroHo.my_hash;\n\t\t\tGravatar.init( 'body', '#wp-admin-bar-my-account' );\n\t\t});\n\t
-\n\n\t\t
-\n\t
-\n
-\n/* <![CDATA[ */\nvar HighlanderComments = {"loggingInText":"Logging In\\u2026","submittingText":"Posting Comment\\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\\/\\/cupaconcordia.wordpress.com\\/public.api\\/connect\\/?action=request","logoutURL":"https:\\/\\/cupaconcordia.wordpress.com\\/wp-login.php?action=logout&_wpnonce=998734e8c0","homeURL":"https:\\/\\/cupaconcordia.wordpress.com\\/","postID":"369","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};\n/* ]]> */\n
-\n
-\n\t\t
-\n\t\t\t
-\n\t\t\t\t
-\n\t\t\t\t\t
-\n\t\t\t\t\t\tConcordia Undergraduate Psychology Association\t\t\t\t\t
-\n\t\t\t\t
-\n\t\t\t\t
-\n\t\t\t\t\t
+ 
+
+
+
+
+
+
+
+
+
+
+
+		//<![CDATA[
+		var infiniteScroll = {"settings":{"id":"content","ajaxurl":"https:\/\/ccsaonline.wordpress.com\/?infinity=scrolling","type":"scroll","wrapper":true,"wrapper_class":"infinite-wrap","footer":"page","click_handle":"1","text":"Older posts","totop":"Scroll back to top","currentday":"11.03.12","order":"DESC","scripts":[],"styles":[],"google_analytics":false,"offset":0,"history":{"host":"ccsaonline.wordpress.com","path":"\/page\/%d\/","use_trailing_slashes":true,"parameters":""},"query_args":{"error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"","pagename":"","page_id":0,"second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"posts_per_page":7,"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":false,"update_post_term_cache":true,"lazy_load_term_meta":true,"update_post_meta_cache":true,"post_type":"","nopaging":false,"comments_per_page":"50","no_found_rows":false,"order":"DESC"},"last_post_date":"2012-03-18 12:00:08","stats":"blog=16032499&v=wpcom&tz=0&user_id=0&subd=ccsaonline&x_pagetype=infinite"}};
+		//]]>
+		
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+
+
+
+
+
+
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/ccsaonline.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/ccsaonline.wordpress.com\/wp-login.php?action=logout&_wpnonce=706d1f7ba6","homeURL":"https:\/\/ccsaonline.wordpress.com\/","postID":"675","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"0","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+
+
+						CCSA					
+
+
+
+
+
+
 Create a free website or blog at WordPress.com.
- \t\t\t\t
-\n\t\t\t
-\n\t\t
-\n\t\t\n\t
-\n\t\t
-\n\t\t\t
-\n\t\t\t
+ 
+
+
+
+
+
+
+
+
+
+
+
+
 Post to
-\n\t\t\t
-\n\t\t\t\t\t\t
-\n\n\t\t\t
-\n\t\t\t\t
+
+
+
+
+
+
+
+
 Cancel
-\n\t\t\t\t
-\n\t\t\t\t
-\n\t\t\t\t
-\n\t\t\t\t
-\n\t\t\t\t
-\n\t\t\t\t
-\n\t\t\t
-\n\n\t\t\t
-\t\t
-\n\n\t\t
-\n\t
-\n
-\n
-\n
-\n
-\n/* <![CDATA[ */\nvar actionbardata = {"siteID":"5230565","siteName":"Concordia Undergraduate Psychology Association","siteURL":"http:\\/\\/cupaconcordia.wordpress.com","icon":"<img alt='' src='https:\\/\\/s1.wp.com\\/i\\/logo\\/wpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \\/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"pub\\/pilcrow","signupURL":"https:\\/\\/wordpress.com\\/start\\/","loginURL":"https:\\/\\/cupaconcordia.wordpress.com\\/wp-login.php?redirect_to=https%3A%2F%2Fcupaconcordia.wordpress.com%2F2012%2F05%2F29%2Fhoodies%2F","themeURL":"","xhrURL":"https:\\/\\/cupaconcordia.wordpress.com\\/wp-admin\\/admin-ajax.php","nonce":"4045307194","isSingular":"","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\\"hidden\\" id=\\"_wpnonce\\" name=\\"_wpnonce\\" value=\\"f345529837\\" \\/>","referer":"https:\\/\\/cupaconcordia.wordpress.com\\/","canFollow":"1","feedID":"54992","statusMessage":"","customizeLink":"https:\\/\\/cupaconcordia.wordpress.com\\/wp-admin\\/customize.php?url=https%3A%2F%2Fcupaconcordia.wordpress.com%2F","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Pilcrow","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\\"https:\\/\\/wordpress.com\\/\\">Reader<\\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in Reader","viewReadPost":"View post in Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"","alreadyUser":"Already have a WordPress.com account? <a href=\\"https:\\/\\/cupaconcordia.wordpress.com\\/wp-login.php?redirect_to=https%3A%2F%2Fcupaconcordia.wordpress.com%2F2012%2F05%2F29%2Fhoodies%2F\\">Log in now.<\\/a>","stats":"Stats"}};\n/* ]]> */\n
-\n
-\n/* <![CDATA[ */\nvar jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\\/\\/cupaconcordia.wordpress.com\\/wp-admin\\/admin-ajax.php","nonce":"35a1a6e946","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\\"photo-size\\">{0}<span class=\\"photo-size-times\\">\\u00d7<\\/span>{1}<\\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"1","login_url":"https:\\/\\/cupaconcordia.wordpress.com\\/wp-login.php?redirect_to=https%3A%2F%2Fcupaconcordia.wordpress.com%2F2011%2F09%2F06%2Fwelcome-back-2%2F","blog_id":"5230565","local_comments_commenting_as":"<fieldset><label for=\\"email\\">Email (Required)<\\/label> <input type=\\"text\\" name=\\"email\\" class=\\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\\" id=\\"jp-carousel-comment-form-email-field\\" \\/><\\/fieldset><fieldset><label for=\\"author\\">Name (Required)<\\/label> <input type=\\"text\\" name=\\"author\\" class=\\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\\" id=\\"jp-carousel-comment-form-author-field\\" \\/><\\/fieldset><fieldset><label for=\\"url\\">Website<\\/label> <input type=\\"text\\" name=\\"url\\" class=\\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\\" id=\\"jp-carousel-comment-form-url-field\\" \\/><\\/fieldset>","reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=5230565&v=wpcom&tz=-5&user_id=0&subd=cupaconcordia","is_public":"1","reblog_enabled":""};\n/* ]]> */\n
-\n
-\n
-\n
-\n
-\n// <![CDATA[\n(function() {\ntry{\n  if ( window.external &&'msIsSiteMode' in window.external) {\n    if (window.external.msIsSiteMode()) {\n      var jl = document.createElement('script');\n      jl.type='text/javascript';\n      jl.async=true;\n      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';\n      var s = document.getElementsByTagName('script')[0];\n      s.parentNode.insertBefore(jl, s);\n    }\n  }\n}catch(e){}\n})();\n// ]]>\n
-\t
-\n\tvar skimlinks_pub_id = "725X584219"\n\tvar skimlinks_sitename = "cupaconcordia.wordpress.com";\n\t
-\n\t
-\n\t\t\tjQuery.extend( infiniteScroll.settings.scripts, ["jquery","jquery-core","jquery-migrate","mobile-useragent-info","postmessage","jquery_inview","jetpack_resize","spin","jquery.spin","grofiles-cards","wpgroho","jquery.autoresize","highlander-comments","devicepx","jetpack_likes_queuehandler","the-neverending-homepage","wpcom-masterbar-js","wpcom-masterbar-tracks-js","wpcom-actionbar-bar","swfobject","videopress","jetpack-carousel","twitter-widgets","twitter-widgets-infinity","twitter-widgets-pending","tiled-gallery"] );\n\t\t\tjQuery.extend( infiniteScroll.settings.styles, ["wpcom-smileys","jetpack_likes","wordads-global","wordads-pilcrow","the-neverending-homepage","wpcom-core-compat-playlist-styles","mp6hacks","wpcom-bbpress2-staff-css","pilcrow","jetpack-widget-social-icons-styles","noticons","geo-location-flair","reblogging","wpcom-actionbar-bar","h4-global","highlander-comments","highlander-comments-ie7","jetpack-carousel","tiled-gallery","jetpack-carousel-ie8fix"] );\n\t\t
-\n
-\n_tkq = window._tkq || [];\n_stq = window._stq || [];\n_tkq.push(['storeContext', {'blog_id':'5230565','blog_tz':'-5','user_lang':'en','blog_lang':'en','user_id':'0'}]);\n_stq.push(['view', {'blog':'5230565','v':'wpcom','tz':'-5','user_id':'0','subd':'cupaconcordia'}]);\n_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRPUJGYUFhNUdZYm9TblB4ZStzdUI2WGlfcy1NeWF4cT1MYVJXSnJWLDVVT1JOeTNscD18Nj1ULUFxTHBCNVdmTU0tcj8xWnVPdlNKSX5BRi51U3klJWpBTDlmVGNZR0VoYW9DQ114bTNMRllhJnd+RElEMzgzY29NNmxCR1Y5TGM/dVJCTkZUdGgycjN+ZS15a2dDV1ArWFM2fi9UVkpiP09SZ0N2NVRMOSZFL3UxSGZVTiV4ZG9SP0t2L01rJUFDMA=='}]);\n_stq.push([ 'clickTrackerInit', '5230565', '0' ]);\n\t
-\n
-&lt;img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /&gt;
-\n
-\nif ( 'object' === typeof wpcom_mobile_user_agent_info ) {\n\n\twpcom_mobile_user_agent_info.init();\n\tvar mobileStatsQueryString = "";\n\t\n\tif( false !== wpcom_mobile_user_agent_info.matchedPlatformName )\n\t\tmobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;\n\t\n\tif( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )\n\t\tmobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;\n\t\n\tif( wpcom_mobile_user_agent_info.isIPad() )\n\t\tmobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';\n\n\tif( "" != mobileStatsQueryString ) {\n\t\tnew Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();\n\t}\n\t\n}\n
-\n\n>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var actionbardata = {"siteID":"16032499","siteName":"CCSA","siteURL":"http:\/\/ccsaonline.wordpress.com","icon":"<img alt='' src='https:\/\/secure.gravatar.com\/blavatar\/f6a4afd14d8baea267fadd05a24ddf69?s=50&d=https%3A%2F%2Fs1.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"pub\/pilcrow","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/ccsaonline.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fccsaonline.wordpress.com%2F2012%2F04%2F14%2Fccsa-is-most-academically-focused%2F","themeURL":"","xhrURL":"https:\/\/ccsaonline.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"740d9bea60","isSingular":"","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"0ae06482d3\" \/>","referer":"https:\/\/ccsaonline.wordpress.com\/","canFollow":"1","feedID":"1410215","statusMessage":"","customizeLink":"https:\/\/ccsaonline.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fccsaonline.wordpress.com%2F","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Pilcrow","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in Reader","viewReadPost":"View post in Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/ccsaonline.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fccsaonline.wordpress.com%2F2012%2F04%2F14%2Fccsa-is-most-academically-focused%2F\">Log in now.<\/a>","stats":"Stats"}};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/ccsaonline.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"dcc9a8e251","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/ccsaonline.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fccsaonline.wordpress.com%2F2012%2F03%2F30%2Fannual-spring-pub-social%2F","blog_id":"16032499","local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>","reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=16032499&v=wpcom&tz=0&user_id=0&subd=ccsaonline","is_public":"1","reblog_enabled":""};
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+
+ 
+
+	var skimlinks_pub_id = "725X584219"
+	var skimlinks_sitename = "ccsaonline.wordpress.com";
+	
+
+
+
+			jQuery.extend( infiniteScroll.settings.scripts, ["jquery","jquery-core","jquery-migrate","mobile-useragent-info","postmessage","jquery_inview","jetpack_resize","spin","jquery.spin","grofiles-cards","wpgroho","jquery.autoresize","highlander-comments","devicepx","jetpack_likes_queuehandler","the-neverending-homepage","wpcom-masterbar-js","wpcom-masterbar-tracks-js","wpcom-actionbar-bar","jetpack-carousel","swfobject","videopress","twitter-widgets","twitter-widgets-infinity","twitter-widgets-pending","tiled-gallery"] );
+			jQuery.extend( infiniteScroll.settings.styles, ["wpcom-smileys","jetpack_likes","wordads-global","wordads-pilcrow","the-neverending-homepage","wpcom-core-compat-playlist-styles","mp6hacks","wpcom-bbpress2-staff-css","pilcrow","brown","jetpack-widget-social-icons-styles","noticons","geo-location-flair","reblogging","wpcom-actionbar-bar","h4-global","highlander-comments","highlander-comments-ie7","jetpack-carousel","tiled-gallery","jetpack-carousel-ie8fix"] );
+		
+
+
+
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'16032499','blog_tz':'0','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'16032499','v':'wpcom','tz':'0','user_id':'0','subd':'ccsaonline'}]);
+_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRPUJGYUFhNUdZYm9TblB4ZStzdUI2WGlfcy1NeWF4cT1MYVJXSnJWLDVVT1JOeTNscD18Nj1ULUFxTHBCNVdmTU0tckRUc34zZSVWLzE0S2ZBXTIsZ2NhV1pVU0xFYmMsVV05cHVVWGpEMX5KMEFiNldIWFVXXTlkb05TY0RLamJ1NmI5Mm4vSl1mX2oveFZ1L0VTLSUtaSZofjY9V2NqW0U3fnZfcER1Qlk='}]);
+_stq.push([ 'clickTrackerInit', '16032499', '0' ]);
+	
+
+
+
+
+
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+
+
+
+
+>

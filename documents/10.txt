@@ -1,359 +1,660 @@
-\n\n\n  
-\n  
-\n 
-\n  
-\n  
-\n  
-\n\n  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Welcome to Art Matters
-\n\n  
-\n\n  
-\n  
-\n\n  
-\n  
-\n  
-\n\n\n\n    
-\n  
-\n  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 jQuery UI Draggable - Default functionality
-\n  
-\n  
-\n  
-\n  #draggable { width: 150px; height: 150px; padding: 0.5em; }\n  
-\n  
-\n  
-\n\n\n\n
-\n\n\n\n\n\n    
-\n            
-\n            
-\n\t\t\t
+
+
+
+
+
+
+
+  #draggable { width: 150px; height: 150px; padding: 0.5em; }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 EN/FR
-\n\n\t\t
-\n    
-\n\n\n        
-\n
-\n
-\n
-\n  
-\n\n
-\n\n\n
-\n\n
-\n\n\n  
-\n\n\n\n\n  
-\n\n\n  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUGGESTIONS
+
+
+
+
+
+
+
+
+
+
+
+
 SUBMIT
-\n\n  
-\n
-\n\n  
-\n\n
-\n
-\n
-\n\n\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 CLOSE ALL
-\n
-\n
+
+
+
+
 ABOUT
-\n
+
+
 EXHIBITIONS
-\n
+
+
 EVENTS
-\n
+
+
 GET INVOLVED
-\n
+
+
 SUBMIT
-\n
+
+
 ARCHIVE
-\n
+
+
 CALL OUTS
-\n
+
+
 CONTACT
-\n\n
-\n  Sorry, your browser does not support HTML5 canvas technology.\n\n
-\n
-\n\n\n\n\n
-\n\n\n  
-\n\n\n  
+
+
+
+  Sorry, your browser does not support HTML5 canvas technology.
+
+
+
+
+
+
+
+
+
+
 ABOUT
-\n\n  
-\n    
-Art Matters is a non-profit festival that celebrates and supports the developing talent housed at\nConcordia University, with the aim of providing emerging artists with practical skills, tools, and\nknowledge.
-\n\n    
-Art Matters takes place in March. Exhibitions curated by students are spread out over three\nweeks, punctuated by our signature parties and events.
-\n\n    
-Art Matters is a fee-levy organization. That means a fraction of all students' tuition allows the\nfestival to take place. Art Matters is created by and for undergraduate Concordia University\nstudents.
-\n\n    
-Art Matters gets people together. We encourage students from different artistic practices to\nexchange ideas.
-\n\n    
-Art Matters supports new ideas. We promote diverse artistic approaches, processes, and\nrisk-taking.
-\n\n    
-Art Matters starts a dialogue between students and professionals. We provide galleries and\nvenues as platforms to promote artwork, as well as hosting speakers and workshops.
-\n\n    
-Art Matters strives to build an inclusive community. Art Matters encourages accessibility and\ndiversity.
-\n\n    
+
+
+
+
+Art Matters is a non-profit festival that celebrates and supports the developing talent housed at
+Concordia University, with the aim of providing emerging artists with practical skills, tools, and
+knowledge.
+
+
+Art Matters takes place in March. Exhibitions curated by students are spread out over three
+weeks, punctuated by our signature parties and events.
+
+
+Art Matters is a fee-levy organization. That means a fraction of all students' tuition allows the
+festival to take place. Art Matters is created by and for undergraduate Concordia University
+students.
+
+
+Art Matters gets people together. We encourage students from different artistic practices to
+exchange ideas.
+
+
+Art Matters supports new ideas. We promote diverse artistic approaches, processes, and
+risk-taking.
+
+
+Art Matters starts a dialogue between students and professionals. We provide galleries and
+venues as platforms to promote artwork, as well as hosting speakers and workshops.
+
+
+Art Matters strives to build an inclusive community. Art Matters encourages accessibility and
+diversity.
+
+
 Art Matters makes it known that Art Matters!
-\n\n\n\n\n  
-\n
-\n\n\n
-\n
-\n\n\n  
-\n\n\n  
+
+
+
+
+
+
+
+
+
+
+
+
 OFFICE HOURS
-\n\n  
-\n\n
+
+
+
+
 If you'd like to get in touch face-to-face, please contact us at info@artmattersfestival.org
-\n\n\n\n
-\n  
+
+
+
+
 VA-038
-\n  
-1395 Ren\xe9 Levesque Blvd. W.
-\n  
-Montr\xe9al, QC
-\n  
+
+
+1395 René Levesque Blvd. W.
+
+
+Montréal, QC
+
+
 +1.514.848.2424 x 5011
-\n
-\n\n
+
+
+
+
 www.facebook.com/artmattersfestival
-\n\n\n\n
-\n\n  
-\n
-\n\n\n
-\n\n\n  
-\n\n\n  
+
+
+
+
+
+
+
+
+
+
+
+
 FUNDING
-\n\n  
-\n\n
-Art Matters is a fee-levy organization. In order to opt out, please arrange a drop-in at our office\nthrough admin@artmattersfestival.org.
-\n\n
-Art Matters is funded by fee-levies, student-written grants, and fundraising. For more information\nabout Art Matters' budget or funds, please contact: admin@artmattersfestival.org
-\n\n\n\n\n  
-\n
-\n\n\n\n
-\n
-\n\n
-\n\n\n  
-\n\n\n\n\n  
-\n\n
+
+
+
+
+Art Matters is a fee-levy organization. In order to opt out, please arrange a drop-in at our office
+through admin@artmattersfestival.org.
+
+
+Art Matters is funded by fee-levies, student-written grants, and fundraising. For more information
+about Art Matters' budget or funds, please contact: admin@artmattersfestival.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Coming Soon
-\n
-\n  
+
+
+
+
 EXHIBITIONS
-\n  
-\n  
+
+
+
+
 Coming Soon
-\n\n\n  
-\n
-\n\n\n\n
-\n
-\n\n
-\n\n\n  
-\n\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 CONTACT
-\n\n\n  
-\n\n    
-\n      
+
+
+
+
+
+
 Get in touch at 
 info@artmattersfestival.org
-\n      
+
+
 Outreach Coordinator - Diana Tapia: 
 info@artmattersfestival.org
-\n      
+
+
 Admin and Financial Coordinator - Jordan Beaulieu: 
 admin@artmattersfestival.org
-\n      
+
+
 Exhibitions Coordinator - Mattia Zylak:
  exhibitions@artmattersfestival.org
-\n      
+
+
 Graphic Designer - Lucas LaRochelle
-\n      
+
+
 Web Programmer - Jade Morgan
-\n      
+
+
 Student Relations Coordinator - Tricia Middleton
-\n      
-Events Photographer - Rapha\xebl Sandler
-\n      
-Translator - St\xe9fanie Belleu
-\n      
-Opportunities to join our team are on their way. Keep an eye out on the Get Involved page or\nfollow us on 
+
+
+Events Photographer - Raphaël Sandler
+
+
+Translator - Stéfanie Belleu
+
+
+Opportunities to join our team are on their way. Keep an eye out on the Get Involved page or
+follow us on 
 Facebook 
 to stay in the loop.
-\n    
-Art Matters' staff is renewed every year. If you seek to contact someone previously involved, ask\nus at info@artmattersfestival.org
-\n
-\n\n
-\n\n\n\n\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n    
-\n\n\n  
-\n
-\n\n\n\n\n
-\n\n
-\n\n\n\n\n\n\n
-\n\n
-\n\n\n\n\n\n\n
-\n\n\n
-\n\n
-\n\n
+
+
+Art Matters' staff is renewed every year. If you seek to contact someone previously involved, ask
+us at info@artmattersfestival.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 EVENTS
-\n  
-\n\n\n\n\n  
-\n    
-September 7th
-\n  
-CSU STREET FAIR
-\n    
-11h-16h
-\n\n  
-\n\n\n    
-\n      
-September 10-17
-\n      
-POP MATTERS AT THE VAV EXHIBITION
-\n\n      
-17h-19h
-\n      
-\n        
-PHOTOS
-\n\n    
-\n\n\n\n    
-\n        
-September 14th
-\n        
-POP MATTERS AT THE VAV VERNISSAGE
-\n        
-17h-19h
-\n        
-\n          
-PHOTOS
-\n\n      
-\n\n\n\n        
-\n          
-September 27th
-\n          
-\n            
-GENERAL MEETING
-\n          
-GM Presentation
-\n          
-GM Minutes
-\n\n        
-\n\n\n          
-\n            
+
+
+
+
+
+
 October 19th
-\n            
-\n              
+
+
+
+
 APPLICATION WORKSHOP
-\n              
-\n                
+
+
+
+
 PHOTOS
-\n            
-\n\n          
-\n\n\n            
-\n\n\n              
-\n\n
-\n\n\n\n                    
-\n\n\n
-\n
-\n\n
-\n\n
-\n\n
+
+
+
+
+
+
+
+
+September 27th
+
+
+
+
+GENERAL MEETING
+
+
+GM Presentation
+
+
+GM Minutes
+
+
+
+
+
+
+September 14th
+
+
+POP MATTERS AT THE VAV VERNISSAGE
+
+
+17h-19h
+
+
+
+
+PHOTOS
+
+
+
+
+
+
+September 10-17
+
+
+POP MATTERS AT THE VAV EXHIBITION
+
+
+17h-19h
+
+
+
+
+PHOTOS
+
+
+
+
+
+
+September 7th
+
+
+CSU STREET FAIR
+
+
+11h-16h
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 CALL OUTS
-\n  
-\n\n\n      
-\n        
+
+
+
+
+
+
 OCT 1ST-NOV 1ST
-\n        
-\n        
+
+
+
+
 CURATOR CALL-OUT 
-\n        
+
+
 More Info
-\n\n      
-\n\n
-\n\n\n             
-\n                
+
+
+
+
+
+
+
+
 NOV 1ST- DEC 1ST
-\n                
+
+
 ARTIST CALL-OUT
-\n                
+
+
 Anonymity Tips
-\n                
+
+
 More Info
-\n\n              
-\n\n\n                
-\n\n\n                  
-\n                    
+
+
+
+
+
+
+
+
 FALL SEMESTER
-\n                    
+
+
 JOBS CALL-OUT
-\n                    
-\n                      
+
+
+
+
 Board of Directors Chair
-\n\n                  
-\n\n\n                 
-\n                      
+
+
+
+
+
+
 JANUARY
-\n                      
+
+
 VOLUNTEERS CALL-OUT
-\n\n\n                    
-\n\n\n
-\n\n\n\n\n\n\n
-\n\n
-\n\n
-\n\n\n  
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  ARTISTS AND CURATORS
-\n\n  
-\n\n\n
-Curators apply in October to organize exhibitions, work with peer artists and professional art\nspaces. In November, artists submit artworks or in-progress proposals to the festival. All artistic\npractices are welcomed, all undergraduate students may apply.
-\n
-\n  
+
+
+
+
+Curators apply in October to organize exhibitions, work with peer artists and professional art
+spaces. In November, artists submit artworks or in-progress proposals to the festival. All artistic
+practices are welcomed, all undergraduate students may apply.
+
+
+
+
 More Info
-\n
-\n\n  
-\n
-\n\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
 JOBS
-\n\n\n\n  
-\n\n\n
-Art Matters offers several honorarium-based jobs to undergrads. Positions in photography,\nvideography, translation, copy editing, technical direction, volunteer coordination and more are\nmade available year-round. Check our 
+
+
+
+
+Art Matters offers several honorarium-based jobs to undergrads. Positions in photography,
+videography, translation, copy editing, technical direction, volunteer coordination and more are
+made available year-round. Check our 
 Facebook 
  page for more info.
-\n\n  
-\n
-\n\n\n
-\n  
-\n
+
+
+
+
+
+
+
+
+
+
 VOLUNTEERS
-\n\n\n\n  
-\n\n\n    
-New faces are always welcomed to volunteer at exhibitions and events! The call-out for\nvolunteers occurs early in the Winter semester.
-\n\n  
-\n
-\n\n\n
-\n    
-\n
+
+
+
+
+New faces are always welcomed to volunteer at exhibitions and events! The call-out for
+volunteers occurs early in the Winter semester.
+
+
+
+
+
+
+
+
+
+
 BOARD OF DIRECTORS
-\n\n\n\n\n  
-\n\n  
-\nOur board determines how the festival operates, directs its goals and initiatives, ensures that it\nruns smoothly, and joins in the fun of planning events. To learn more or express interest in\njoining, come to our first General Meeting in October.
-\n
-\n
+
+
+
+
+
+Our board determines how the festival operates, directs its goals and initiatives, ensures that it
+runs smoothly, and joins in the fun of planning events. To learn more or express interest in
+joining, come to our first General Meeting in October.
+
+
+
+
 GM Presentation
-\n
+
+
 GM Minutes
-\n
+
+
 Art Matters Bylaws 2017
-\n
-\n\n\n  
-\n
-\n\n
-\n\n
-\n  
-\n    
-\n\n\n\n\n>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>

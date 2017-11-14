@@ -8,10 +8,10 @@ import sys
 SCRAPE_DIRECTORY = os.getcwd() + "/raw_webpages"
 OUTPUT_DIRECTORY = os.getcwd() + "/documents"
 
-def writeChildren(soup, outfile):
+def writeChildren(soup, outfile):   
     if type(soup) is bs4.element.NavigableString:
-        outfile.write(soup + "\n")
-    elif type(soup) is bs4.element.Comment:
+        outfile.write(soup.encode('utf8') + "\n")
+    elif type(soup) is bs4.element.Comment or type(soup) is bs4.element.Doctype:
         None
     else:
         for c in soup.children:

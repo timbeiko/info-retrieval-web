@@ -1,8 +1,17 @@
-\n
+
+
+
+
+
+
+
+
 CAMPUS EQUITY WEEK, Oct. 23-28 | CUPFA
  
  
-img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-shadow:none !important;height:1em !important;width:1em !important;margin:0\n.07em !important;vertical-align:-0.1em !important;background:none !important;padding:0\n!important}
+img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-shadow:none !important;height:1em !important;width:1em !important;margin:0
+.07em !important;vertical-align:-0.1em !important;background:none !important;padding:0
+!important}
  
  
  
@@ -22,12 +31,13 @@ Deadlines
 Teaching Application Form
 News
 Quick Links:
-\u2190
+←
  CONCORDIA STUDENTS TALK ABOUT PART-TIME FACULTY
-SOUTH ASIAN FILM FESTIVAL, Oct 27-29 / Nov 3-5, de S\xe8ves Theatre 
-\u2192
+SOUTH ASIAN FILM FESTIVAL, Oct 27-29 / Nov 3-5, de Sèves Theatre 
+→
 CAMPUS EQUITY WEEK, Oct. 23-28
-\n
+
+
 Posted on
  
 October 22, 2017
@@ -36,15 +46,16 @@ by
  
 laurie
  
-\nThis entry was posted in 
+
+This entry was posted in 
 News
 . Bookmark the 
 permalink
 .
-\u2190
+←
  CONCORDIA STUDENTS TALK ABOUT PART-TIME FACULTY
-SOUTH ASIAN FILM FESTIVAL, Oct 27-29 / Nov 3-5, de S\xe8ves Theatre 
-\u2192
+SOUTH ASIAN FILM FESTIVAL, Oct 27-29 / Nov 3-5, de Sèves Theatre 
+→
 Home
 About
 Mandate & History
@@ -55,7 +66,7 @@ News & Events
 News
 Events
 Videos
-Media Coverage \u2013 Negotiations
+Media Coverage – Negotiations
 Collective Agreement
 Pensions and Retirement
 Pension Information
@@ -66,7 +77,7 @@ CUPFA Grants
 Travel and Expenses
 Grant Reports
 Small Claims
-PD \u2013 FAQ
+PD – FAQ
 Office of Research
 Forms
 Publications
@@ -77,10 +88,13 @@ Multi-Section Courses
 Concordia Resources
 FAQ
 Contact Us
-\n
+
+
 Search for:
-\n
-\n
+
+
+
+
 Recent Posts
 Official Signing of 5th Collective Agreement
 Words and Public Space, Andrew Forster, Erin Moure...
@@ -88,9 +102,10 @@ Campus Equity Week article in The Concordian
 Instability of Work a Cause of Stress for...
 BONNIE BAXTER wins Charles-Biddle Award 2017
 Post Archives
-\t\t
+ 
 Post Archives
-\n
+
+
 Select Month
  November 2017
  October 2017
@@ -150,22 +165,34 @@ Select Month
  February 2012
 Contact Info
 Office Hours
-\nMonday \u2013 Thursday
-\n9 am to 4 pm
+
+Monday – Thursday
+
+9 am to 4 pm
 2150 Bishop, S-K-310
-\nMontreal, Quebec  H3G 1M8
+
+Montreal, Quebec  H3G 1M8
 Telephone
-\n514-848-2424-3691
+
+514-848-2424-3691
 Facsimile
-\n514-848-3648
-\n
-\n
-\n
-\nCopyright \xa9 CUPFA. All Rights Reserved.
+
+514-848-3648
+
+
+
+
+
+
+
+Copyright © CUPFA. All Rights Reserved.
  
 jQuery(document).ready(function($){jQuery('#dc_jqaccordion_widget-2-item .menu').dcAccordion({eventType:'click',hoverDelay:0,menuClose:false,autoClose:true,saveState:true,autoExpand:true,classExpand:'current-menu-item',classDisable:'',showCount:false,disableLink:true,cookie:'dc_jqaccordion_widget-2',speed:'fast'});});
  
 jQuery(document).ready(function($){$("a[rel*=lightbox]").colorbox({speed:350,initialWidth:"300",initialHeight:"100",maxWidth:"75%",opacity:0.8,loop:false,scrolling:false,escKey:false,arrowKey:false,top:false,right:false,bottom:false,left:false});});
  
  
- \n>
+ 
+
+
+>

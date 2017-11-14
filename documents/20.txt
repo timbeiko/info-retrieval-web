@@ -1,95 +1,196 @@
-\n\n\t
-\n\t
+
+
+
+
+
+
+
+
 Ste-Emilie Skillshare | Community Arts Collective
-\n\t
-\n\t
-\n\t
-\n\t
-\n
-\n
-\n
-\n
-\n
-\n
- \n
-\n
-\n
-\n
-\n\n\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Ste-Emilie Skillshare
  | Community Arts Collective
-\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\n\t\n\n
-\n
-\n
-\t
-\n\t\t\t\t\t\t
-\n\t\t\t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
 Who We Are / Mandate
-\n\t\t\t\t\t\t
-\n\t\t\t\t
-\n\t\t\t\t\t
+
+
+
+
+
+
 Our Mandate:
-\n
+
+
 The Ste-Emilie Skillshare is a community art colletive devoted to empowerment, self-determination and collective liberation. It is a collective run by and for people who are trans, two-spirit, queer, Indigenous and/or people of colour* and friends. As a collective of activists and artists, we work within an anti-oppression framework toward social and economic transformation. We share skills and resources to create art in the spirit of self-representation and revolution.
-\n
+
+
 Guiding Principles (draft!)
-\n
-This mission is founded on the understanding that our experiences of (capitalism/poverty), racism, sexism, homophobia and transphobia are interlinked. They work to undermine the strength, skills and knowledge within our communities. Having access to resources, skills and spaces helps us to combat these political, economic and social realities. As we learn from and teach each other, we acknowledge how we may be complicit in each other\u2019s oppression in order to develop stronger, more accountable communities. We also equip ourselves to reclaim our images through self-representation from a dominant culture that oftentimes appropriates, digests and serves to us cold that which we hold most dear. We are a part of a community of powerful individuals that defend who and what we love. We want to help it grow stronger.
-\n
-If you have ideas for events, art shows, art projects, discussion groups, book clubs, etc. that you\u2019d like to see at Ste-\xc9milie; if you have a silkscreening project that you or your community group want to do; if you have skills to share in our regular skillshare series; if you are interested in being part of the collective that serves as the soul of Ste-\xc9milie; if you want to volunteer as a
-\nsilkscreen expert for our Sidetracks team; if you are drawn to our mandate and think Ste-Emilie might be a good place for you to be, please do get in touch.
-\n\t\t\t\t
-\n\t\t\t
-\n\t\t
-\n\t\t
-\n
-\n\n\n\t\t\t
-\n\t\t
-\n\n\t\n
-\n\t\t\t\t\t
-\n\t
-\n\t\t\t\t
-\n\t\t\t
+
+
+This mission is founded on the understanding that our experiences of (capitalism/poverty), racism, sexism, homophobia and transphobia are interlinked. They work to undermine the strength, skills and knowledge within our communities. Having access to resources, skills and spaces helps us to combat these political, economic and social realities. As we learn from and teach each other, we acknowledge how we may be complicit in each other’s oppression in order to develop stronger, more accountable communities. We also equip ourselves to reclaim our images through self-representation from a dominant culture that oftentimes appropriates, digests and serves to us cold that which we hold most dear. We are a part of a community of powerful individuals that defend who and what we love. We want to help it grow stronger.
+
+
+If you have ideas for events, art shows, art projects, discussion groups, book clubs, etc. that you’d like to see at Ste-Émilie; if you have a silkscreening project that you or your community group want to do; if you have skills to share in our regular skillshare series; if you are interested in being part of the collective that serves as the soul of Ste-Émilie; if you want to volunteer as a
+
+silkscreen expert for our Sidetracks team; if you are drawn to our mandate and think Ste-Emilie might be a good place for you to be, please do get in touch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Pages
-\n\t\t\t
-\n\t\t\t\t
+
+
+
+
 Home
-\n\t\t\t\t
+
+
 Join the Collective
-\n
+
+
 Zine Distro
-\n
+
+
 Who We Are / Mandate
-\n
+
+
 Photos and Glam
-\n
+
+
 Contact Us
-\n
-\n\t
+
+
+
+
 Sign up for our Newsletter
-\n
-\n
-\n\t\t\t
-\n\t\t\t
+
+
+
+
+
+
+
+
 Categories
-\n\t\t\t
-\n\t\t\t\t\t
+
+
+
+
 Distro
- (4)\n
-\n\t
+ (4)
+
+
+
 News & Upcoming Events
- (162)\n
-\n\t\t\t
-\t\t\n\t\t\t\t\t\t\n\t\t
-\t
-\n
-\n
-\n
-\n
-\n
-\n
-\njQuery(document).ready(function($){\n  $("a[rel*=lightbox]").colorbox({width:false,height:false,innerWidth:false,innerHeight:false,initialWidth:false,initialHeight:false,opacity:0.8});\n});\n
-\n
+ (162)
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({width:false,height:false,innerWidth:false,innerHeight:false,initialWidth:false,initialHeight:false,opacity:0.8});
+});
+
+
+
+
+
+
+
+
+
 Ste-Emilie Skillshare
  | Community Arts Collective
 RSS
@@ -97,6 +198,8 @@ RSS
 Entries
  / 
 Comments
+
+
 WordPress
  | 
 Valid
@@ -104,6 +207,18 @@ Valid
 XHTML
  / 
 CSS
-\n
-\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\n\t\n\n
-\n\n>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>

@@ -1,148 +1,279 @@
-\n\n    
-\n
-\n
-\n  
+
+
+
+
+
+
+
+
+
+
+
+
 HOJO Classifieds
-\n  
-\n  \n      
-\n        
-\n    \n  
-\n
-\n
-\n
-\n
-\n
-\n      
-\n\n  
-\n  
-\n  
-\n
-\n
-\n
-\n
-\n
-\n<!--//--><![CDATA[//><!--\nvar switchTo5x = true;\n//--><!]]>\n
-\n
-\n
-\n<!--//--><![CDATA[//><!--\nif (stLight !== undefined) { stLight.options({"publisher":"dr-e8d6a55-5a9-aa96-4611-3dbef68a73d9","version":"5x","shorten":"false"}); }\n//--><!]]>\n
-\n
-\n
-\n<!--//--><![CDATA[//><!--\n(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-67381822-2", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");\n//--><!]]>\n
-\n
-\n
-\n
-\n<!--//--><![CDATA[//><!--\njQuery.extend(Drupal.settings, {"basePath":"\\/","pathPrefix":"","ajaxPageState":{"theme":"flatclassifieds","theme_token":"RN9GzM-hIDlW-KjCv-9lOj-e0OUf1R1DlsL4ox3mYh0","js":{"sites\\/all\\/modules\\/jquery_update\\/replace\\/jquery\\/1.8\\/jquery.min.js":1,"misc\\/jquery.once.js":1,"misc\\/drupal.js":1,"sites\\/all\\/modules\\/spamspan\\/spamspan.js":1,"sites\\/all\\/modules\\/flatclassifieds_helper\\/flatclassifieds_helper.js":1,"sites\\/all\\/modules\\/lightbox2\\/js\\/auto_image_handling.js":1,"sites\\/all\\/modules\\/lightbox2\\/js\\/lightbox.js":1,"sites\\/all\\/modules\\/select_with_style\\/select_with_style\\/select_with_style.js":1,"0":1,"http:\\/\\/w.sharethis.com\\/button\\/buttons.js":1,"1":1,"sites\\/all\\/libraries\\/jquery.cycle\\/jquery.cycle.all.js":1,"sites\\/all\\/modules\\/field_slideshow\\/field_slideshow.js":1,"sites\\/all\\/modules\\/google_analytics\\/googleanalytics.js":1,"2":1,"misc\\/form.js":1,"misc\\/collapse.js":1,"sites\\/all\\/themes\\/flatclassifieds\\/j\\/jquery-ui-1.10.4.min.js":1,"sites\\/all\\/themes\\/flatclassifieds\\/j\\/jquery.ui.slider-rtl.min.js":1,"sites\\/all\\/themes\\/flatclassifieds\\/j\\/jquery.tools.min.js":1,"sites\\/all\\/themes\\/flatclassifieds\\/j\\/modernizr.touch.js":1,"sites\\/all\\/themes\\/flatclassifieds\\/j\\/jquery.ui.touch-punch.min.js":1,"sites\\/all\\/themes\\/flatclassifieds\\/j\\/chosen.jquery.min.js":1,"sites\\/all\\/themes\\/flatclassifieds\\/j\\/gmap3.min.js":1,"sites\\/all\\/themes\\/flatclassifieds\\/j\\/gmap3.infobox.js":1,"sites\\/all\\/themes\\/flatclassifieds\\/j\\/main.js":1,"sites\\/all\\/themes\\/flatclassifieds\\/j\\/menu.js":1},"css":{"modules\\/system\\/system.base.css":1,"modules\\/system\\/system.menus.css":1,"modules\\/system\\/system.messages.css":1,"modules\\/system\\/system.theme.css":1,"sites\\/all\\/modules\\/ldap\\/ldap_user\\/ldap_user.css":1,"modules\\/comment\\/comment.css":1,"sites\\/all\\/modules\\/date\\/date_api\\/date.css":1,"sites\\/all\\/modules\\/date\\/date_popup\\/themes\\/datepicker.1.7.css":1,"modules\\/field\\/theme\\/field.css":1,"modules\\/node\\/node.css":1,"modules\\/search\\/search.css":1,"modules\\/user\\/user.css":1,"sites\\/all\\/modules\\/views\\/css\\/views.css":1,"sites\\/all\\/modules\\/ed_classified\\/theme\\/classified.css":1,"sites\\/all\\/modules\\/ctools\\/css\\/ctools.css":1,"sites\\/all\\/libraries\\/awesome\\/css\\/font-awesome.min.css":1,"sites\\/all\\/modules\\/flatclassifieds_helper\\/flatclassifieds_helper.css":1,"sites\\/all\\/modules\\/ldap\\/ldap_servers\\/ldap_servers.admin.css":1,"sites\\/all\\/modules\\/lightbox2\\/css\\/lightbox.css":1,"sites\\/all\\/modules\\/panels\\/css\\/panels.css":1,"public:\\/\\/ctools\\/css\\/9f178a33e75029e902dac857fa61d972.css":1,"sites\\/all\\/modules\\/field_slideshow\\/field_slideshow.css":1,"sites\\/all\\/modules\\/panels_bootstrap_layout_builder\\/plugins\\/layouts\\/bootstrap\\/bootstrap.css":1,"sites\\/all\\/themes\\/flatclassifieds\\/css\\/ui-lightness\\/jquery-ui-1.10.4.css":1,"sites\\/all\\/themes\\/flatclassifieds\\/css\\/jquery.ui.slider-rtl.css":1,"sites\\/all\\/themes\\/flatclassifieds\\/css\\/chosen.min.css":1,"sites\\/all\\/themes\\/flatclassifieds\\/css\\/style.css":1,"sites\\/default\\/files\\/fontyourface\\/font.css":1,"http:\\/\\/fonts.googleapis.com\\/css?family=Roboto:100,300\\u0026subset=latin-ext":1}},"lightbox2":{"rtl":"0","file_path":"\\/(\\\\w\\\\w\\/)public:\\/","default_image":"\\/sites\\/all\\/modules\\/lightbox2\\/images\\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \\u003Ca href=\\u0022#\\u0022 onclick=\\u0022hideLightbox(); return FALSE;\\u0022\\u003E\\u003Ckbd\\u003Ex\\u003C\\/kbd\\u003E\\u003C\\/a\\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"(\\\\.thumbnail)","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"img.thumbnail, img.image-thumbnail","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":1,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false},"field_slideshow":{"field-slideshow-1":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-2":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-3":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-4":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-5":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-6":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-7":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-8":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-9":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-10":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-11":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-12":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});\n//--><!]]>\n
-\n  \n\n\n  
-\n    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--//--><![CDATA[//><!--
+var switchTo5x = true;
+//--><!]]>
+
+
+
+
+
+
+<!--//--><![CDATA[//><!--
+if (stLight !== undefined) { stLight.options({"publisher":"dr-e8d6a55-5a9-aa96-4611-3dbef68a73d9","version":"5x","shorten":"false"}); }
+//--><!]]>
+
+
+
+
+
+
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-67381822-2", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+
+
+
+
+
+
+
+
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"flatclassifieds","theme_token":"D5kCXIqnUwgU-OROus5BAZhg8icN5ba91yEFN64xcgo","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/spamspan\/spamspan.js":1,"sites\/all\/modules\/flatclassifieds_helper\/flatclassifieds_helper.js":1,"sites\/all\/modules\/lightbox2\/js\/auto_image_handling.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/select_with_style\/select_with_style\/select_with_style.js":1,"0":1,"http:\/\/w.sharethis.com\/button\/buttons.js":1,"1":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"sites\/all\/modules\/field_slideshow\/field_slideshow.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"2":1,"misc\/form.js":1,"misc\/collapse.js":1,"sites\/all\/themes\/flatclassifieds\/j\/jquery-ui-1.10.4.min.js":1,"sites\/all\/themes\/flatclassifieds\/j\/jquery.ui.slider-rtl.min.js":1,"sites\/all\/themes\/flatclassifieds\/j\/jquery.tools.min.js":1,"sites\/all\/themes\/flatclassifieds\/j\/modernizr.touch.js":1,"sites\/all\/themes\/flatclassifieds\/j\/jquery.ui.touch-punch.min.js":1,"sites\/all\/themes\/flatclassifieds\/j\/chosen.jquery.min.js":1,"sites\/all\/themes\/flatclassifieds\/j\/gmap3.min.js":1,"sites\/all\/themes\/flatclassifieds\/j\/gmap3.infobox.js":1,"sites\/all\/themes\/flatclassifieds\/j\/main.js":1,"sites\/all\/themes\/flatclassifieds\/j\/menu.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/ldap\/ldap_user\/ldap_user.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ed_classified\/theme\/classified.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/awesome\/css\/font-awesome.min.css":1,"sites\/all\/modules\/flatclassifieds_helper\/flatclassifieds_helper.css":1,"sites\/all\/modules\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"public:\/\/ctools\/css\/9f178a33e75029e902dac857fa61d972.css":1,"sites\/all\/modules\/field_slideshow\/field_slideshow.css":1,"sites\/all\/modules\/panels_bootstrap_layout_builder\/plugins\/layouts\/bootstrap\/bootstrap.css":1,"sites\/all\/themes\/flatclassifieds\/css\/ui-lightness\/jquery-ui-1.10.4.css":1,"sites\/all\/themes\/flatclassifieds\/css\/jquery.ui.slider-rtl.css":1,"sites\/all\/themes\/flatclassifieds\/css\/chosen.min.css":1,"sites\/all\/themes\/flatclassifieds\/css\/style.css":1,"sites\/default\/files\/fontyourface\/font.css":1,"http:\/\/fonts.googleapis.com\/css?family=Roboto:100,300\u0026subset=latin-ext":1}},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"(\\.thumbnail)","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"img.thumbnail, img.image-thumbnail","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":1,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false},"field_slideshow":{"field-slideshow-1":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-2":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-3":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-4":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-5":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-6":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-7":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-8":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-9":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-10":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-11":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-12":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+//--><!]]>
+
+
+
+
+
+
+
+
+
 Skip to main content
-\n  
-\n    \n
-\n  
-\n    
-\n      
-\n                \n          
-\n            
-\n              
-\n                
-\n                
-\n                
-\n              
-\n              
-\n            
-\n            
-\n              
-\n    
-\n        
-\n    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Categories
 Housing
 Apartments
-\n
+
+
 Room for Rent
-\n
+
+
 Boarder
-\n
+
+
 Looking for Roommates
-\n
-\n
+
+
+
+
 Jobs
 Off Campus
-\n
+
+
 On Campus
-\n
+
+
 Summer
-\n
+
+
 Other
-\n
-\n
+
+
+
+
 Buy/Sell
 Books
-\n
+
+
 Appliances
-\n
+
+
 Electronics
-\n
+
+
 Other
-\n
-\n
+
+
+
+
 Services
 Tutoring
-\n
-\n
-\n
+
+
+
+
+
+
 Contact
-\n
+
+
 FAQ
-\n
-    
-\n  
-\n  
-\n
-\n\t  
-\n    \n              
-\n                 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
 Login
-\xa0\xa0\xa0\xa0
+    
 Register
-                 
-\n              
-\n            
-\n          
-\n              
-\n    
-\n  
-\n
-\n\n\n
-\n  
-\n    
-\n      
-\n          
-\n    
-\n        
-\n    
-\n  
-\n          
-\n                  
-\n            Enter Keyword...          
-\n                        
-\n          
-\n 
-\n
-\n        
-\n              
-\n          
-\n                  
-\n            Location          
-\n                        
-\n          
-\n 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Enter Keyword...          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Location          
+
+
+
+
+
+
 - Any -
 Ahuntsic-Cartierville
 Cote-des-Neiges-Notre-Dame-Grace
 -Cote-des-Neiges
 -Notre-Dame-Grace
 Hampstead
-\xcele des S\u0153urs
+Île des Sœurs
 Lachine
 Lasalle
 Laval
@@ -185,15 +316,24 @@ Villeray-Saint-Michel-Parc-Extension
 -Villeray
 West Island
 Westmount
-\n
-\n        
-\n              
-\n          
-\n                  
-\n            Category          
-\n                        
-\n          
-\n 
+
+
+
+
+
+
+
+
+
+
+
+            Category          
+
+
+
+
+
+
 - Any -
 Housing
 -Apartments
@@ -212,629 +352,1423 @@ Buy/Sell
 -Other
 Services
 -Tutoring
-\n
-\n        
-\n              
-\n          
-\n                  
-\n            Distance / Proximity          
-\n                        
-\n          
-\n  
+
+
+
+
+
+
+
+
+
+
+
+            Distance / Proximity          
+
+
+
+
+
+
 Distance 
-\n 
-\n
-\n
-\n 
+
+
+
+
+
+
+
+
 Miles
 Kilometers
-\n
-\n        
-\n              
-\n                    
-\n      
-\n 
-  
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 My Location 
-\n\n
-\n
-    
-\n      
-\n
-\n
-    
-\n  
-\n  
-\n
-\n\t  
-\n        
-\n      
-\n    
-\n  
-\n  
-\n
-\n\n     \n  
-\n      \n      
-\n    
-\n        
-\n    
-\n
-\n  
-\n
-\n  
-\n
-\n  
-\n
-\n  \n      \n  \n  
-\n    
-\n        \n  \n  \n      
-\n      
-var latlng = new google.maps.LatLng(45.4973823, -73.5781751);\nvar mapDiv,\n\t\t\tmap,\n\t\t\tinfobox;\njQuery(document).ready(function($) {\nmapDiv = $("#BigGoogleMap");\nmapDiv.gmap3({ \nmarker:{values:[\n{\n  latLng:[45.449819,-73.572521], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.473832,-73.625774], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.504913,-73.568922], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.479890,-73.667784], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.504913,-73.568922], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.497526,-73.567193], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.531658,-73.622681], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.465211,-73.626847], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.496207,-73.578247], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.519934,-73.566926], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.495144,-73.594340], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.480121,-73.587207], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.462264,-73.627153], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.497061,-73.578802], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.496548,-73.578577], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.468964,-73.646434], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.469049,-73.618415], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.492770,-73.575068], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.497273,-73.579024], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.451421,-73.598179], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.452686,-73.645175], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.506827,-73.577019], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.528476,-73.457438], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.480551,-73.629963], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.508829,-73.574191], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.471377,-73.610000], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.485471,-73.717801], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.485471,-73.717801], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.485471,-73.717801], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.512447,-73.621808], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.463041,-73.651781], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.439686,-73.667395], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.495278,-73.579044], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.540500,-73.615002], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.552011,-73.594248], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.542974,-73.545629], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.549987,-73.541633], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},\n{\n  latLng:[45.497766,-73.584727], \n  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}\n},]},\noverlay:{\n  values:[\n{\n  latLng:[45.449819,-73.572521], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/room-rent-perfect-time-get-good-spot-2017-18-yearfree-month-10-12-month-lease"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/img_1379_1.jpg?itok=bo6P2TyP" width="460" height="300" alt="" /></a><a href="/ad/room-rent-perfect-time-get-good-spot-2017-18-yearfree-month-10-12-month-lease"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$350</div>Room for Rent (Perfect  time to get a good spot for 2017-18 year)....(Free month for 10-12 month lease) </div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.473832,-73.625774], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/monkland-village"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/dscf1012e_0.jpg?itok=vl0VNPj1" width="460" height="300" alt="" /></a><a href="/ad/monkland-village"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$710</div>MONKLAND VILLAGE</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.504913,-73.568922], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/student-apartments-near-concordia-free-wifi-all-utilities-included"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/livingroomp1.jpg?itok=w52dlud4" width="460" height="300" alt="" /></a><a href="/ad/student-apartments-near-concordia-free-wifi-all-utilities-included"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$859</div>Student Apartments near Concordia! Free WIFI &amp; All Utilities Included!</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.479890,-73.667784], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/house-sitter-and-pet-sitter-6"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/house-sitter-and-pet-sitter-6"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>HOUSE SITTER AND PET SITTER</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.504913,-73.568922], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/appartements-etudiants-mtl-louer-toutes-charges-comprises"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/img_1843.jpg?itok=8jC5cFTD" width="460" height="300" alt="" /></a><a href="/ad/appartements-etudiants-mtl-louer-toutes-charges-comprises"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$785</div>Appartements \xe9tudiants a MTL a louer! Toutes charges comprises!</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.497526,-73.567193], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/valetcassier"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/valetcassier"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Valet/cassier</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.531658,-73.622681], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/bilingual-customer-service-representative"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/bilingual-customer-service-representative"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Bilingual Customer Service Representative</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.465211,-73.626847], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/digital-camera-cannon-powershotg10-never-used"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/img_0434.jpg?itok=e0FtloUS" width="460" height="300" alt="" /></a><a href="/ad/digital-camera-cannon-powershotg10-never-used"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$400</div>Digital Camera Cannon PowershotG10 (Never Used)</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#16a084;">&#xf126;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.496207,-73.578247], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/le-frigo-vert-collective-member"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/le-frigo-vert-collective-member"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Le Frigo Vert Collective Member</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.519934,-73.566926], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/yard-maintenance-snow-removal-piecework"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/capture_0.png?itok=AOZlHr_r" width="460" height="300" alt="" /></a><a href="/ad/yard-maintenance-snow-removal-piecework"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Yard Maintenance / Snow Removal (Piecework)</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.495144,-73.594340], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/montrealwestmount-2-br-newly-renovated"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/_59-1.jpg?itok=RlipcitW" width="460" height="300" alt="" /></a><a href="/ad/montrealwestmount-2-br-newly-renovated"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$1 200</div>Montreal/Westmount 2-BR Newly Renovated</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.480121,-73.587207], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/sounds-language-intro-phonetics"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/sounds-language-intro-phonetics"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>The Sounds of Language (An Intro to Phonetics)</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#16a084;">&#xf02d;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.462264,-73.627153], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/centrally-located-3-12-15-min-walk-loyola-campus-heat-water-and-electricity-included"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/p1820076-001_0.jpg?itok=cq8PxQm6" width="460" height="300" alt="" /></a><a href="/ad/centrally-located-3-12-15-min-walk-loyola-campus-heat-water-and-electricity-included"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$896</div>Centrally-located 3 1/2 15 min. walk from Loyola Campus: heat, water and electricity included</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.497061,-73.578802], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/sustainability-action-fund-project-coordinator"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/saf_coord.jpg?itok=0-veWHfF" width="460" height="300" alt="" /></a><a href="/ad/sustainability-action-fund-project-coordinator"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Sustainability Action Fund Project Coordinator</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.496548,-73.578577], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/english-tutor-ba-and-tefl-certified"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/english-tutor-ba-and-tefl-certified"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>English tutor BA and TEFL Certified</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#16a084;">&#xf040;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.468964,-73.646434], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/4-12-apartment-concordia-loyola-campus"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/dscf3294.jpg?itok=Z2e9lRXH" width="460" height="300" alt="" /></a><a href="/ad/4-12-apartment-concordia-loyola-campus"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$795</div>4 1/2 Apartment Concordia Loyola Campus</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.469049,-73.618415], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/super-spacious-and-bright-bedroom-sublet"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/img_0214.jpg?itok=-UK0R2lQ" width="460" height="300" alt="" /></a><a href="/ad/super-spacious-and-bright-bedroom-sublet"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$450</div>Super spacious and bright bedroom for sublet!</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.492770,-73.575068], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/spacious-studio-apt-downtown-montreal"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/spacious-studio-apt-downtown-montreal"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$765</div>Spacious studio apt in downtown Montreal</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.497273,-73.579024], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/service-desk-agent-0"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/service-desk-agent-0"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Service Desk Agent</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.451421,-73.598179], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/nice-fully-furnished-apartment-looking-roomatemonk-metro"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/img_20171029_173603065_0.jpg?itok=W5lshnT4" width="460" height="300" alt="" /></a><a href="/ad/nice-fully-furnished-apartment-looking-roomatemonk-metro"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$470</div>Nice Fully Furnished Apartment/ looking for a roomate/Monk metro</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.452686,-73.645175], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/job-offer-part-time"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/job-offer-part-time"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>job offer part time</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.506827,-73.577019], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/edison-residence-room-rent"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/v2com_edison_20140805_12.jpg?itok=6WLUB3WC" width="460" height="300" alt="" /></a><a href="/ad/edison-residence-room-rent"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$750</div>Edison Residence - Room for rent</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.528476,-73.457438], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/pet-friendly-5-12-apartment-rent-longueuil"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/_59_5.jpg?itok=KLBmLBgT" width="460" height="300" alt="" /></a><a href="/ad/pet-friendly-5-12-apartment-rent-longueuil"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$765</div>Pet Friendly 5 1/2 Apartment for Rent in Longueuil</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.480551,-73.629963], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/roommate-wanted-sunny-spacious-close-all-amenities-5-min-walk-snowdon-550"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/img_20171024_165159.jpg?itok=28861-lE" width="460" height="300" alt="" /></a><a href="/ad/roommate-wanted-sunny-spacious-close-all-amenities-5-min-walk-snowdon-550"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$550</div>Roommate Wanted for SUNNY, SPACIOUS, CLOSE TO ALL AMENITIES, 5 MIN WALK SNOWDON ($550)</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.508829,-73.574191], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/professional-editing-proofreading-services"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/essay.jpg?itok=AKneAxNq" width="460" height="300" alt="" /></a><a href="/ad/professional-editing-proofreading-services"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>\u2591\u2592\u2593 Professional Editing &amp; Proofreading Services\u2593\u2592\u2591</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#16a084;">&#xf040;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.471377,-73.610000], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/large-sunny-room-sublet-january-may-ndgmetro-vendome"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/18926537_436576110047483_1212434637_o_1.jpg?itok=zrDY0feg" width="460" height="300" alt="" /></a><a href="/ad/large-sunny-room-sublet-january-may-ndgmetro-vendome"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$500</div>Large sunny room to sublet January-May in NDG/M\xe9tro Vend\xf4me</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.485471,-73.717801], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/dynamix-retreat-lead-facilitator"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/dynamix-retreat-lead-facilitator"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Dynamix Retreat Lead Facilitator</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.485471,-73.717801], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/animator-dynamix-adventures-inc"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/animator-dynamix-adventures-inc"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Animator at Dynamix Adventures Inc.</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.485471,-73.717801], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/animateurtrice"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/animateurtrice"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Animateur/trice </div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.512447,-73.621808], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/3-12-cotes-des-neigesoutremont-heating-included"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/1_7.jpg?itok=oB1bXyzG" width="460" height="300" alt="" /></a><a href="/ad/3-12-cotes-des-neigesoutremont-heating-included"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$800</div>3 1/2 Cotes des Neiges/Outremont, heating included</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.463041,-73.651781], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/near-loyola-campus-converted-duplex-fully-furnished-equipped-2-3-br-utilities-and-wifi-included"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/rentingchester-2_0.jpg?itok=mg-LFEu1" width="460" height="300" alt="" /></a><a href="/ad/near-loyola-campus-converted-duplex-fully-furnished-equipped-2-3-br-utilities-and-wifi-included"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$1 200</div>Near Loyola Campus: converted Duplex, fully furnished &amp; equipped, 2-3 BR \u2014 utilities and wifi included!</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.439686,-73.667395], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/5-12-live-canal-first-floor-parking-patio-dog-friendly"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/lachine_1.jpg?itok=K3JXSIeM" width="460" height="300" alt="" /></a><a href="/ad/5-12-live-canal-first-floor-parking-patio-dog-friendly"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$885</div>5 1/2 Live by the Canal, First Floor, Parking, Patio, Dog Friendly</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.495278,-73.579044], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/catering-and-support-staff-needed"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/part_time_job_description_2017.jpg?itok=oN8MWKkq" width="460" height="300" alt="" /></a><a href="/ad/catering-and-support-staff-needed"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Catering and Support Staff Needed</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.540500,-73.615002], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/5-12-renove-renovated-de-chateaubriand-2min-metro-jean-talon"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/bedroom_1_0.jpg?itok=XYjgF_5h" width="460" height="300" alt="" /></a><a href="/ad/5-12-renove-renovated-de-chateaubriand-2min-metro-jean-talon"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$1 395</div>5 \xbd r\xe9nov\xe9-renovated de Chateaubriand 2min Metro Jean Talon!</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.552011,-73.594248], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/fully-furnished-2-bedrooms-appartment-january-1st-april-30th"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/img_2272_0.jpg?itok=usQppyDu" width="460" height="300" alt="" /></a><a href="/ad/fully-furnished-2-bedrooms-appartment-january-1st-april-30th"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$1 200</div>Fully furnished 2 bedrooms appartment January 1st to april 30th</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.542974,-73.545629], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/freshly-renovated-4-12-apartment-hochelaga"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/grandechambre_2017-11-08_0.jpg?itok=Ud_KmZvX" width="460" height="300" alt="" /></a><a href="/ad/freshly-renovated-4-12-apartment-hochelaga"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$760</div>Freshly renovated 4 1/2 apartment in Hochelaga</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.549987,-73.541633], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/2-12-fully-equiped-and-renovated"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/photo-ontario_0.jpg?itok=Ao3oUdm8" width="460" height="300" alt="" /></a><a href="/ad/2-12-fully-equiped-and-renovated"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$695</div>2 1/2 fully equiped and renovated </div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}\n},\n{\n  latLng:[45.497766,-73.584727], \n  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/january-june-2018-big-clean-quiet-412-downtown-within-walking-distance-downtown-campus"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/january-june-2018-big-clean-quiet-412-downtown-within-walking-distance-downtown-campus"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$1 350</div>January- June 2018 Big, clean, Quiet 41/2 downtown within walking distance to downtown campus</div></a><div class="arr"></div><div class="close"></div></div></div>',\n  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}\n},],\n  events:{   \n    click: function(overlay, event, context){\n      var map = $(this).gmap3("get");\n      map.panTo(overlay.getPosition());\n\t\t\tvar ibOptions = {\n\t\t\t\tpixelOffset: new google.maps.Size(-125, -88),\n\t\t\t\talignBottom: true\n\t\t\t};\n\t\t\tinfobox.setOptions(ibOptions)\n\t\t\tinfobox.setContent(context.data);\n\t\t\tinfobox.open(map,overlay);      \t\t\n\t\t\t// if map is small\n\t\t\tvar iWidth = 260;\n\t\t\tvar iHeight = 300;\n\t\t\tif(($(this).width() / 2) < iWidth ){\n\t\t\t  var offsetX = iWidth - ($(this).width() / 2);\n\t\t\t\tmap.panBy(offsetX,0);\n\t\t\t}\n\t\t\tif(($(this).height() / 2) < iHeight ){\n\t\t\t\tvar offsetY = -(iHeight - ($(this).height() / 2));\n\t\t\t\tmap.panBy(0,offsetY);\n\t\t\t}\n\t\t}\n\t}\n}, \nmap:{\n  options:{\n    zoom: 11,\n    minZoom: 4,\n    center: latlng,\n    draggable: false,\n    scrollwheel: false\n  }\n}\n});\ninfobox = new InfoBox({\n  pixelOffset: new google.maps.Size(-50, -65),\n\tcloseBoxURL: '',\n\tenableEventPropagation: true\n});\nmapDiv.delegate('.map_info_ovr .close','click',function () {\n\tinfobox.close();\n});\n});\n
-    
-\n  \n  \n  \n  \n  \n  \n
-  
-\n\n  \n  
-\n  
-\n
-\n  
-\n
-\n  
-\n
-\n
-\n  
-\n
-\n  
-\n
-\n  
-\n
-\n  \n      \n  \n  
-\n    
-\n  
-\n\n  \n  
-\n  
-\n
-\n  
-\n
-\n  
-\n
-\n
-\n  
-\n
-\n  
-\n  
-\n
-\n  
-\n
-\n
-\n  
-\n
-\n  
-\n
-\n  
-\n
-\n  \n      \n  \n  
-\n    
-\n            
-\n      
-\n
-\n  
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var latlng = new google.maps.LatLng(45.4973823, -73.5781751);
+var mapDiv,
+			map,
+			infobox;
+jQuery(document).ready(function($) {
+mapDiv = $("#BigGoogleMap");
+mapDiv.gmap3({ 
+marker:{values:[
+{
+  latLng:[45.449819,-73.572521], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.473832,-73.625774], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.504913,-73.568922], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.479890,-73.667784], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.504913,-73.568922], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.497526,-73.567193], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.531658,-73.622681], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.465211,-73.626847], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.496207,-73.578247], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.519934,-73.566926], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.495144,-73.594340], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.480121,-73.587207], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.462264,-73.627153], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.497061,-73.578802], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.496548,-73.578577], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.468964,-73.646434], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.469049,-73.618415], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.492770,-73.575068], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.497273,-73.579024], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.451421,-73.598179], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.452686,-73.645175], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.506827,-73.577019], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.528476,-73.457438], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.480551,-73.629963], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.508829,-73.574191], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.471377,-73.610000], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.485471,-73.717801], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.485471,-73.717801], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.485471,-73.717801], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.512447,-73.621808], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.463041,-73.651781], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.439686,-73.667395], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.495278,-73.579044], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.540500,-73.615002], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.552011,-73.594248], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.542974,-73.545629], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.549987,-73.541633], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.497766,-73.584727], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.459516,-73.648505], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.497088,-73.579903], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},]},
+overlay:{
+  values:[
+{
+  latLng:[45.449819,-73.572521], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/room-rent-perfect-time-get-good-spot-2017-18-yearfree-month-10-12-month-lease"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/img_1379_1.jpg?itok=bo6P2TyP" width="460" height="300" alt="" /></a><a href="/ad/room-rent-perfect-time-get-good-spot-2017-18-yearfree-month-10-12-month-lease"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$350</div>Room for Rent (Perfect  time to get a good spot for 2017-18 year)....(Free month for 10-12 month lease) </div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.473832,-73.625774], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/monkland-village"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/dscf1012e_0.jpg?itok=vl0VNPj1" width="460" height="300" alt="" /></a><a href="/ad/monkland-village"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$710</div>MONKLAND VILLAGE</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.504913,-73.568922], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/student-apartments-near-concordia-free-wifi-all-utilities-included"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/livingroomp1.jpg?itok=w52dlud4" width="460" height="300" alt="" /></a><a href="/ad/student-apartments-near-concordia-free-wifi-all-utilities-included"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$859</div>Student Apartments near Concordia! Free WIFI &amp; All Utilities Included!</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.479890,-73.667784], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/house-sitter-and-pet-sitter-6"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/house-sitter-and-pet-sitter-6"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>HOUSE SITTER AND PET SITTER</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.504913,-73.568922], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/appartements-etudiants-mtl-louer-toutes-charges-comprises"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/img_1843.jpg?itok=8jC5cFTD" width="460" height="300" alt="" /></a><a href="/ad/appartements-etudiants-mtl-louer-toutes-charges-comprises"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$785</div>Appartements étudiants a MTL a louer! Toutes charges comprises!</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.497526,-73.567193], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/valetcassier"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/valetcassier"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Valet/cassier</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.531658,-73.622681], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/bilingual-customer-service-representative"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/bilingual-customer-service-representative"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Bilingual Customer Service Representative</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.465211,-73.626847], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/digital-camera-cannon-powershotg10-never-used"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/img_0434.jpg?itok=e0FtloUS" width="460" height="300" alt="" /></a><a href="/ad/digital-camera-cannon-powershotg10-never-used"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$400</div>Digital Camera Cannon PowershotG10 (Never Used)</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#16a084;">&#xf126;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.496207,-73.578247], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/le-frigo-vert-collective-member"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/le-frigo-vert-collective-member"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Le Frigo Vert Collective Member</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.519934,-73.566926], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/yard-maintenance-snow-removal-piecework"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/capture_0.png?itok=AOZlHr_r" width="460" height="300" alt="" /></a><a href="/ad/yard-maintenance-snow-removal-piecework"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Yard Maintenance / Snow Removal (Piecework)</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.495144,-73.594340], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/montrealwestmount-2-br-newly-renovated"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/_59-1.jpg?itok=RlipcitW" width="460" height="300" alt="" /></a><a href="/ad/montrealwestmount-2-br-newly-renovated"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$1 200</div>Montreal/Westmount 2-BR Newly Renovated</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.480121,-73.587207], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/sounds-language-intro-phonetics"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/sounds-language-intro-phonetics"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>The Sounds of Language (An Intro to Phonetics)</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#16a084;">&#xf02d;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.462264,-73.627153], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/centrally-located-3-12-15-min-walk-loyola-campus-heat-water-and-electricity-included"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/p1820076-001_0.jpg?itok=cq8PxQm6" width="460" height="300" alt="" /></a><a href="/ad/centrally-located-3-12-15-min-walk-loyola-campus-heat-water-and-electricity-included"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$896</div>Centrally-located 3 1/2 15 min. walk from Loyola Campus: heat, water and electricity included</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.497061,-73.578802], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/sustainability-action-fund-project-coordinator"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/saf_coord.jpg?itok=0-veWHfF" width="460" height="300" alt="" /></a><a href="/ad/sustainability-action-fund-project-coordinator"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Sustainability Action Fund Project Coordinator</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.496548,-73.578577], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/english-tutor-ba-and-tefl-certified"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/english-tutor-ba-and-tefl-certified"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>English tutor BA and TEFL Certified</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#16a084;">&#xf040;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.468964,-73.646434], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/4-12-apartment-concordia-loyola-campus"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/dscf3294.jpg?itok=Z2e9lRXH" width="460" height="300" alt="" /></a><a href="/ad/4-12-apartment-concordia-loyola-campus"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$795</div>4 1/2 Apartment Concordia Loyola Campus</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.469049,-73.618415], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/super-spacious-and-bright-bedroom-sublet"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/img_0214.jpg?itok=-UK0R2lQ" width="460" height="300" alt="" /></a><a href="/ad/super-spacious-and-bright-bedroom-sublet"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$450</div>Super spacious and bright bedroom for sublet!</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.492770,-73.575068], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/spacious-studio-apt-downtown-montreal"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/spacious-studio-apt-downtown-montreal"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$765</div>Spacious studio apt in downtown Montreal</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.497273,-73.579024], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/service-desk-agent-0"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/service-desk-agent-0"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Service Desk Agent</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.451421,-73.598179], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/nice-fully-furnished-apartment-looking-roomatemonk-metro"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/img_20171029_173603065_0.jpg?itok=W5lshnT4" width="460" height="300" alt="" /></a><a href="/ad/nice-fully-furnished-apartment-looking-roomatemonk-metro"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$470</div>Nice Fully Furnished Apartment/ looking for a roomate/Monk metro</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.452686,-73.645175], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/job-offer-part-time"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/job-offer-part-time"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>job offer part time</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.506827,-73.577019], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/edison-residence-room-rent"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/v2com_edison_20140805_12.jpg?itok=6WLUB3WC" width="460" height="300" alt="" /></a><a href="/ad/edison-residence-room-rent"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$750</div>Edison Residence - Room for rent</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.528476,-73.457438], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/pet-friendly-5-12-apartment-rent-longueuil"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/_59_5.jpg?itok=KLBmLBgT" width="460" height="300" alt="" /></a><a href="/ad/pet-friendly-5-12-apartment-rent-longueuil"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$765</div>Pet Friendly 5 1/2 Apartment for Rent in Longueuil</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.480551,-73.629963], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/roommate-wanted-sunny-spacious-close-all-amenities-5-min-walk-snowdon-550"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/img_20171024_165159.jpg?itok=28861-lE" width="460" height="300" alt="" /></a><a href="/ad/roommate-wanted-sunny-spacious-close-all-amenities-5-min-walk-snowdon-550"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$550</div>Roommate Wanted for SUNNY, SPACIOUS, CLOSE TO ALL AMENITIES, 5 MIN WALK SNOWDON ($550)</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.508829,-73.574191], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/professional-editing-proofreading-services"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/essay.jpg?itok=AKneAxNq" width="460" height="300" alt="" /></a><a href="/ad/professional-editing-proofreading-services"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>░▒▓ Professional Editing &amp; Proofreading Services▓▒░</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#16a084;">&#xf040;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.471377,-73.610000], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/large-sunny-room-sublet-january-may-ndgmetro-vendome"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/18926537_436576110047483_1212434637_o_1.jpg?itok=zrDY0feg" width="460" height="300" alt="" /></a><a href="/ad/large-sunny-room-sublet-january-may-ndgmetro-vendome"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$500</div>Large sunny room to sublet January-May in NDG/Métro Vendôme</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.485471,-73.717801], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/dynamix-retreat-lead-facilitator"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/dynamix-retreat-lead-facilitator"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Dynamix Retreat Lead Facilitator</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.485471,-73.717801], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/animator-dynamix-adventures-inc"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/animator-dynamix-adventures-inc"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Animator at Dynamix Adventures Inc.</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.485471,-73.717801], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/animateurtrice"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/animateurtrice"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Animateur/trice </div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.512447,-73.621808], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/3-12-cotes-des-neigesoutremont-heating-included"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/1_7.jpg?itok=oB1bXyzG" width="460" height="300" alt="" /></a><a href="/ad/3-12-cotes-des-neigesoutremont-heating-included"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$800</div>3 1/2 Cotes des Neiges/Outremont, heating included</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.463041,-73.651781], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/near-loyola-campus-converted-duplex-fully-furnished-equipped-2-3-br-utilities-and-wifi-included"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/rentingchester-2_0.jpg?itok=mg-LFEu1" width="460" height="300" alt="" /></a><a href="/ad/near-loyola-campus-converted-duplex-fully-furnished-equipped-2-3-br-utilities-and-wifi-included"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$1 200</div>Near Loyola Campus: converted Duplex, fully furnished &amp; equipped, 2-3 BR — utilities and wifi included!</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.439686,-73.667395], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/5-12-live-canal-first-floor-parking-patio-dog-friendly"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/lachine_1.jpg?itok=K3JXSIeM" width="460" height="300" alt="" /></a><a href="/ad/5-12-live-canal-first-floor-parking-patio-dog-friendly"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$885</div>5 1/2 Live by the Canal, First Floor, Parking, Patio, Dog Friendly</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.495278,-73.579044], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/catering-and-support-staff-needed"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/part_time_job_description_2017.jpg?itok=oN8MWKkq" width="460" height="300" alt="" /></a><a href="/ad/catering-and-support-staff-needed"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Catering and Support Staff Needed</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.540500,-73.615002], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/5-12-renove-renovated-de-chateaubriand-2min-metro-jean-talon"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/bedroom_1_0.jpg?itok=XYjgF_5h" width="460" height="300" alt="" /></a><a href="/ad/5-12-renove-renovated-de-chateaubriand-2min-metro-jean-talon"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$1 395</div>5 ½ rénové-renovated de Chateaubriand 2min Metro Jean Talon!</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.552011,-73.594248], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/fully-furnished-2-bedrooms-appartment-january-1st-april-30th"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/img_2272_0.jpg?itok=usQppyDu" width="460" height="300" alt="" /></a><a href="/ad/fully-furnished-2-bedrooms-appartment-january-1st-april-30th"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$1 200</div>Fully furnished 2 bedrooms appartment January 1st to april 30th</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.542974,-73.545629], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/freshly-renovated-4-12-apartment-hochelaga"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/grandechambre_2017-11-08_0.jpg?itok=Ud_KmZvX" width="460" height="300" alt="" /></a><a href="/ad/freshly-renovated-4-12-apartment-hochelaga"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$760</div>Freshly renovated 4 1/2 apartment in Hochelaga</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.549987,-73.541633], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/2-12-fully-equiped-and-renovated"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/photo-ontario_0.jpg?itok=Ao3oUdm8" width="460" height="300" alt="" /></a><a href="/ad/2-12-fully-equiped-and-renovated"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$695</div>2 1/2 fully equiped and renovated </div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.497766,-73.584727], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/january-june-2018-big-clean-quiet-412-downtown-within-walking-distance-downtown-campus"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/january-june-2018-big-clean-quiet-412-downtown-within-walking-distance-downtown-campus"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$1 350</div>January- June 2018 Big, clean, Quiet 41/2 downtown within walking distance to downtown campus</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.459516,-73.648505], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/10-hours-week-nanny-2-children-living-6-minutes-walking-distance-loyola-campus"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/10-hours-week-nanny-2-children-living-6-minutes-walking-distance-loyola-campus"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>10 hours a week- Nanny for 2 children living 6 minutes walking distance from the Loyola campus</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.497088,-73.579903], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/mapping-project-coordinator"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/67703_162395173953935_1581886465_n.jpg?itok=Kn0YFrZ2" width="460" height="300" alt="" /></a><a href="/ad/mapping-project-coordinator"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Mapping Project Coordinator</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}
+},],
+  events:{   
+    click: function(overlay, event, context){
+      var map = $(this).gmap3("get");
+      map.panTo(overlay.getPosition());
+			var ibOptions = {
+				pixelOffset: new google.maps.Size(-125, -88),
+				alignBottom: true
+			};
+			infobox.setOptions(ibOptions)
+			infobox.setContent(context.data);
+			infobox.open(map,overlay);      		
+			// if map is small
+			var iWidth = 260;
+			var iHeight = 300;
+			if(($(this).width() / 2) < iWidth ){
+			  var offsetX = iWidth - ($(this).width() / 2);
+				map.panBy(offsetX,0);
+			}
+			if(($(this).height() / 2) < iHeight ){
+				var offsetY = -(iHeight - ($(this).height() / 2));
+				map.panBy(0,offsetY);
+			}
+		}
+	}
+}, 
+map:{
+  options:{
+    zoom: 11,
+    minZoom: 4,
+    center: latlng,
+    draggable: false,
+    scrollwheel: false
+  }
+}
+});
+infobox = new InfoBox({
+  pixelOffset: new google.maps.Size(-50, -65),
+	closeBoxURL: '',
+	enableEventPropagation: true
+});
+mapDiv.delegate('.map_info_ovr .close','click',function () {
+	infobox.close();
+});
+});
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Latest Ads
-\n  
+
+
 Most Popular Ads
-\n  
+
+
 Random Ads
-\n
-\n
-    
-\n  \n  \n  \n      
-\n      
-\n\n    \n    
-  
-\n    
-\n\n  \n  \n  \n  
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n      
-\n\n  \n  \n
-\n
-    
-\uf015
-  
-\n  
-\n    
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+Mapping Project Coordinator
+
+
+ 
+
+    0
+The Centre for Gender Advocacy is committed to employment equity as an ongoing process. Women, Indigenous peoples, members of racialized groups, people with disabilities, and members of other historically marginalized communities are encouraged to apply. When candidates do not differ significantly in merit, and one such candidate belongs to a historically marginalized group, Employment Equity requires that the member in this group will be selected.
+Accessibility: 
+The Centre for Gender Advocacy recently underwent an accessibility audit. We are currently working on implementing the recommendations arising from the audit.
+The Action Coordinator will work at the office located at 1500 de Maisonneuve W, Unit 404 (there is a second office at 2110 Mackay). There is a ramp outside leading to the front door, however most wheelchair users find it to be too steep to use (10.8% grade). Since we share the floor with a business, we have not been able to successfully create gender-neutral washrooms even temporarily during events. Space users are of course welcome to use whichever washroom they want, but we realize this is not the same as having washrooms that are actually gender-neutral.
+About the Centre for Gender Advocacy:
+The Centre for Gender Advocacy (the Centre) is an independent, student-funded, Concordia University organization, mandated to promoting gender equality and empowerment particularly as it relates to marginalized communities. This mandate is achieved through ongoing programming, campaigns, resources, services, advocacy and a commitment to accessibility.
+
+
+Job Purpose Summary: Coordinate the deployment, analysis and result sharing of Gender, Sexualities and Learning Diversity survey at Concordia. This survey has already been written; the Coordinator would be responsible for the dissemination, analysis and presentation of the survey and its results. 
+
+
+ 
+
+
+Key Responsibilities
+•Promote participation in the survey with professors and teaching staff at Concordia
+•Reach out to part time and full time faculty association for endorsement, support and participation
+•Work with the promotion team to create the project image and promotion materials
+•Administer and monitor the progress of the survey
+•Analyze of survey results
+•Prepare, promote and present final advisory report on survey results
+•Create FAQ on the project results
+•Reach out to media
+•Keep track of budget and project hours
+
+
+ 
+
+
+Shared tasks
+
+
+All staff are expected to:
+•Self-educate around the Centre’s Mandate and Vision 
+•Respect their co-workers and foster a supportive environment that allows for each coordinator to carry out their jobs to the best of their abilities
+•Seek feedback from other staff members, board members, and Centre volunteers on a regular basis
+•Complete timesheets and staff reports regularly in a timely manner
+Contract Duration: This is a temporary position with a 3-month probation period; the contract will run until the project is completed (scheduled for September 2018). 
+Salary and Benefits: $19.48/hr for 10-20 hours/week (flexible scheduling according to periods of more or less work). Health benefits and 4 weeks annual vacation (pro-rated to the contract length) after the 3 month probation period.
+Application Deadline: Please send cover letter and CV by November 27th, 5 PM to hiring[at]genderadvocacy.org with “Mapping Coordinator Application” in the subject line. Cover letters can be addressed to the Hiring Committee.
+Expected Start Date: December 8, 2017 (negotiable)
+ 
+
+
+2110 Rue Mackay
+Montréal, QC H3G 2J1
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+ Brand new hoodies for sale 
+
+
+$30
+ 
+
+
+30.00
+Hooded Sweatshirts for Sale. Three different colours. Grey, Black and Maroon.All sizes available S, M , L, XL. Super soft and comfortablePick up or delivery
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+10 hours a week- Nanny for 2 children living 6...
+
+
+ 
+
+    0
+The Genies' Services is a company offering different services, including tutoring and childminding.We are currently looking for an experienced nanny/babysitter to take care of 2 children, 2 and 4-year old, every day from Monday to Friday from 4:30pm to 6:30pm.- To pick them up from the daycare center at 4:30pm, 5080 Rue West Broadway, Montréal, QC H4V - To take them home, 10 minutes away from the daycare center- To help the mother with the preparation of the dinnerPay: 13$/hourBeginning of employment: 20th November Please send your resume if you are interested
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
 Sunny Bedroom in beautiful Mile End Apt
-\n    
+
+
 $510
-    
-\n    
+ 
+
+
 510.00
-We Are 3 roommates looking for a 4th. All in our twenties, and students at Concordia(Dance and Physics)The Apartment is a 7 1/2 renovated on the third floor of a triplex. There are four closed bedrooms, one full bath room, one half bathroom, two balcony's, living room, kitchen and a washer/dry. Heating is included and internet is shared.The apartment was recently renovated. It has new hardwood floors and 9 foot ceilings. There are a few sky lights and very large windows in all the rooms, giving plenty of light. The bathroom is completely tiled and with new fixtures. The kitchen is huge and modern with a ton of new cabinetry (We've lived here a year and still haven't filled all the cupboards). The balcony on the back is very spacious with a spectacular garden in the summer.The neighbourhood is absolutely fantastic with an absurd amount of cafe's, grocery stores, pharmacies within a 5 min walk. There is a public library and a YMCA a block away and well as numerous beautiful parks.\xa0 The 80 bus stops very frequently outside the apartment and can take you downtown in 20 min. Station Outremont on the blue line is a 10 min walk from the apartment, the Van Horne bus stops up the street and can take you to the Rosemont station on the orange line in 10 mins. Not to mention that it's a great neighbourhood for biking with plenty of bike paths to take you around.\xa0\xa0
-\n
-    
-\n  
-\n    \n
-\n\t\n\n\n\n\n
-\n\n    \n    
-  
-\n    
-\n\n  \n  \n  \n  
-\n          
-\n        
-              
-\n      
-\n\n  \n  \n
-\n
-    
-\uf015
-  
-\n  
-\n    
+We Are 3 roommates looking for a 4th. All in our twenties, and students at Concordia(Dance and Physics)The Apartment is a 7 1/2 renovated on the third floor of a triplex. There are four closed bedrooms, one full bath room, one half bathroom, two balcony's, living room, kitchen and a washer/dry. Heating is included and internet is shared.The apartment was recently renovated. It has new hardwood floors and 9 foot ceilings. There are a few sky lights and very large windows in all the rooms, giving plenty of light. The bathroom is completely tiled and with new fixtures. The kitchen is huge and modern with a ton of new cabinetry (We've lived here a year and still haven't filled all the cupboards). The balcony on the back is very spacious with a spectacular garden in the summer.The neighbourhood is absolutely fantastic with an absurd amount of cafe's, grocery stores, pharmacies within a 5 min walk. There is a public library and a YMCA a block away and well as numerous beautiful parks.  The 80 bus stops very frequently outside the apartment and can take you downtown in 20 min. Station Outremont on the blue line is a 10 min walk from the apartment, the Van Horne bus stops up the street and can take you to the Rosemont station on the orange line in 10 mins. Not to mention that it's a great neighbourhood for biking with plenty of bike paths to take you around.  
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
 January- June 2018 Big, clean, Quiet 41/2...
-\n    
+
+
 $1 350
-    
-\n    
+ 
+
+
 1 350.00
-Large 4 1/2 with 2 bedrooms, 2 bathrooms, a dining room and a large balcony looking out the Mount Royal park. Bright, quiet corner unit. The building is located on the prestigious Dr. Penfield Avenue. Included in the price: Stove, refrigerator, and hot water. Walking distance from Concordia University, McGill University, and Guy Concordia metro. Lots of coffee shops, restaurants, and groceries nearby. Bus lines 144 and 165, 435, 66,166 and 24 are in the vicinity of the building.The apartment building has many great features: - Concierge 24/7 - indoor Laundry facility - storage space - outdoor pool - Indoor gym - access to depanneur from inside the building - indoor parking (at extra cost)It is a lease transfer from January- June 2018 with the possibility of extension. Willing to offer early move in on December 15th at no extra cost!Please call 514-839-8929 to book an appointment for viewing--------------Grand 4 1/2 avec 2 chambres, 2 salles de bain, une salle \xe0 manger et un grand balcon. Unite de coin lumineuse et silencieuse. Le b\xe2timent est situ\xe9 sur la prestigieuse avenue Dr. Penfield. Inclus dans le prix: Cuisini\xe8re, r\xe9frig\xe9rateur et eau chaude. Distance \xe0 pied de l'Universit\xe9 Concordia, de l'Universit\xe9 McGill et du m\xe9tro Guy Concordia. Beaucoup de caf\xe9s, restaurants et \xe9piceries \xe0 proximit\xe9. Bus 144 and 165, 435, 66,166 and 24 dans le proximite.L'immeuble a de nombreuses fonctionnalit\xe9s: - Concierge 24/7 - une laverie int\xe9rieure - espace de stockage - piscine ext\xe9rieure - Salle de sport int\xe9rieure - l'acc\xe8s au d\xe9panneur de l'int\xe9rieur du b\xe2timent - un parking int\xe9rieur (en suppl\xe9ment).Il s'agit d'un transfert de bail de janvier \xe0 juin 2018 avec possibilit\xe9 d'extension. Dispos\xe9 \xe0 offrir t\xf4t le 15 d\xe9cembre sans frais suppl\xe9mentaires!Veuillez appeler au 514-839-8929 pour prendre rendez-vous
-\n
-    
-\n  
-\n    \n
-\n\t\n\n\n\n\n
-\n\n    \n    
-  
-\n    
-\n\n  \n  \n  \n  
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n      
-\n\n  \n  \n
-\n
-    
-\uf015
-  
-\n  
-\n    
+Large 4 1/2 with 2 bedrooms, 2 bathrooms, a dining room and a large balcony looking out the Mount Royal park. Bright, quiet corner unit. The building is located on the prestigious Dr. Penfield Avenue. Included in the price: Stove, refrigerator, and hot water. Walking distance from Concordia University, McGill University, and Guy Concordia metro. Lots of coffee shops, restaurants, and groceries nearby. Bus lines 144 and 165, 435, 66,166 and 24 are in the vicinity of the building.The apartment building has many great features: - Concierge 24/7 - indoor Laundry facility - storage space - outdoor pool - Indoor gym - access to depanneur from inside the building - indoor parking (at extra cost)It is a lease transfer from January- June 2018 with the possibility of extension. Willing to offer early move in on December 15th at no extra cost!Please call 514-839-8929 to book an appointment for viewing--------------Grand 4 1/2 avec 2 chambres, 2 salles de bain, une salle à manger et un grand balcon. Unite de coin lumineuse et silencieuse. Le bâtiment est situé sur la prestigieuse avenue Dr. Penfield. Inclus dans le prix: Cuisinière, réfrigérateur et eau chaude. Distance à pied de l'Université Concordia, de l'Université McGill et du métro Guy Concordia. Beaucoup de cafés, restaurants et épiceries à proximité. Bus 144 and 165, 435, 66,166 and 24 dans le proximite.L'immeuble a de nombreuses fonctionnalités: - Concierge 24/7 - une laverie intérieure - espace de stockage - piscine extérieure - Salle de sport intérieure - l'accès au dépanneur de l'intérieur du bâtiment - un parking intérieur (en supplément).Il s'agit d'un transfert de bail de janvier à juin 2018 avec possibilité d'extension. Disposé à offrir tôt le 15 décembre sans frais supplémentaires!Veuillez appeler au 514-839-8929 pour prendre rendez-vous
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
 2 1/2 fully equiped and renovated in Rosemont!
-\n    
+
+
 $695
-    
-\n    
+ 
+
+
 695.00
 Available on January 2018!
 Stunning new apartments on Papineau just steps away from the beautiful Beaubien Street with its restaurants, coffee shops, and other conviniences. Near downtown and Concordia University. Fabre Metro Station and Beaubien Metro Station are at 10 minutes. Fully furnished.
-\n
-    
-\n  
-\n    \n
-\n\t\n\n\n\n\n
-\n\n    \n    
-  
-\n    
-\n\n  \n  \n  \n  
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n      
-\n\n  \n  \n
-\n
-    
-\uf015
-  
-\n  
-\n    
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
 2 1/2 fully equiped and renovated 
-\n    
+
+
 $695
-    
-\n    
+ 
+
+
 695.00
 Available on February 2018!
 Stunning new apartments on Ontario East Street just steps away from Pie-IX Metro Station, restaurants, shops and other conviniences. Near downtown and Concordia University.
 Inclusions:
 ElectricityHot water/heatingWasher and dryer in the buildingAir conditionerFully furnished
-\n
-    
-\n  
-\n    \n
-\n\t\n\n\n\n\n
-\n\n    \n    
-  
-\n    
-\n\n  \n  \n  \n  
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n      
-\n\n  \n  \n
-\n
-    
-\uf015
-  
-\n  
-\n    
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
 Freshly renovated 4 1/2 apartment in Hochelaga
-\n    
+
+
 $760
-    
-\n    
+ 
+
+
 760.00
-Charming 4 1/2 that has been recently renovated with good taste. Situated on Davidson street, corner with Ontario where you can find great bars, restaurants and cafes.\xa0Description:On the second floor of a three story buildin (6 apartmets in the building);Freshly renovated: laminate, ceramic and porcelain floorsTwo big rooms, each wit a closet, big kitchen wit a lot of storage room, living room and balcony (with a storageocker)Prefontaine and Joliette metro stations re 10 minutes away by footWalk Scoreof 94 and Bike Score of 100Non-smoking\xa0Please cotact by e-mail
-\n
-    
-\n  
-\n    \n
-\n\t\n\n\n\n\n
-\n\n    \n    
-  
-\n    
-\n\n  \n  \n  \n  
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n      
-\n\n  \n  \n
-\n
-    
-\uf015
-  
-\n  
-\n    
+Charming 4 1/2 that has been recently renovated with good taste. Situated on Davidson street, corner with Ontario where you can find great bars, restaurants and cafes. Description:On the second floor of a three story buildin (6 apartmets in the building);Freshly renovated: laminate, ceramic and porcelain floorsTwo big rooms, each wit a closet, big kitchen wit a lot of storage room, living room and balcony (with a storageocker)Prefontaine and Joliette metro stations re 10 minutes away by footWalk Scoreof 94 and Bike Score of 100Non-smoking Please cotact by e-mail
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
 Fully furnished 2 bedrooms appartment January...
-\n    
+
+
 $1 200
-    
-\n    
+ 
+
+
 1 200.00
-Nice appartment with two closed bedroom and a study. Outfitted with a baby room but can be switched for a single bed. Available january 1st to april 30th. Fully furnished with all appliances and cutlery, heating, electricity and internet included.The surroundings include many parks, restaurants, bar, stores and gorcery stores.10 minutes walk from the metro and close to many bus line. Parking is in the street. Price is per month.Jolie appartement 5 1/2 dans Rosemont compl\xe8tement meubl\xe9 pour sous-location de janvier \xe0 avril.L'appartement est situ\xe9 au rez-de chauss\xe9 d\\'un duplex. Plusieurs ligne de bus \xe0 proximit\xe9, 10 min \xe0 pied du m\xe9tro le plus proche. \xc0 proximit\xe9 de nombreux restaurants, \xe9piceries et restos. Quartier familialet agr\xe9able.Enti\xe8rement meubl\xe9, incluant la coutellerie. Inclus tous les \xe9lectros, l\\'\xe9lectricit\xe9, le chauffage, internet wi-fi, et smartv.Le logement comprend deux chambres ferm\xe9es et un bureau ferm\xe9. L'une des chambres est meubl\xe9e pour un b\xe9b\xe9, mais possibilit\xe9 de retirer la d\xe9coration et de remplacer le berceau pour un lit simple.Stationnement dans la rue. Le prix est par mois
-\n
-    
-\n  
-\n    \n
-\n\t\n\n\n\n\n
-\n\n    \n    
-  
-\n    
-\n\n  \n  \n  \n  
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n      
-\n\n  \n  \n
-\n
-    
-\uf015
-  
-\n  
-\n    
-5 \xbd r\xe9nov\xe9-renovated de Chateaubriand 2min...
-\n    
+Nice appartment with two closed bedroom and a study. Outfitted with a baby room but can be switched for a single bed. Available january 1st to april 30th. Fully furnished with all appliances and cutlery, heating, electricity and internet included.The surroundings include many parks, restaurants, bar, stores and gorcery stores.10 minutes walk from the metro and close to many bus line. Parking is in the street. Price is per month.Jolie appartement 5 1/2 dans Rosemont complètement meublé pour sous-location de janvier à avril.L'appartement est situé au rez-de chaussé d\'un duplex. Plusieurs ligne de bus à proximité, 10 min à pied du métro le plus proche. À proximité de nombreux restaurants, épiceries et restos. Quartier familialet agréable.Entièrement meublé, incluant la coutellerie. Inclus tous les électros, l\'électricité, le chauffage, internet wi-fi, et smartv.Le logement comprend deux chambres fermées et un bureau fermé. L'une des chambres est meublée pour un bébé, mais possibilité de retirer la décoration et de remplacer le berceau pour un lit simple.Stationnement dans la rue. Le prix est par mois
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+Plateau, 6 1/2, à loue du 22 décembre/25 février 
+
+
+$1 200
+ 
+
+
+1 200.00
+Two bedrooms, two double rooms. Two minutes from metro. Luminous. 1200$/month.
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+5 ½ rénové-renovated de Chateaubriand 2min...
+
+
 $1 395
-    
-\n    
+ 
+
+
 1 395.00
 Available 5 1/2 for December***The photos are just to get an idea of the size of the apartment***. Will look amazing once renovated!. The apartment will be completely renovated. 2 min walk to Metro Station Jean Talon. Large apartment, 2 or 3 bedrooms. Very ideal for large families or roommates. Close to Little Italy and all services. Electric heating (tenant). Washer dryer entry. Appliances optional extra. A rare opportunity. Sought-after area (Villeray). Very quiet building. Very bright. Close to the Marche Jean-Talon and all the best cafes and restaurants of Little Italy and Villeray. Near the STM service;. Jean Talon #93, #92. St Denis #31. Jean Talon Metro (blue line) --2 min walk!!. References. Credit experience. 514-660-7668
-\n
-    
-\n  
-\n    \n
-\n\t\n\n\n\n\n
-\n\n    \n    
-  
-\n    
-\n\n  \n  \n  \n  
-\n          
-\n        
-              
-\n      
-\n\n  \n  \n
-\n
-    
-\uf085
-  
-\n  
-\n    
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
 Catering and Support Staff Needed
-\n    
-    
-\n    0
-DUTIES INCLUDE (but not limited to):Reporting to the Assistant Director, the incumbent is asked to perform these tasks:\u2022 Assist the waitress in the kitchen during lunch and on breaks with EMBA students\u2022 Prepare rooms for events\u2022 Clean rooms after events and use\u2022 Keeping facilities clean and organized at all times\u2022 Shopping for various items for EMBA students\u2022 Occasional - moving some equipment and boxes\u2022 Provide support for Executive MBA support staff\u2022 Other duties as required by the staff for EMBA Program activitiesREQUIREMENTS\u2022 Must be able to work independently and in a team, strongly required\u2022 Hardworking and have good ethics\u2022 Reliable, punctual, clean and organized\u2022 Good organizational and communication skills\u2022 Bilingualism an asset, but not required\u2022 Related work experience\u2022 Available during academic termsSchedule: Fridays and Saturdays during the fall and winter semestersHours: ranges between 15 - 20 hours a weekThursdays (1 \u2013 5 pm), Fridays to Saturdays (11:30 am to ~ 7:30 pm)
-\n
-    
-\n  
-\n    \n
-\n\t\n\n\n\n\n
-\n\n    \n    
-  
-\n    
-\n\n  \n  \n  \n  
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n      
-\n\n  \n  \n
-\n
-    
-\uf015
-  
-\n  
-\n    
-5 1/2 Live by the Canal, First Floor, Parking,...
-\n    
-$885
-    
-\n    
-885.00
-5 1/21 st Floor/ 1 ere etage3 closed bedrooms/ 3 chambres a coucher fermees2 medium sized bedrooms and one very small bedroom for an officeIn a triplex/ Dans un triplexWood floors/ Planchers a boisCeramic tiles/ Tuiles a ceramiqueWindow in every room/ Fenetre dans chaque chambreLots of light/ Beaucoup de lumiere2 balconies/ 2 balconesHigh Ceilings/ Plafonds hautPatio & Small garden/ Patio avec petit jardinParking for 2 vehicles/ Stationnement pour 2 autosVery quiet Building/ Tres calme & tranquille batimentDogs and cats allowed/ Acceptee les chiens et chats10 min walk to Lachine Canal & Bike Path/ 10 min par pieds a Canal Lachine et le piste cyclable Lachine5 min walk to Lasalle Park/ 5 min par pieds a Parc Lasalle5 min by car to Highway 20/ 5 min par auto a Autorout 20 et 1310 min to Dorval or Downtown/ 10 min a Dorval ou Centre-villeWalking distance to the new train station ( Gare du canal) / distance par pieds a le nouvelle gare du train( Gare du canal)Credit check & Reference check/ Verification & enquete de credit et referencesText or email for fastest response.
-\n
-    
-\n  
-\n    \n
-\n\t\n\n\n\n\n
-\n\n    \n    
-  
-\n    
-\n\n  \n  \n  \n  
-\n          
-\n        
-              
-\n      
-\n\n  \n  \n
-\n
-    
-\uf040
-  
-\n  
-\n    
-Looking for special need tutor
-\n    
-    
-\n    0
-Hi,I am looking for tutor or speech therapy for my daughter.\xa0 She is 14 year old autistic, and I need for weakly two or three days. Please call me 514 748 2084.ThanksSankari\xa0
-\n
-    
-\n  
-\n    \n
-\n\t\n\n\n\n\n
-\n\n    \n    
-  
-\n    
-\n\n  \n  \n  \n  
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n      
-\n\n  \n  \n
-\n
-    
-\uf015
-  
-\n  
-\n    
-Near Loyola Campus: converted Duplex, fully...
-\n    
-$1 200
-    
-\n    
-1 200.00
-\xa0\n
-Duplex converted to family home, with front and back yard, driveway, and four balconies.
-\n
-Quiet neighbourhood near Loyola park; within walking distance of Loyola Campus of Concordia University (15-20 minutes) and C\xf4te-St-Luc shopping mall (groceries etc. 5 minutes).
-\n
-Two bedrooms (with bed and cupboard space) one of which has access to front balcony; one extra room with wifi router; one extra room with sink.
-\n
-Living / dining room.
-\n
-Two bathrooms with bathtub and shower (one of which has a rain shower head).
-\n
-One fully equipped open kitchen (stove/oven, fridge/freezer, dishwasher) with breakfast counter
-\n
-Washer and dryer in basement.
-\n
-All utilities included, even wireless internet (albeit slow sometimes).
-\n
-Bedlinen, towels, and kitchen linen included.
-\n
-No smoking.
-\n
-No pets.
-\n
-Our place was recently renovated (2015-16) with non-toxic materials.\xa0
-\n
-Nearest metro stations: Snowdon (bus 51), Villa Maria (bus 103), Vend\xf4me (bus 102
-\n
-We will be living abroad until June 2018 and will be renting our house furnished during that time.
-\n
-Lease type: temporary lease
-\n
-    
-\n  
-\n    \n
-\n\t\n\n\n\n\n
-\n\n    \n    
-  
-\n    
-\n\n  \n  \n  \n  
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n          
-\n        
-              
-\n      
-\n\n  \n  \n
-\n
-    
-\uf015
-  
-\n  
-\n    
-3 1/2 Cotes des Neiges/Outremont, heating included
-\n    
-$800
-    
-\n    
-800.00
-3 1/2, 1 closed bedroom, heated, hot water, quiet, hardwood floors, balcony, intercom, fridge and stove included. Washer/dryer in building. Near University of Montreal, walking distance to Edouard-Montpetit or Outremont metro stations, available January 1st 800$ \xa0 \xa0\xa0
-\n
-    
-\n  
-\n    \n
-\n\t\n\n\n\n\n
-    
-\n  \n      
+
+
+ 
+
+    0
+DUTIES INCLUDE (but not limited to):Reporting to the Assistant Director, the incumbent is asked to perform these tasks:• Assist the waitress in the kitchen during lunch and on breaks with EMBA students• Prepare rooms for events• Clean rooms after events and use• Keeping facilities clean and organized at all times• Shopping for various items for EMBA students• Occasional - moving some equipment and boxes• Provide support for Executive MBA support staff• Other duties as required by the staff for EMBA Program activitiesREQUIREMENTS• Must be able to work independently and in a team, strongly required• Hardworking and have good ethics• Reliable, punctual, clean and organized• Good organizational and communication skills• Bilingualism an asset, but not required• Related work experience• Available during academic termsSchedule: Fridays and Saturdays during the fall and winter semestersHours: ranges between 15 - 20 hours a weekThursdays (1 – 5 pm), Fridays to Saturdays (11:30 am to ~ 7:30 pm)
+
+
+ 
+
+
+
+
+
+
+ 
+
+
 Pages
 1
-\n
+
+
 2
-\n
+
+
 3
-\n
+
+
 4
-\n
-next \u203a
-\n
-last \xbb
-\n
-  \n  \n  \n  \n  \n
-  
-\n\n  \n  
-\n  
-\n
-\n  
-\n
-\n  
-\n
-\n
-\n  
-\n
-\n  
-\n
-\n  
-\n
-\n  \n      \n  \n  
-\n    
-Browse our 45 Ads from 4 Categories
-  
-\n\n  \n  
-\n
-\n  \n      \n  \n  
-\n    
-\uf015
+
+
+5
+
+
+next ›
+
+
+last »
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Browse our 49 Ads from 4 Categories
+ 
+
+
+
+
+
+
+
+
+
 Housing
-26
+27
 Apartments
-18
+19
 Room for Rent
 8
 Boarder
 0
 Looking for Roommates
 0
-\uf085
+
 Jobs
-13
+15
 Off Campus
-8
+9
 On Campus
-5
+6
 Summer
 0
 Other
 0
-\uf07a
+
 Buy/Sell
-2
+3
 Books
 1
 Appliances
@@ -842,91 +1776,162 @@ Appliances
 Electronics
 1
 Other
-0
-\uf0ad
+1
+
 Services
 4
 Tutoring
 4
-  
-\n\n  \n  
-\n  
-\n
-\n  
-\n
-\n  
-\n
-\n
-\n    
-\n  
-\n  
-\n
-\n\t  
-\n    
-\n  
-\n  \n  \n  \n\n\n
-\n  
-\n    
-  
-\n    
-\n        
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
 Useful Links
-\n      
-\n    
+
+
+
+
 Reset Password
-\n
+
+
 Our Blog
-\n
+
+
 Contact Us
-\n
+
+
 Legal
-\n
-    
-\n  
-\n  
-\n
-\n\t  
-\n
-\n    
-  
-\n    
-\n        
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
 Follow us
-\n      
-\n    
+
+
+
+
 Facebook Page
-\n
-    
-\n  
-\n  
-\n
-\n\t  
-\n
-\n    
-\n    
-\n  
-\n  
-\n
-\n
-\n  
-\n    
-\n      
-  
-\n    
-\n        
-\n    
-\xa9 2015 Concordia Student Union
-\n    
-\n  
-\n  
-\n
-\n\t  
-\n
-\n      
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+© 2015 Concordia Student Union
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 HOJO Classifieds brought to you by HOJO and the CSU
-\n    
-\n    
-\n  
-\n
-       \n    \n\n  \n   \n      \n       \n    \n              \n          \n                      \n                    \n\n        
-\n    \n  \n\n\n>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>

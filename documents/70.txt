@@ -1,561 +1,208 @@
-\n\n\t
-\n\t\n\t
-saffm | South Asian Film Festival of Montr\xe9al
-\n\n
-\n\n\t\n\t\t\t\n\t\t\t\t\t\t
-\n\t\t\n\t
-\n\t
-\n\t
-\n\t
-\n\t
-\n
-\n
-\n
-\n
-\n
-\n\t\t
-\n\t\t
-\nimg.wp-smiley,\nimg.emoji {\n\tdisplay: inline !important;\n\tborder: none !important;\n\tbox-shadow: none !important;\n\theight: 1em !important;\n\twidth: 1em !important;\n\tmargin: 0 .07em !important;\n\tvertical-align: -0.1em !important;\n\tbackground: none !important;\n\tpadding: 0 !important;\n}\n
-\n
-\n
-\n
-\n#rs-demo-id {}\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
- \n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-.vc_custom_1506947914069{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1506686175095{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}.vc_custom_1506684405177{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}.vc_custom_1506686185554{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}.vc_custom_1506684481674{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}.vc_custom_1506684558571{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}.vc_custom_1506686194791{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}
-&lt;style type="text/css"&gt; .wpb_animate_when_almost_visible { opacity: 1; }&lt;/style&gt;
-\n\n\n\n\t\t\t\t\t\t
-\n\t
-\n\t
-\n\t\t
-\n\n\t\n\n\n
-\n    
-\n\n\t\t
-\n\t\t\t
-\n\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t
-\n\t\t\t\t\t\t
-2016 Edition
-\n
-2015 Edition
-\n
-\t\t\t\t\t\t
-\n\t\t\t\t\t
-\n\t\t\t\t\t
-\n\t\t\t\t\t\t
-\n\t\t\t\t\t\t
-\n\t\t
-\n\t\t\t
-\n\t\t\t\t
-English
-Fran\xe7ais
-\t\t\t
-\n\t\t
-\n\t
-Contact Us
-\n
-\t\t\t\t\t\t
-\n\t\t\t\t\t
-\n\t\t\t\t\t\t
-\n\t\t
-\n\t\t                    \t\t\t\t\t
-\n                        \t\t\t\t\t\t\t\t\t\t\t\t\t
-\n                                
-\n                                    
-                                
-\n                            
-\n\t\t\t\t\t\t\t\t\t\t\t\t
-\n                            \t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t
-\n                            \t\t\t\t\t\t
-\n                                                \t\t\t\t\t
-\n                    \t\t\t\t\t                                                \t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t
-\n\t\t\t\t\t\t
-Welcome
-\n
-2017 Edition 
-\n
-\n\t
-About
-\n\t
-Festival Staff
-\n\t
-Fund-raising Committee
-\n\t
-Jury
-\n\t
-Panelists
-\n\t
-Partners
-\n\t
-Festival Donors
-\n
-\n
-\n
-Films 
-\n
-\n\t
-Films \u2013 Montreal
-\n\t
-Films \u2013 Chicoutimi
-\n
-\n
-\n
-Calendar & Venue 
-\n
-\n\t
-Calendar & Venue \u2013 Montreal
-\n\t
-Calendar & Venue \u2013 Chicoutimi
-\n
-\n
-\n
-Box Office
-\n
-\n
-\n\t
-\n\t
-\n
-\n
-\n
-\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t\t\t\t\t\t
-\n                                
-\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
-\n                                                                                                                        \n                                    
-\n                                
-\n\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t\t
-\n                        
-Welcome
-\n
-2017 Edition 
-\n
-\n\t
-About
-\n\t
-Festival Staff
-\n\t
-Fund-raising Committee
-\n\t
-Jury
-\n\t
-Panelists
-\n\t
-Partners
-\n\t
-Festival Donors
-\n
-\n
-\n
-Films 
-\n
-\n\t
-Films \u2013 Montreal
-\n\t
-Films \u2013 Chicoutimi
-\n
-\n
-\n
-Calendar & Venue 
-\n
-\n\t
-Calendar & Venue \u2013 Montreal
-\n\t
-Calendar & Venue \u2013 Chicoutimi
-\n
-\n
-\n
-Box Office
-\n
-\n
-\n\t
-\n\t
-\n
-\n
-\n
-\t\t\t\t\t
-\n\t\t\t\t
-\n\t
-\n\t
-\n\n
-\n\t\t\n\n    \t\t
-\n\t\t\t
-\n\t\t\t\t
-\n\t\t\t
-\n\t\t
-\n\t    \t\n    \n\t\t\n\t\n    \n
-\n\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t\t\t\t\t\t
-\n\t\t\t
-\n
-\n
-\n\t
-\n
-\t
-\n\t
-\n\t\t
-\n\t\t
-\n\t\t
-\n\n\t\t
-\n\t\t
+
+
+
+
+
+
+
+
+SOUTH ASIAN FILM FESTIVAL, Oct 27-29 / Nov 3-5, de Sèves Theatre | CUPFA
  
-\n\n\t\t
-\n\t\t
-De S\xe8ve Cinema, 
-Universit\xe9 Concordia 
-1400 De Maisonneuve W.\n 
-\n\n\t\t
-\n\t\t
-Montreal 
-\n\n\t\t
-\n\t\t
-Chicoutimi 
-\n\n\t\t
-\n\t\t
-Collaboration with
-Biblioth\xe8ques de Saguenay 
-\n\n\t\t
-\n\t\t
-October 27 to 29 & 
-November 3 to 5, 2017 
-\n\n\t\t
-\n\t\t
-November
-17 to 19, 2017 
-\n\t
-\n
-\n
-\t
-\n
-var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";\n\t\t\t\tif(htmlDiv) {\n\t\t\t\t\thtmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;\n\t\t\t\t}else{\n\t\t\t\t\tvar htmlDiv = document.createElement("div");\n\t\t\t\t\thtmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";\n\t\t\t\t\tdocument.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);\n\t\t\t\t}\n\t\t\t
-\n\t\t
-\n\t\t\t\t\t\t/******************************************\n\t\t\t\t-\tPREPARE PLACEHOLDER FOR SLIDER\t-\n\t\t\t******************************************/\n\n\t\t\tvar setREVStartSize=function(){\n\t\t\t\ttry{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;\n\t\t\t\t\te.c = jQuery('#rev_slider_3_1');\n\t\t\t\t\te.gridwidth = [1240];\n\t\t\t\t\te.gridheight = [750];\n\t\t\t\t\t\t\t\n\t\t\t\t\te.sliderLayout = "auto";\n\t\t\t\t\tif(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})\n\t\t\t\t\t\n\t\t\t\t}catch(d){console.log("Failure at Presize of Slider:"+d)}\n\t\t\t};\n\t\t\t\n\t\t\tsetREVStartSize();\n\t\t\t\n\t\t\t\t\t\tvar tpj=jQuery;\n\t\t\t\n\t\t\tvar revapi3;\n\t\t\ttpj(document).ready(function() {\n\t\t\t\tif(tpj("#rev_slider_3_1").revolution == undefined){\n\t\t\t\t\trevslider_showDoubleJqueryError("#rev_slider_3_1");\n\t\t\t\t}else{\n\t\t\t\t\trevapi3 = tpj("#rev_slider_3_1").show().revolution({\n\t\t\t\t\t\tsliderType:"standard",\njsFileLocation:"//www.saffm.centrekabir.com/wp-content/plugins/revslider/public/assets/js/",\n\t\t\t\t\t\tsliderLayout:"auto",\n\t\t\t\t\t\tdottedOverlay:"none",\n\t\t\t\t\t\tdelay:9000,\n\t\t\t\t\t\tnavigation: {\n\t\t\t\t\t\t\tonHoverStop:"off",\n\t\t\t\t\t\t},\n\t\t\t\t\t\tvisibilityLevels:[1240,1024,778,480],\n\t\t\t\t\t\tgridwidth:1240,\n\t\t\t\t\t\tgridheight:750,\n\t\t\t\t\t\tlazyType:"none",\n\t\t\t\t\t\tshadow:0,\n\t\t\t\t\t\tspinner:"off",\n\t\t\t\t\t\tstopLoop:"off",\n\t\t\t\t\t\tstopAfterLoops:-1,\n\t\t\t\t\t\tstopAtSlide:-1,\n\t\t\t\t\t\tshuffle:"off",\n\t\t\t\t\t\tautoHeight:"off",\n\t\t\t\t\t\tdisableProgressBar:"on",\n\t\t\t\t\t\thideThumbsOnMobile:"off",\n\t\t\t\t\t\thideSliderAtLimit:0,\n\t\t\t\t\t\thideCaptionAtLimit:0,\n\t\t\t\t\t\thideAllCaptionAtLilmit:0,\n\t\t\t\t\t\tdebugMode:false,\n\t\t\t\t\t\tfallbacks: {\n\t\t\t\t\t\t\tsimplifyAll:"off",\n\t\t\t\t\t\t\tnextSlideOnWindowFocus:"off",\n\t\t\t\t\t\t\tdisableFocusListener:false,\n\t\t\t\t\t\t}\n\t\t\t\t\t});\n\t\t\t\t}\n\t\t\t});\t/*ready*/\n\t\t
-\n\t\t
-\t\t\t
-\n\t\t\t
-\n\t
-\n\t\t\t\t\t\t\t\t\t\t
-\n\t
-\n\t\t
-\n\t\t\t
-South Asian Film Festival of Montr\xe9al (SAFFMontr\xe9al)
  
-is presented by Kabir Centre for Arts & Culture, a not-for-profit organization promoting various art forms and activities such as music, dance, cinema, literature and poetry.
-\n\n\t\t
- \n\t
+img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-shadow:none !important;height:1em !important;width:1em !important;margin:0
+.07em !important;vertical-align:-0.1em !important;background:none !important;padding:0
+!important}
  
-\n\t
-\n\t\t
-\n\t\t\t
-MISSION OF SAFFM
-\n
-South Asian Film Festival of Montr\xe9al (SAFFM), the only one of its kind in the great city of Montr\xe9al, is committed to showcasing new artistic work that fosters discussions and explores the world we inhabit. The Festival hopes to be a platform for filmmakers worldwide whose films have a focus on South Asia and its diaspora.
-\n\n\t\t
- \n\t
  
-\n\t
-\n\t\t
-\n\t\t\t
-TICKETS & FESTIVAL PASSPORT (Montreal)
-\n\n\t\t
- \n\t
  
-\n\n\t
-\n\t\t
-\n\t\t\t
-To watch the films this year, visit the 
-\u2018Calendar & venue\u2019
- or the 
-\u2018Films\u2019
- page and get tickets while they are still available.
-\nTickets on sale now!
-\n\n\t\t
- \n\t
- \t
-\n\t\t\t
-\n\t\t
-\n\n
-FILMS LIST - MONTREAL
-FESTIVAL PASSPORT
-\n\t
-\n\t\t
-\n\t\t\t
-Films
-\n\n\t\t
- \n\t
  
-\n
-MONTREAL FESTIVAL
-CHICOUTIMI FESTIVAL
-\n\t
-\n\t\t
-\n\t\t\t\n\t\t\t
-\n\t\t
-\n\t
-\n\n\t
-\n\t\t
-\n\t\t\t
-OCTOBER, 27 2017 | 7:00 pm
-\n
-CINEMA TRAVELLERS
-\n
-Hindi, Marathi
-\n\n\t\t
- \n\t
- \t
-\n\t\t\t
-\n\t\t
-\n\n
-\n\t
-\n\t\t
-\n\t\t\t\n\t\t\t
-\n\t\t
-\n\t
-\n\n\t
-\n\t\t
-\n\t\t\t
-OCTOBER, 28 2017 | 3:00 pm
-\n
-ESCAPING AGRA
-\n
-English
-\n\n\t\t
- \n\t
- \t
-\n\t\t\t
-\n\t\t
-\n\n
-\n\t
-\n\t\t
-\n\t\t\t\n\t\t\t
-\n\t\t
-\n\t
-\n\n\t
-\n\t\t
-\n\t\t\t
-OCTOBER, 29 2017 | 3:00 pm
-\n
-NORMALCY
-\n
-Tamil
-\n\n\t\t
- \n\t
- \t
-\n\t\t\t
-\n\t\t
-\n\n
-\n\t
-\n\t\t
-\n\t\t\t\n\t\t\t
-\n\t\t
-\n\t
-\n\n\t
-\n\t\t
-\n\t\t\t
-OCTOBER, 29 2017 | 7:00 pm
-\n
-A BILLION COLOUR STORY
-\n
-English, Hindi, Urdu
-\n\n\t\t
- \n\t
- \t
-\n\t\t\t
-\n\t\t
-\n\n
-\n\t
-\n\t\t
-\n\t\t\t\n\t\t\t
-\n\t\t
-\n\t
-\n\n\t
-\n\t\t
-\n\t\t\t
-NOVEMBER, 3 2017 | 7:00 pm
-\n
-KALO POTHI (BLACK HEN)
-\n
-Nepalese
-\n\n\t\t
- \n\t
- \t
-\n\t\t\t
-\n\t\t
-\n\n
-\n\t
-\n\t\t
-\n\t\t\t\n\t\t\t
-\n\t\t
-\n\t
-\n\n\t
-\n\t\t
-\n\t\t\t
-NOVEMBER, 4 2017 | 7:00 pm
-\n
-LIPSTICK UNDER MY BURKHA
-\n
-Hindi
-\n\n\t\t
- \n\t
- \t
-\n\t\t\t
-\n\t\t
-\n\n
-\n\t
-\n\t\t
-\n\t\t\t
-Sponsors
-\n\n\t\t
- \n\t
  
-\n
-\n\t\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\t\t\t
-\n\t
-\t\n\t\t\t\n\t
-\n
-\n\n\n\n\t
-\n\t\t
-\n\t\t\t\t
-\n            \t\t\t
-\n\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t\t\t
-\t\t\t
-\n\t\t
-\t\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t\t\t
-        
-ABOUT FESTIVAL
-\n
-About
-\n
-Festival Staff
-\n
-Fund-raising Committee
-\n
-Jury
-\n
-Panelists
-\n
-Partners
-\n
-Festival Donors
-\n\n\n\n
-\n
-\t\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t\t\t
-        
-2017 EDITION
-\n
-Films
-\n
-Calendar & Venues
-\n
-Opening Night
-\n
-Closing Night
-\n
-Contact Us
-\n\n
-\n
-\t\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t\t\t
-        
-PREVIOUS EDITIONS
-\n
-2016 Edition
-\n
-2015 Edition
-\n
-\n
-\t\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
-\n\t\t\t\t
-\n\t\t\t\t\t\t\t
-\n\t\t\t\t\t
-\n\t\t\t\t\t\t\t
-\n                \t\t\t\t\t\t\t\t\t
-\n\t\t\t\t        
-Copyright 2017 South Asian Film Festival of Montr\xe9al (SAFFMontr\xe9al). All right reserved. Website by 
-\xd4 WEB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#site-title,#site-description{position:absolute;left:-9000px}
+Skip to content
+Professional Development
+Deadlines
+Teaching Application Form
+News
+Quick Links:
+←
+ CAMPUS EQUITY WEEK, Oct. 23-28
+BONNIE BAXTER wins Charles-Biddle Award 2017 
+→
+SOUTH ASIAN FILM FESTIVAL, Oct 27-29 / Nov 3-5, de Sèves Theatre
+
+
+Posted on
+ 
+October 24, 2017
+ 
+by
+ 
+laurie
+ 
+The South Asian Film Festival of Montreal — organized by 
+Dipti Gupta
+ — highlights significant issues and themes being explored by South Asian and diaspora filmmakers. Filmmakers from India, the US, Canada will be present for panel discussions after each screening.
+October 27-29, November 3-5
+
+de Sèves Theatre
+
+Webster Building
+For more information including the schedule, see: 
+http://www.saffm.centrekabir.com/en/
+
+This entry was posted in 
+News
+. Bookmark the 
+permalink
 .
-\n\t\t\t
-\n\t\t\t\t\t\t\t\t
-\n\t\t\t\t
-\n\t
-\n\t\t\n
-\n
-\n\t\t
-\n\t\t\tfunction revslider_showDoubleJqueryError(sliderID) {\n\t\t\t\tvar errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";\n\t\t\t\terrorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";\n\t\t\t\terrorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";\n\t\t\t\terrorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";\n\t\t\t\terrorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";\n\t\t\t\t\tjQuery(sliderID).show().html(errorMessage);\n\t\t\t}\n\t\t
-\n\t\t
-\n/* <![CDATA[ */\nvar qodeLike = {"ajaxurl":"http:\\/\\/www.saffm.centrekabir.com\\/wp-admin\\/admin-ajax.php"};\n/* ]]> */\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n/* <![CDATA[ */\nvar icl_vars = {"current_language":"en","icl_home":"http:\\/\\/www.saffm.centrekabir.com\\/en\\/","ajax_url":"http:\\/\\/www.saffm.centrekabir.com\\/en\\/wp-admin\\/admin-ajax.php","url_type":"1"};\n/* ]]> */\n
-\n
-\n\n\n>
+←
+ CAMPUS EQUITY WEEK, Oct. 23-28
+BONNIE BAXTER wins Charles-Biddle Award 2017 
+→
+Home
+About
+Mandate & History
+Executive 2017-20
+Committees
+Staff
+News & Events
+News
+Events
+Videos
+Media Coverage – Negotiations
+Collective Agreement
+Pensions and Retirement
+Pension Information
+Retirement Planning
+Professional Development
+About PD
+CUPFA Grants
+Travel and Expenses
+Grant Reports
+Small Claims
+PD – FAQ
+Office of Research
+Forms
+Publications
+Newsletters
+Survival Guide
+Commandments
+Multi-Section Courses
+Concordia Resources
+FAQ
+Contact Us
+
+
+Search for:
+
+
+
+
+Recent Posts
+Official Signing of 5th Collective Agreement
+Words and Public Space, Andrew Forster, Erin Moure...
+Campus Equity Week article in The Concordian
+Instability of Work a Cause of Stress for...
+BONNIE BAXTER wins Charles-Biddle Award 2017
+Post Archives
+ 
+Post Archives
+
+
+Select Month
+ November 2017
+ October 2017
+ September 2017
+ August 2017
+ July 2017
+ June 2017
+ May 2017
+ April 2017
+ March 2017
+ February 2017
+ January 2017
+ December 2016
+ November 2016
+ October 2016
+ September 2016
+ August 2016
+ June 2016
+ May 2016
+ April 2016
+ March 2016
+ February 2016
+ January 2016
+ December 2015
+ November 2015
+ October 2015
+ September 2015
+ August 2015
+ June 2015
+ May 2015
+ March 2015
+ February 2015
+ November 2014
+ October 2014
+ September 2014
+ April 2014
+ March 2014
+ February 2014
+ January 2014
+ November 2013
+ October 2013
+ September 2013
+ August 2013
+ July 2013
+ May 2013
+ April 2013
+ March 2013
+ February 2013
+ January 2013
+ December 2012
+ November 2012
+ October 2012
+ September 2012
+ May 2012
+ April 2012
+ March 2012
+ February 2012
+Contact Info
+Office Hours
+
+Monday – Thursday
+
+9 am to 4 pm
+2150 Bishop, S-K-310
+
+Montreal, Quebec  H3G 1M8
+Telephone
+
+514-848-2424-3691
+Facsimile
+
+514-848-3648
+
+
+
+
+
+
+
+Copyright © CUPFA. All Rights Reserved.
+ 
+jQuery(document).ready(function($){jQuery('#dc_jqaccordion_widget-2-item .menu').dcAccordion({eventType:'click',hoverDelay:0,menuClose:false,autoClose:true,saveState:true,autoExpand:true,classExpand:'current-menu-item',classDisable:'',showCount:false,disableLink:true,cookie:'dc_jqaccordion_widget-2',speed:'fast'});});
+ 
+jQuery(document).ready(function($){$("a[rel*=lightbox]").colorbox({speed:350,initialWidth:"300",initialHeight:"100",maxWidth:"75%",opacity:0.8,loop:false,scrolling:false,escKey:false,arrowKey:false,top:false,right:false,bottom:false,left:false});});
+ 
+ 
+ 
+
+
+>

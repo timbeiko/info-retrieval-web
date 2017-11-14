@@ -1,4 +1,4 @@
 Size of:										Terms										Postings
-Uncompressed										15549										72255
-No numbers										14991										69123
-Case Folded										13203										69123
+Uncompressed										15549										72254
+No numbers										14991										69122
+Case Folded										13203										69122

@@ -1,583 +1,840 @@
-\n
-\n
-\n
-CCSA | Concordia Classics Student Association
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n\t
-\n\t\t\t
-\n\t\t\twindow._wpemojiSettings = {"baseUrl":"https:\\/\\/s0.wp.com\\/wp-content\\/mu-plugins\\/wpcom-smileys\\/twemoji\\/2\\/72x72\\/","ext":".png","svgUrl":"https:\\/\\/s0.wp.com\\/wp-content\\/mu-plugins\\/wpcom-smileys\\/twemoji\\/2\\/svg\\/","svgExt":".svg","source":{"concatemoji":"https:\\/\\/s0.wp.com\\/wp-includes\\/js\\/wp-emoji-release.min.js?m=1505864856h&ver=4.8.2"}};\n\t\t\t!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);\n\t\t
-\n\t\t
-\nimg.wp-smiley,\nimg.emoji {\n\tdisplay: inline !important;\n\tborder: none !important;\n\tbox-shadow: none !important;\n\theight: 1em !important;\n\twidth: 1em !important;\n\tmargin: 0 .07em !important;\n\tvertical-align: -0.1em !important;\n\tbackground: none !important;\n\tpadding: 0 !important;\n}\n
-\n
-\n
-\n
-\n
-\n
-\n
- \n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n  \n  WebFontConfig = {"typekit":{"id":"pfh1mgi"}};\n  (function() {\n    var wf = document.createElement('script');\n    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +\n      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';\n    wf.type = 'text/javascript';\n    wf.async = 'true';\n    var s = document.getElementsByTagName('script')[0];\n    s.parentNode.insertBefore(wf, s);\n\t})();\n
-\n
-\n\t\t
-\n\t\tvar __ATA_PP = { pt: 0, ht: 0, tn: 'pilcrow', amp: false };\n\t\t
-\n\t\t
-\n\t\t
-\n
-\n\twindow.google_analytics_uacct = "UA-52447-2";\n
-\n\n
-\n\tvar _gaq = _gaq || [];\n\t_gaq.push(['_setAccount', 'UA-52447-2']);\n\t_gaq.push(['_setDomainName', 'wordpress.com']);\n\t_gaq.push(['_initData']);\n\t_gaq.push(['_trackPageview']);\n\n\t(function() {\n\t\tvar ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n\t\tga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n\t\t(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);\n\t})();\n
-\n\n\n\n
-\n\t
-\n\t\t
-\n\t\t\t\t\t\t
-\n\t\t\t\t
-\n\t\t\t\t\t
-CCSA
-\n\t\t\t\t
-\n\t\t\t
-\n\n\t\t\t
-\n\t\t\t  \t\t\t\t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C.A.S.E. Concordia – The Concordia Association for Students in English
+
+
+
+
+
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1505864856h&ver=4.8.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		var __ATA_PP = { pt: 0, ht: 0, tn: 'ixion', amp: false };
+		var __ATA = __ATA || {};
+		__ATA.cmd = __ATA.cmd || [];
+		__ATA.criteo = __ATA.criteo || {};
+		__ATA.criteo.cmd = __ATA.criteo.cmd || [];
+		
+
+
+
+
+
+	window.google_analytics_uacct = "UA-52447-2";
+
+
+
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-52447-2']);
+	_gaq.push(['_setDomainName', 'none']);
+	_gaq.push(['_setAllowLinker', true]);
+	_gaq.push(['_initData']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+	})();
+
+
+
+
+
+
+
+
+
 Skip to content
-\n\t\t\t\t\t\t\t\t
-\n
-Home
-About\xa0Us
-\n
-Members
-\n
-The Market Place
-\n
-Photos
-\n
-Documents
-\n
-Contact\xa0Us
-\n
-\n\t\t\t
-\n\n\t\t\t
-\n\t\t\t\t
-\n\t\t\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t\t\t
-\n\t\t\t
-\n\t\t
-\n\n\t\t
-\n\n
-\n\t
-\n\n\t
-\n\t
-\u2190
- Older posts
-\n\t
-\n
-\n\n
-\n\t
-\n\n\t\t04/14/2012 \xb7 6:42 PM\t
-\n\n\t
-CCSA is Most Academically\xa0Focused!
-\t
-\n\t\t
-At last night\u2019s ASFA Spring Ball, the Concordia Classics Student Association took home the title of \u201cMost Academically Focused Member Association!\u201d We\u2019re thrilled to have been recognized for all our work organizing Brown Bag and Guest Lectures (as well as various other student and professor presentations) this year. And we want to thank all Classics faculty, CMLL staff, and, most importantly, participating Classics students (!) for helping make it a super productive and successful year.\xa0
-\n
-Best of luck on finals/enjoy the start of your summer, as the case may be!
-\n
--The CCSA
-\n\t\t\t
-\n\t\t\t\tdiv.wpmrec2x{max-width:610px;}\n\t\t\t\tdiv.wpmrec2x div.u > div{float:left;margin-right:10px;}\n\t\t\t\tdiv.wpmrec2x div.u > div:nth-child(3n){margin-right:0px;}\n\t\t\t
-\t\t
-\n\t\t\t
-\n\t\t\t\t
-Advertisements
-\n\t\t\t\t
-\n\t\t\t\t\t\t\t\t\t\t
-\n\t\t\t\t\t\t(function(g,$){if("undefined"!=typeof g.__ATA){\n\t\t\t\t\t\t\tg.__ATA.initAd({collapseEmpty:'after', sectionId:26942, width:300, height:250});\n\t\t\t\t\t\t\tif($("#s26942").closest("div.wpcnt").outerWidth() > 305 ) {\n\t\t\t\t\t\t\t\tg.__ATA.initAd({collapseEmpty:'after', sectionId:114160, width:300, height:250});\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t}})(window,jQuery);\n\t\t\t\t\t
-\n\t\t\t\t
-\n\t\t\t\t\t\t
-\n\t\t
-\n\t\tvar o = document.getElementById('crt-1815218493');\n\t\tif ("undefined"!=typeof Criteo) {\n\t\t\tvar p = o.parentNode;\n\t\t\tp.style.setProperty('display', 'inline-block', 'important');\n\t\t\to.style.setProperty('display', 'block', 'important');\n\t\t\tCriteo.DisplayAcceptableAdIfAdblocked({zoneid:388248,containerid:"crt-1815218493",collapseContainerIfNotAdblocked:true,"callifnotadblocked": function () {var o = document.getElementById('crt-1815218493'); o.style.setProperty('display','none','important');o.style.setProperty('visbility','hidden','important'); } });\n\t\t} else {\n\t\t\to.style.setProperty('display', 'none', 'important');\n\t\t\to.style.setProperty('visibility', 'hidden', 'important');\n\t\t}\n\t\t
-\t\t
-\n\t\t
-\n\t\tvar o = document.getElementById('crt-1228531840');\n\t\tif ("undefined"!=typeof Criteo) {\n\t\t\tvar p = o.parentNode;\n\t\t\tp.style.setProperty('display', 'inline-block', 'important');\n\t\t\to.style.setProperty('display', 'block', 'important');\n\t\t\tCriteo.DisplayAcceptableAdIfAdblocked({zoneid:837497,containerid:"crt-1228531840",collapseContainerIfNotAdblocked:true,"callifnotadblocked": function () {var o = document.getElementById('crt-1228531840'); o.style.setProperty('display','none','important');o.style.setProperty('visbility','hidden','important'); } });\n\t\t} else {\n\t\t\to.style.setProperty('display', 'none', 'important');\n\t\t\to.style.setProperty('visibility', 'hidden', 'important');\n\t\t}\n\t\t
-\n\t\t\t
-\n\t\t
-\t\t\t
-\n\t\n\t
-\n\t\t
-Leave a comment
-\n\n\t\t\t\t\t
-Filed under 
-Uncategorized
-\n\t\t\t
-\n\t\t\t
-\n\n
-\n\n\n\n
-\n\t
-\n\n\t\t03/30/2012 \xb7 5:11 PM\t
-\n\n\t
-Annual Spring Pub\xa0Social!
-\t
-\n\t\t
-The CCSA invites you to join us in celebrating the end of the academic term and year at\xa0
-our Annual Spring\xa0
-Pub Social.\xa0
-It will be held at\xa0
-The Irish Embassy Pub
-\xa0(1234 Bishop Street), this Friday,\xa0
-April 6 from 6:30pm onwards
-. There will be plenty of 
-FREE
- drinks (alcoholic and non) and food! All are welcome. And bring a friend!
-\n
-\n\t\t\t
-\n\t\n\t
-\n\t\t
-Leave a comment
-\n\n\t\t\t\t\t
-Filed under 
-Uncategorized
-\n\t\t\t
-\n\t\t\t
-\n\n
-\n\n\n\n
-\n\t
-\n\n\t\t03/30/2012 \xb7 5:08 PM\t
-\n\n\t
-CCSA Executive 2012-13
-\t
-\n\t\t
-Congratulations to the newly elected CCSA Executive for the 2012-13 Academic Year! Many thanks to all who voted!\xa0
-\n
-President: Emilia Pagliaro-Therens
-VP Finance: Kristen Toohy
-VP Academic: Karolina Saghafi
-VP Social: Domenico Miletti
-VP Internal: Laura Sirkovsky\xa0
-VP Communications: Vacant
-\n\t\t\t
-\n\t\n\t
-\n\t\t
-Leave a comment
-\n\n\t\t\t\t\t
-Filed under 
-Uncategorized
-\n\t\t\t
-\n\t\t\t
-\n\n
-\n\n\n\n
-\n\t
-\n\n\t\t03/22/2012 \xb7 7:12 PM\t
-\n\n\t
-Classics Colloquium.
-\t
-\n\t\t
-Hey Students,
-\n
-The first day is going really well! \xa0There are some really interesting presentations and a great turn out. \xa0Don\u2019t forget we continue with more presentations tomorrow. \xa0It will take place at the\xa0Universite de Montreal.
-\n
-The presentations take place from 9 am \u2013 5:30 pm. \xa0 Salle 580-31, 3744 rue Jean-Brillant, Universite de Montreal.
-\xa0\xa0
-Come and support your fellow students. \xa0The full brochure can be found online, but here is a list of the Concordia students who will be presenting.
-\n
-Concordia Students who are presenting:
-\n
-9:15 \u2013 9:45
-\n
-Bryan Johnson, MA. Concordia
-\n
-Pergamon and the Renovation of the Asklepion:
-\n
-Constructing Sanctuary and Building Identity
-\n
-10:15 \u2013 10:45
-\n
-Lisa Tweten, B.A. Concordia
-\n
-Macedonian Funerary Masks from Archontiko
-\n
-11:15 \u2013 11:45
-\n
-Domenic M. Miletti, B.A. Concordia
-\n
-Native Egypt Collaboration in Ptolemaic Egypt:
-\nAn Artistic Perspective
-\n
-12:15 \u2013 12:45
-\n
-Kristen Toohy, B.A. Concordia
-\n
-Identity in Non-Realstic Portraiture:
-\n
-Why Demosthenes is Demosthenes but the Pope is Benito Mussolini
-\n
-2:15 \u2013 2:45
-\n
-Karolina \u201cKiki\u201d Saghafi, B.A. Concordia
-\n
-A Portrait of the Wicked Women:
-\n
-Magic, Women and the Occult in Roman Literature
-\n
-4:15 \u2013 4:45
-\n
-Catherine Paragois, B.A. Concordia
-\n
-A Roman Glass Jar in the Montreal Museum of Fine Arts
-\n
-4:45 \u2013 5:15
-\n
-Leah Wanklyn, B.A. Concordia
-\n
-Irish Illuminated Manuscripts:
-\n
-and Their Ties to the Late Antique East
-\n
-6:15 \u2013 Onwards
-\n
-Reception at\xa0Universite de Montreal, there will be free drinks and food available.
-\n
-\n\t\t\t
-\n\t\n\t
-\n\t\t
-Leave a comment
-\n\n\t\t\t\t\t
-Filed under 
-Uncategorized
-\n\t\t\t
-\n\t\t\t
-\n\n
-\n\n\n\n
-\n\t
-\n\n\t\t03/20/2012 \xb7 9:39 PM\t
-\n\n\t
-Colloquium Schedule (KEYNOTE Talk)\xa0Update
-\t
-\n\t\t
-Hi all! We have found a room for Dr. Jane Francis\u2019 keynote on Thursday March 22 from 6pm-7pm: 
-McGill University, ARTS Building, room W-120
- (
-AND NOT
- in the Hall Building\u2019s H-531). Here is an updated program of events: \xa0
-Montreal Classics Colloquium 2012 UPDATED Brochure
-. We hope to see you all there!!
-\n\t\t\t
-\n\t\n\t
-\n\t\t
-Leave a comment
-\n\n\t\t\t\t\t
-Filed under 
-Uncategorized
-\n\t\t\t
-\n\t\t\t
-\n\n
-\n\n\n\n
-\n\t
-\n\n\t\t03/19/2012 \xb7 7:54 PM\t
-\n\n\t
-Classics Colloquium Schedule March 22 &\xa023
-\t
-\n\t\t
-Classics Enthusiasts! This Thursday and Friday (March 22nd and 23rd), Concordia, McGill, and UdeM are hosting the 4th Annual Inter-University Montreal Classics Colloquium. The final schedule for the event is found here:
-\xa0
-Montreal Classics Colloquium 2012 Brochure.
-\n
-***PLEASE NOTE: Following the very recent news that Concordia University will be closed on March 22nd due to the provincial-wide student strike/march, we are looking to have Dr. Francis\u2019 keynote lecture relocated to the McGill or UdeM campus. Please check back here for updates regularly until Thursday! Many thanks for your patience!
-\n\t\t\t
-\n\t\n\t
-\n\t\t
-Leave a comment
-\n\n\t\t\t\t\t
-Filed under 
-Uncategorized
-\n\t\t\t
-\n\t\t\t
-\n\n
-\n\n\n\n
-\n\t
-\n\n\t\t03/18/2012 \xb7 12:00 PM\t
-\n\n\t
-VOTE! VOTE! VOTE!
-\t
-\n\t\t
-Next week, on 
-Monday March 19 and Tuesday March 20
-, the CCSA is holding polling in room 
-H-665
- for its annual elections! Here are your candidates and their profiles. Please remember that although there is only one candidate for each position, they still need your votes to meet quorum and have the election ratified. If you don\u2019t come out and vote, there will be no CCSA next year! Please show your support \u2013 VOTE!
-\n
-President: Emilia Therens. 
-President Profile
-\n
-VP Finance: Kristen Toohy.\xa0
-VP Finance Profile
-\n
-VP Internal: Laura Sirkovsky. 
-VP Internal Profile
-\n
-VP Academic: Karolina Saghafi. 
-VP Academic Profile
-.
-\n
-VP Social: Domenico Miletti.\xa0
-VP Social Profile
-\n
-VP Communications: Vacant/No candidate.
-\n\t\t\t
-\n\t\n\t
-\n\t\t
-Leave a comment
-\n\n\t\t\t\t\t
-Filed under 
-Uncategorized
-\n\t\t\t
-\n\t\t\t
-\n\n
-\n\n\n
-\n\t
-\u2190
- Older posts
-\n\t
-\n
-\n\n\t
-\n
-\n\n\n\t
-\n\t\t\t\t
-\n\n\t\t\t\n\t\t\t
-\n\t\t\t\t
-Search
-\n\t\t\t\t
-\n\t\t\t\t
-\n\t\t\t\t\t
+
+
+
+
+
+
+
+
+
+
 Search for:
-\n\t\t\t\t\t
-\n\t\t\t\t\t
-\n\t\t\t\t
-\n\t\t\t
-\t\t\t
-\n\n\t\t\t
-\n\t\t\t\t
-Recent Entries
-\n\t\t\t\t
-\n\t\t\t\t\t\t\t\t\t\t
-CCSA is Most Academically\xa0Focused!
-\n\t\t\t\t\t\t\t\t\t\t
-Annual Spring Pub\xa0Social!
-\n\t\t\t\t\t\t\t\t\t\t
-CCSA Executive 2012-13
-\n\t\t\t\t\t\t\t\t\t\t
-Classics Colloquium.
-\n\t\t\t\t\t\t\t\t\t\t
-Colloquium Schedule (KEYNOTE Talk)\xa0Update
-\n\t\t\t\t\t\t\t\t\t\t
-Classics Colloquium Schedule March 22 &\xa023
-\n\t\t\t\t\t\t\t\t\t\t
-VOTE! VOTE! VOTE!
-\n\t\t\t\t\t\t\t\t\t\t
-Ides of March
-\n\t\t\t\t\t\t\t\t\t\t
-Next Week: CCSA EVENTS and the\xa0STRIKE
-\n\t\t\t\t\t\t\t\t\t\t
-CCSA Needs a VP\xa0COMMUNICATIONS
-\n\t\t\t\t\t\t\t\t\t
-\n\t\t\t
-\n\n\t\t\t
-\n\t\t\t\t
-Links
-\n\t\t\t\t
-\n\t\t\t\t\t
-Classics at Concordia
-\n\t
-\n
-Academic Advising
-\n
-Databases
-\n
-Faculty
-\n
-Get Credit for Archaeological Fieldwork!
-\n
-In-Library Sources
-\n
-Programs of Study
-\n
-The Diniacopoulos Antiquities Collection
-\n\n\t
-\n
-\n
-Classics on the Web
-\n\t
-\n
-Ancient Art History Resources
-\n
-Ancient World Mapping Centre
-\n
-Archaeological Institute of America Fieldwork
-\n
-Archaeology Magazine
-\n
-Classical Association of Canada
-\n
-Greek Tutorials
-\n
-Greek Word Study Tool
-\n
-Latin Grammar Aid
-\n
-Latin Word Study Tool
-\n
-McGill Classics Student Association
-\n
-Perseus Digital Library
-\n
-Rogue Classicism
-\n
-The Beazley Archive
-\n\n\t
-\n
-\n
-Misc. Help
-\n\t
-\n
-Access Centre for Students with Disabilities
-\n
-Citation Guides
-\n
-Counselling and Development
-\n
-Financial Aid and Awards
-\n
-Health Services
-\n
-Writing Assistance at Concordia
-\n\n\t
-\n
-\n\t\t\t\t
-\n\t\t\t
-\n\n\t\t\t\t
-\n\t
-\n\n\t\n\t\t
-\n\n\t\t
-\n\t\t\t
-\n\n\t\t\t\t\n\t\t\t\t
-\n\t\t\t\t\t
-CCSA
- \xb7 Concordia Classics Student Association\t\t\t\t
-\n\n\t\t\t\t
-\n\t\t\t\t\t
-Blog at WordPress.com.
-\t\t\t\t
-\n\n\t\t\t
-\n\t\t
-\n\t
-\n
-\n\n\t\t
-\n\t\t//<![CDATA[\n\t\tvar infiniteScroll = {"settings":{"id":"content","ajaxurl":"https:\\/\\/ccsaonline.wordpress.com\\/?infinity=scrolling","type":"scroll","wrapper":true,"wrapper_class":"infinite-wrap","footer":"page","click_handle":"1","text":"Older posts","totop":"Scroll back to top","currentday":"11.03.12","order":"DESC","scripts":[],"styles":[],"google_analytics":false,"offset":0,"history":{"host":"ccsaonline.wordpress.com","path":"\\/page\\/%d\\/","use_trailing_slashes":true,"parameters":""},"query_args":{"error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"","pagename":"","page_id":0,"second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"posts_per_page":7,"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":false,"update_post_term_cache":true,"lazy_load_term_meta":true,"update_post_meta_cache":true,"post_type":"","nopaging":false,"comments_per_page":"50","no_found_rows":false,"order":"DESC"},"last_post_date":"2012-03-18 12:00:08","stats":"blog=16032499&v=wpcom&tz=0&user_id=0&subd=ccsaonline&x_pagetype=infinite"}};\n\t\t//]]>\n\t\t
-\n\t\t
-\n
-\n
-\n/* <![CDATA[ */\nvar WPGroHo = {"my_hash":""};\n/* ]]> */\n
-\n
-\n\n\t
-\n\t\t//initialize and attach hovercards to all gravatars\n\t\tjQuery( document ).ready( function( $ ) {\n\n\t\t\tif (typeof Gravatar === "undefined"){\n\t\t\t\treturn;\n\t\t\t}\n\n\t\t\tif ( typeof Gravatar.init !== "function" ) {\n\t\t\t\treturn;\n\t\t\t}\t\t\t\n\n\t\t\tGravatar.profile_cb = function( hash, id ) {\n\t\t\t\tWPGroHo.syncProfileData( hash, id );\n\t\t\t};\n\t\t\tGravatar.my_hash = WPGroHo.my_hash;\n\t\t\tGravatar.init( 'body', '#wp-admin-bar-my-account' );\n\t\t});\n\t
-\n\n\t\t
-\n\t
-\n
-\n/* <![CDATA[ */\nvar HighlanderComments = {"loggingInText":"Logging In\\u2026","submittingText":"Posting Comment\\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\\/\\/ccsaonline.wordpress.com\\/public.api\\/connect\\/?action=request","logoutURL":"https:\\/\\/ccsaonline.wordpress.com\\/wp-login.php?action=logout&_wpnonce=998734e8c0","homeURL":"https:\\/\\/ccsaonline.wordpress.com\\/","postID":"675","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"0","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};\n/* ]]> */\n
-\n
-\n\t\t
-\n\t\t\t
-\n\t\t\t\t
-\n\t\t\t\t\t
-\n\t\t\t\t\t\tCCSA\t\t\t\t\t
-\n\t\t\t\t
-\n\t\t\t\t
-\n\t\t\t\t\t
-Create a free website or blog at WordPress.com.
- \t\t\t\t
-\n\t\t\t
-\n\t\t
-\n\t\t\n\t
-\n\t\t
-\n\t\t\t
-\n\t\t\t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C.A.S.E. Concordia
+
+
+
+
+
+
+Menu
+
+
+About
+
+
+News / Events
+
+
+LUCC
+
+
+Publications
+
+
+Useful Links
+
+
+
+
+MLA and Research
+
+
+Grad School
+
+
+Financial & Academic Support
+
+
+
+
+
+
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Concordia Association for Students in English
+
+
+Learn more about c.a.s.e.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CASE is looking for Executive Members!
+
+
+Find out how you can join the team and make your university experience that much more fulfilling!
+
+
+The available positions are:
+
+
+– VP COMMUNICATIONS –
+
+
+– VP EXTERNAL –
+
+– VP FINANCE –
+
+– VP INTERNAL –
+
+– VP SOCIAL –
+
+
+
+
+Key important dates:
+
+– Nomination Period: Wednesday Nov. 8th – Tuesday Nov. 14th
+
+– Campaign Period: Wednesday Nov. 15th – Tuesday Nov 21st
+
+– Polling Period: Wednesday Nov. 22nd – Thursday Nov. 23rd
+
+
+Pick up your nomination forms at the CASE office (LB-656) or 
+email us
+!
+
+DEADLINE TO SELF-NOMINATE IS TUESDAY NOV 14th @ 6PM
+
+
+
+
+
+
+
+
+Advertisements
+
+
+
+
+
+ __ATA.cmd.push(function() {
+                    __ATA.initSlot('atatags-26942',  {
+                        collapseEmpty: 'before',
+                        sectionId: '26942',
+                        width: 300,
+                        height: 250
+                    });
+                });
+	
+
+
+
+
+
+ __ATA.cmd.push(function() {
+                    __ATA.initSlot('atatags-114160',  {
+                        collapseEmpty: 'before',
+                        sectionId: '114160',
+                        width: 300,
+                        height: 250
+                    });
+                });
+	
+
+
+
+
+
+
+
+(function(){var c=function(){var a=document.getElementById("crt-140370473");window.Criteo?(a.parentNode.style.setProperty("display","inline-block","important"),a.style.setProperty("display","block","important"),window.Criteo.DisplayAcceptableAdIfAdblocked({zoneid:388248,containerid:"crt-140370473",collapseContainerIfNotAdblocked:!0,callifnotadblocked:function(){a.style.setProperty("display","none","important");a.style.setProperty("visbility","hidden","important")}})):(a.style.setProperty("display","none","important"),a.style.setProperty("visibility","hidden","important"))};if(window.Criteo)c();else{if(!__ATA.criteo.script){var b=document.createElement("script");b.src="//static.criteo.net/js/ld/publishertag.js";b.onload=function(){for(var a=0;a<__ATA.criteo.cmd.length;a++){var b=__ATA.criteo.cmd[a];"function"===typeof b&&b()}};(document.head||document.getElementsByTagName("head")[0]).appendChild(b);__ATA.criteo.script=b}__ATA.criteo.cmd.push(c)}})();
+		
+ 
+
+
+
+(function(){var c=function(){var a=document.getElementById("crt-945259620");window.Criteo?(a.parentNode.style.setProperty("display","inline-block","important"),a.style.setProperty("display","block","important"),window.Criteo.DisplayAcceptableAdIfAdblocked({zoneid:837497,containerid:"crt-945259620",collapseContainerIfNotAdblocked:!0,callifnotadblocked:function(){a.style.setProperty("display","none","important");a.style.setProperty("visbility","hidden","important")}})):(a.style.setProperty("display","none","important"),a.style.setProperty("visibility","hidden","important"))};if(window.Criteo)c();else{if(!__ATA.criteo.script){var b=document.createElement("script");b.src="//static.criteo.net/js/ld/publishertag.js";b.onload=function(){for(var a=0;a<__ATA.criteo.cmd.length;a++){var b=__ATA.criteo.cmd[a];"function"===typeof b&&b()}};(document.head||document.getElementsByTagName("head")[0]).appendChild(b);__ATA.criteo.script=b}__ATA.criteo.cmd.push(c)}})();
+		
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Recent Posts
+
+
+
+
+
+
+
+
+
+
+November 13, 2017
+ 
+CASE Concordia
+ 
+Events
+ 
+
+
+Graduate Studies Info Session
+ 
+
+
+
+
+
+
+
+
+
+
+November 10, 2017
+ 
+CASE Concordia
+ 
+Events
+ 
+
+
+Fall 2017 Wine & Cheese
+ 
+
+
+
+
+
+
+
+
+
+
+October 10, 2017
+November 3, 2017
+ 
+CASE Concordia
+ 
+Publishing Opportunities
+ 
+
+
+Halloween-Themed Writing Contest
+ 
+
+
+
+
+
+
+
+
+
+
+September 13, 2017
+ 
+CASE Concordia
+ 
+Events
+ 
+
+
+The Book Swap Project
+ 
+
+
+
+
+
+
+
+
+
+
+September 7, 2017
+September 7, 2017
+ 
+CASE Concordia
+ 
+Events
+ 
+
+
+Orientation Brunch – Fall 2017
+ 
+
+
+
+
+
+			More Posts
+→
+
+
+
+
+
+
+
+
+
+
+
+
+Upcoming Events
+ 
+
+
+Grad Studies Info Session
+
+
+Wine & Cheese
+
+
+
+
+
+
+CASE is now on Instagram!
+
+
+
+
+
+
+
+
+
+
+
+
+Stay Connected on Facebook!
+ 
+
+
+
+
+Stay Connected on Facebook!
+
+
+
+
+Other Places of Interest
+ 
+
+
+Concordia English Department
+
+
+Soliloquies Anthology
+
+
+LUCC
+
+
+
+
+Email Notification
+
+
+
+
+Enter your email address to subscribe to this blog and receive notifications of new posts by email.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powered by WordPress.com
+.
+	
+	
+ 
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+
+
+
+
+
+
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	
+
+
+
+
+
+
+
+
+
+
+
+
 Post to
-\n\t\t\t
-\n\t\t\t\t\t\t
-\n\n\t\t\t
-\n\t\t\t\t
+
+
+
+
+
+
+
+
 Cancel
-\n\t\t\t\t
-\n\t\t\t\t
-\n\t\t\t\t
-\n\t\t\t\t
-\n\t\t\t\t
-\n\t\t\t\t
-\n\t\t\t
-\n\n\t\t\t
-\t\t
-\n\n\t\t
-\n\t
-\n
-\n
-\n
-\n
-\n/* <![CDATA[ */\nvar actionbardata = {"siteID":"16032499","siteName":"CCSA","siteURL":"http:\\/\\/ccsaonline.wordpress.com","icon":"<img alt='' src='https:\\/\\/secure.gravatar.com\\/blavatar\\/f6a4afd14d8baea267fadd05a24ddf69?s=50&d=https%3A%2F%2Fs1.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \\/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"pub\\/pilcrow","signupURL":"https:\\/\\/wordpress.com\\/start\\/","loginURL":"https:\\/\\/ccsaonline.wordpress.com\\/wp-login.php?redirect_to=https%3A%2F%2Fccsaonline.wordpress.com%2F2012%2F04%2F14%2Fccsa-is-most-academically-focused%2F","themeURL":"","xhrURL":"https:\\/\\/ccsaonline.wordpress.com\\/wp-admin\\/admin-ajax.php","nonce":"4045307194","isSingular":"","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\\"hidden\\" id=\\"_wpnonce\\" name=\\"_wpnonce\\" value=\\"c4cfdb140d\\" \\/>","referer":"https:\\/\\/ccsaonline.wordpress.com\\/","canFollow":"1","feedID":"1410215","statusMessage":"","customizeLink":"https:\\/\\/ccsaonline.wordpress.com\\/wp-admin\\/customize.php?url=https%3A%2F%2Fccsaonline.wordpress.com%2F","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Pilcrow","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\\"https:\\/\\/wordpress.com\\/\\">Reader<\\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in Reader","viewReadPost":"View post in Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"","alreadyUser":"Already have a WordPress.com account? <a href=\\"https:\\/\\/ccsaonline.wordpress.com\\/wp-login.php?redirect_to=https%3A%2F%2Fccsaonline.wordpress.com%2F2012%2F04%2F14%2Fccsa-is-most-academically-focused%2F\\">Log in now.<\\/a>","stats":"Stats"}};\n/* ]]> */\n
-\n
-\n/* <![CDATA[ */\nvar jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\\/\\/ccsaonline.wordpress.com\\/wp-admin\\/admin-ajax.php","nonce":"35a1a6e946","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\\"photo-size\\">{0}<span class=\\"photo-size-times\\">\\u00d7<\\/span>{1}<\\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"1","login_url":"https:\\/\\/ccsaonline.wordpress.com\\/wp-login.php?redirect_to=https%3A%2F%2Fccsaonline.wordpress.com%2F2012%2F03%2F30%2Fannual-spring-pub-social%2F","blog_id":"16032499","local_comments_commenting_as":"<fieldset><label for=\\"email\\">Email (Required)<\\/label> <input type=\\"text\\" name=\\"email\\" class=\\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\\" id=\\"jp-carousel-comment-form-email-field\\" \\/><\\/fieldset><fieldset><label for=\\"author\\">Name (Required)<\\/label> <input type=\\"text\\" name=\\"author\\" class=\\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\\" id=\\"jp-carousel-comment-form-author-field\\" \\/><\\/fieldset><fieldset><label for=\\"url\\">Website<\\/label> <input type=\\"text\\" name=\\"url\\" class=\\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\\" id=\\"jp-carousel-comment-form-url-field\\" \\/><\\/fieldset>","reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=16032499&v=wpcom&tz=0&user_id=0&subd=ccsaonline","is_public":"1","reblog_enabled":""};\n/* ]]> */\n
-\n
-\n
-\n
-\n
-\n// <![CDATA[\n(function() {\ntry{\n  if ( window.external &&'msIsSiteMode' in window.external) {\n    if (window.external.msIsSiteMode()) {\n      var jl = document.createElement('script');\n      jl.type='text/javascript';\n      jl.async=true;\n      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';\n      var s = document.getElementsByTagName('script')[0];\n      s.parentNode.insertBefore(jl, s);\n    }\n  }\n}catch(e){}\n})();\n// ]]>\n
-\t
-\n\tvar skimlinks_pub_id = "725X584219"\n\tvar skimlinks_sitename = "ccsaonline.wordpress.com";\n\t
-\n\t
-\n\t\t\tjQuery.extend( infiniteScroll.settings.scripts, ["jquery","jquery-core","jquery-migrate","mobile-useragent-info","postmessage","jquery_inview","jetpack_resize","spin","jquery.spin","grofiles-cards","wpgroho","jquery.autoresize","highlander-comments","devicepx","jetpack_likes_queuehandler","the-neverending-homepage","wpcom-masterbar-js","wpcom-masterbar-tracks-js","wpcom-actionbar-bar","jetpack-carousel","swfobject","videopress","twitter-widgets","twitter-widgets-infinity","twitter-widgets-pending","tiled-gallery"] );\n\t\t\tjQuery.extend( infiniteScroll.settings.styles, ["wpcom-smileys","jetpack_likes","wordads-global","wordads-pilcrow","the-neverending-homepage","wpcom-core-compat-playlist-styles","mp6hacks","wpcom-bbpress2-staff-css","pilcrow","brown","jetpack-widget-social-icons-styles","noticons","geo-location-flair","reblogging","wpcom-actionbar-bar","h4-global","highlander-comments","highlander-comments-ie7","jetpack-carousel","tiled-gallery","jetpack-carousel-ie8fix"] );\n\t\t
-\n
-\n_tkq = window._tkq || [];\n_stq = window._stq || [];\n_tkq.push(['storeContext', {'blog_id':'16032499','blog_tz':'0','user_lang':'en','blog_lang':'en','user_id':'0'}]);\n_stq.push(['view', {'blog':'16032499','v':'wpcom','tz':'0','user_id':'0','subd':'ccsaonline'}]);\n_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRPUJGYUFhNUdZYm9TblB4ZStzdUI2WGlfcy1NeWF4cT1MYVJXSnJWLDVVT1JOeTNscD18Nj1ULUFxTHBCNVdmTU0tci98al8uRFRPejB4ZWphLyYsW2Fofm0ydkpFcWVBSnZseUJ3aUFrUGF1Yj00aWxNOCxocDddLElNPzk3M0p5RUktejVCSDgzd0FbRlZsJUZLZ1dWUlEzNkh0MS1vPTVxWXkydCx0LzI/'}]);\n_stq.push([ 'clickTrackerInit', '16032499', '0' ]);\n\t
-\n
-&lt;img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /&gt;
-\n
-\nif ( 'object' === typeof wpcom_mobile_user_agent_info ) {\n\n\twpcom_mobile_user_agent_info.init();\n\tvar mobileStatsQueryString = "";\n\t\n\tif( false !== wpcom_mobile_user_agent_info.matchedPlatformName )\n\t\tmobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;\n\t\n\tif( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )\n\t\tmobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;\n\t\n\tif( wpcom_mobile_user_agent_info.isIPad() )\n\t\tmobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';\n\n\tif( "" != mobileStatsQueryString ) {\n\t\tnew Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();\n\t}\n\t\n}\n
-\n\n>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var jpfbembed = {"appid":"249643311490","locale":"en_US"};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var actionbardata = {"siteID":"9664333","siteName":"C.A.S.E. Concordia","siteURL":"https:\/\/caseconcordia.ca","icon":"<img alt='' src='https:\/\/secure.gravatar.com\/blavatar\/b5a9379f43ca2ae12a5602e43120b92d?s=50&d=https%3A%2F%2Fs1.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"pub\/ixion","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/caseconcordia.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fcaseconcordia.ca%2F","themeURL":"https:\/\/wordpress.com\/theme\/ixion\/","xhrURL":"https:\/\/caseconcordia.ca\/wp-admin\/admin-ajax.php","nonce":"740d9bea60","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"2d11383db5\" \/>","referer":"https:\/\/caseconcordia.ca\/","canFollow":"1","feedID":"60452258","statusMessage":"","customizeLink":"https:\/\/caseconcordia.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fcaseconcordia.wordpress.com%2F","postID":"1083","shortlink":"https:\/\/wp.me\/PEy8l-ht","canEditPost":"","editLink":"https:\/\/wordpress.com\/page\/caseconcordia.ca\/1083","statsLink":"https:\/\/wordpress.com\/stats\/post\/1083\/caseconcordia.ca","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Ixion","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in Reader","viewReadPost":"View post in Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/caseconcordia.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fcaseconcordia.ca%2F\">Log in now.<\/a>","stats":"Stats"}};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/caseconcordia.ca\/wp-admin\/admin-ajax.php","nonce":"dcc9a8e251","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/caseconcordia.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fcaseconcordia.ca%2F","blog_id":"9664333","local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>","reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=9664333&v=wpcom&tz=-4&user_id=0&subd=caseconcordia","is_public":"1","reblog_enabled":""};
+/* ]]> */
+
+
+
+
+
+
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+
+ 
+
+	var skimlinks_pub_id = "725X584219"
+	var skimlinks_sitename = "caseconcordia.wordpress.com";
+	
+
+
+
+
+
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'9664333','blog_tz':'-4','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'9664333','v':'wpcom','tz':'-4','user_id':'0','post':'1083','subd':'caseconcordia'}]);
+_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWtpP0NsWnVkPS9sL0ViLndld3BxTi9jQ2xTcExndVtiV1Y1UFdzSnZobC9uMzd8MlMwTmgra1hrQVlPdEkyQzUyM2ZIZDV8bU9La0FaVixYcXVmSS00XUEzc0l6TVdQTXlGeElWdkNzNWN6RlNGRThQVFh3Jnpbc0lQMFFrdmpSb1ZEbTdwZENpdWMzW0hROUQtJkczbCY3M19KQXZ4bEJmT35qVTV1Rn55LW9CdjV3NkpXd0lRLXFIbi58bnU5SENIT35CLGhMQj8/WWZdLGNrX2Mxd3NJREJSVjBMcnp0R3dIVW4rWGUmNkJYNTQufHUsJS9YW3Vo'}]);
+_stq.push([ 'clickTrackerInit', '9664333', '1083' ]);
+	
+
+
+
+
+
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+
+
+
+
+
+
+>

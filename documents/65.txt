@@ -1,173 +1,2127 @@
-\n
-BONNIE BAXTER wins Charles-Biddle Award 2017 | CUPFA
- 
- 
-img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-shadow:none !important;height:1em !important;width:1em !important;margin:0\n.07em !important;vertical-align:-0.1em !important;background:none !important;padding:0\n!important}
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-#site-title,#site-description{position:absolute;left:-9000px}
-Skip to content
-Professional Development
-Deadlines
-Teaching Application Form
-News
-Quick Links:
-\u2190
- SOUTH ASIAN FILM FESTIVAL, Oct 27-29 / Nov 3-5, de S\xe8ves Theatre
-Instability of Work a Cause of Stress for Part-time Faculty 
-\u2192
-BONNIE BAXTER wins Charles-Biddle Award 2017
-\n
-Posted on
- 
-October 26, 2017
- 
-by
- 
-laurie
- 
-Fine Arts professor and interdisciplinary artist BONNIE BAXTER has been awarded the 2017 Charles Biddle Award, which recognizes the cultural contribution of a person who immigrated to Quebec.
-https://www.lafabriqueculturelle.tv/capsules/10220/bonnie-baxter-laureate-du-prix-charles-biddle-2017#sidr
-\nThis entry was posted in 
-News
-. Bookmark the 
-permalink
-.
-\u2190
- SOUTH ASIAN FILM FESTIVAL, Oct 27-29 / Nov 3-5, de S\xe8ves Theatre
-Instability of Work a Cause of Stress for Part-time Faculty 
-\u2192
-Home
-About
-Mandate & History
-Executive 2017-20
-Committees
-Staff
-News & Events
-News
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibition Mer paraguayenne / Paraguayan Sea Andrew Forster & Erín Moure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		        var _gaq = _gaq || [];
+				_gaq.push(['_setAccount', 'UA-2729211-1']);
+				_gaq.push(['_trackPageview']);
+
+				(function() {
+					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();				
+		    
+
+
+
+
+
+
+
+
+
+
+Concordia University
+
+
+http://www.concordia.ca/content/shared/en/events/finearts/fofa/2017/08/03/exhibition-andrew-forster-erin-moure.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Study resources
+
+
+Calendar - Graduate
+
+
+Calendar - Undergraduate
+
+
+Class schedules
+
+
+Class cancellations
+
+
+Course registration
+
+
+Important academic dates
+
+
+More academic resources
+Campus services
+
+
+Concordia Stores
+
+
+IT services
+
+
+Job opportunities
+
+
+Security
+
+
+Shuttle bus
+
+
+Student Service Centre (Birks)
+
+
+All campus services
+What's new
+
+
+Calendar of events
+
+
+Latest news
+
+
+Media Relations
+Faculties, Schools & Colleges
+
+
+Arts and Science
+
+
+Engineering and Computer Science
+
+
+Fine Arts
+
+
+John Molson School of Business
+
+
+School of Graduate Studies
+
+
+All Schools, Colleges & Departments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quick links  
+
+
+
+
+
+
+Webmail
+
+
+Library
+
+
+Cspace
+
+
+
+
+
+
+Study resources
+  
+
+
+Calendar - Graduate
+
+
+Calendar - Undergraduate
+
+
+Class schedules
+
+
+Class cancellations
+
+
+Course registration
+
+
+Important academic dates
+
+
+More academic resources
+Campus services
+  
+
+
+Concordia Stores
+
+
+IT services
+
+
+Job opportunities
+
+
+Security
+
+
+Shuttle bus
+
+
+Student Service Centre (Birks)
+
+
+All campus services
+What's new
+  
+
+
+Calendar of events
+
+
+Latest news
+
+
+Media Relations
+Faculties, Schools & Colleges
+  
+
+
+Arts and Science
+
+
+Engineering and Computer Science
+
+
+Fine Arts
+
+
+John Molson School of Business
+
+
+School of Graduate Studies
+
+
+All Schools, Colleges & Departments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quick links 
+
+
+The Campaign for Concordia
+
+
+
+
+MyConcordia
+
+
+Cspace
+
+
+Webmail
+
+
+Library
+
+
+Directories
+
+
+A-Z
+
+
+Maps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Future students
+
+
+Student hub
+
+
+Alumni & friends
+
+
+Parents
+
+
+Faculty & staff
+
+
+Media
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Concordia University
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Concordia University
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Events
-Videos
-Media Coverage \u2013 Negotiations
-Collective Agreement
-Pensions and Retirement
-Pension Information
-Retirement Planning
-Professional Development
-About PD
-CUPFA Grants
-Travel and Expenses
-Grant Reports
-Small Claims
-PD \u2013 FAQ
-Office of Research
-Forms
-Publications
-Newsletters
-Survival Guide
-Commandments
-Multi-Section Courses
-Concordia Resources
-FAQ
-Contact Us
-\n
-Search for:
-\n
-\n
-Recent Posts
-Official Signing of 5th Collective Agreement
-Words and Public Space, Andrew Forster, Erin Moure...
-Campus Equity Week article in The Concordian
-Instability of Work a Cause of Stress for...
-BONNIE BAXTER wins Charles-Biddle Award 2017
-Post Archives
-\t\t
-Post Archives
-\n
-Select Month
- November 2017
- October 2017
- September 2017
- August 2017
- July 2017
- June 2017
- May 2017
- April 2017
- March 2017
- February 2017
- January 2017
- December 2016
- November 2016
- October 2016
- September 2016
- August 2016
- June 2016
- May 2016
- April 2016
- March 2016
- February 2016
- January 2016
- December 2015
- November 2015
- October 2015
- September 2015
- August 2015
- June 2015
- May 2015
- March 2015
- February 2015
- November 2014
- October 2014
- September 2014
- April 2014
- March 2014
- February 2014
- January 2014
- November 2013
- October 2013
- September 2013
- August 2013
- July 2013
- May 2013
- April 2013
- March 2013
- February 2013
- January 2013
- December 2012
- November 2012
- October 2012
- September 2012
- May 2012
- April 2012
- March 2012
- February 2012
-Contact Info
-Office Hours
-\nMonday \u2013 Thursday
-\n9 am to 4 pm
-2150 Bishop, S-K-310
-\nMontreal, Quebec  H3G 1M8
-Telephone
-\n514-848-2424-3691
-Facsimile
-\n514-848-3648
-\n
-\n
-\n
-\nCopyright \xa9 CUPFA. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Calendar
+
+
+
+
+
+
+Academic dates
+
+
+
+
+
+
+University holidays
+
+
+
+
+
+
+Cancelled classes
+
+
+
+
+
+
+Planning & hosting
+
+
+
+
+
+
+
+
+
+
+The Campaign for Concordia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Study resources
+
+
+Calendar - Graduate
+
+
+Calendar - Undergraduate
+
+
+Class schedules
+
+
+Class cancellations
+
+
+Course registration
+
+
+Important academic dates
+
+
+More academic resources
+Campus services
+
+
+Concordia Stores
+
+
+IT services
+
+
+Job opportunities
+
+
+Security
+
+
+Shuttle bus
+
+
+Student Service Centre (Birks)
+
+
+All campus services
+What's new
+
+
+Calendar of events
+
+
+Latest news
+
+
+Media Relations
+Faculties, Schools & Colleges
+
+
+Arts and Science
+
+
+Engineering and Computer Science
+
+
+Fine Arts
+
+
+John Molson School of Business
+
+
+School of Graduate Studies
+
+
+All Schools, Colleges & Departments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quick links  
+
+
+
+
+
+
+Webmail
+
+
+Library
+
+
+Cspace
+
+
+
+
+
+
+Study resources
+  
+
+
+Calendar - Graduate
+
+
+Calendar - Undergraduate
+
+
+Class schedules
+
+
+Class cancellations
+
+
+Course registration
+
+
+Important academic dates
+
+
+More academic resources
+Campus services
+  
+
+
+Concordia Stores
+
+
+IT services
+
+
+Job opportunities
+
+
+Security
+
+
+Shuttle bus
+
+
+Student Service Centre (Birks)
+
+
+All campus services
+What's new
+  
+
+
+Calendar of events
+
+
+Latest news
+
+
+Media Relations
+Faculties, Schools & Colleges
+  
+
+
+Arts and Science
+
+
+Engineering and Computer Science
+
+
+Fine Arts
+
+
+John Molson School of Business
+
+
+School of Graduate Studies
+
+
+All Schools, Colleges & Departments
+
+
+
+
+
+
+
+
+
+
+
+
+Information for... 
+
+
+
+
+Future students
+
+
+Student hub
+
+
+Alumni & friends
+
+
+Parents
+
+
+Faculty & staff
+
+
+Media
+
+
+
+
+
+
+
+                        $(".role-links-mobile .open-links").on('click', function() {
+                            $this = $(this);
+                            $this.find('.arrow').toggleClass('concordia-arrow-black-down-icon');
+                            $this.find('.arrow').toggleClass('concordia-arrow-black-up-icon');
+                        });
+                    
+
+
+
+
+
+
+
+
+
+
+
+    $(document).ready(function() {
+        var $dropdowns = $('.nav li.dropdown');
+        var delay = 300;
+    
+        $dropdowns
+            .on('mouseover', function() {
+                if ($(".header-btn").css("display") == "none") { // Only fire this when not on mobile
+
+                    // Make sure the autocomplete is not showing
+                    $(".ui-autocomplete").css("display","none");
+    
+                    var $this = $(this);
+                    $this.siblings('.open').removeClass('open');
+    
+                    if ($this.prop('hoverTimeout')) {
+                        $this.prop('hoverTimeout', clearTimeout($this.prop('hoverTimeout')));
+                    }
+        
+                    $this.prop('hoverIntent', setTimeout(function() {
+                        $this.addClass('open');
+                    }, 0));
+                }
+            })
+            .on('mouseleave', function() {
+                if ($(".header-btn").css("display") == "none") { // Only fire this when not on mobile
+                    var $this = $(this);
+                    $this.siblings('.open').removeClass('open');
+        
+                    if ($this.prop('hoverIntent')) {
+                        $this.prop('hoverIntent', clearTimeout($this.prop('hoverIntent')));
+                    }
+        
+                    // If the dropdown doesn't have any children, set delay to 0
+                    delay = ($this.find('.dropdown-toggle').length != 0) ? 300 : 0;
+        
+                    $this.prop('hoverTimeout', setTimeout(function() {
+                        $this.removeClass('open');
+                    }, delay));
+                }
+            })
+            .on('click', '.open-btn', function() {
+                $this = $(this);
+                $dropdown = $this.closest('.dropdown');
+                $icon = $this.find('span');
+    
+                $(this).closest('.dropdown').find('.dropdown-menu').slideToggle();
+                $dropdown.toggleClass('open');
+    
+                $icon.toggleClass('concordia-arrow-white-down-icon');
+                $icon.toggleClass('concordia-arrow-white-up-icon');
+            });
+
+
+        // On mobile, make sure search is not showing when menu is opened
+        $(".concordia-hamburger-icon").on("click", function() {
+            if ($("#site-search").hasClass("in")) {
+                $("#site-search").collapse("hide");
+            }
+        });
+    
+        // On mobile, make sure navigation is not showing when search is opened
+        $(".concordia-search-icon.visible-phone").on("click", function() {
+            if ($(".nav-collapse").hasClass("in")) {
+                $(".nav-collapse").collapse("hide");
+            }
+        });
+    });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Concordia
+                
+
+
+
+
+
+
+
+
+
+
+
+                    Directories
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+Concordia University
+
+
+
+
+
+
+
+
+
+
+Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    Concordia.ca
+                    
+                
+
+
+
+	         / 
+	        
+
+                
+                    Events
+                    
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+
+
+GooglePlus
+
+
+
+
+
+
+
+
+
+
+
+            jQuery(document).ready(function() {
+                "use strict";
+                $ =  jQuery;
+
+                var decal = $('.c-socialbar-cta:not(.horizontal)').parent().width();
+                $('.c-socialbar-cta:not(.horizontal)').css({'margin-left':decal+5});
+                $('.c-socialbar-cta:not(.horizontal)').fadeIn();
+
+
+                $(window).scroll(function() {
+                    socialbar.scroll();
+                });
+            });
+
+            var socialbar = (function(jQuery) {
+                var timeOutId = 0;
+                var jitterBuffer = 20;
+
+                return {
+                    scroll:function() {
+                        var offset = $('.c-socialbar-cta:not(.horizontal)').parent().offset();
+                        var top = offset.top -150;
+
+                        if ($(window).scrollTop() > top) {
+                            $('.c-socialbar-cta:not(.horizontal)').addClass('fixed');
+                        }
+                        else {
+                            $('.c-socialbar-cta:not(.horizontal)').removeClass('fixed');
+                        }
+                    }
+                };
+            })();
+        
+
+
+
+
+
+
+
+                        Exhibition
  
-jQuery(document).ready(function($){jQuery('#dc_jqaccordion_widget-2-item .menu').dcAccordion({eventType:'click',hoverDelay:0,menuClose:false,autoClose:true,saveState:true,autoExpand:true,classExpand:'current-menu-item',classDisable:'',showCount:false,disableLink:true,cookie:'dc_jqaccordion_widget-2',speed:'fast'});});
- 
-jQuery(document).ready(function($){$("a[rel*=lightbox]").colorbox({speed:350,initialWidth:"300",initialHeight:"100",maxWidth:"75%",opacity:0.8,loop:false,scrolling:false,escKey:false,arrowKey:false,top:false,right:false,bottom:false,left:false});});
- 
- 
- \n>
+Mer paraguayenne / Paraguayan Sea
+ Andrew Forster & Erín Moure
+                   	
+
+
+
+
+
+
+   
+                           August 21, 2017 – December 8, 2017 (all day)
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+FOFA Coutyard, Ste-Catherine street, and McKay street 
+
+Cour extérieur de la galerie FOFA et les rues Ste-Catherine et McKay
+
+
+(La version française suit l'anglais)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        $(document).ready(function() {
+			$("#87d28dc6-36f3-4024-98f4-c45ce0501272parsys-mainimage").attr("href", "");
+        });
+    
+
+
+
+
+
+
+
+
+
+
+
+        $(document).ready(function() {
+			$("#87d28dc6-36f3-4024-98f4-c45ce0501272parsys-mainimage_1608956467").attr("href", "");
+        });
+    
+
+
+
+
+
+
+
+
+
+
+
+        $(document).ready(function() {
+			$("#87d28dc6-36f3-4024-98f4-c45ce0501272parsys-mainimage_25330366").attr("href", "");
+        });
+    
+
+
+
+
+
+
+
+
+
+
+
+        $(document).ready(function() {
+			$("#87d28dc6-36f3-4024-98f4-c45ce0501272parsys-mainimage_393113574").attr("href", "");
+        });
+    
+
+
+
+
+
+
+
+
+
+
+
+        $(document).ready(function() {
+			$("#87d28dc6-36f3-4024-98f4-c45ce0501272parsys-mainimage_995493035").attr("href", "");
+        });
+    
+
+
+Andrew Forster & Erín Moure. 
+Mer Paraguayenne / Paraguayan Sea
+ (2017). Concordia EV Building, Montreal. Photos: Guy L'Heureux.
+
+
+
+
+
+
+
+
+EN
+
+
+Mer paraguayenne/Paraguayan Sea
+ is a text intervention into public space by Montreal visual artist Andrew Forster in collaboration with the Montreal poet Erín Moure. Installed outdoors, the wide yellow band wraps around the ground floor of Concordia University’s EV (Engineering and Visual Arts) Building, facing Ste-Catherine street and McKay street in downtown Montreal. This graphic and typographic artwork in a mix of three languages—French, English and Guaraní—relays Moure’s poetic translation into Frenglish and Guaraní of the novela in Portunhol and Guaraní, 
+Mar Paraguayo,
+ by Brazilian writer Wilson Bueno. 
+
+
+The piece questions if it is possible to turn rigorous and complex creative practices (such as art) outwards towards public space—like a skin turned inside out. How does this viscera of poetic language compete with the instrumental syntax of advertising and branding on the street? The text is not bilingual or trilingual but, rather moves in and out of three different languages making one meaning. As such, it reflects not an official politics or policy of language but a lived and creative amalgam of language and meaning reflective of the creative ‘mix’ that is Montreal's urban hybridity. 
+
+
+Financial support from l’Endroit indiqué and CUPFA Professional Development Grant.
+
+
+NOTE: Bueno, Wilson. 
+Paraguayan Sea
+. Trans. from Portunhol of Mar Paraguayo. New York: Nightboat, forthcoming fall 2017.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exposition
+
+
+Mer paraguayenne / Paraguayan Sea
+
+
+
+ Andrew Forster & Erín Moure
+
+
+
+
+
+
+
+
+août à décembre 2017
+
+
+FR
+
+
+Intervention textuelle dans l’espace public, 
+Mer paraguayenne/Paraguayan Sea 
+est le fruit d’une collaboration entre l’artiste visuel montréalais Andrew Forster et la poète montréalaise Erín Moure. La bande jaune de grande dimension est déployée à l’extérieur, enveloppant les façades du rez-de-chaussée du pavillon EV (génie et arts visuels) de l’Université Concordia qui donnent sur les rues Sainte-Catherine et McKay, au centre-ville de Montréal. Cette œuvre graphique et typographique relaie le texte poétique d’Erín Moure, une traduction en anglais qui utilise trois langues—français, anglais et guaraní—du roman 
+Mar Paraguayo 
+de l’auteur brésilien Wilson Bueno, écrit en portunhol et guaraní.
+
+
+L’œuvre exprime un questionnement sur la possibilité de tourner les pratiques créatrices complexes et rigoureuses (comme l’art) vers l’extérieur et l’espace public – telle une peau retournée. Comment ce viscère de langage poétique rivalise-t-il avec la syntaxe instrumentale des publicités et du « branding » de la rue? Le texte n’est pas bilingue ou trilingue, mais sinue entre trois langues pour rendre un sens global. Ainsi, il reflète non pas une politique linguistique officielle, mais plutôt un amalgame vécu et imaginatif de langage et de signification qui évoque le mélange créatif propre à l’hybridité urbaine montréalaise.
+
+
+Soutenu financièrement par l’Endroit indiqué et une bourse de perfectionnement professionnel de la CUPFA.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Excerpt from 
+Paraguayan Sea
+
+ / Un extrait de 
+Mer Paraguayenne
+
+
+
+
+
+
+
+
+one dusk après une autre I sit ici on this sofa diagonal to the window, and in sitting it’s presque as if everything’s crumbling into bits: cramps in the guts: setting sun weaving humid nuances: spaces from où move déjà les occupations cérémoniales of light and lune: between the crowns of sombreros or entre les durs vides of the fig tree that devastate into shadow and suspicion in the crépuscule of the sea resort: figuier, couronne, sombreros: la ancestral speech of fathers and grands-pères that infinitely vanishes into memory, they entertain all speech et tricot: these Guaraní voices simplement eternalize as they go on weaving: ñandu: there is no better fabric than the web des feuilles tissées all together, ñándu, together and between the arabesques that, symphonique, interweave, checkerboard of green and bird et chant, in the happy amble of a freedom: ñanduti: ñandurenimbó:
+
+
+
+
+: here I sit: ñandu: to inflect into the crochèterie my ñanduti renderings: ñandutimichĩ: smallest ti-fleur that persists with the needle barely for the excruciating patience of a few hours: in these sutures, salt clocks, that keep themselves smeared with the fluctuating couleurs du coucher du soleil that play themselves out in les automnes de maintenant: here ñandu: an opacity of feeling: je m’assois: assise: ñandu: my cancerish word is s’asseoir: me voir: ñandu: winter more than automne panique autumn: ñandu: what is the secret of identité entre these deux things absolument distinctes: spiders and scorpions?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artists | Artistes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+                    Andrew Forster
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EN
+
+
+Andrew Forster
+ lives in Montreal. His work includes installation, video, performance, live public events and other collaborative and cross-disciplinary projects. His current work centers on video-video installation of movement-based performance shown in visual art and dance venues, and text-installations for public space. Forster’s past work includes a performance for 75 people entitled 
+En masse
+ with choreographer Suzanne Miller (Tangente, Montreal); 
+Ossip
+, and a dance performance based on the poetry of Ossip Mandelstam (coproduction OVertigo/Tangente). He has done several performance-based works for public space including 
+Cinéma
+ (Société des arts technologiques), a multi-media piece with live performance and live-mixed audio taking place outdoors in Place de la paix for an audience seated indoors looking out through SAT’s storefront windows. Moat, a related piece, was an interactive installation about surveilance using performance and live feeds from Trafalgar Square, London (supported by Canada House and Space Studios). His critical writings about performance, design, and visual art have appeared in art and academic publications. He has also participated as an artist in several design competitions for public space, including the winning proposal in a competition for a new entrance to Place des Arts, Montreal (with architects Atelier Big City) and a competition for a video projection on the new Wilder Espace Danse in Montreal (2017). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FR
+
+
+Andrew Forster
+ vit à Montréal. Dans sa pratique, il utilise différents médias : installations performance-vidéo, performance, vidéo, installations textuelles et photographie. Son travail actuel prend deux directions principales : des installations textuelles pour des espaces publics ; et  installation, performance-vidéo et performance présentées dans des lieux dédiés à l’art visuel ou à la danse. Il a réalisé plusieurs projets artistiques pour des espaces publics, dont 
+Cinéma
+ (Société des arts technologiques), pièce multimédia avec performance et diffusion audio en direct ainsi que projection vidéo, se déroulant à l’extérieur, sur la place de la Paix, pour un public assis à l’intérieur de la SAT. Mentionnons aussi le projet connexe Moat, installation interactive à partir de vidéos en temps réel d’une performance à Trafalgar Square, à Londres, avec le soutien de la Maison du Canada et de Space Studios. Parmi ses autres projets, on retrouve : 
+En masse
+, performance pour 75 personnes (avec la chorégraphe Suzanne Miller, à Tangente, Montréal); et 
+Ossip
+, performance dansée inspirée de la poésie d’Ossip Mandelstam (co-production O Vertigo/Tangente). Par ailleurs, il participe, comme artiste, à plusieurs concours de design, notamment la réalisation du projet lauréat du concours pour une nouvelle entrée de la Place des Arts à Montréal (avec l’atelier d’architectes Big City); programme d’identité du Quartier des spectacles, Montréal (2004) ainsi que Concours international d’idées YUL-MTL : Paysages en mouvement (2011). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+                    Erín Moure 
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EN
+
+
+In 2016, poet 
+Erín Moure
+ published translations from French of François Turcot’s 
+My Dinosaur
+, and from Galician of Chus Pato’s 
+Flesh of Leviathan 
+and Rosalía de Castro’s 
+New Leaves
+. A 40-year retrospective of her own poetry, 
+Planetary Noise: Selected Poetry
+ 
+of Erín Moure
+ , edited by Shannon Maguire (Wesleyan University Press), appeared in spring 2017. Her translation from Brazilian Portunhol into Montreal Frenglish of Wilson Bueno’s 
+Paraguayan Sea
+ (Nightboat Books) will appear in October, 2017, and in Galicia, her translation of Antón Lopo’s biography of Uxío Novoneyra, 
+Distance of the Wolf
+ (Novoneyra Foundation), will be published in June. Moure holds two honorary doctorates for her contribution to poetry, Brandon University (2008) and Universidade de Vigo in Spain (2016). As the Woodberry Poetry Room Fellow for 2016-2017 at Harvard University, she spent nine days in April listening to the poetry of Elizabeth Bishop and Muriel Rukseyer, and reading that of Angelina Weld Grimké, in preparation for creating a new poetic work on migration, asthma, and women.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FR
+
+
+En 2016, la poète 
+Erín Moure
+ 
+a publié 
+My Dinosaur
+, 
+Leviathan
+ et 
+New Leaves
+, traductions anglaises de recueils écrits respectivement en français par François Turcot et en galicien par Chus Pato et Rosalía de Castro. Au printemps 2017 a paru une rétrospective de sa propre poésie intitulée 
+Planetary Noise: Selected Poetry of Erín Moure
+. Couvrant une période de 40 ans, l’ouvrage est publié par Wesleyan University Press sous la direction de Shannon Maguire. En octobre 2017, la poète publiera une traduction en frenglish de Montréal de 
+Paraguayan Sea 
+(Nightboat Books), œuvre en portunhol du Brésil signée Wilson Bueno. De plus, en juin prochain, elle publiera en Galice, sous le titre 
+Distance of the Wolf 
+(Novoneyra Foundation), une traduction de la biographie d’Uxío Novoneyra par Antón Lopo. Erín Moure est titulaire de deux doctorats honorifiques – un de la Brandon University (2008), au Manitoba, et l’autre de l’Université de Vigo (2016), en Espagne – pour sa contribution à la poésie. Chercheuse associée en création de la Woodberry Poetry Room de l’Université Harvard en 2016-2017, elle y a passé neuf jours en avril à écouter la poésie d’Elizabeth Bishop et de Muriel Rukseyer, ainsi qu’à lire celle d’Angelina Weld Grimké, afin de se préparer à la création d’une nouvelle œuvre poétique sur la migration, l’asthme, et les femmes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        $(document).ready(function() {
+			$("#87d28dc6-36f3-4024-98f4-c45ce0501272parsys-mainimage_205916955").attr("href", "");
+        });
+    
+
+
+
+
+
+
+
+
+
+
+ Where   
+
+
+
+Room EV 1-715, FOFA Gallery,  
+    
+Engineering, Computer Science and Visual Arts Integrated Complex
+ (1515 St. Catherine W.), Sir George Williams Campus
+
+
+
+
+
+
+Cost
+
+
+Admission is free
+
+
+
+
+
+
+Category
+
+
+Arts & culture, Exhibitions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Calendar
+
+
+
+
+
+
+Submit an event
+
+
+
+
+
+
+Latest news
+
+
+
+
+
+
+
+
+Discussion and Book Launch / Discussion et lancement de livre
+
+
+
+
+
+
+Date:
+ November 9, 2017
+
+
+Time: 
+5 p.m. to 7 p.m.
+
+
+Location: 
+FOFA Gallery,
+
+1515 St-Catherine st. West
+
+Montréal, H3G 2W1
+
+
+Cost:
+ Admission is free
+
+
+Words & Public Space: 
+What happens when you turn a polylingual novel outward and make it speak to readers on the street?
+
+
+Please join Andrew Forster (artist), Erín Moure (translator and poet) and Sherry Simon (Concordia U, French) for a discussion on words and public space and a presentation of the artifact-book-translation 
+Paraguayan Sea
+ by Wilson Bueno (Nightboat Books, NYC). 
+
+
+Books will be available for purchase on site.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Date :
+ le 9 novembre 2017
+
+
+Heure :
+ 17h à 19h
+
+
+Emplacement :
+ Galerie FOFA,
+
+1515 Ste-Catherine ouest
+
+Montréal, H3G 2W1
+
+
+Tarif :
+ Admission gratuite
+
+
+Les mots et l’espace public 
+: que se passe-t-il lorsqu’on tourne un roman multilingue vers l’extérieur et qu’on le fait parler aux lecteurs dans la rue?
+
+
+Joignez-vous à Andrew Forster (artiste), Erín Moure (traductrice et poète) et Sherry Simon (Département d’études françaises de l’Université Concordia) pour une discussion sur les mots et l’espace public, accompagnée d’une présentation de l’artéfact-livre-traduction 
+Paraguayan Sea
+ de Wilson Bueno (Nightboat Books, New York). 
+
+
+Des exemplaires de l’ouvrage seront en vente sur place.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Relevant Links / Liens relieés
+
+
+
+
+
+
+Wilson Bueno, "Three Extracts from 
+Paraguayan Sea
+." Asymptote.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Back to top
+
+
+
+
+
+
+© Concordia University
+
+
+
+
+
+
+
+
+Concordia University
+ - Call us at 514-848-2424
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+Academics
+
+
+Admissions
+
+
+Campus life
+
+
+Research
+
+
+International
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Future students
+
+
+Current students
+
+
+Alumni & friends
+
+
+Parents 
+
+
+Faculty & staff
+
+
+Media
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sir George Williams Campus
+
+
+1455 De Maisonneuve Blvd. W.
+
+
+Montreal
+, 
+Quebec
+, 
+Canada
+
+
+H3G 1M8
+
+
+
+
+See SGW Campus map 
+
+
+
+
+Loyola Campus
+
+
+7141 Sherbrooke Street W.
+
+
+Montreal
+, 
+Quebec
+, 
+Canada
+
+
+H4B 1R6
+
+
+
+
+See Loyola Campus map 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+facebook
+
+
+twitter
+
+
+google
+
+
+youtube
+
+
+linkedin
+
+
+pinterest
+
+
+instagram
+
+
+flickr
+
+
+
+
+
+
+Concordia social
+
+
+
+
+
+
+
+
+
+
+
+
+© Concordia University
+
+
+Terms
+
+
+Privacy
+
+
+Accessibility
+
+
+Website feedback
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share this page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Concordia.ca
+
+
+
+
+
+
+Call us at
+
+
+514-848-2424
+
+
+
+
+
+
+
+
+
+
+
+
+Sir George Williams Campus
+
+
+1455 De Maisonneuve Blvd. W.
+
+
+Montreal
+, 
+Quebec
+, 
+Canada
+
+
+H3G 1M8
+
+
+
+
+See SGW Campus map 
+
+
+
+
+Loyola Campus
+
+
+7141 Sherbrooke Street W.
+
+
+Montreal
+, 
+Quebec
+, 
+Canada
+
+
+H4B 1R6
+
+
+
+
+See Loyola Campus map 
+
+
+
+
+
+
+
+
+
+
+Website feedback
+
+
+
+
+Terms
+
+
+Privacy
+
+
+Accessibility
+
+
+
+
+
+
+
+
+© Concordia University
+
+
+
+
+
+>
