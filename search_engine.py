@@ -9,6 +9,7 @@ from math import log
 DOCUMENT_COUNT = 21578   
 AVERAGE_DOC_LENGTH = 307.854206213
 
+
 # Should this handle long query BM25? 
 def BM25(matching_docs, index, query, doc_lengths):
     k1 = 1.5
@@ -71,17 +72,16 @@ def loadIndexToMemory():
     disk_index = open('index.dat', 'r')
     memory_index = {}
     for line in disk_index:
-        term = line.split(" ")[0]
-        postings = {}
-        raw_text_postings = line[len(term)+1:-2]
-        processed_postings = raw_text_postings.translate(None, "[]'\\/,\"()").split(" ")
-        i = 1
-        while (i < len(processed_postings)):
-            docID = int(processed_postings[i-1])
-            count = int(processed_postings[i])
-            postings[docID] = count
-            i += 2
-        memory_index[term] = postings
+        term = line.split()[0]
+        docFreqs = "".join(line.split()[1:]).translate(None, "[](){}'").replace(":",",").split(",")
+        memory_index[term] = {}
+        doc = 0 
+        while doc < len(docFreqs)-1:
+            try: # docIDs
+                memory_index[term][int(docFreqs[doc])] = int(docFreqs[doc+1])
+            except: # sentiment 
+                 memory_index[term][str(docFreqs[doc])] = int(docFreqs[doc+1])
+            doc += 2 
     return memory_index
 
 def preprocessQuery(query):
@@ -116,6 +116,8 @@ def addToResults(results, terms):
         results = set(results) | set(terms)
     else:
         results = set(results) & set(terms)
+    if "sentiment" in results:
+        results.remove("sentiment")
     return results
 
 def orderByNumberOfMatchingTerms(terms, matching_docs, index):
@@ -188,6 +190,7 @@ def searchForDocuments(index):
             print "No results.\n"
         else:
             BM25(matching_docs, index, processed_query, doc_lengths)
+        # Add sentiment search here
 
 def main():
     displayWelcomePrompt()
