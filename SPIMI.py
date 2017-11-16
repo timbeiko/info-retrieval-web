@@ -26,8 +26,6 @@ def aFinnListToDictionary():
         rows[i] = re.split(r'\t+', rows[i])
     for row in rows:
         sentimentDictionary[row[0]]=int(row[1])
-    print('\nWriting Dictionary to disk')
-    print('----------------------------')
     json.dump(sentimentDictionary, open('afinn_dictionary.json', 'w'),indent=4) 
 
 def create_SPIMI_index(input_file, docID):
@@ -62,7 +60,6 @@ def create_SPIMI_index(input_file, docID):
         SPIMI_invert(token_stream, blockNumber, fileNumber)
 
     # Doc finished to process 
-    print(sentiment)
     sentimentIndex[docID] = sentiment
     length_of_docs[docID] = doc_length
 
