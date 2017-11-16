@@ -9,6 +9,27 @@ from math import log
 DOCUMENT_COUNT = 21578   
 AVERAGE_DOC_LENGTH = 307.854206213
 
+def loadAfinn():
+    dictionary = dict()
+    file = open("AFINN.txt", 'r')
+    line = file.readline()
+    while line:
+        temp = line.split(' ')
+        dictionary[temp[0]] = temp[1]
+        line = file.readline()
+    return dictionary
+
+def sentimentSearch(matching_docs,query_sentiment_value):
+    if query_sentiment_value > 0:
+        # sorted the matching_docs from highest to lowest
+    else:
+        # sorted the matching_docs from lowest to highest
+
+    # print str(len(matching_docs)) + " results:"
+    # for doc in sorted(doc_scores, key=doc_scores.get, reverse=True):
+    #     print "Doc: " + str(doc) + " Score: " + str(doc_scores[doc])
+    # print "\n"
+
 
 # Should this handle long query BM25? 
 def BM25(matching_docs, index, query, doc_lengths):
@@ -148,15 +169,29 @@ def loadDocLengthsToMemory():
             docs[int(doc_lengths[0])] = int(doc_lengths[1])
     return docs 
 
-def searchForDocuments(index):
+def searchForDocuments(index,affin):
     doc_lengths = loadDocLengthsToMemory()
     while(True):
+        flag = True
+        query = raw_input("Please input 0 or 1, 0 represents results are sorted according to TF-IDF, 1 represents results are sorted according to sentiment values\n")
+        if query == 1:
+            flag = False
         query =  raw_input("ENTER QUERY OR TYPE 'EXIT' TO QUIT: ")
-        
+
         if query == "EXIT":
             break
             
         processed_query = preprocessQuery(query)
+
+        # calculate the sentiment values of query
+        query_sentiment_value = 0
+        if not flag:
+            for query_term in processed_query:
+               for key in affin.keys():
+                   if query_term == key:
+                       query_sentiment_value += affin.get(key)
+                       break
+
 
         # Get matching docIDs
         matching_docs = []
@@ -189,14 +224,18 @@ def searchForDocuments(index):
         if matching_docs == []:
             print "No results.\n"
         else:
-            BM25(matching_docs, index, processed_query, doc_lengths)
+            if flag:
+                BM25(matching_docs, index, processed_query, doc_lengths)
+            else:
+                sentimentSearch(matching_docs,query_sentiment_value)
         # Add sentiment search here
 
 def main():
     displayWelcomePrompt()
     checkIfIndex()
     index = loadIndexToMemory()
-    searchForDocuments(index)
+    affin = loadAfinn()
+    searchForDocuments(index,affin)
     print "\n==================================================="
     print "Thank you for using Tim's Reuters Search Engine"
     print "==================================================="
