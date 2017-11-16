@@ -296,7 +296,7 @@ def compress_SPIMI_index():
         compressed_index_output.write(s)
         compressed_index_output.write('\n')
 
-def savSentimentIndex():
+def saveSentimentIndex():
     json.dump(sentimentIndex, open('sentiment_index.json', 'w'),indent=4) 
 
 def main():
