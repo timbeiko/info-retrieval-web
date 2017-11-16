@@ -78,7 +78,7 @@ if (stLight !== undefined) { stLight.options({"publisher":"dr-e8d6a55-5a9-aa96-4
 
 
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"flatclassifieds","theme_token":"D5kCXIqnUwgU-OROus5BAZhg8icN5ba91yEFN64xcgo","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/spamspan\/spamspan.js":1,"sites\/all\/modules\/flatclassifieds_helper\/flatclassifieds_helper.js":1,"sites\/all\/modules\/lightbox2\/js\/auto_image_handling.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/select_with_style\/select_with_style\/select_with_style.js":1,"0":1,"http:\/\/w.sharethis.com\/button\/buttons.js":1,"1":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"sites\/all\/modules\/field_slideshow\/field_slideshow.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"2":1,"misc\/form.js":1,"misc\/collapse.js":1,"sites\/all\/themes\/flatclassifieds\/j\/jquery-ui-1.10.4.min.js":1,"sites\/all\/themes\/flatclassifieds\/j\/jquery.ui.slider-rtl.min.js":1,"sites\/all\/themes\/flatclassifieds\/j\/jquery.tools.min.js":1,"sites\/all\/themes\/flatclassifieds\/j\/modernizr.touch.js":1,"sites\/all\/themes\/flatclassifieds\/j\/jquery.ui.touch-punch.min.js":1,"sites\/all\/themes\/flatclassifieds\/j\/chosen.jquery.min.js":1,"sites\/all\/themes\/flatclassifieds\/j\/gmap3.min.js":1,"sites\/all\/themes\/flatclassifieds\/j\/gmap3.infobox.js":1,"sites\/all\/themes\/flatclassifieds\/j\/main.js":1,"sites\/all\/themes\/flatclassifieds\/j\/menu.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/ldap\/ldap_user\/ldap_user.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ed_classified\/theme\/classified.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/awesome\/css\/font-awesome.min.css":1,"sites\/all\/modules\/flatclassifieds_helper\/flatclassifieds_helper.css":1,"sites\/all\/modules\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"public:\/\/ctools\/css\/9f178a33e75029e902dac857fa61d972.css":1,"sites\/all\/modules\/field_slideshow\/field_slideshow.css":1,"sites\/all\/modules\/panels_bootstrap_layout_builder\/plugins\/layouts\/bootstrap\/bootstrap.css":1,"sites\/all\/themes\/flatclassifieds\/css\/ui-lightness\/jquery-ui-1.10.4.css":1,"sites\/all\/themes\/flatclassifieds\/css\/jquery.ui.slider-rtl.css":1,"sites\/all\/themes\/flatclassifieds\/css\/chosen.min.css":1,"sites\/all\/themes\/flatclassifieds\/css\/style.css":1,"sites\/default\/files\/fontyourface\/font.css":1,"http:\/\/fonts.googleapis.com\/css?family=Roboto:100,300\u0026subset=latin-ext":1}},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"(\\.thumbnail)","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"img.thumbnail, img.image-thumbnail","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":1,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false},"field_slideshow":{"field-slideshow-1":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-2":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-3":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-4":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-5":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-6":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-7":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-8":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-9":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-10":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-11":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-12":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"flatclassifieds","theme_token":"taPsytTGbCtM_fSWrDR196QE1AaNbHwxCGG6nVPOmrw","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/spamspan\/spamspan.js":1,"sites\/all\/modules\/flatclassifieds_helper\/flatclassifieds_helper.js":1,"sites\/all\/modules\/lightbox2\/js\/auto_image_handling.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/select_with_style\/select_with_style\/select_with_style.js":1,"0":1,"http:\/\/w.sharethis.com\/button\/buttons.js":1,"1":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"sites\/all\/modules\/field_slideshow\/field_slideshow.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"2":1,"misc\/form.js":1,"misc\/collapse.js":1,"sites\/all\/themes\/flatclassifieds\/j\/jquery-ui-1.10.4.min.js":1,"sites\/all\/themes\/flatclassifieds\/j\/jquery.ui.slider-rtl.min.js":1,"sites\/all\/themes\/flatclassifieds\/j\/jquery.tools.min.js":1,"sites\/all\/themes\/flatclassifieds\/j\/modernizr.touch.js":1,"sites\/all\/themes\/flatclassifieds\/j\/jquery.ui.touch-punch.min.js":1,"sites\/all\/themes\/flatclassifieds\/j\/chosen.jquery.min.js":1,"sites\/all\/themes\/flatclassifieds\/j\/gmap3.min.js":1,"sites\/all\/themes\/flatclassifieds\/j\/gmap3.infobox.js":1,"sites\/all\/themes\/flatclassifieds\/j\/main.js":1,"sites\/all\/themes\/flatclassifieds\/j\/menu.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/ldap\/ldap_user\/ldap_user.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ed_classified\/theme\/classified.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/awesome\/css\/font-awesome.min.css":1,"sites\/all\/modules\/flatclassifieds_helper\/flatclassifieds_helper.css":1,"sites\/all\/modules\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"public:\/\/ctools\/css\/9f178a33e75029e902dac857fa61d972.css":1,"sites\/all\/modules\/field_slideshow\/field_slideshow.css":1,"sites\/all\/modules\/panels_bootstrap_layout_builder\/plugins\/layouts\/bootstrap\/bootstrap.css":1,"sites\/all\/themes\/flatclassifieds\/css\/ui-lightness\/jquery-ui-1.10.4.css":1,"sites\/all\/themes\/flatclassifieds\/css\/jquery.ui.slider-rtl.css":1,"sites\/all\/themes\/flatclassifieds\/css\/chosen.min.css":1,"sites\/all\/themes\/flatclassifieds\/css\/style.css":1,"sites\/default\/files\/fontyourface\/font.css":1,"http:\/\/fonts.googleapis.com\/css?family=Roboto:100,300\u0026subset=latin-ext":1}},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"(\\.thumbnail)","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"img.thumbnail, img.image-thumbnail","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":1,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false},"field_slideshow":{"field-slideshow-1":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-2":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-3":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-4":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-5":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-6":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-7":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-8":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-9":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-10":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-11":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-12":{"fx":"scrollUp","speed":"300","timeout":"1000","pause":0,"start_on_hover":1,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
 //--><!]]>
 
 
@@ -472,10 +472,6 @@ marker:{values:[
   options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
 },
 {
-  latLng:[45.473832,-73.625774], 
-  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
-},
-{
   latLng:[45.504913,-73.568922], 
   options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
 },
@@ -492,23 +488,7 @@ marker:{values:[
   options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
 },
 {
-  latLng:[45.531658,-73.622681], 
-  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
-},
-{
-  latLng:[45.465211,-73.626847], 
-  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
-},
-{
-  latLng:[45.496207,-73.578247], 
-  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
-},
-{
   latLng:[45.519934,-73.566926], 
-  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
-},
-{
-  latLng:[45.495144,-73.594340], 
   options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
 },
 {
@@ -624,7 +604,27 @@ marker:{values:[
   options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
 },
 {
+  latLng:[45.475476,-73.594719], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.492708,-73.612985], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.473879,-73.594721], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
   latLng:[45.497088,-73.579903], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.496622,-73.574122], 
+  options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
+},
+{
+  latLng:[45.496622,-73.574122], 
   options:{icon:"http://classifieds.csu.qc.ca/sites/all/themes/flatclassifieds/i/bg2.png"}
 },]},
 overlay:{
@@ -632,11 +632,6 @@ overlay:{
 {
   latLng:[45.449819,-73.572521], 
   data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/room-rent-perfect-time-get-good-spot-2017-18-yearfree-month-10-12-month-lease"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/img_1379_1.jpg?itok=bo6P2TyP" width="460" height="300" alt="" /></a><a href="/ad/room-rent-perfect-time-get-good-spot-2017-18-yearfree-month-10-12-month-lease"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$350</div>Room for Rent (Perfect  time to get a good spot for 2017-18 year)....(Free month for 10-12 month lease) </div></a><div class="arr"></div><div class="close"></div></div></div>',
-  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
-},
-{
-  latLng:[45.473832,-73.625774], 
-  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/monkland-village"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/dscf1012e_0.jpg?itok=vl0VNPj1" width="460" height="300" alt="" /></a><a href="/ad/monkland-village"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$710</div>MONKLAND VILLAGE</div></a><div class="arr"></div><div class="close"></div></div></div>',
   options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
 },
 {
@@ -660,29 +655,9 @@ overlay:{
   options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}
 },
 {
-  latLng:[45.531658,-73.622681], 
-  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/bilingual-customer-service-representative"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/bilingual-customer-service-representative"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Bilingual Customer Service Representative</div></a><div class="arr"></div><div class="close"></div></div></div>',
-  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}
-},
-{
-  latLng:[45.465211,-73.626847], 
-  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/digital-camera-cannon-powershotg10-never-used"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/img_0434.jpg?itok=e0FtloUS" width="460" height="300" alt="" /></a><a href="/ad/digital-camera-cannon-powershotg10-never-used"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$400</div>Digital Camera Cannon PowershotG10 (Never Used)</div></a><div class="arr"></div><div class="close"></div></div></div>',
-  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#16a084;">&#xf126;</div></div></div>',offset:{y:-70,x:-31}}
-},
-{
-  latLng:[45.496207,-73.578247], 
-  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/le-frigo-vert-collective-member"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/le-frigo-vert-collective-member"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Le Frigo Vert Collective Member</div></a><div class="arr"></div><div class="close"></div></div></div>',
-  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}
-},
-{
   latLng:[45.519934,-73.566926], 
   data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/yard-maintenance-snow-removal-piecework"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/capture_0.png?itok=AOZlHr_r" width="460" height="300" alt="" /></a><a href="/ad/yard-maintenance-snow-removal-piecework"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Yard Maintenance / Snow Removal (Piecework)</div></a><div class="arr"></div><div class="close"></div></div></div>',
   options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}
-},
-{
-  latLng:[45.495144,-73.594340], 
-  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/montrealwestmount-2-br-newly-renovated"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/_59-1.jpg?itok=RlipcitW" width="460" height="300" alt="" /></a><a href="/ad/montrealwestmount-2-br-newly-renovated"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$1 200</div>Montreal/Westmount 2-BR Newly Renovated</div></a><div class="arr"></div><div class="close"></div></div></div>',
-  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
 },
 {
   latLng:[45.480121,-73.587207], 
@@ -825,9 +800,34 @@ overlay:{
   options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}
 },
 {
+  latLng:[45.475476,-73.594719], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/general-labour-part-time"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/general-labour-part-time"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>General labour part time</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.492708,-73.612985], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/room-rentroomate-cdn-15-minutes-away-concordia-bus-0"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/img_8835_0.jpg?itok=jg7M6FJ7" width="460" height="300" alt="" /></a><a href="/ad/room-rentroomate-cdn-15-minutes-away-concordia-bus-0"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$550</div>Room to rent/roomate - CDN - 15 minutes away from concordia by bus</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.473879,-73.594721], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/appartment-campus"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/default_images/nof.png?itok=vRFGwCg8" width="460" height="300" alt="" /></a><a href="/ad/appartment-campus"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price">$880</div>Appartment off Campus</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#3498db;">&#xf015;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
   latLng:[45.497088,-73.579903], 
   data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/mapping-project-coordinator"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/67703_162395173953935_1581886465_n.jpg?itok=Kn0YFrZ2" width="460" height="300" alt="" /></a><a href="/ad/mapping-project-coordinator"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Mapping Project Coordinator</div></a><div class="arr"></div><div class="close"></div></div></div>',
   options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#f1c40f;">&#xf085;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.496622,-73.574122], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/high-end-tutoring-phdmsc-holderscandidates-low-29hr"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/postcard_4x5-5_weeklyreview_sep13_web.jpg?itok=gmYizpFZ" width="460" height="300" alt="" /></a><a href="/ad/high-end-tutoring-phdmsc-holderscandidates-low-29hr"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>High-End Tutoring by PhD/MSc Holders/Candidates AS LOW AS $29/hr! </div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#16a084;">&#xf040;</div></div></div>',offset:{y:-70,x:-31}}
+},
+{
+  latLng:[45.496622,-73.574122], 
+  data: '<div class="map_info_ovr_holder"><div class="map_info_ovr"><a href="/ad/hit-books-language-school-french-english-spanish-more"><img typeof="foaf:Image" src="http://classifieds.csu.qc.ca/sites/default/files/styles/classified_teaser/public/language-tutoring-langue_french-francais_english-anglais_spanish-espagnole_japanese-japonais_ielts_toefl_tef-tefaq.jpg?itok=U7DC9VDN" width="460" height="300" alt="" /></a><a href="/ad/hit-books-language-school-french-english-spanish-more"><div class="map_info_ovr_txt"><div class="map_info_star"></div><div class="map_info_ovr_price"></div>Hit the Books Language School: French, English, Spanish &amp; more!</div></a><div class="arr"></div><div class="close"></div></div></div>',
+  options:{ content:'<div class="map_ico_ovr"><div class="termimg"><div class="termimgico teaser_icon" style="color:#ffffff;background-color:#16a084;">&#xf040;</div></div></div>',offset:{y:-70,x:-31}}
 },],
   events:{   
     click: function(overlay, event, context){
@@ -1003,6 +1003,313 @@ Random Ads
 
 
  
+
+ 
+
+
+
+
+Hit the Books Language School: French,...
+
+
+ 
+
+    0
+Here in Montreal you need to be bilingual - n'est-ce pas?Book a trial session TODAY, and take advantage of a 35% discount! One-to-One $34.50/hr!Plus, Mini-Group Tutoring (3-5 Students) from ONLY $15.50/hr!ALSO! French Beginner/Upper Beginner/Intermediate group classes (6-10 Students): from $5/hr for studentsOne-to-one tutoring in beginner and intermediate English, French, Spanish, Arabic and Japanese from $29/hrCEGEP and University language courses from $34.50/hrIELTS, TEF, TEFaQ and TOEFL Prep Programs from $39.50/hrLocation: Hit the Books office, 1-1197 Crescent, MontrealContact:
+info
+ [at] 
+hitthebooks.ca
+514-699-2632514-699-2699
+www.hitthebooks.ca
+facebook.com/HittheBooks.ca 
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+High-End Tutoring by PhD/MSc...
+
+
+ 
+
+    0
+Do you need help understanding difficult topics in a specific course?Do you need academic consultation for your assignment, thesis project, etc?Do you Know How to Hit the Books?It's Never Too Late! We Can Always Help! "Hit the Books" Now!-One-To-One Language/High School Tutoring from $29/hr (a 45% discount), -University/CEGEP Tutoring from $34.50/hr (a 35% discount)-Two-Student Tutoring from $23.50/hr (a 40% discount)-Mini-Group Tutoring (3 to 5 students) from $15.50/hr (a 45% discount). Make your own Mini-Group! Your Tutor will be a PhD/M.Sc. Candidate/Holder with minimum 5 years of Teaching/TA-ing experience, something that "Hit the Books" has built up a reputation for! That makes a Huge Difference!-Who We Are:  We are a group of outstanding Graduate Degree/PhD holders/candidates and scholars in a wide range of fields. Joining our team as a new venture are elite Bachelor Degree holders/students, under the supervision of our senior instructors. Highly experienced in tutoring, we help students at all levels with all their educational needs, with the highest possible quality and at the most competitive rates! We Are Proudly NOT a CORPORATION! "We Are Proudly Not a Corporation"! We Need Your Support in order to Keep Our Rates Down!Book a Trial Session NOW! Pay Only for ONE SESSION, Taking Advantage of up to a 33% Discount! Register after You "LOVE" Your First Session.  Please send us the Course Outlines and Materials, and We'll Get Back to You ASAP! -Online Tutoring is also available! Contact: 
+info
+ [at] 
+hitthebooks.ca
+514-6992632 or 514-6992699
+www.hitthebooks.ca 
+facebook.com/HittheBooks.ca McGill Courses that We Cover:Mathematics:MATH 111: Mathematics for Education Students, MATH 112: Fundamentals of Mathematics (3 credits), MATH 122: Calculus for Management (3 credits), MATH 123: Linear Algebra and Probability, MATH 133: Linear Algebra and Geometry (3 credits), MATH 134: Enriched Linear Algebra and Geometry. MATH 139: Calculus 1 with Precalculus (4 credits), MATH 140: Calculus 1, MATH 141: Calculus 2, MATH 150: Calculus A, MATH 151: Calculus B, MATH 180: The Art of Mathematics, MATH 203: Principles of Statistics 1, MATH 204: Principles of Statistics 2, MATH 222: Calculus 3, MATH 223: Linear Algebra, MATH 235: Algebra 1, MATH 236: Algebra 2, MATH 240: Discrete Structure 1, MATH 242: Analysis 1, MATH 243: Analysis 2, MATH 247: Honours Applied Linear Algebra, MATH 248: Honours Advanced Calculus, MATH 249: Honours Complex Variables, MATH 251: Honours Algebra 2, MATH 254: Honours Analysis 1, MATH 255: Honours Analysis 2, MATH 262: Intermediate Calculus, MATH 263: Ordinary Differential Equations for Engineers, MATH 264: Advanced Calculus for Engineers, MATH 270: Applied Linear Algebra, MATH 271: Linear Algebra & Partial Differential Equations. MATH 314: Advanced Calculus, MATH 315: Ordinary Differential Equations, MATH 317: Numerical Analysis, MATH 318: Mathematical Logic, MATH 319: Introduction to Partial Differential Equations, MATH 323: Probability, MATH 324: Statistics, MATH 325: Honours Ordinary Differential Equations, MATH 326: Nonlinear Dynamics and Chaos, MATH 327: Matrix Numerical Analysis, MATH 329: Theory of Interest, MATH 338: History of Philosophy of Mathematics, MATH 340: Discrete Structures 2, MATH 346: Number Theory, MATH 350: Graphic Theory and Combinatorics, MATH 352: Problem Seminar, MATH 354: Honours Analysis 3, MATH 355: Honours Analysis 4, MATH 356: Honours Probability, MATH 357: Honours Statistics, MATH 363: Discrete Mathematics, MATH 366: Honours Complex Analysis, MATH 370: Honours Algebra 3, MATH 371: Honours Algebra 4, MATH 375: Honours Partial Differential Equations, MATH 376: Honours Nonlinear Dynamics, MATH 377: Honours Number Theory, MATH 380: Honours Differential Geometry, MATH 381: Complex Variables and Transforms, MATH 397: Honours Matrix Numerical AnalysisPhysics:PHYS 101: Introductory Physics - Mechanics (4 credits), PHYS 102: Introductory Physics - Electromagnetism (4 credits), PHYS 131: Mechanics and Waves. PHYS 142: Electromagnetism and Optics, PHYS 180: Space, Time and Matter, PHYS 181: Everyday Physics, PHYS 182: Our Evolving Universe, PHYS 184: Honours Electromagnetic Waves, PHYS 230: Dynamics of Simple Systems PHYS 232: Heat and Waves, PHYS 241: Signal Processing, PHYS 242: Electricity and Magnetism. PHYS 251: Honours Classical Mechanics, PHYS 253: Thermal Physics, PHYS 260: Modern Physics and Relativity, PHYS 319 Introduction to Biophysics, PHYS 328: Electronics, PHYS 331: Topics in Classical Mechanics, PHYS 333: Thermal and Statistical Physics, PHYS 334: Advanced Materials, PHYS 340: Majors Electricity and Magnetism, PHYS 342: Majors Electromagnetic Waves, PHYS 350: Honours Electricity and Magnetism, PHYS 351: Honours Classical Mechanics 2, PHYS 352, Honours Electromagnetic Waves, PHYS 362: Statistical MechanicsChemistry:CHEM110 General Chemistry 1, CHEM120 General Chemistry 2, CHEM180 World of Chemistry: Environment, CHEM-204 Physical Chemistry/Biological Sciences 1, CHEM211 Organic Chemistry 1, CHEM212 Introductory Organic Chemistry 1, CHEM214 Physical Chemistry/Biological Sciences 2, CHEM219 Introduction to Atmospheric Chemistry, CHEM222 Introductory Organic Chemistry 2, CHEM223 Introductory Physical Chemistry 1, CHEM232 Organic Chemistry Principles, CHEM233 Topics in Physical Chemistry, CHEM243 Introductory Physical Chemistry 2, CHEM281 Inorganic Chemistry 1, CHEM287 Introductory Analytical Chemistry, CHEM302 Introductory Organic Chemistry 3, CHEM334 Advanced Materials, CHEM345 Molecular Properties and Structure 1, CHEM352 Structural Organic Chemistry, CHEM355 Molecular Properties and Structure 2, CHEM365 Statistical Thermodynamics, CHEM367 Instrumental Analysis 1, CHEM377 Instrumental Analysis 2, CHEM381 Inorganic Chemistry 2, CHEM382 Organic Chemistry: Natural ProductsBiology: BIOL 101: Organismal Biology Laboratory, BIOL 102 Cell and Molecular Biology Methods, BIOL 111 Principles: Organismal Biology, BIOL 112 Cell and Molecular Biology, BIOL 115 Essential Biology, BIOL 200 Molecular Biology, BIOL 201 Cell Biology and Metabolism, BIOL 202 Basic Genetics, BIOL 205 Biology of Organisms, BIOL 206 Methods in Biology of Organisms, BIOL 210 Perspectives of Science, BIOL 215 Introduction to Ecology & Evolution, BIOL 300 Molecular Biology of the GeneEconomics:ECON 219 Current Econ Problems, ECON 223 Pol. Economy of Trade Policy, ECON 227D2 Economic Statistics, ECON 227D2 Economic Statistics, ECON 230D2 Microeconomic Theory, ECON 250D2 Intro to Econ Theory, ECON 257D2 Economic Statistics-Honours, ECON 295 Macroeconomics Policy, ECON 304 Financial Instruments & Inst, ECON 308 Govt. Policy Towards Business, ECON 313 Economic Development 1, ECON 314 Economic Development 2, ECON 330D2 Macroeconomic Theory, ECON 334 History of Economic Doctrine, ECON 338 Intro Econometrics 2, ECON 352D2 Macroeconomics - Honours Mechanical Engineering:MECH 210 Mechanics, MECH 220 Mechanics 2, MECH 240 Thermodynamics 1, MECH 261 Measurement Lab, MECH 262 Statistics and Measurement, MECH 309 Numerical Methods in Mech, MECH 314 Dynamics of Mechanisms, MECH 315 Mechanics 3, MECH 321 Mechanics of Deformable S, MECH 331 Fluid Mechanics 1, MECH 341 Thermodynamics 2, MECH 346 Heat Transfer, MECH 360 Principles of Manufacturing, MECH 383 Appl. Electronics & Instruments Computer Science:COMP 202 Foundations of Programming, COMP 202 Foundations of Programming, COMP 202 Foundations of Programming, COMP 206 Intro to Software Systems, COMP 208 Computers in Engineering, COMP 208 Computers in Engineering, COMP 250 Intro to Computer Science, COMP 251Algorithms and Data Structure, COMP 252 Honours Algorithms & Data, COMP 273 Intro to Computer Systems, COMP 302 Programming Lang & Parad., COMP 310 Operating Systems, COMP 360 Algorithm Design, COMP 362 Honours Algorithm, COMP 364 Comp. Tools for Life, COMP 396 Undergraduate Research Project, COMP 6651 Algorithm Design TechniquesAccounting:ACCT 351 Intermediate Financial Acct, ACCT 351 Intermediate Financial Acct, ACCT 352 Intermediate Financial Acct, ACCT 352 Intermediate Financial Acct , ACCT 354 Financial Statement Analysis, ACCT 354 Financial Statement Analysis, ACCT 362 Cost Accounting, ACCT 362 Cost Accounting, ACCT 362 Cost Accounting, ACCT 385 Principles of Taxation, ACCT 385 Principles of TaxationChemical Engineering:CHEE 204 Chem. Engineering Principles, CHEE 220 Chem. Engineering Thermodynamics, CHEE 310 Physical Chemistry for Eng., CHEE 315 Heat and Mass Transfer, CHEE 351 Separation Processes Civil Engineering:CIVE 202 Construction Materials, CIVE 205 Statics, CIVE 206 Dynamics, CIVE 207 Solid Mechanics, CIVE 225 Environmental Engineering, CIVE 284 Structural Engineering Basics, CIVE 302 Probabilistic Systems, CIVE 318 Structural Engineering 2, CIVE 319 Transportation Engineering, CIVE 324 Sustainable Project Management, CIVE 327 Fluid Mechanics & Hydraulics, CIVE 388 Foundations & ConcreteElectrical Engineering:ECSE 200 Electric Circuits 1, ECSE 210 Electric Circuits 2, ECSE 221 Intro to Computer Engineering, ECSE 303 Signals and Systems 1, ECSE 304 Signals and Systems 2, ECSE 305 Probability & Random Sign, ECSE 306 Fund. of Signals and Systems, ECSE 321 Intro. to Software Engineering, ECSE 322 Computer Engineering, ECSE 323 Digital System Design, ECSE 330 Introduction to Electronics, ECSE 334 Intro. to Microelectronics, ECSE 351 Electromagnetic Fields, ECSE 361 Power Engineering Pharmacology:PHAR 301 Drugs and Disease, PHAR 303 Principles of Toxicology,PHGY 210 Mammalian Physiology 2, PHGY 213 Introductory Physiology Lab, PHGY 312 Resp., Renal, & Cardio Physiol., PHGY 313 Blood, GI, Imm. Syst. Physiol. Concordia courses that we cover:Mathematics:MATH 200: Fundamental Concepts-Algebra, MATH 201: Elementary Functions, MATH 202: College Algebra, MATH 203: Differential & Integral Cal I, MATH 204: Vectors And Matrices, MATH 205: Differential & Integral Cal II, MATH 206: Algebra And Functions, MATH 208: Fundamental Mathematics I, MATH 209: Fundamental Mathematics II, MATH 212:Fascinating World Of Numbers, MATH 215:Ideas In Mathematics, MATH 251: Linear Algebra I, MATH 252: Linear Algebra II, MATH 264: Advanced Calculus I, MATH 265: Advanced Calculus II, MATH 339: Combinatorics, MATH 354: Numerical Analysis, MATH 361: Operations Research I, MATH 364: Analysis I, MATH 365: Analysis II, MATH 366: Complex Analysis I, MATH 369: Abstract Algebra I, MATH 370: Ordinary Differential Equations, ACTU 256: Mathematics Of Finance, ACTU 257: Actuarial Mathematics I, ACTU 286: Actuarial Mathematics Lab I, ACTU 357: Actuarial Mathematics II, ACTU 386: Actuarial Mathematics Lab II, MAST 214: Calculus And Linear Algebra, MAST 217: Intro/Mathematical Thinking, MAST 218: Multivariable Calculus I, MAST 219: Multivariable Calculus II, MAST 221: Applied Probability, MAST 223: Stochastic Meth/Operat. Res. MAST 224: Introduction To Optimization, MAST 232: Math With Computer Algebra, MAST 234: Linear Algebra & Applicat. I, MAST 235: Linear Algebra & Applicat. II, MAST 330: Differential Equations, MAST 331: Mathematical Modelling, MAST 332: Tech./Symbolic Computation, MAST 333: Applied Statistics, MAST 334: Numerical Analysis, MAST 335: Investment Mathematics, STAT 249: Probability I, STAT 250: Statistics, STAT 287: Statistics Lab I, STAT 343: Sample Survey Thry. & Applic.Physics:PHYS 204: Mechanics, PHYS 205: Electricity & Magnetism, PHYS 206: Waves & Modern Physics, PHYS 224: Intro Experimental Mechanics, PHYS 225: Intro Experiment Electricity, PHYS 226: Intro Exp Waves & Mod Phys, PHYS 232: Methods Of Theo Physics I, PHYS 236: Numerical Analysis In Phys, PHYS 245: Classical Mechanics, PHYS 252: Optics, PHYS 253: Electricity & Magnetism I, PHYS 260: Introductory Biophysics, PHYS 290: Experimental Electronics, PHYS 291: Experimental Mechanics I, PHYS 293:Exp Electricity & Magnetism I, PHYS 297: Experimental Optics, PHYS 334: Thermodynamics, PHYS 335: Methods Of Theo Physics II, PHYS 345: Advanced Classical Mechanics, PHYS 354: Electricity & Magnetism II, PHYS 355: Electronics, PHYS 358: Solid State Physics I, PHYS 360: Chemical Aspects/Biophysics, PHYS 367: Modern Physics & Relativity, PHYS 370: Nonlinear Dynam./Chaos/Frac., PHYS 377: Quantum Mechanics, PHYS 394: Experimental Atomic Physics Chemistry:CHEM 205: General Chemistry I, CHEM 206: General Chemistry II, CHEM 208: Chemistry In Our Lives, CHEM 209: Discovering Biotechnology, CHEM 212: Analyt. Chem. For Biologists, CHEM 217: Intro Analytical Chemistry I, CHEM 218: Intro. Analytical Chem. II, CHEM 221: Intro - Organic Chemistry I, CHEM 222: Intro - Organic Chemistry II, CHEM 234: Phys. Chem. I:Thermodynamics, CHEM 235: Phys.Chem: Kinetics/Chem. Reac, CHEM 241: Inorganic Chemistry I, CHEM 242: Inorganic Chemistry II, CHEM 271: Biochemistry I, CHEM 312: Intermediate Analytical Chem, CHEM 324: Organic III-Organic Reactions, CHEM 325: Organic IV-Struct. & Stereochem., CHEM 333: Intro Quantum Theory, CHEM 335: Biophysical Chemistry, CHEM 341: Inorg. Chem. III-Trans Metals, CHEM 375: Biochemistry II, CHEM 393: Spect. & Struct. Of Organic Biology:BIOL 200: Fundamentals - Human Biology, BIOL 201: Introductory Biology, BIOL 202: General Biology, BIOL 203: Fundamental Nutrition, BIOL 205: Intro To Sustainability, BIOL 206: Elementary Genetics, BIOL 225: Form & Function of Organisms, BIOL 226: Biodiversity And Ecology, BIOL 227: Lab Studies In Biodiversity, BIOL 261: Molecular & General Genetics, BIOL 266: Cell Biology, BIOL 321: Evolution, BIOL 322: Biostatistics, BIOL 330: Vertebrate Biology, BIOL 337: Invertebrate Biology, BIOL 340: Plant Biology, BIOL 350: The Ecology Of Individuals, BIOL 351: Basic Population Ecology, BIOL 353: Communities And Ecosystems, BIOL 354:Behavioural Ecology, BIOL 364: Cell Physiology, BIOL 366: Mechanisms Of Development, BIOL 367: Molecular Biology, BIOL 368: Genetics & Cell Biology Lab. BIOL 371: Microbiology, BIOL 382: Comp Animal PhysiologyEconomics: ECON 201: Introduction-Microeconomics, ECON 203: Introduction-Macroeconomics, ECON 221: Statistical Methods I, ECON 222: Statistical Methods II, ECON 251: Econ. Hist. Prior to Indus. Rev., ECON 252: Econ. Hist. After Industr. Rev. ECON 301: Intermed. Microecon. Theory I, ECON 302: Intermed. Microecon. Theory II, ECON 303: Intermed. Macroecon. Theory I, ECON 304: Intermed. Macroecon. Theory II, ECON 318: Canadian Econ Policy & Instit., ECON 319: Intl Econ Policy & Institut., ECON 324: Economic Data Analysis, ECON 325: Math For Economists I, ECON 326: Math For Economists II, ECON 331: Money & Banking, ECON 337: Pub.Sector Economics, ECON 361: Industrial Organization, ECON 377: The Asia-Pacific Rim Econ, ECON 398C: Selected Topics In Economics, ECON 398G: Intro To Econ Prof SportsComputer Science:COMP 108: Comp. Indus. Exper. Ref. Lrng. I, COMP 201: Introduction To Computing, COMP 208: Comp. Indus. Exper. Ref. Lrng. II, COMP 218: Fundamentals of Programming, COMP 228: System Hardware, COMP 232: Math. For Computer Science, COMP 233: Prob. & Stats. For Comp. Sc., COMP 248: Obj.-Oriented Programming I, COMP 249: Obj.-Oriented Programming II, COMP 326: Computer Architecture, COMP 335: Intro/Theoretical Comp. Sci., COMP 339: Combinatorics, COMP 345: Advanced Program Design, C++, COMP 346: Operating Systems, COMP 348: Prin./Programming Languages, COMP 352: Data Structures + Algorithms, COMP 353: Databases, COMP 354: Software Engineering I, COMP 361: Elementary Numerical Methods, COMP 367: Tech./Symbolic Computations, COMP 371: Computer Graphics, COMP 376: Intro. To Game Development, SOEN 287: Web Programming, SOEN 321: Information Systems Security, SOEN 341: Software Process, SOEN 342: Sw Requirements + Specs., SOEN 343: S.W. Architecture & Design I, SOEN 384: Mgmt. & Quality Ctrl./Sw. Dev. SOEN 387: Web-Based Enter. App Design, Computer Engineering:COEN 212: Digital Systems Design I, COEN 231: Introduction to Discrete Mathematics, COEN 243: Programming Methodology I, COEN 244: Programming Methodology II, COEN 311: Computer Organization and Software, COEN 313: Digital Systems Design II, COEN 315: Digital Electronics, COEN 316: Computer Architecture and Design, COEN 317: Microprocessor Systems, COEN 320: Introduction to Real-Time Systems, COEN 345: Software Testing and Validation, COEN 346: Operating Systems, COEN 352: Data Structures and Algorithms, COEN 390: Computer Engineering Product Design ProjectEngineering:ENGR 108: Engineering Industrial Experience Reflective Learning I, ENGR 201: Professional Practice and Responsibility, ENGR 202: Sustainable Development and Environmental Stewardship, ENGR 208: Engineering Industrial Experience Reflective Learning II, ENGR 213: Applied Ordinary Differential Equations, ENGR 233: Applied Advanced Calculus, ENGR 242: Statics, ENGR 243: Dynamics, ENGR 244: Mechanics of Materials, ENGR 245: Mechanical Analysis, ENGR 251: Thermodynamics I, ENGR 290: Introductory Engineering Team Design Project, ENGR 301: Engineering Management Principles and Economics, ENGR 308: Engineering Industrial Experience Reflective Learning III, ENGR 311: Transform Calculus and Partial Differential Equations, ENGR 361: Fluid Mechanics I, ENGR 371: Probability and Statistics in Engineering, ENGR 391: Numerical Methods in Engineering, ENGR 392: Impact of Technology on SocietyMechanical Engineering:MECH 211: Mechanical Engineering Drawing, MECH 215: Programming for Mechanical and Industrial Engineers, MECH 221: Materials Science, MECH 311: Manufacturing Processes, MECH 313: Machine Drawing and Design, MECH 321: Properties and Failure of Materials, MECH 343: Theory of Machines, MECH 344: Machine Element Design, MECH 351: Thermodynamics II, MECH 352: Heat Transfer I, MECH 361: Fluid Mechanics II, MECH 368: Electronics for Mechanical Engineers, MECH 370: Modelling, Simulation and Control Systems, MECH 371: Analysis and Design of Control Systems, MECH 375: Mechanical Vibrations, MECH 390: Mechanical Engineering Design Project Building & Civil Engineering:BLDG 212: Building Engineering Drawing and Introduction to Design, BLDG 341: Building Engineering Systems, BLDG 365: Building Science, BLDG 366: Acoustics and Lighting, BLDG 371: Building Service Systems, BLDG 390: Building Engineering Design Project-Note: We Can Help Students from All Other Universities and Colleges/Cégeps, Université de Montreal, UQAM & more! Please Send us the Course Outlines and Materials, and We'll Get Back to You ASAP! 
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+Customer Solutions and Innovations Business...
+
+
+ 
+
+    0
+Being part of Air Canada is to become part of an iconic Canadian symbol, recently ranked the best Airline in North America. Let your career take flight by joining our diverse and vibrant team at the leading edge of passenger aviation.
+ The Customer Solutions & Innovations (CSI) team is responsible for designing, developing, implementing and maintaining a broad range of IT products and applications, enabling the realization of objectives for the Commercial, Customer Service, and IT branches. The Business Analyst CSI analyzes business needs and contributes to the development of ac2u, retail/Flight pass products including Corporate Rewards applications, jointly with other CSI teams for the delivery of integrated multi-platform IT products and solutions.
+
+Contribute to all cycles of development activities of projects and enhancements from concept development, to design, development, acceptance testing, implementation and deployment support as set out by the Air Canada Corporate Rewards (ACCR) roadmap.
+
+
+Collaborate with other areas of the organization (eCommerce and Customer Service Platform) in the development of integrated IT products, across all platforms and channels.
+
+
+Analyze customer requests for ac2u, ACCR enhancements through investigation of current functionality and processes.
+
+
+Collaborate in the documentation of functional business requirements based on business analysis findings and consultation with stakeholder community. 
+
+
+Act as a liaison agent between the business community, technical teams and vendors.
+
+
+Facilitate document reviews with stakeholders and ensure final document signoff. 
+
+
+Ensure all business requirements and timelines are understood and that solutions deliver on expected benefits.
+
+
+Define use cases and high-level test scenarios, provide leadership and guidance to the test team in the development of test scripts and analysis of results.
+
+
+Ensure system integrity and provide incident support as required.
+
+
+Trouble shoot system problems, assess business impact and recommend priority and test system fixes as require with third party service providers.
+
+
+Provide IT maintenance support throughout the life cycle of products and services.
+
+
+Conduct Customer Relations and Corporate Security investigations pertaining to our ACCR platform
+
+
+Qualifications 
+
+Bachelor’s degree or college diploma in Computer Science and/or ECommerce or three-five years experience in an IT environment.
+
+
+Knowledge of current web technologies and trends, including but not limited to XML, Web 2.0 concepts, Web Services and Service Oriented Architectures.
+
+
+Knowledge of RESIII, Aircanada.com, airline reservations systems, and Altéa PSS a strong asset. 
+
+
+Excellent written and verbal communication skills, with ability to translate technical concepts into business terms.
+
+
+Exceptional analytical, organizational and communication skills.
+
+
+Possess investigative nature and be self-motivated.
+
+
+Results oriented with proactive and methodical approach to problem solving.
+
+
+Able to multi-task and work under pressure against tight deadlines and changing priorities. 
+
+
+Must be a team player with ability to work closely with diverse groups and working styles.
+
+
+Ability to establish and maintain effective business relationships. 
+
+
+Strong knowledge and experience with User Acceptance Testing (UAT), Quality Assurance (QA) testing, impact assessments and work effort estimations. 
+
+
+Flexibility and willingness to work extended hours, when required.
+
+
+Highly proficient with MS Office, including Microsoft Project, Visio and Internet browsers. 
+
+
+LINGUISTIC REQUIREMENTS
+Based on equal qualifications, preference will be given to bilingual candidates. At Air Canada, we want to fly higher when it comes to employment equity. We, therefore, encourage applications from Aboriginal peoples, women, members of a visible minority and persons with a disability.
+Air Canada thanks all candidates for their interest; however only those selected to continue in the process will be contacted. 
+ Job: Information TechnologyPrimary Location: CA-QC-DORVAL-YULSchedule: Full-timeWage to discussLink : 
+https://aircanada.taleo.net/careersection/2/jobdetail.ftl?job=19068&tz=G...
+ 
+Appartenir à Air Canada, c’est appartenir à un symbole canadien, Air Canada récemment élue meilleur transporteur aérien en Amérique du Nord. Faites décoller votre carrière en vous joignant à notre équipe novatrice et diversifiée à l’avant-garde du transport aérien de passagers.
+ L'équipe de Solutions clientèle et Innovations est responsable de la conception, du développement, de la mise en œuvre et de l'entretien d'un grand nombre de produits TI et d'applications, permettant la réalisation des objectifs d’affaires des Affaires commerciales, du Service clientèle, et de la Technologie de l'information.L'analyste – Systèmes de gestion – Solutions clientèle et Innovations analyse les besoins de l'entreprise et contribue au développement des applications 
+AC@vous
+ – Vente au détail, gestion des Passes de vols et des autres applications associées au commerce électronique, notamment le système Affaires Plus, en collaboration avec d'autres équipes des Solutions clientèle et Innovations afin d'élaborer des solutions et des produits TI intégrés multiplateformes.
+
+Participer à toutes les activités du cycle de développement des projets ainsi qu'aux améliorations (de la définition à l'élaboration du concept, aux essais d’acceptation, à la mise en œuvre et au soutien) tel que défini dans la feuille de route du programme Affaires Plus d’Air Canada.
+
+
+Collaborer avec d'autres secteurs de l'organisation (Commerce électronique et plateforme du Service clientèle) dans l'élaboration de produits TI intégrés, pour l'ensemble des plateformes et canaux de distribution.
+
+
+Analyser les demandes d'amélioration liées à 
+ac@vous
+, Affaires Plus provenant des clients en étudiant la fonctionnalité et les processus actuels. 
+
+
+Participer à la documentation des exigences commerciales fonctionnelles, en fonction des constatations découlant des analyses commerciales et des consultations avec les parties prenantes.
+
+
+Agir comme agent de liaison entre le milieu des affaires et les équipes techniques.
+
+
+Faciliter l'examen des documents par les intervenants et s'assurer d'obtenir l'approbation de la version définitive. 
+
+
+S’assurer que toutes les exigences commerciales et les échéances sont bien comprises et que les solutions apportent les résultats escomptés.
+
+
+Définir des cas d'utilisation et des scénarios de test généraux et assurer l'orientation et la direction de l'équipe dans l'élaboration des scripts de test et dans l'analyse des résultats.
+
+
+Veiller à l'intégrité du système et fournir du soutien en cas d'incident.
+
+
+Offrir des services de dépannage, évaluer les répercussions commerciales des problèmes, formuler des recommandations sur la priorité des corrections et tester celles-ci.
+
+
+Assurer la maintenance continue de produits et services TI. 
+
+
+Procéder à des enquêtes à la demande des Relations clientèle et de la Sûreté de l’entreprise entourant la plateforme du programme Affaires Plus
+
+
+Compétences 
+
+Baccalauréat ou diplôme d’études collégiales en informatique ou en commerce électronique, ou de trois à cinq années d’expérience dans un environnement de TI.
+
+
+Connaissance approfondie des technologies et tendances Web actuelles, notamment de XML, des concepts Web 2.0, des services Web et des architectures orientees services. 
+
+
+Connaissance de la base de données RESIII, d'aircanada.com, des systèmes de réservation pour le transport aérien, un atout important. 
+
+
+Talent avéré pour la communication orale et écrite et capacité à convertir des concepts techniques en applications commerciales.
+
+
+Excellent esprit d’analyse, avec une attention aux details.
+
+
+Attitude axée sur les résultats et approche proactive et méthodique à l’égard de la résolution de problèmes.
+
+
+Habileté à effectuer plusieurs tâches simultanément ainsi qu'à travailler sous pression dans des délais serrés et avec des priorités changeantes.
+
+
+Esprit d'équipe et habileté à travailler étroitement avec des groupes diversifiés de personnes ayant différents styles de travail.
+
+
+Capacité d'établir et d'entretenir des relations d'affaires efficaces. 
+
+
+Connaissance approfondie et vaste expérience des essais d'acceptation par l'utilisateur, des essais d'assurance de la qualité, des évaluations des répercussions et des estimations des efforts. 
+
+
+Souplesse et disponibilité pour faire des heures supplémentaires au besoin.
+
+
+Maîtrise parfaite de la suite Office de Microsoft (y compris Microsoft Project, Visio) et des navigateurs Internet. 
+
+
+EXIGENCES LINGUISTIQUES
+À compétences égales, la préférence sera accordée aux candidats bilingues.Chez Air Canada, nous voulons aller plus loin en matière d'équité. Nous invitons tout particulièrement les Autochtones, les femmes, les personnes handicapées et les membres des groupes des minorités visibles à postuler.
+Air Canada remercie tous les candidats de leur intérêt, mais seules les personnes sélectionnées pour une entrevue seront contactées.
+ 
+Emploi: Information TechnologyEmplacement principal: CA-QC-DORVAL-YUL Horaire: Temps pleinSalaire à discuterLink : 
+https://aircanada.taleo.net/careersection/2/jobdetail.ftl?job=19068&tz=G...
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
 
  
 
@@ -1092,6 +1399,148 @@ Montréal, QC H3G 2J1
 
 
 
+
+
+ 
+
+ 
+
+
+
+
+Appartment off Campus
+
+
+$880
+ 
+
+
+880.00
+7 1/2 appartment  -  Ideal for 2 or 3 students - 3 bedrooms + 2 rooms for office space - kitchen - parlor - 1 bathroom -  varnished wooden floors - recently repainted - very clean - fridge is includedand possibility to include also stove, washer and dryer.  Near Place St-Henri Metro station and close to Hospitals and Down-Town.  Ready to moove-in.  880.00 per month.Info:  Mrs Lacasse  514-933-6379    514-233-0354
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+Room to rent/roomate - CDN - 15 minutes away...
+
+
+$550
+ 
+
+
+550.00
+Beautiful bright room for rent in a very large 4 1/2 located 15 minutes by bus from Concordia. Perfect for students.Very easy access by public transports. 10-15 minutes away from metro Cotes-des-neiges (blue line), metro Guy Concordia (green line) and metro Mont-Royal (orange line).FurnishedLarge backyardLarge storage in the roomHEating and electricity includedUnlimited internet included Convenience store down the street and commerce (restaurants, grocery, pharmacy, bakery, etc.) nearby. I have a small dog! 
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+General labour part time
+
+
+ 
+
+    0
+Basic simple handyman,garden and tidy stuff in office building in Westmount. Right now is a one time job for 4 to 6 hours, but if both parties are happy could lead to a semi part time position.Working weekends would be fine. Please call 514 880 7550  
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
  
 
 
@@ -1124,7 +1573,7 @@ $30
 
 
 30.00
-Hooded Sweatshirts for Sale. Three different colours. Grey, Black and Maroon.All sizes available S, M , L, XL. Super soft and comfortablePick up or delivery
+Hooded Sweatshirts for Sale. Three different colours. Grey, Black and Maroon.All sizes available XS, S, M , L, XL. Super soft and comfortablePick up or delivery
 
 
  
@@ -1330,350 +1779,6 @@ Stunning new apartments on Papineau just steps away from the beautiful Beaubien 
 
 
 
-
-
- 
-
-
-
-
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
-
-
- 
-
- 
-
-
-
-
-2 1/2 fully equiped and renovated 
-
-
-$695
- 
-
-
-695.00
-Available on February 2018!
-Stunning new apartments on Ontario East Street just steps away from Pie-IX Metro Station, restaurants, shops and other conviniences. Near downtown and Concordia University.
-Inclusions:
-ElectricityHot water/heatingWasher and dryer in the buildingAir conditionerFully furnished
-
-
- 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
-
-
- 
-
- 
-
-
-
-
-Freshly renovated 4 1/2 apartment in Hochelaga
-
-
-$760
- 
-
-
-760.00
-Charming 4 1/2 that has been recently renovated with good taste. Situated on Davidson street, corner with Ontario where you can find great bars, restaurants and cafes. Description:On the second floor of a three story buildin (6 apartmets in the building);Freshly renovated: laminate, ceramic and porcelain floorsTwo big rooms, each wit a closet, big kitchen wit a lot of storage room, living room and balcony (with a storageocker)Prefontaine and Joliette metro stations re 10 minutes away by footWalk Scoreof 94 and Bike Score of 100Non-smoking Please cotact by e-mail
-
-
- 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
-
-
- 
-
- 
-
-
-
-
-Fully furnished 2 bedrooms appartment January...
-
-
-$1 200
- 
-
-
-1 200.00
-Nice appartment with two closed bedroom and a study. Outfitted with a baby room but can be switched for a single bed. Available january 1st to april 30th. Fully furnished with all appliances and cutlery, heating, electricity and internet included.The surroundings include many parks, restaurants, bar, stores and gorcery stores.10 minutes walk from the metro and close to many bus line. Parking is in the street. Price is per month.Jolie appartement 5 1/2 dans Rosemont complètement meublé pour sous-location de janvier à avril.L'appartement est situé au rez-de chaussé d\'un duplex. Plusieurs ligne de bus à proximité, 10 min à pied du métro le plus proche. À proximité de nombreux restaurants, épiceries et restos. Quartier familialet agréable.Entièrement meublé, incluant la coutellerie. Inclus tous les électros, l\'électricité, le chauffage, internet wi-fi, et smartv.Le logement comprend deux chambres fermées et un bureau fermé. L'une des chambres est meublée pour un bébé, mais possibilité de retirer la décoration et de remplacer le berceau pour un lit simple.Stationnement dans la rue. Le prix est par mois
-
-
- 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
-
-
- 
-
- 
-
-
-
-
-Plateau, 6 1/2, à loue du 22 décembre/25 février 
-
-
-$1 200
- 
-
-
-1 200.00
-Two bedrooms, two double rooms. Two minutes from metro. Luminous. 1200$/month.
-
-
- 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
-
-
- 
-
- 
-
-
-
-
-5 ½ rénové-renovated de Chateaubriand 2min...
-
-
-$1 395
- 
-
-
-1 395.00
-Available 5 1/2 for December***The photos are just to get an idea of the size of the apartment***. Will look amazing once renovated!. The apartment will be completely renovated. 2 min walk to Metro Station Jean Talon. Large apartment, 2 or 3 bedrooms. Very ideal for large families or roommates. Close to Little Italy and all services. Electric heating (tenant). Washer dryer entry. Appliances optional extra. A rare opportunity. Sought-after area (Villeray). Very quiet building. Very bright. Close to the Marche Jean-Talon and all the best cafes and restaurants of Little Italy and Villeray. Near the STM service;. Jean Talon #93, #92. St Denis #31. Jean Talon Metro (blue line) --2 min walk!!. References. Credit experience. 514-660-7668
-
-
- 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
- 
-
- 
-
-
-
-
-Catering and Support Staff Needed
-
-
- 
-
-    0
-DUTIES INCLUDE (but not limited to):Reporting to the Assistant Director, the incumbent is asked to perform these tasks:• Assist the waitress in the kitchen during lunch and on breaks with EMBA students• Prepare rooms for events• Clean rooms after events and use• Keeping facilities clean and organized at all times• Shopping for various items for EMBA students• Occasional - moving some equipment and boxes• Provide support for Executive MBA support staff• Other duties as required by the staff for EMBA Program activitiesREQUIREMENTS• Must be able to work independently and in a team, strongly required• Hardworking and have good ethics• Reliable, punctual, clean and organized• Good organizational and communication skills• Bilingualism an asset, but not required• Related work experience• Available during academic termsSchedule: Fridays and Saturdays during the fall and winter semestersHours: ranges between 15 - 20 hours a weekThursdays (1 – 5 pm), Fridays to Saturdays (11:30 am to ~ 7:30 pm)
-
-
- 
-
-
-
-
-
-
  
 
 
@@ -1734,7 +1839,7 @@ last »
 
 
 
-Browse our 49 Ads from 4 Categories
+Browse our 50 Ads from 4 Categories
  
 
 
@@ -1748,9 +1853,9 @@ Browse our 49 Ads from 4 Categories
 Housing
 27
 Apartments
-19
+18
 Room for Rent
-8
+9
 Boarder
 0
 Looking for Roommates
@@ -1759,29 +1864,29 @@ Looking for Roommates
 Jobs
 15
 Off Campus
-9
+10
 On Campus
-6
+5
 Summer
 0
 Other
 0
 
 Buy/Sell
-3
+2
 Books
 1
 Appliances
 0
 Electronics
-1
+0
 Other
 1
 
 Services
-4
+6
 Tutoring
-4
+6
  
 
 

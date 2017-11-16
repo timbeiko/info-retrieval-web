@@ -320,7 +320,7 @@ Maps
 Library
 
 
-Live chat  
+Ask a Librarian  
 
 
 
@@ -706,6 +706,23 @@ Call for Proposals for Public Art
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          The Campaign for Concordia
+        	
 
 
 
@@ -1594,7 +1611,7 @@ Today's opening hours
 
 
 
-				getHoursHomepage("lib-webteam@concordia.ca", "2017-11-14", "websterHoursID");
+				getHoursHomepage("lib-webteam@concordia.ca", "2017-11-15", "websterHoursID");
 				
 
 
@@ -1604,7 +1621,7 @@ Today's opening hours
 
 
 
-				getHoursHomepage("r6ipsfcj9qiiivefnapse560ug@group.calendar.google.com", "2017-11-14", "vanierHoursID");
+				getHoursHomepage("r6ipsfcj9qiiivefnapse560ug@group.calendar.google.com", "2017-11-15", "vanierHoursID");
 				
 
 
@@ -1614,7 +1631,7 @@ Today's opening hours
 
 
 
-	  				getHoursHomepage("c43s6171dc2eicj3jeh356f3sk@group.calendar.google.com", "2017-11-14","greyNunsHoursID");
+	  				getHoursHomepage("c43s6171dc2eicj3jeh356f3sk@group.calendar.google.com", "2017-11-15","greyNunsHoursID");
 	  			
 
 

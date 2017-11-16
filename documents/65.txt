@@ -1103,7 +1103,7 @@ Cour extérieur de la galerie FOFA et les rues Ste-Catherine et McKay
 
 
         $(document).ready(function() {
-			$("#87d28dc6-36f3-4024-98f4-c45ce0501272parsys-mainimage").attr("href", "");
+			$("#6ad2b8d7-dde7-4f1d-8493-721dc000b7ccparsys-mainimage").attr("href", "");
         });
     
 
@@ -1118,7 +1118,7 @@ Cour extérieur de la galerie FOFA et les rues Ste-Catherine et McKay
 
 
         $(document).ready(function() {
-			$("#87d28dc6-36f3-4024-98f4-c45ce0501272parsys-mainimage_1608956467").attr("href", "");
+			$("#6ad2b8d7-dde7-4f1d-8493-721dc000b7ccparsys-mainimage_1608956467").attr("href", "");
         });
     
 
@@ -1133,7 +1133,7 @@ Cour extérieur de la galerie FOFA et les rues Ste-Catherine et McKay
 
 
         $(document).ready(function() {
-			$("#87d28dc6-36f3-4024-98f4-c45ce0501272parsys-mainimage_25330366").attr("href", "");
+			$("#6ad2b8d7-dde7-4f1d-8493-721dc000b7ccparsys-mainimage_25330366").attr("href", "");
         });
     
 
@@ -1148,7 +1148,7 @@ Cour extérieur de la galerie FOFA et les rues Ste-Catherine et McKay
 
 
         $(document).ready(function() {
-			$("#87d28dc6-36f3-4024-98f4-c45ce0501272parsys-mainimage_393113574").attr("href", "");
+			$("#6ad2b8d7-dde7-4f1d-8493-721dc000b7ccparsys-mainimage_393113574").attr("href", "");
         });
     
 
@@ -1163,7 +1163,7 @@ Cour extérieur de la galerie FOFA et les rues Ste-Catherine et McKay
 
 
         $(document).ready(function() {
-			$("#87d28dc6-36f3-4024-98f4-c45ce0501272parsys-mainimage_995493035").attr("href", "");
+			$("#6ad2b8d7-dde7-4f1d-8493-721dc000b7ccparsys-mainimage_995493035").attr("href", "");
         });
     
 
@@ -1503,7 +1503,7 @@ Distance of the Wolf 
 
 
         $(document).ready(function() {
-			$("#87d28dc6-36f3-4024-98f4-c45ce0501272parsys-mainimage_205916955").attr("href", "");
+			$("#6ad2b8d7-dde7-4f1d-8493-721dc000b7ccparsys-mainimage_205916955").attr("href", "");
         });
     
 

@@ -1288,7 +1288,7 @@ Student associations
 
 
         $(document).ready(function() {
-			$("#ab6a1aa2-6b9a-4128-9077-c507eb3b377fcontent-mainimage").attr("href", "");
+			$("#470ee42d-0610-46c1-b721-d9925f147a35content-mainimage").attr("href", "");
         });
     
 

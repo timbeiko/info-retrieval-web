@@ -4,6 +4,7 @@ import os
 import sys 
 import json
 import itertools
+import re
 from operator import itemgetter
 
 # Global variables
@@ -11,16 +12,30 @@ blockSizeLimitMB = 1
 merged_index_file = "merged_index.dat"
 index_file = "index.dat"
 length_of_docs = {}
+sentimentIndex={}
+sentimentDictionary = {}
 
 def getSentimentValue(term):
     return 0 
+
+def aFinnListToDictionary():
+    fp = open('AFINN.txt', 'r').read() 
+    rows = re.split(r'\n+', fp)
+    headers = re.split(r'\t+', rows[0])
+    for i in range(0,len(rows)):
+        rows[i] = re.split(r'\t+', rows[i])
+    for row in rows:
+        sentimentDictionary[row[0]]=int(row[1])
+    print('\nWriting Dictionary to disk')
+    print('----------------------------')
+    json.dump(sentimentDictionary, open('afinn_dictionary.json', 'w'),indent=4) 
 
 def create_SPIMI_index(input_file, docID):
     token_stream = []
     blockNumber = 0 
     fileNumber = docID
     doc_length = 0 
-
+    sentiment=0
     for line in input_file:
         # Remove chunks of code 
         if len(line) > 5000:
@@ -32,12 +47,14 @@ def create_SPIMI_index(input_file, docID):
             token_stream = []
             blockNumber += 1
 
-        # Tokenize line of document 
-        token_line = nltk.word_tokenize(line)
+        # Tokenize line of document [Edit: Take only alphanumeric characters due to "UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 8"]
+        token_line = nltk.word_tokenize(' '.join(re.findall(r"\w+",line)))
         doc_length += len(token_line)
 
         # Getting tokens here
         for token in token_line:
+            if token.lower() in sentimentDictionary:
+                sentiment += sentimentDictionary[token.lower()]
             if len(token) >= 1: 
                 token_stream.append([token, docID])
 
@@ -45,6 +62,8 @@ def create_SPIMI_index(input_file, docID):
         SPIMI_invert(token_stream, blockNumber, fileNumber)
 
     # Doc finished to process 
+    print(sentiment)
+    sentimentIndex[docID] = sentiment
     length_of_docs[docID] = doc_length
 
 def SPIMI_invert(token_stream, blockNumber, fileNumber):
@@ -277,7 +296,12 @@ def compress_SPIMI_index():
         compressed_index_output.write(s)
         compressed_index_output.write('\n')
 
+def savSentimentIndex():
+    json.dump(sentimentIndex, open('sentiment_index.json', 'w'),indent=4) 
+
 def main():
+    aFinnListToDictionary()
+
     # Only create SPIMI index if not aleady done 
     if len(os.listdir(os.getcwd()+ "/blocks")) == 0: 
         for filename in os.listdir(os.getcwd()+ "/documents"):
@@ -290,6 +314,8 @@ def main():
     if merged_index_file not in os.listdir(os.getcwd()):
         merge_blocks()
         compress_SPIMI_index()
+
+    savSentimentIndex()
 
 if __name__ == '__main__':
     main()

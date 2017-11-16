@@ -118,8 +118,6 @@ img.emoji {
 
 
 
-
-
 .vc_custom_1506947914069{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1506686175095{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}.vc_custom_1506684405177{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}.vc_custom_1506686185554{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}.vc_custom_1506684481674{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}.vc_custom_1506684558571{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}.vc_custom_1506686194791{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}
  .wpb_animate_when_almost_visible { opacity: 1; }
 
