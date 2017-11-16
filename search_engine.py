@@ -14,20 +14,31 @@ def loadAfinn():
     dictionary = json.load(open('afinn_dictionary.json'))
     return dictionary
 
-'''------------------------- UNCOMMENT ----------------------------
------------------------SENTIMENT SEARCH FUNCTION-------------------
--------------------------------------------------------------------
-def sentimentSearch(matching_docs,query_sentiment_value):
+def loadDocSentiment():
+    dictionary = json.load(open('sentiment_index.json'))
+    return dictionary
+
+
+def sentimentSearch(matching_docs,query_sentiment_value,doc_sentiment):
+    dictionary = dict()
+    for doc_ID in matching_docs:
+        dictionary[doc_ID] = doc_sentiment[doc_ID];
+
+    # sorted the matching_docs from highest to lowest
     if query_sentiment_value > 0:
-        # sorted the matching_docs from highest to lowest
+            print sorted(dictionary.items(), key=lambda dictionary: dictionary[1], reverse=True)
+    # sorted the matching_docs from lowest to highest
     else:
-        # sorted the matching_docs from lowest to highest
+            print sorted(dictionary.items(), key=lambda dictionary: dictionary[1], reverse=False)
+
+    print "The length of query list:{}".format(len(dictionary.keys()))
+
 
     # print str(len(matching_docs)) + " results:"
     # for doc in sorted(doc_scores, key=doc_scores.get, reverse=True):
     #     print "Doc: " + str(doc) + " Score: " + str(doc_scores[doc])
     # print "\n"
-'''
+
 
 # Should this handle long query BM25? 
 def BM25(matching_docs, index, query, doc_lengths):
@@ -167,7 +178,7 @@ def loadDocLengthsToMemory():
             docs[int(doc_lengths[0])] = int(doc_lengths[1])
     return docs 
 
-def searchForDocuments(index,affin):
+def searchForDocuments(index,affin,doc_sentiment):
     doc_lengths = loadDocLengthsToMemory()
     while(True):
         flag = True
@@ -225,7 +236,7 @@ def searchForDocuments(index,affin):
             if flag:
                 BM25(matching_docs, index, processed_query, doc_lengths)
             else:
-                sentimentSearch(matching_docs,query_sentiment_value)
+                sentimentSearch(matching_docs,query_sentiment_value,doc_sentiment)
         # Add sentiment search here
 
 def main():
@@ -233,7 +244,8 @@ def main():
     checkIfIndex()
     index = loadIndexToMemory()
     affin = loadAfinn()
-    searchForDocuments(index,affin)
+    doc_sentiment = loadDocSentiment()
+    searchForDocuments(index,affin,doc_sentiment)
     print "\n==================================================="
     print "Thank you for using Tim's Reuters Search Engine"
     print "==================================================="
