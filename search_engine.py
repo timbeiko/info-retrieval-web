@@ -1,6 +1,7 @@
 import SPIMI as spimi
 import os
 import nltk
+import json
 from math import log
 
 # --- Stop Words sections commented out --- 
@@ -10,15 +11,12 @@ DOCUMENT_COUNT = 21578
 AVERAGE_DOC_LENGTH = 307.854206213
 
 def loadAfinn():
-    dictionary = dict()
-    file = open("AFINN.txt", 'r')
-    line = file.readline()
-    while line:
-        temp = line.split(' ')
-        dictionary[temp[0]] = temp[1]
-        line = file.readline()
+    dictionary = json.load(open('afinn_dictionary.json'))
     return dictionary
 
+'''------------------------- UNCOMMENT ----------------------------
+-----------------------SENTIMENT SEARCH FUNCTION-------------------
+-------------------------------------------------------------------
 def sentimentSearch(matching_docs,query_sentiment_value):
     if query_sentiment_value > 0:
         # sorted the matching_docs from highest to lowest
@@ -29,7 +27,7 @@ def sentimentSearch(matching_docs,query_sentiment_value):
     # for doc in sorted(doc_scores, key=doc_scores.get, reverse=True):
     #     print "Doc: " + str(doc) + " Score: " + str(doc_scores[doc])
     # print "\n"
-
+'''
 
 # Should this handle long query BM25? 
 def BM25(matching_docs, index, query, doc_lengths):
