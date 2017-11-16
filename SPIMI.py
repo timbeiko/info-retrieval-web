@@ -315,7 +315,7 @@ def main():
         merge_blocks()
         compress_SPIMI_index()
 
-    savSentimentIndex()
+    saveSentimentIndex()
 
 if __name__ == '__main__':
     main()
