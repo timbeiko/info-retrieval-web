@@ -22,7 +22,7 @@ def loadDocSentiment():
 def sentimentSearch(matching_docs,query_sentiment_value,doc_sentiment):
     dictionary = dict()
     for doc_ID in matching_docs:
-        dictionary[doc_ID] = doc_sentiment[doc_ID];
+        dictionary[doc_ID] = doc_sentiment.get(str(doc_ID));
 
     # sorted the matching_docs from highest to lowest
     if query_sentiment_value > 0:
@@ -183,7 +183,7 @@ def searchForDocuments(index,affin,doc_sentiment):
     while(True):
         flag = True
         query = raw_input("Please input 0 or 1, 0 represents results are sorted according to TF-IDF, 1 represents results are sorted according to sentiment values\n")
-        if query == 1:
+        if int(query) == 1:
             flag = False
         query =  raw_input("ENTER QUERY OR TYPE 'EXIT' TO QUIT: ")
 
@@ -193,13 +193,14 @@ def searchForDocuments(index,affin,doc_sentiment):
         processed_query = preprocessQuery(query)
 
         # calculate the sentiment values of query
-        query_sentiment_value = 0
         if not flag:
-            for query_term in processed_query:
-               for key in affin.keys():
-                   if query_term == key:
-                       query_sentiment_value += affin.get(key)
-                       break
+            query_sentiment_value = 0
+            if not flag:
+                for query_term in processed_query:
+                   for key in affin.keys():
+                       if query_term == key:
+                           query_sentiment_value += affin.get(key)
+                           break
 
 
         # Get matching docIDs
