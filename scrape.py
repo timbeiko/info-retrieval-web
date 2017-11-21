@@ -60,7 +60,7 @@ for webpage in STARTING_WEBPAGES:
         except:
             print "Cannot open contents of " + str(url)
             continue
-        soup = BeautifulSoup(content, "html5lib")
+        soup = BeautifulSoup(content)
 
         # Output content to file 
         filename = RAW_WEBPAGE_OUTPUT_DIR + "/" + str(total_crawled_pages) + ".txt"
