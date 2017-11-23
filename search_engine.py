@@ -178,7 +178,7 @@ def loadDocLengthsToMemory():
             docs[int(doc_lengths[0])] = int(doc_lengths[1])
     return docs 
 
-def searchForDocuments(index,affin,doc_sentiment):
+def searchForDocuments(index,doc_sentiment):
     doc_lengths = loadDocLengthsToMemory()
     while(True):
         flag = True
@@ -197,9 +197,9 @@ def searchForDocuments(index,affin,doc_sentiment):
             query_sentiment_value = 0
             if not flag:
                 for query_term in processed_query:
-                   for key in affin.keys():
+                   for key in index.keys():
                        if query_term == key:
-                           query_sentiment_value += affin.get(key)
+                           query_sentiment_value += index.get(key).get("sentiment")
                            break
 
 
@@ -244,9 +244,9 @@ def main():
     displayWelcomePrompt()
     checkIfIndex()
     index = loadIndexToMemory()
-    affin = loadAfinn()
+    # affin = loadAfinn()
     doc_sentiment = loadDocSentiment()
-    searchForDocuments(index,affin,doc_sentiment)
+    searchForDocuments(index,doc_sentiment)
     print "\n==================================================="
     print "Thank you for using Tim's Reuters Search Engine"
     print "==================================================="
