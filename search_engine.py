@@ -4,9 +4,6 @@ import nltk
 import json
 from math import log
 
-# --- Stop Words sections commented out --- 
-# stop_word_file = open('stop_words.txt', 'r')
-# stop_words = stop_word_file.read().split()
 DOCUMENT_COUNT = 21578   
 AVERAGE_DOC_LENGTH = 307.854206213
 
@@ -24,21 +21,18 @@ def sentimentSearch(matching_docs,query_sentiment_value,doc_sentiment):
     for doc_ID in matching_docs:
         dictionary[doc_ID] = doc_sentiment.get(str(doc_ID));
 
+    print "\nSentiment of query: " + str(query_sentiment_value)
+    print "The length of results list:{}".format(len(dictionary.keys()))
+
     # sorted the matching_docs from highest to lowest
-    if query_sentiment_value > 0:
-            print sorted(dictionary.items(), key=lambda dictionary: dictionary[1], reverse=True)
-    # sorted the matching_docs from lowest to highest
-    else:
-            print sorted(dictionary.items(), key=lambda dictionary: dictionary[1], reverse=False)
+    if query_sentiment_value >= 0:
+        for doc, sent in sorted(dictionary.items(), key=lambda dictionary: dictionary[1], reverse=True):
+            print "Document ID: " + str(doc) + " sentiment: " + str(sent)
+    else: # sorted the matching_docs from lowest to highest
+        for doc, sent in sorted(dictionary.items(), key=lambda dictionary: dictionary[1], reverse=False):
+            print "Document ID: " + str(doc) + " sentiment: " + str(sent)
 
-    print "The length of query list:{}".format(len(dictionary.keys()))
-
-
-    # print str(len(matching_docs)) + " results:"
-    # for doc in sorted(doc_scores, key=doc_scores.get, reverse=True):
-    #     print "Doc: " + str(doc) + " Score: " + str(doc_scores[doc])
-    # print "\n"
-
+    print "\n"
 
 # Should this handle long query BM25? 
 def BM25(matching_docs, index, query, doc_lengths):
@@ -129,13 +123,6 @@ def preprocessQuery(query):
     query_lowercase = []
     for term in query_no_numbers:
         query_lowercase.append(term.lower())
-
-    # Comment Out Stop Words Section
-    # # Remove Stop words
-    # processed_query = []
-    # for term in query_lowercase:
-    #     if term not in stop_words:
-    #         processed_query.append(term)
 
     processed_query = query_lowercase
 
@@ -238,13 +225,11 @@ def searchForDocuments(index,doc_sentiment):
                 BM25(matching_docs, index, processed_query, doc_lengths)
             else:
                 sentimentSearch(matching_docs,query_sentiment_value,doc_sentiment)
-        # Add sentiment search here
 
 def main():
     displayWelcomePrompt()
     checkIfIndex()
     index = loadIndexToMemory()
-    # affin = loadAfinn()
     doc_sentiment = loadDocSentiment()
     searchForDocuments(index,doc_sentiment)
     print "\n==================================================="
