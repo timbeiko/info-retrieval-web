@@ -243,51 +243,6 @@ def compress_SPIMI_index():
             lowercase_postings_count += len(postings)
     corpus_stats_file.write("Case Folded\t\t\t\t\t\t\t\t\t\t" + str(lowercase_term_count) + "\t\t\t\t\t\t\t\t\t\t" + str(lowercase_postings_count) + "\n")
 
-    # ----- Stop Words Section Commented out ------
-    # # Determine term frequency after case folding
-    # term_frequency = {}
-    # for term, postings in lowercase_index.iteritems():
-    #     if term in term_frequency:
-    #         term_frequency[term] += len(postings)
-    #     else:
-    #         term_frequency[term] = len(postings)
-    # term_frequency_list = sorted(term_frequency.items(), key=itemgetter(1), reverse=True)
-    
-    # thirty_most_frequent = []
-    # thirty_one_to_one_fifty_most_frequent = []
-    # for tuples in term_frequency_list[:30]:
-    #     thirty_most_frequent.append(tuples[0])
-
-    # for tuples in term_frequency_list[30:150]:
-    #     thirty_one_to_one_fifty_most_frequent.append(tuples[0])
-
-    # # Remove 30 stop words
-    # index_minus_30_stop_words = {}
-    # minus_30_term_count = 0
-    # minus_30_postings_count = 0
-    # for term, postings in lowercase_index.iteritems():
-    #     if term not in thirty_most_frequent:
-    #         index_minus_30_stop_words[term] = postings
-    #         minus_30_term_count += 1
-    #         minus_30_postings_count += len(postings)
-    # corpus_stats_file.write("30 stop words\t\t\t\t\t\t\t\t\t\t" + str(minus_30_term_count) + "\t\t\t\t\t\t\t\t\t\t" + str(minus_30_postings_count) + "\n")
-
-    # # Remove 150 stop words 
-    # index_minus_150_stop_words = {}
-    # minus_150_term_count = 0
-    # minus_150_postings_count = 0
-    # for term, postings in lowercase_index.iteritems():
-    #     if term not in thirty_one_to_one_fifty_most_frequent:
-    #         index_minus_150_stop_words[term] = postings
-    #         minus_150_term_count += 1
-    #         minus_150_postings_count += len(postings)
-    # corpus_stats_file.write("150 stop words\t\t\t\t\t\t\t\t\t\t" + str(minus_150_term_count) + "\t\t\t\t\t\t\t\t\t\t" + str(minus_150_postings_count) + "\n")
-
-    # # Write 150 most common stop words to disk
-    # stop_words_file = open('stop_words.txt', 'w')
-    # for tuples in term_frequency_list[:150]:
-    #     stop_words_file.write(tuples[0] + "\n")
-
     # # Write out compressed index 
     compressed_index_output = open(index_file, 'w')
     for entry in lowercase_index:
