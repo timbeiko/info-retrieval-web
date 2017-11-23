@@ -16,7 +16,10 @@ sentimentIndex={}
 sentimentDictionary = {}
 
 def getSentimentValue(term):
-    return 0 
+    try:
+        return sentimentDictionary[term]
+    except: 
+        return 0
 
 def aFinnListToDictionary():
     fp = open('AFINN.txt', 'r').read() 
@@ -302,6 +305,8 @@ def main():
     # Only create SPIMI index if not aleady done 
     if len(os.listdir(os.getcwd()+ "/blocks")) == 0: 
         for filename in os.listdir(os.getcwd()+ "/documents"):
+            if filename == '.DS_Store':
+                continue
             docID = int(filename[:-4])
             create_SPIMI_index(open("documents/" + filename, 'r'), docID)
         merge_blocks()

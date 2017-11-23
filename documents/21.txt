@@ -1,897 +1,468 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SPA-news
-
-
-
-
-
-
-
-
-
-
-
-    function setAttributeOnload(object, attribute, val) {
-      if(window.addEventListener) {
-        window.addEventListener('load',
-          function(){ object[attribute] = val; }, false);
-      } else {
-        window.attachEvent('onload', function(){ object[attribute] = val; });
-      }
-    }
+\n\n\t
+\n
+\n<!--//--><![CDATA[//><!--\nwindow.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\\x3C/script>")\n//--><!]]>\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n<!--//--><![CDATA[//><!--\n(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-67381822-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");\n//--><!]]>\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n<!--//--><![CDATA[//><!--\njQuery.extend(Drupal.settings, {"basePath":"\\/","pathPrefix":"","ajaxPageState":{"theme":"specialone","theme_token":"zhfU4hU6iprjLlqU3q4oZYA1uozqRn38QHrSa8_JOQ8","js":{"\\/\\/code.jquery.com\\/jquery-1.10.2.min.js":1,"0":1,"misc\\/jquery.once.js":1,"misc\\/drupal.js":1,"sites\\/all\\/modules\\/mobile_navigation\\/js\\/mobile_menu.js":1,"sites\\/all\\/modules\\/mobile_navigation\\/mobile_navigation.js":1,"sites\\/all\\/modules\\/google_analytics\\/googleanalytics.js":1,"1":1,"sites\\/all\\/modules\\/nivo_slider\\/js\\/nivo_slider.js":1,"sites\\/all\\/libraries\\/nivo-slider\\/jquery.nivo.slider.pack.js":1,"http:\\/\\/maps.google.com\\/maps\\/api\\/js?sensor=false":1,"sites\\/all\\/themes\\/specialone\\/js\\/bootstrap.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.isotope.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.flexslider-min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jflickrfeed.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.fitvids.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.easy-pie-chart.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.eislideshow.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.easing.1.3.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.sequence-min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/app.js":1},"css":{"modules\\/system\\/system.base.css":1,"modules\\/system\\/system.menus.css":1,"modules\\/system\\/system.messages.css":1,"modules\\/system\\/system.theme.css":1,"sites\\/all\\/modules\\/ldap\\/ldap_user\\/ldap_user.css":1,"modules\\/book\\/book.css":1,"sites\\/all\\/modules\\/calendar\\/css\\/calendar_multiday.css":1,"modules\\/comment\\/comment.css":1,"sites\\/all\\/modules\\/date\\/date_api\\/date.css":1,"sites\\/all\\/modules\\/date\\/date_popup\\/themes\\/datepicker.1.7.css":1,"modules\\/field\\/theme\\/field.css":1,"modules\\/node\\/node.css":1,"modules\\/poll\\/poll.css":1,"modules\\/search\\/search.css":1,"modules\\/user\\/user.css":1,"sites\\/all\\/modules\\/workflow\\/workflow_admin_ui\\/workflow_admin_ui.css":1,"sites\\/all\\/modules\\/views\\/css\\/views.css":1,"sites\\/all\\/modules\\/ckeditor\\/css\\/ckeditor.css":1,"sites\\/all\\/modules\\/ctools\\/css\\/ctools.css":1,"sites\\/all\\/modules\\/facebook_pull\\/facebook_pull.css":1,"sites\\/all\\/modules\\/ldap\\/ldap_servers\\/ldap_servers.admin.css":1,"sites\\/all\\/modules\\/panels\\/css\\/panels.css":1,"modules\\/locale\\/locale.css":1,"sites\\/all\\/modules\\/mobile_navigation\\/mobile_navigation.css":1,"sites\\/all\\/libraries\\/nivo-slider\\/themes\\/default\\/default.css":1,"sites\\/all\\/libraries\\/nivo-slider\\/nivo-slider.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/bootstrap.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/style.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/bootstrap-responsive.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/font-awesome.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/flexslider.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/colors\\/custom.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/style-responsive.css":1,"public:\\/\\/css_injector\\/css_injector_2.css":1,"public:\\/\\/css_injector\\/css_injector_3.css":1,"public:\\/\\/css_injector\\/css_injector_11.css":1,"public:\\/\\/css_injector\\/css_injector_13.css":1}},"inEffects":["bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn"],"outEffects":["bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut"],"mobile_navigation":{"breakpoint":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","menuSelector":"#main-menu-links","menuPlugin":"slideMenu","showEffect":"expand_down","showItems":"all","tabHandler":1,"menuWidth":"65","specialClasses":0,"mainPageSelector":"#page","useMask":1,"menuLabel":"Menu","expandActive":0},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"nivo_slider":{"effect":"fade","slices":1,"boxCols":8,"boxRows":4,"animSpeed":200,"pauseTime":10000,"startSlide":1,"directionNav":false,"controlNav":true,"controlNavThumbs":false,"pauseOnHover":true,"manualAdvance":false,"prevText":"Prev","nextText":"Next","randomStart":false},"settings":{"layout_version":"wide","theme_color":"custom","boxed_bColor":"bg-color-grayLight2","use_bPattern":"0","boxed_bPattern":"bg-pattern-wavegrid","header_bColor":"bg-color-grayDark2","header_tColor":"text-color-grayLight1","header_tiColor":"text-color-grayLight2","header_lColor":"text-color-grayLight2","top_content_bColor":"bg-color-grayLight2","top_content_tColor":"text-color-grayDark2","top_content_tiColor":"text-color-grayDark1","top_content_lColor":"text-color-theme","featured_bColor":"bg-color-white","featured_tColor":"text-color-grayDark2","featured_tiColor":"text-color-grayDark1","featured_lColor":"text-color-theme","wide1_bColor":"bg-color-midnightBlue","wide1_tColor":"text-color-white","wide1_tiColor":"text-color-white","wide1_lColor":"text-color-theme","wide1_use_bImg":"0","wide1_bImg":"bg-image-eighteen","wide2_bColor":"bg-color-white","wide2_tColor":"text-color-grayDark2","wide2_tiColor":"text-color-grayDark1","wide2_lColor":"text-color-theme","wide3_bColor":"bg-color-grayLight1","wide3_tColor":"text-color-grayDark2","wide3_tiColor":"text-color-grayDark1","wide3_lColor":"text-color-theme","wide3_use_bImg":"0","wide3_bImg":"bg-image-one","wide4_bColor":"bg-color-white","wide4_tColor":"text-color-grayDark2","wide4_tiColor":"text-color-grayDark1","wide4_lColor":"text-color-theme","before_footer_bColor":"bg-color-theme","before_footer_tColor":"text-color-grayLight2","before_footer_tiColor":"text-color-grayLight1","before_footer_lColor":"text-color-grayLight3","footer_four_bColor":"bg-color-grayDark1","footer_four_tColor":"text-color-grayDark2","footer_four_tiColor":"text-color-grayLight2","footer_four_lColor":"text-color-grayLight2","footer_bColor":"bg-color-grayDark2","footer_tColor":"text-color-grayDark2","footer_tiColor":"text-color-grayLight2","footer_lColor":"text-color-grayLight2","slider_color":"bg-color-belizeHole","slider_use_bImg":"1","slider_bImg":"bg-image-one","google_latitude":"45.497038","google_longitude":"-73.578633","google_zoom":"7","google_title":"Concordia Student Union","google_description":"","flickr_id":"12913238@N03","flickr_limit":"6","base_url":"https:\\/\\/csu.qc.ca"}});\n//--><!]]>\n
+\n\t
+\n\t
+\n
+\n
+\n
+\n
+\n\t
+General Booking Terms and Conditions | Concordia Student Union | csu.qc.ca
+\n\t
+\n\t
+\n@import url("https://csu.qc.ca/modules/system/system.base.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/system/system.menus.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/system/system.messages.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/system/system.theme.css?ok8zbn");\n
+\n
+\n@import url("https://csu.qc.ca/sites/all/modules/ldap/ldap_user/ldap_user.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/book/book.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/calendar/css/calendar_multiday.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/comment/comment.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/date/date_api/date.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/field/theme/field.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/node/node.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/poll/poll.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/search/search.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/user/user.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/workflow/workflow_admin_ui/workflow_admin_ui.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/views/css/views.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/ckeditor/css/ckeditor.css?ok8zbn");\n
+\n
+\n@import url("https://csu.qc.ca/sites/all/modules/ctools/css/ctools.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/facebook_pull/facebook_pull.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/ldap/ldap_servers/ldap_servers.admin.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/panels/css/panels.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/locale/locale.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/mobile_navigation/mobile_navigation.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/libraries/nivo-slider/themes/default/default.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/libraries/nivo-slider/nivo-slider.css?ok8zbn");\n
+\n
+\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/bootstrap.min.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/style.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/bootstrap-responsive.min.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/font-awesome.min.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/flexslider.css?ok8zbn");\n
+\n
+\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/colors/custom.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/style-responsive.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/default/files/css_injector/css_injector_2.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/default/files/css_injector/css_injector_3.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/default/files/css_injector/css_injector_11.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/default/files/css_injector/css_injector_13.css?ok8zbn");\n
+\n\t
+\n\n\n\n\t\t\n
+\n   \n  
+\n\n      
+\n      
+\n        
+\n                  
+\n        
+\n            
+\n    \n
+\n\n      \n  
+\n    
+English
+\n
+Fran\xe7ais
+\n
   
-
-
-
-
-
-
-
-      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
-        if (gapi.iframes && gapi.iframes.getContext) {
-          gapi.iframes.getContext().openChild({
-              url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d1733079234073385351\x26blogName\x3dSPA-news\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dBLUE\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttp://spaconcordianews.blogspot.com/search\x26blogLocale\x3den\x26v\x3d2\x26homepageUrl\x3dhttp://spaconcordianews.blogspot.com/\x26vt\x3d1630805801939201876',
-              where: document.getElementById("navbar-iframe-container"),
-              id: "navbar-iframe"
-          });
-        }
-      });
-    
-
-(function() {
-var script = document.createElement('script');
-script.type = 'text/javascript';
-script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
-var head = document.getElementsByTagName('head')[0];
-if (head) {
-head.appendChild(script);
-}})();
-
-
-
-
-
-
-
-
-
-
-
-skip to main 
- |
-      
-skip to sidebar
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Wednesday
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-HIGH ROLLERS 2012: Print Media Graduating Show
-
-
-
-
-
-
-
-
-
-
-
-
-The Department of Print Media and the Student Printmaking Association  invite you to 
-HIGH ROLLERS 2012: Print Media Graduating Show
-. The  exhibition features works from graduating BFA students whose practice  revolves around the printed image.
- VERNISSAGE: Tuesday, March 20t
-h, 6 - 9 pm
- Gallery Hours: March 21st - 24th, 12 - 7 pm
-Presenting works by:
-Carly Belford
-Neah Kelly
-Hélène Latulippe
-Évlyne Laurin
-Mark Laurin
-Sarah Long
-Sara Kay Maston
-Ann Milligan
-Marzi Rahmani
-Stéphanie St-Jean Aubre
-Aleksandra Wizimirska
-A message from Judy Garfin, Associate Professor and the Print Media Program Co-ordinator:
-The Department of Print Media and the Student Printmaking Association  (SPA) are pleased to present the Print Media graduating student  exhibition, High Rollers. Our graduating students have created works in  all of the print disciplines including Lithography, Intaglio, Woodcut,  Screenprint, Book Arts, Digital Print, and several have integrated these  into Installation and Performance art.
-While the students who  submitted works for consideration by the jury must have completed at  least two advanced courses in the Print Media Program, they did not have  to be Print Media majors or minors. Several students are majoring in  other programs within the Studio Arts Department. Considering their rich  content and sophisticated conceptual focus, along with their technical  excellence, the works represent a view into cutting edge contemporary  print practices. We welcome you and will enjoy seeing you at the  vernissage!
-Judy Garfin
-Image (c) Sarah Long
-
-
-
-
-
-
-
-
-
-
-
-Posted by
-
-
-
-
-
-
-
-SPA
-
-
-
-
-
-
-
-
-
-at
-
-
-
-9:53 AM
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Monday
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-HIGH ROLLERS 2012
-
-
-
-
-
-
-
-
-
-
-
-
-We are currently accepting submissions for the Print Media Graduating Show. Check out our submissions section and look out for our posters for more information!
-EXCITEMENT!
-CLICK TO VIEW THE SUBMISSION FORM
-
-
-
-
-
-
-
-
-
-
-
-Posted by
-
-
-
-
-
-
-
-SPA
-
-
-
-
-
-
-
-
-
-at
-
-
-
-8:04 PM
-
-
-
-
-
-
-
-
-
-
-
-No comments:
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Tuesday
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-50/50 Print Sale is back!
-
-
-
-
-
-
-
-
-
-
-
-SPA is currently accepting submissions to the annual 50/50 Print Sale. Look for details in the submission section of our website!
-
-
-
-
-
-
-
-
-
-
-
-Posted by
-
-
-
-
-
-
-
-SPA
-
-
-
-
-
-
-
-
-
-at
-
-
-
-7:47 PM
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Wednesday
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A Social Event (for you!)
-
-
-
-
-
-
-
-
-
-
-
-
-The Student Printmaking Association presents:
- 
-A Social Event!
-Come  to Brutopia on Thursday, November 17th at 9:00 to meet your fellow  printmakers and their perfectly acceptable non-print friends!
-(click on the cat to see the Facebook event, please.)
-
-
-
-
-
-
-
-
-
-
-
-Posted by
-
-
-
-
-
-
-
-SPA
-
-
-
-
-
-
-
-
-
-at
-
-
-
-9:50 PM
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Meet SPA!
-
-
-
-
-
-
-
-
-
-
-
-
-&#160;<!--  /* Font Definitions */ @font-face  {font-family:"Times New Roman";  panose-1:0 2 2 6 3 5 4 5 2 3;  mso-font-charset:0;  mso-generic-font-family:auto;  mso-font-pitch:variable;  mso-font-signature:50331648 0 0 0 1 0;} @font-face  {font-family:"Trebuchet MS";  panose-1:0 2 11 6 3 2 2 2 2 2;  mso-font-charset:0;  mso-generic-font-family:auto;  mso-font-pitch:variable;  mso-font-signature:50331648 0 0 0 1 0;}  /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal  {mso-style-parent:"";  margin:0in;  margin-bottom:.0001pt;  mso-pagination:widow-orphan;  font-size:12.0pt;  font-family:"Times New Roman";} table.MsoNormalTable  {mso-style-parent:"";  font-size:10.0pt;  font-family:"Times New Roman";} @page Section1  {size:8.5in 11.0in;  margin:1.0in 1.0in 1.0in 1.0in;  mso-header-margin:35.3pt;  mso-footer-margin:35.3pt;  mso-paper-source:0;} div.Section1  {page:Section1;} --> 
- 
-Welcome to the recently and shoddily updated SPA website! For those of you unsure of what we in SPA do, feel free to read our constitution. For those of you who already know what SPA is, feel free to ignore it! Please email us if you have any questions or if you would like to be added to our mailing list. Thanks and have a good rest of the semester!
-CONSTITUTION
-The SPA collective has existed since 1998 and has since been largely responsible for many of the print program’s extracurricular undertakings.
- 
- 
- 
-The association aims to provide an environment for artistic exchange and to build a stronger community within the program. Our intentions are to compliment the regular curriculum with activities that are not usually available within the department. These activities allow students to further their knowledge and to expand their horizons. The projects we intend on undertaking include: workshops, exhibitions, inter-university exchanges, a more informative website, newsletters, artist talks, and more. 
-In the past years, SPA has been responsible for organizing inter-city print exchanges, multiple book projects, several diverse exhibitions, vernissages, and annual print sales, Concordia based or inter-university print exchange and more.
- 
-SPA works as an open club, in which every registered print student is automatically a member. Positions work on a volunteer basis and students can choose their own level of involvement. To ensure a system of organization, SPA consists of an executive committee formed in the fall of each year. This year’s committee is as follows:
- 
-President: Aleksandra Wizimirska
- 
-Vice President: Sarah Long
- 
-VP External: Olivier Forgues 
-VP External: Mark Laurin
-VP Internal: Will Austin
- 
-Event Coordinator: Katie McDonald
- 
- 
-Our goal is to function as a coordinated body. We encourage a healthy discourse between members and seek to uphold a level of transparency within our government. We therefore make all concrete decisions together. The executive body meets weekly and works actively together to ensure a dynamic academic and social environment within the program.
- 
-The executive committee facilitates communication with FASA and CSU, ensuring monetary affairs are conducted in a orderly fashion and within the limits of allocated budgets. 
-All students have the right to participate in as many SPA activities as they choose. It is the responsibility of the executive committee to keep students informed of SPA activities and meetings. Students are invited to join meetings and to share their ideas and concerns. The dates and times of these meetings will be made available on the SPA website and forwarded to all students. For all additional questions, students are encouraged to email us.
--- 
-SPA-11/12 
-Student Printmaking Association 
-Concordia University
-
-
-
-
-
-
-
-
-
-
-
-Posted by
-
-
-
-
-
-
-
-SPA
-
-
-
-
-
-
-
-
-
-at
-
-
-
-9:30 PM
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+\n
+  
+\n        
+\n      
+\n    
+\n     \n  
+\n   \n\t
+\n    
+\n  \n    
+\n  \n  \t  
+\n  \t\t          \t
+\n          \t  
+\n  \n  \t
+\n  \n  \t
+\n  \n  \t  
+\n  \t\t  
+\n  \t\t\t  
+\n  \t\t\t\t  
+\n  \t\t\t\t\t  
+Menu
+\n  \n  \t\t\t\t\t  
+\n  \t\t\t\t\t    
+About Us
+Our Mission
+Council of Representatives
+Executive Team
+Judicial Board
+Funding and Fees
+Directory
+University Bodies
+Senate
+Board of Governors
+Jobs @ CSU
+Services
+Advocacy Centre
+Legal Information Clinic
+Housing and Job Bank (HOJO)
+Classifieds
+Health and Dental Plan
+Hive Loyola Free Lunch
+Emergency Food Vouchers
+Bookings
+General Booking Terms and Conditions
+CSU Mezzanine Information Tables Terms and Usage Policies
+CSU Live Newsletter
+Projects
+Reggie's Bar Renovations
+Daycare Service
+Hive Caf\xe9 Solidarity Co-op
+Cooperative Student Housing
+Cooperative Housing Committee
+Cooperative Housing Focus Group
+Concordia Student Congress
+Survey
+Campaigns
+Campaigns
+Unpaid Internships
+Climate Justice & Divestment
+Anti-Consumerism
+Past Campaigns
+#BringBissanHome
+Austerity
+International Tuition Hike
+Tribunals
+Student Life
+Fee Levy Groups
+Student Groups & Associations
+Bursaries at the CSU
+Sustainability
+Food Systems Reform
+Sustainability Resources on Campus
+Food System Special Project Funding Policy
+Clubs
+Active Clubs
+Starting a New Club
+How to Manage your Club
+Resources
+Apply for Funding
+Apply for Funding
+Special Project Funding
+CSU Special Clubs Funding
+CSU Community Action Fund
+Food Systems Special Project Funding
+CSU Committee Funding
+Other Sources of Funding
+  \t\t\t\t\t  
+\n  \t\t\t\t  
+\n  \t\t\t  
+\n  \t\t  
+\n  \t  
+\n  \n  \t
+\n  \n    
+\n  
+\n  \n  
+\n\n  
+\n  \t\t\n\t\t
+\n      
+\n        \n        
+\n        \n        
+\n          
 Home
-
-
-
-
-
-
-
-
-
-Subscribe to:
-
-Posts (Atom)
-
-
-
-
-
-
-
-    window.___gcfg = { 'lang': 'en' };
+\u203a
+Services
+\u203a
+Bookings
+                  
+\n        
+\n\n      
+\n    
+\n\t\n\t
+\n\t  \n  
+\n\n  
+\n   \n      
+\n      
+\n        
+\n            
+\n    \n
+\n\n      \n  
+\n      
+\n
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-window['__wavt'] = 'AOuZoY46CaWCE4r61rJlkPz0RJ5v2Nz50A:1510503738660';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d1733079234073385351','//spaconcordianews.blogspot.ca/','1733079234073385351');
-_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '1733079234073385351', 'title': 'SPA-news', 'url': 'http://spaconcordianews.blogspot.ca/', 'canonicalUrl': 'http://spaconcordianews.blogspot.com/', 'homepageUrl': 'http://spaconcordianews.blogspot.ca/', 'searchUrl': 'http://spaconcordianews.blogspot.ca/search', 'canonicalHomepageUrl': 'http://spaconcordianews.blogspot.com/', 'blogspotFaviconUrl': 'http://spaconcordianews.blogspot.ca/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': false, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22SPA-news - Atom\x22 href\x3d\x22http://spaconcordianews.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22SPA-news - RSS\x22 href\x3d\x22http://spaconcordianews.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22SPA-news - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/1733079234073385351/posts/default\x22 /\x3e\n', 'meTag': '\x3clink rel\x3d\x22me\x22 href\x3d\x22https://www.blogger.com/profile/01189585149249472093\x22 /\x3e\n', 'openIdOpTag': '\x3clink rel\x3d\x22openid.server\x22 href\x3d\x22https://www.blogger.com/openid-server.g\x22 /\x3e\n\x3clink rel\x3d\x22openid.delegate\x22 href\x3d\x22http://spaconcordianews.blogspot.com/\x22 /\x3e\n', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/9395240b25bf2486', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Google+', 'key': 'googlePlus', 'shareMessage': 'Share to Google+', 'target': 'googleplus'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'index', 'pageName': '', 'pageTitle': 'SPA-news'}}, {'name': 'features', 'data': {'lazy_images': 'false', 'unsupported_browser_message': 'false', 'lightbox_img_parsing': 'true', 'video_theatre_support': 'true', 'sharing_get_link_dialog': 'false', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'SPA-news', 'description': '', 'url': 'http://spaconcordianews.blogspot.ca/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
-_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', null, document.getElementById('Navbar1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'header', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'useNgc': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/1584353632-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle.css'}, 'displayModeFull'));
-
-
-
-
-
->
+\n        
+\n      
+\n    
+\n     \n  
+\n\t\n\t
+\n  \n  \n  
+\n\t\n\t
+\n  \n    \n  
+\n\t\n\t
+\n  \n  
+\n  \n    
+\n      
+\n\n                  
+General Booking Terms and Conditions
+\n                \n        
+\n\t\t    \t\t      \n\t\t    
+\n\t\t    \t\t      \t\t    \n      
+\n    
+\n    \n    
+\n  \n      
+\n  \n        \n      
+\n\t   \n      
+\n      \n      
+\n         \n        
+\n        
+\n  \n      
+\n      \n            \n            \n      
+\n        
+\n          
+Definitions
+\n\n
+\u201c
+CSU
+\u201d means Concordia Student Union.
+\n\n
+\u201c
+DSA
+\u201d means Designated Space Administrator.
+\n\n
+\u201c
+Internal User
+\u201d means students and employees of the University with a valid University ID card, all academic and administrative units and all recognized student groups, who require access to and use of University space to conduct their University-related activities.
+\n\n
+\u201c
+Requestor
+\u201d means an Internal User submitting a booking request for temporary use of space on Concordia University property.
+\n\n
+A booking request on behalf of a recognized student group must be submitted by a Student Organization Booking Officer recognized by the University.
+\n\n
+Reservations by a recognized student group will only be considered if the event date falls within the then-current academic year.
+\n\n
+Reserved space may only be used by the individual or group which reserved it. It is prohibited to transfer a reservation to another individual or group without prior notice to, and written authorization
+\n\n
+The Requestor understands and agrees that a booking request is subject to the CSU\u2019s prior review and approval and that during this review and approval process:
+\n\n
+\u2022 The CSU may, at its sole and absolute discretion, decline an Event or conditionally approve an Event based on the Requestor\u2019s respect of certain conditions.
+\n\n
+\u2022 Further information regarding the Event may be required. It is the responsibility of the Requestor to provide the CSU with accurate, complete and up-to-date information within the delay set forth by the DSA, and to inform the CSU of any new or relevant information regarding the Event that may occur after receiving approval from the CSU to hold the Event, failing which the request may be declined or the approval of the Event rescinded, as applicable;
+\n\n
+\u2022 Note that any new or relevant information received after approval will entail a revision of the Event and, as such, the Event remains subject to an additional approval;
+\n\n
+\u2022 The University may determine that Security is required during the Event, at the Requestor\u2019s cost;
+\n\n
+The Requestor recognizes and agrees that:
+\n\n
+\u2022 Until the Requestor receives the CSU\u2019s written confirmation that its booking request is approved, the Event will not take place and the space is not booked;
+\n\n
+\u2022 The Event location may not be advertised until receiving written confirmation of the booking of the space;
+\n\n
+\u2022 The CSU reserves the right to suspend future booking privileges for any Requestor who fails to provide complete and accurate information when submitting the booking request or who fails to update such information as provided in this booking request;
+\n\n
+\u2022 It will pay all Event-related costs and fees invoiced to it by the CSU and University;
+\n\n
+\u2022 It must and will advise the CSU if registration fees or donation fees are charged to Event attendees, in which case the CSU may, at its sole discretion, charge the Requestor fees, in addition to any other fee payable hereunder, for the use of the Space;
+\n\n
+\u2022 It will obtain the University\u2019s Media Relations Department\u2019s written approval prior to inviting media to the Event.
+\n\n
+\u2022 The Requestor agrees and undertakes to be responsible for ensuring that all University policies (available at http://www.concordia.ca/vpirsg/policies/), regulations, rules, procedures and terms are followed by the Requestor and his/her/its agents, representatives, employees, officers, directors, governors and invitees, without limiting any Event-related policies, including, but not limited to:
+\n\n
+- Policy on the Temporary Use of University Space (VPS-24)
+\n\n
+- Policy on the Recognition of Student Organizations and the Use of University Space (VPS-10)
+\n\n
+- Security Policy (VPS-20)
+\n\n
+- Policy on the Display of Posters (VPIRSG-1)
+\n\n
+- Policy concerning Minors on Campus (VPS-8)
+\n\n
+Alcohol-related events
+\n\n
+If the Requestor wants to serve/sell alcohol at the Event, the Requestor must:
+\n\n
+\u2022 Ensure that the Event complies with the Policy on the Sale and Service of Alcohol on University\xa0Premises (VPS-3)
+\n\n
+\u2022 Complete and return to the DSA a \u201cWaiver Form for Alcohol Related Events\u201d at least twenty (20) business days prior to the Event. All requests to serve/sell alcohol at the Event may be refused at the sole and absolute discretion of the CSU and shall be subject to such conditions as the\xa0CSU shall communicate to the Requestor as well as to all applicable laws and regulations.
+\n\n
+\u2022 Apply to the R\xe9gie des Alcools, des Courses et des Jeux du Qu\xe9bec (\u201c
+RACJ
+\u201d) for an alcohol\xa0permit at least fifteen (15) days in advance of the Event.\xa0 It is the Requestor\u2019s responsibility to obtain any and all applicable permit(s).
+\n\n
+\u2022 It is the Requestor\u2019s responsibility to comply with the Procedures for the sale and service of\xa0alcohol set out in the Waiver, as well as the regulations per the Alcohol Reunion permit.
+\n\n
+\u2022 If the Requestor fails to secure the permit(s) from the RACJ, the sale or service of alcohol at the\xa0Event is not authorized by law and by the University.
+\n\n
+\u2022 At least two (2) business days prior to the Event, submit to the DSA a copy of all alcohol permit(s)\xa0that are required.
+\n\n
+All applicable waiver(s) and permit(s) must be posted and visible onsite at all times during the Event.
+\n\n
+Food-related events
+\n\n
+If the Requestor wants to serve/sell food at the Event, the Requestor must:
+\n\n
+\u2022 Ensure that the Event complies with the Policy on Food or Beverage Service on University Space\xa0(VPS-7)
+\n\n
+\u2022 If the Event is catered, include the name of the caterer in the reservation form. Any costs incurred for catering will be paid by the Requestor.
+\n\n
+\u2022 If the Event is self-catered, comply with Procedures for Sale or Service of Food on Campus and, if applicable, complete and return to the DSA a \u201cWaiver Form for Self-Catered Events\u201d and comply with the requirements described therein, including requesting and receiving all applicable permits, such as the Special Event permit from the Minist\xe8re de l\u2019agriculture, P\xeacheries et aliminentation de Qu\xe9bec (\u201c
+MAPAQ
+\u201d). It is the responsibility of the Requestor to obtain all applicable permits.
+\n\n
+\u2022 If the Requestor fails to secure any required permits, the Requestor will not be allowed to self-cater the Event.
+\n\n
+\u2022 At least two (2) business days prior to the Event the Requestor must submit to the DSA a copy of all food permit(s) that are required.
+\n\n
+All applicable waivers and permits must be posted and visible onsite during the Event.
+\n\n
+Minors on CSU Property
+\n\n
+For the purpose of the present section, \u201c
+Minor(s)
+\u201d means any person or people under the age of eighteen (18) who is/are not a student(s) of the University. The Requestor must for any Event involving Minor(s) on University space:
+\n\n
+\u2022 At least thirty (30) days prior to the Event, the Requestor informs the University\u2019s Insurance Specialist of the Details of the Event by filling out a Declaration of an Activity Involving Minor Children and remitting such completed declaration to the Insurance Specialist;
+\n\n
+\u2022 All parents of Minor(s) registering and/or attending the Event must, at least one (1) business day prior to the beginning of the Event, sign and submit to the Requestor, a waiver in favour of the University using the Parental Waiver form.
+\n\n
+Charges and Limitation of Liability
+\n\n
+The Requestor is responsible for and undertakes to indemnify and hold harmless the CSU from and against any and all liability, suit, action, dispute, investigation, claim, arbitration, order, summons, citation, directive, ticket, charge, demand or prosecution, whether legal or administrative or any other proceeding (\u201c
+Claim
+\u201d) of any nature whatsoever, and any expenses or, in respect of any Claim or matter, all losses, damages of any nature whatsoever (including without limitation injuries to persons, loss of life, loss or damage to property), liabilities, deficiencies, costs and expenses (including all legal and other professional fees and disbursements, interest, penalties and amounts paid in settlement) arising as a consequence of that Claim or matter, (\u201c
+Damages
+\u201d) incident thereto, whether for injuries to persons or loss of life or loss or damage to property occurring on, in or around CSU property and arising out of the use and/or occupancy thereof by the Requestor and/or its invitee(s) or as a result of any infringement, violation or misappropriation of any third partys right, including without limitation any intellectual property right or arising out of any breach of the Requestors obligations hereunder. For greater certainty and without in any way limiting the generality of the foregoing, in no event shall the CSU be liable for any indirect, special, incidental, consequential or punitive Damages or for loss of profits, regardless of the form of Claim, even if the CSU has been advised of the possibility of such Damages.
+\n\n
+If the CSU, without fault on its part, should be made a party to any Claim commenced by or against the Requestor, then the Requestor shall protect, indemnify and hold the CSU harmless and shall pay all costs and expenses and legal fees incurred or paid by the CSU in connection with such Claim. The Requestor shall also pay all costs, expenses and legal fees that may be incurred or paid by the CSU in enforcing the terms, obligations and conditions of this agreement.
+\n\n
+In addition, the Requestor acknowledges and understands that he/she/it has the sole and absolute responsibility for any damage to property or injuries or death to persons caused directly or indirectly by the Requestors activities in, on or around the CSU property and at the Event.
+\n\n
+Cancellation due to Force Majeure
+\n\n
+The CSU has the right, at any time, to cancel a booking and/or the Event due to Force Majeure. In such circumstances, any amounts paid by the Requestor to the CSU for the booking which has been cancelled will be credited or refunded in full to the Requestor, unless an alternate CSU space has been offered to the Requestor and the Requestor has refused such space.
+\n\n
+Information and Event
+\n\n
+By submitting a Booking Request the Requestor hereby certifies that all the information he has submitted to the CSU, as well as the information about the intended use of the space, is true, complete and accurate.
+\n\n
+\xa0
+\n
+        
+\n      
+\n      \n          \n    
+\n  \n
+\n          \n        
+\n              
+\n      \n      
+\n    \n      
+\n      \n            \n      
+\n\n    
+\n  
+\n\n\t
+\n\t\n\t
+\n\t\n\t\t\n\t
+\n\t\n  
+\n  \n    \n  
+\n  \n  
+\n  \n    \n  
+\n  \n  
+\n  \n    \n  
+\n\t\n  
+\n\t\n  \t  
+\n\t    
+\n\t      
+\n\t\t        
+\n    \n
+\n\n      \n  
+\n    
+\n
+\n
+\n
+\n
+\u200b  
+\n
+  
+\n\t\t    
+\n\t    
+\n\t  
+\n\t\t\n\t
+\n\t   \n  
+\n\t \n\t\t  
+\n\t  \n\t    
+\n\n\t      \t\t      
+\n\t\t          
+\n    \n
+\n\n        
+Quick Links
+\n    \n  
+\n    
+Login
+\n
+Resources
+\n
+Jobs
+\n
+  
+\n
+  
+\n\t\t      
+\n\t      \t      \n\t\t            \n\t\t    \t      \n\t      \t\t      
+\n\t\t          
+\n    \n
+\n\n        
+Contact Information
+\n    \n  
+\n    
+Downtown:\xa01455 de Maisonneuve Blvd West,\xa0H-711\xa0Montr\xe9al, QC H3G 1M8
+\n\t
+Loyola:\xa07141 Sherbrooke Street West, CC-426\xa0Montr\xe9al,\xa0QC\xa0H4B 1R6
+\n\t
+Phone -\xa0514 848-7474 | Fax: 514 848-7450
+\n\t
+Email -\xa0info@csu.qc.ca
+\n
+  
+\n
+  
+\n\t\t      
+\n\t      \t      \n\t    
+\n\t\n\t  
+\n\t\t\n\t
+\n\t\t\n\t
+\n\t\t\n\t
+\n\t\t\n      
+\n      \n                  
+\n              
+\n    \n
+\n\n      \n  
+\n    
+Concordia Student Union | Copyright 2016\xa0|\xa0All Rights Reserved
+\n  
+\n
+  
+\n          
+\n                  \n          \n      
+\n\n\t
+\n\t\n\t
+\n  \n  
+\n    
+\n\n
+\n\n
+\n\t  
+\n
+\n<!--//--><![CDATA[//><!--\nwindow.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\\x3C/script>")\n//--><!]]>\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n<!--//--><![CDATA[//><!--\n(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-67381822-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");\n//--><!]]>\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n<!--//--><![CDATA[//><!--\njQuery.extend(Drupal.settings, {"basePath":"\\/","pathPrefix":"","ajaxPageState":{"theme":"specialone","theme_token":"zhfU4hU6iprjLlqU3q4oZYA1uozqRn38QHrSa8_JOQ8","js":{"\\/\\/code.jquery.com\\/jquery-1.10.2.min.js":1,"0":1,"misc\\/jquery.once.js":1,"misc\\/drupal.js":1,"sites\\/all\\/modules\\/mobile_navigation\\/js\\/mobile_menu.js":1,"sites\\/all\\/modules\\/mobile_navigation\\/mobile_navigation.js":1,"sites\\/all\\/modules\\/google_analytics\\/googleanalytics.js":1,"1":1,"sites\\/all\\/modules\\/nivo_slider\\/js\\/nivo_slider.js":1,"sites\\/all\\/libraries\\/nivo-slider\\/jquery.nivo.slider.pack.js":1,"http:\\/\\/maps.google.com\\/maps\\/api\\/js?sensor=false":1,"sites\\/all\\/themes\\/specialone\\/js\\/bootstrap.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.isotope.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.flexslider-min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jflickrfeed.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.fitvids.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.easy-pie-chart.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.eislideshow.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.easing.1.3.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.sequence-min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/app.js":1},"css":{"modules\\/system\\/system.base.css":1,"modules\\/system\\/system.menus.css":1,"modules\\/system\\/system.messages.css":1,"modules\\/system\\/system.theme.css":1,"sites\\/all\\/modules\\/ldap\\/ldap_user\\/ldap_user.css":1,"modules\\/book\\/book.css":1,"sites\\/all\\/modules\\/calendar\\/css\\/calendar_multiday.css":1,"modules\\/comment\\/comment.css":1,"sites\\/all\\/modules\\/date\\/date_api\\/date.css":1,"sites\\/all\\/modules\\/date\\/date_popup\\/themes\\/datepicker.1.7.css":1,"modules\\/field\\/theme\\/field.css":1,"modules\\/node\\/node.css":1,"modules\\/poll\\/poll.css":1,"modules\\/search\\/search.css":1,"modules\\/user\\/user.css":1,"sites\\/all\\/modules\\/workflow\\/workflow_admin_ui\\/workflow_admin_ui.css":1,"sites\\/all\\/modules\\/views\\/css\\/views.css":1,"sites\\/all\\/modules\\/ckeditor\\/css\\/ckeditor.css":1,"sites\\/all\\/modules\\/ctools\\/css\\/ctools.css":1,"sites\\/all\\/modules\\/facebook_pull\\/facebook_pull.css":1,"sites\\/all\\/modules\\/ldap\\/ldap_servers\\/ldap_servers.admin.css":1,"sites\\/all\\/modules\\/panels\\/css\\/panels.css":1,"modules\\/locale\\/locale.css":1,"sites\\/all\\/modules\\/mobile_navigation\\/mobile_navigation.css":1,"sites\\/all\\/libraries\\/nivo-slider\\/themes\\/default\\/default.css":1,"sites\\/all\\/libraries\\/nivo-slider\\/nivo-slider.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/bootstrap.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/style.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/bootstrap-responsive.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/font-awesome.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/flexslider.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/colors\\/custom.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/style-responsive.css":1,"public:\\/\\/css_injector\\/css_injector_2.css":1,"public:\\/\\/css_injector\\/css_injector_3.css":1,"public:\\/\\/css_injector\\/css_injector_11.css":1,"public:\\/\\/css_injector\\/css_injector_13.css":1}},"inEffects":["bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn"],"outEffects":["bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut"],"mobile_navigation":{"breakpoint":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","menuSelector":"#main-menu-links","menuPlugin":"slideMenu","showEffect":"expand_down","showItems":"all","tabHandler":1,"menuWidth":"65","specialClasses":0,"mainPageSelector":"#page","useMask":1,"menuLabel":"Menu","expandActive":0},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"nivo_slider":{"effect":"fade","slices":1,"boxCols":8,"boxRows":4,"animSpeed":200,"pauseTime":10000,"startSlide":1,"directionNav":false,"controlNav":true,"controlNavThumbs":false,"pauseOnHover":true,"manualAdvance":false,"prevText":"Prev","nextText":"Next","randomStart":false},"settings":{"layout_version":"wide","theme_color":"custom","boxed_bColor":"bg-color-grayLight2","use_bPattern":"0","boxed_bPattern":"bg-pattern-wavegrid","header_bColor":"bg-color-grayDark2","header_tColor":"text-color-grayLight1","header_tiColor":"text-color-grayLight2","header_lColor":"text-color-grayLight2","top_content_bColor":"bg-color-grayLight2","top_content_tColor":"text-color-grayDark2","top_content_tiColor":"text-color-grayDark1","top_content_lColor":"text-color-theme","featured_bColor":"bg-color-white","featured_tColor":"text-color-grayDark2","featured_tiColor":"text-color-grayDark1","featured_lColor":"text-color-theme","wide1_bColor":"bg-color-midnightBlue","wide1_tColor":"text-color-white","wide1_tiColor":"text-color-white","wide1_lColor":"text-color-theme","wide1_use_bImg":"0","wide1_bImg":"bg-image-eighteen","wide2_bColor":"bg-color-white","wide2_tColor":"text-color-grayDark2","wide2_tiColor":"text-color-grayDark1","wide2_lColor":"text-color-theme","wide3_bColor":"bg-color-grayLight1","wide3_tColor":"text-color-grayDark2","wide3_tiColor":"text-color-grayDark1","wide3_lColor":"text-color-theme","wide3_use_bImg":"0","wide3_bImg":"bg-image-one","wide4_bColor":"bg-color-white","wide4_tColor":"text-color-grayDark2","wide4_tiColor":"text-color-grayDark1","wide4_lColor":"text-color-theme","before_footer_bColor":"bg-color-theme","before_footer_tColor":"text-color-grayLight2","before_footer_tiColor":"text-color-grayLight1","before_footer_lColor":"text-color-grayLight3","footer_four_bColor":"bg-color-grayDark1","footer_four_tColor":"text-color-grayDark2","footer_four_tiColor":"text-color-grayLight2","footer_four_lColor":"text-color-grayLight2","footer_bColor":"bg-color-grayDark2","footer_tColor":"text-color-grayDark2","footer_tiColor":"text-color-grayLight2","footer_lColor":"text-color-grayLight2","slider_color":"bg-color-belizeHole","slider_use_bImg":"1","slider_bImg":"bg-image-one","google_latitude":"45.497038","google_longitude":"-73.578633","google_zoom":"7","google_title":"Concordia Student Union","google_description":"","flickr_id":"12913238@N03","flickr_limit":"6","base_url":"https:\\/\\/csu.qc.ca"}});\n//--><!]]>\n
+\n\n\n\n>
