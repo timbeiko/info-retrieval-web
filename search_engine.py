@@ -34,7 +34,6 @@ def sentimentSearch(matching_docs,query_sentiment_value,doc_sentiment):
             print mappedURL[str(doc)] + " (Sentiment: " + str(sent) + ")"
     else: # sorted the matching_docs from lowest to highest
         for doc, sent in sorted(dictionary.items(), key=lambda dictionary: dictionary[1], reverse=False):
-            print(doc,mappedURL[doc].mappedURL[str(doc)] )
             print mappedURL[str(doc)] + " (Sentiment: " + str(sent) + ")"
 
     print "\n"
