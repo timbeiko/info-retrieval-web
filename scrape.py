@@ -6,9 +6,11 @@ import robotparser
 import urlparse
 import urllib2
 import os 
+import json
 
 AGENT_NAME = 'COMP479'
 VISITED_PAGES = []
+docID_to_URL = {}
 
 STARTING_WEBPAGES = ["https://csu.qc.ca/content/student-groups-associations", 
                      "https://www.concordia.ca/artsci/students/associations.html", 
@@ -22,6 +24,7 @@ total_crawled_pages = 0 # Total for all pages
 
 for webpage in STARTING_WEBPAGES:
     print "\nCrawling from: " + str(webpage) + "\n"
+    
     pages_to_crawl = []
     pages_to_crawl.append(webpage)
     crawled_pages = 0 # Total for this start page 
@@ -50,24 +53,27 @@ for webpage in STARTING_WEBPAGES:
             continue
 
         # Only go to pages allowed by robots.txt
-        if not parser.can_fetch(AGENT_NAME, url):
+        if not parser.can_fetch(AGENT_NAME, url):            
             print "Cannot parse " + str(url)
             continue
 
         # Get content from webpage 
         try:
             content = urllib2.urlopen(url).read()
-        except:
+        except:            
             print "Cannot open contents of " + str(url)
             continue
         soup = BeautifulSoup(content)
+
+        #saving the mapping of Document ID and web URL for this URL
+        docID_to_URL[total_crawled_pages] = url
 
         # Output content to file 
         filename = RAW_WEBPAGE_OUTPUT_DIR + "/" + str(total_crawled_pages) + ".txt"
         raw_output = open(os.getcwd() + filename, 'w+')
         try: 
             raw_output.write(str(soup.prettify))
-        except: 
+        except:             
             print "Cannot write contents of " + str(url)
             continue 
 
@@ -90,3 +96,4 @@ for webpage in STARTING_WEBPAGES:
         crawled_pages += 1 
         total_crawled_pages += 1
 
+json.dump(docID_to_URL, open('docID_URL_mapping.json', 'w'),indent=4) 

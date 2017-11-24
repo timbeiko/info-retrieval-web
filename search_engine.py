@@ -15,6 +15,9 @@ def loadDocSentiment():
     dictionary = json.load(open('sentiment_index.json'))
     return dictionary
 
+def loadMapping():
+    mapping = json.load(open('docID_URL_mapping.json.json'))
+    return mapping
 
 def sentimentSearch(matching_docs,query_sentiment_value,doc_sentiment):
     dictionary = dict()
@@ -27,10 +30,10 @@ def sentimentSearch(matching_docs,query_sentiment_value,doc_sentiment):
     # sorted the matching_docs from highest to lowest
     if query_sentiment_value >= 0:
         for doc, sent in sorted(dictionary.items(), key=lambda dictionary: dictionary[1], reverse=True):
-            print "Document ID: " + str(doc) + " sentiment: " + str(sent)
+            print "Document ID: " + mappedURL[doc] + " sentiment: " + str(sent)
     else: # sorted the matching_docs from lowest to highest
         for doc, sent in sorted(dictionary.items(), key=lambda dictionary: dictionary[1], reverse=False):
-            print "Document ID: " + str(doc) + " sentiment: " + str(sent)
+            print "Document ID: " + mappedURL[doc] + " sentiment: " + str(sent)
 
     print "\n"
 
@@ -67,7 +70,7 @@ def BM25(matching_docs, index, query, doc_lengths):
 
     print str(len(doc_scores)) + " results:"
     for doc in sorted(doc_scores, key=doc_scores.get, reverse=True):
-        print "Doc: " + str(doc) + " Score: " + str(doc_scores[doc])
+        print "Doc: " + mappedURL[doc] + " Score: " + str(doc_scores[doc])
     print "\n"
 
 
@@ -231,6 +234,7 @@ def main():
     checkIfIndex()
     index = loadIndexToMemory()
     doc_sentiment = loadDocSentiment()
+    mappedURL = loadMapping()
     searchForDocuments(index,doc_sentiment)
     print "\n==================================================="
     print "Thank you for using Tim's Reuters Search Engine"
