@@ -1,842 +1,385 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-C.A.S.E. Concordia – The Concordia Association for Students in English
-
-
-
-
-
-		/* <![CDATA[ */
-			if ( 'function' === typeof WPRemoteLogin ) {
-				document.cookie = "wordpress_test_cookie=test; path=/";
-				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
-					WPRemoteLogin();
-				}
-			}
-		/* ]]> */
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		/* <![CDATA[ */
-		function addLoadEvent(func) {
-			var oldonload = window.onload;
-			if (typeof window.onload != 'function') {
-				window.onload = func;
-			} else {
-				window.onload = function () {
-					oldonload();
-					func();
-				}
-			}
-		}
-		/* ]]> */
-	
-
-
-
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s2.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1505864856h&ver=4.9-RC-20171115"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		
-
-
-
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		var __ATA_PP = { pt: 0, ht: 0, tn: 'ixion', amp: false };
-		var __ATA = __ATA || {};
-		__ATA.cmd = __ATA.cmd || [];
-		__ATA.criteo = __ATA.criteo || {};
-		__ATA.criteo.cmd = __ATA.criteo.cmd || [];
-		
-
-
-
-
-
-	window.google_analytics_uacct = "UA-52447-2";
-
-
-
-
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-52447-2']);
-	_gaq.push(['_setDomainName', 'none']);
-	_gaq.push(['_setAllowLinker', true]);
-	_gaq.push(['_initData']);
-	_gaq.push(['_trackPageview']);
-
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
-	})();
-
-
-
-
-
-
-
-
-
-Skip to content
-
-
-
-
-
-
-
-
-
-
-Search for:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-C.A.S.E. Concordia
-
-
-
-
-
-
+\n\n\t
+\n
+\n<!--//--><![CDATA[//><!--\nwindow.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\\x3C/script>")\n//--><!]]>\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n<!--//--><![CDATA[//><!--\n(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-67381822-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");\n//--><!]]>\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n<!--//--><![CDATA[//><!--\njQuery.extend(Drupal.settings, {"basePath":"\\/","pathPrefix":"","ajaxPageState":{"theme":"specialone","theme_token":"jsU3FgOuUif2xhnHX3U_9O3p3__yd8jXdaUJegbzomE","js":{"\\/\\/code.jquery.com\\/jquery-1.10.2.min.js":1,"0":1,"misc\\/jquery.once.js":1,"misc\\/drupal.js":1,"sites\\/all\\/modules\\/mobile_navigation\\/js\\/mobile_menu.js":1,"sites\\/all\\/modules\\/mobile_navigation\\/mobile_navigation.js":1,"sites\\/all\\/modules\\/google_analytics\\/googleanalytics.js":1,"1":1,"sites\\/all\\/modules\\/nivo_slider\\/js\\/nivo_slider.js":1,"sites\\/all\\/libraries\\/nivo-slider\\/jquery.nivo.slider.pack.js":1,"http:\\/\\/maps.google.com\\/maps\\/api\\/js?sensor=false":1,"sites\\/all\\/themes\\/specialone\\/js\\/bootstrap.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.isotope.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.flexslider-min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jflickrfeed.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.fitvids.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.easy-pie-chart.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.eislideshow.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.easing.1.3.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.sequence-min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/app.js":1},"css":{"modules\\/system\\/system.base.css":1,"modules\\/system\\/system.menus.css":1,"modules\\/system\\/system.messages.css":1,"modules\\/system\\/system.theme.css":1,"sites\\/all\\/modules\\/ldap\\/ldap_user\\/ldap_user.css":1,"modules\\/book\\/book.css":1,"sites\\/all\\/modules\\/calendar\\/css\\/calendar_multiday.css":1,"modules\\/comment\\/comment.css":1,"sites\\/all\\/modules\\/date\\/date_api\\/date.css":1,"sites\\/all\\/modules\\/date\\/date_popup\\/themes\\/datepicker.1.7.css":1,"modules\\/field\\/theme\\/field.css":1,"modules\\/node\\/node.css":1,"modules\\/poll\\/poll.css":1,"modules\\/search\\/search.css":1,"modules\\/user\\/user.css":1,"sites\\/all\\/modules\\/workflow\\/workflow_admin_ui\\/workflow_admin_ui.css":1,"sites\\/all\\/modules\\/views\\/css\\/views.css":1,"sites\\/all\\/modules\\/ckeditor\\/css\\/ckeditor.css":1,"sites\\/all\\/modules\\/ctools\\/css\\/ctools.css":1,"sites\\/all\\/modules\\/facebook_pull\\/facebook_pull.css":1,"sites\\/all\\/modules\\/ldap\\/ldap_servers\\/ldap_servers.admin.css":1,"sites\\/all\\/modules\\/panels\\/css\\/panels.css":1,"modules\\/locale\\/locale.css":1,"sites\\/all\\/modules\\/mobile_navigation\\/mobile_navigation.css":1,"sites\\/all\\/libraries\\/nivo-slider\\/themes\\/default\\/default.css":1,"sites\\/all\\/libraries\\/nivo-slider\\/nivo-slider.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/bootstrap.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/style.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/bootstrap-responsive.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/font-awesome.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/flexslider.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/colors\\/custom.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/style-responsive.css":1,"public:\\/\\/css_injector\\/css_injector_2.css":1,"public:\\/\\/css_injector\\/css_injector_3.css":1,"public:\\/\\/css_injector\\/css_injector_11.css":1,"public:\\/\\/css_injector\\/css_injector_13.css":1}},"inEffects":["bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn"],"outEffects":["bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut"],"mobile_navigation":{"breakpoint":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","menuSelector":"#main-menu-links","menuPlugin":"slideMenu","showEffect":"expand_down","showItems":"all","tabHandler":1,"menuWidth":"65","specialClasses":0,"mainPageSelector":"#page","useMask":1,"menuLabel":"Menu","expandActive":0},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"nivo_slider":{"effect":"fade","slices":1,"boxCols":8,"boxRows":4,"animSpeed":200,"pauseTime":10000,"startSlide":1,"directionNav":false,"controlNav":true,"controlNavThumbs":false,"pauseOnHover":true,"manualAdvance":false,"prevText":"Prev","nextText":"Next","randomStart":false},"settings":{"layout_version":"wide","theme_color":"custom","boxed_bColor":"bg-color-grayLight2","use_bPattern":"0","boxed_bPattern":"bg-pattern-wavegrid","header_bColor":"bg-color-grayDark2","header_tColor":"text-color-grayLight1","header_tiColor":"text-color-grayLight2","header_lColor":"text-color-grayLight2","top_content_bColor":"bg-color-grayLight2","top_content_tColor":"text-color-grayDark2","top_content_tiColor":"text-color-grayDark1","top_content_lColor":"text-color-theme","featured_bColor":"bg-color-white","featured_tColor":"text-color-grayDark2","featured_tiColor":"text-color-grayDark1","featured_lColor":"text-color-theme","wide1_bColor":"bg-color-midnightBlue","wide1_tColor":"text-color-white","wide1_tiColor":"text-color-white","wide1_lColor":"text-color-theme","wide1_use_bImg":"0","wide1_bImg":"bg-image-eighteen","wide2_bColor":"bg-color-white","wide2_tColor":"text-color-grayDark2","wide2_tiColor":"text-color-grayDark1","wide2_lColor":"text-color-theme","wide3_bColor":"bg-color-grayLight1","wide3_tColor":"text-color-grayDark2","wide3_tiColor":"text-color-grayDark1","wide3_lColor":"text-color-theme","wide3_use_bImg":"0","wide3_bImg":"bg-image-one","wide4_bColor":"bg-color-white","wide4_tColor":"text-color-grayDark2","wide4_tiColor":"text-color-grayDark1","wide4_lColor":"text-color-theme","before_footer_bColor":"bg-color-theme","before_footer_tColor":"text-color-grayLight2","before_footer_tiColor":"text-color-grayLight1","before_footer_lColor":"text-color-grayLight3","footer_four_bColor":"bg-color-grayDark1","footer_four_tColor":"text-color-grayDark2","footer_four_tiColor":"text-color-grayLight2","footer_four_lColor":"text-color-grayLight2","footer_bColor":"bg-color-grayDark2","footer_tColor":"text-color-grayDark2","footer_tiColor":"text-color-grayLight2","footer_lColor":"text-color-grayLight2","slider_color":"bg-color-belizeHole","slider_use_bImg":"1","slider_bImg":"bg-image-one","google_latitude":"45.497038","google_longitude":"-73.578633","google_zoom":"7","google_title":"Concordia Student Union","google_description":"","flickr_id":"12913238@N03","flickr_limit":"6","base_url":"https:\\/\\/csu.qc.ca"}});\n//--><!]]>\n
+\n\t
+\n\t
+\n
+\n
+\n
+\n
+\n\t
+CSU Live Newsletter | Concordia Student Union | csu.qc.ca
+\n\t
+\n\t
+\n@import url("https://csu.qc.ca/modules/system/system.base.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/system/system.menus.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/system/system.messages.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/system/system.theme.css?ok8zbn");\n
+\n
+\n@import url("https://csu.qc.ca/sites/all/modules/ldap/ldap_user/ldap_user.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/book/book.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/calendar/css/calendar_multiday.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/comment/comment.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/date/date_api/date.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/field/theme/field.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/node/node.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/poll/poll.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/search/search.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/user/user.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/workflow/workflow_admin_ui/workflow_admin_ui.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/views/css/views.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/ckeditor/css/ckeditor.css?ok8zbn");\n
+\n
+\n@import url("https://csu.qc.ca/sites/all/modules/ctools/css/ctools.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/facebook_pull/facebook_pull.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/ldap/ldap_servers/ldap_servers.admin.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/panels/css/panels.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/locale/locale.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/mobile_navigation/mobile_navigation.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/libraries/nivo-slider/themes/default/default.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/libraries/nivo-slider/nivo-slider.css?ok8zbn");\n
+\n
+\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/bootstrap.min.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/style.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/bootstrap-responsive.min.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/font-awesome.min.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/flexslider.css?ok8zbn");\n
+\n
+\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/colors/custom.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/style-responsive.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/default/files/css_injector/css_injector_2.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/default/files/css_injector/css_injector_3.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/default/files/css_injector/css_injector_11.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/default/files/css_injector/css_injector_13.css?ok8zbn");\n
+\n\t
+\n\n\n\n\t\t\n
+\n   \n  
+\n\n      
+\n      
+\n        
+\n                  
+\n        
+\n            
+\n    \n
+\n\n      \n  
+\n    
+English
+\n
+Fran\xe7ais
+\n
+  
+\n
+  
+\n        
+\n      
+\n    
+\n     \n  
+\n   \n\t
+\n    
+\n  \n    
+\n  \n  \t  
+\n  \t\t          \t
+\n          \t  
+\n  \n  \t
+\n  \n  \t
+\n  \n  \t  
+\n  \t\t  
+\n  \t\t\t  
+\n  \t\t\t\t  
+\n  \t\t\t\t\t  
 Menu
-
-
-About
-
-
-News / Events
-
-
-LUCC
-
-
-Publications
-
-
-Useful Links
-
-
-
-
-MLA and Research
-
-
-Grad School
-
-
-Financial & Academic Support
-
-
-
-
-
-
+\n  \n  \t\t\t\t\t  
+\n  \t\t\t\t\t    
+About Us
+Our Mission
+Council of Representatives
+Executive Team
+Judicial Board
+Funding and Fees
+Directory
+University Bodies
+Senate
+Board of Governors
+Jobs @ CSU
+Services
+Advocacy Centre
+Legal Information Clinic
+Housing and Job Bank (HOJO)
+Classifieds
+Health and Dental Plan
+Hive Loyola Free Lunch
+Emergency Food Vouchers
+Bookings
+General Booking Terms and Conditions
+CSU Mezzanine Information Tables Terms and Usage Policies
+CSU Live Newsletter
+Projects
+Reggie's Bar Renovations
+Daycare Service
+Hive Caf\xe9 Solidarity Co-op
+Cooperative Student Housing
+Cooperative Housing Committee
+Cooperative Housing Focus Group
+Concordia Student Congress
+Survey
+Campaigns
+Campaigns
+Unpaid Internships
+Climate Justice & Divestment
+Anti-Consumerism
+Past Campaigns
+#BringBissanHome
+Austerity
+International Tuition Hike
+Tribunals
+Student Life
+Fee Levy Groups
+Student Groups & Associations
+Bursaries at the CSU
+Sustainability
+Food Systems Reform
+Sustainability Resources on Campus
+Food System Special Project Funding Policy
+Clubs
+Active Clubs
+Starting a New Club
+How to Manage your Club
+Resources
+Apply for Funding
+Apply for Funding
+Special Project Funding
+CSU Special Clubs Funding
+CSU Community Action Fund
+Food Systems Special Project Funding
+CSU Committee Funding
+Other Sources of Funding
+  \t\t\t\t\t  
+\n  \t\t\t\t  
+\n  \t\t\t  
+\n  \t\t  
+\n  \t  
+\n  \n  \t
+\n  \n    
+\n  
+\n  \n  
+\n\n  
+\n  \t\t\n\t\t
+\n      
+\n        \n        
+\n        \n        
+\n          
+Home
+\u203a
+Services
+                  
+\n        
+\n\n      
+\n    
+\n\t\n\t
+\n\t  \n  
+\n\n  
+\n   \n      
+\n      
+\n        
+\n            
+\n    \n
+\n\n      \n  
+\n      
+\n
+  
+\n        
+\n      
+\n    
+\n     \n  
+\n\t\n\t
+\n  \n  \n  
+\n\t\n\t
+\n  \n    \n  
+\n\t\n\t
+\n  \n  
+\n  \n    
+\n      
+\n\n                  
+CSU Live Newsletter
+\n                \n        
+\n\t\t    \t\t      \n\t\t    
+\n\t\t    \t\t      \t\t    \n      
+\n    
+\n    \n    
+\n  \n      
+\n  \n        \n      
+\n\t   \n      
+\n      \n      
+\n         \n        
+\n        
+\n  \n      
+\n      \n            \n            \n      
+\n        
+\n          
+\n
+What is it?
+\n\n
+\xa0
+\n\n
+The CSU LIVE is one of the Concordia Student Union's communications initiatives to help keep Concordia students in the loop.\xa0CSU LIVE is a weekly\xa0newsletter that includes up-to-date campus activities & initiatives, contests, job offerings & more.\xa0
+\n\n
+Our other communications\xa0initiatives\xa0include our\xa0Facebook, Twitter, Instagram, and YouTube pages.\xa0
+\n\n
+\xa0
+\n\n
+Who receives the CSU LIVE?
+\n\n
+The CSU LIVE newsletter is sent weekly to all undergraduates by e-mail. To follow the Concordia Student Union's other communications initiatives, click on our social media links below.
+\n\n
+For submissions to the CSU LIVE newsletter, please contact 
+communications@csu.qc.ca
+\n\xa0
+\n\n
+\xa0
+\n\n
+Social Media 
+\n\n
+Interested in following your union? Subscribe, follow, like, and we\u2019ll keep you updated with news on the CSU\u2019s events & campaigns!
+\n\n
+facebook.com/csu.qc.ca
+\n\n
+twitter.com/csumtl
+\n\n
+instagram.com/csumtl
+\n\n
 Contact
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The Concordia Association for Students in English
-
-
-Learn more about c.a.s.e.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CASE is looking for Executive Members!
-
-
-Find out how you can join the team and make your university experience that much more fulfilling!
-
-
-The available positions are:
-
-
-– VP COMMUNICATIONS –
-
-
-– VP EXTERNAL –
-
-– VP FINANCE –
-
-– VP INTERNAL –
-
-– VP SOCIAL –
-
-
-
-
-Key important dates:
-
-– Nomination Period: Wednesday Nov. 8th – Tuesday Nov. 14th
-
-– Campaign Period: Wednesday Nov. 15th – Tuesday Nov 21st
-
-– Polling Period: Wednesday Nov. 22nd – Thursday Nov. 23rd
-
-
-Pick up your nomination forms at the CASE office (LB-656) or 
-email us
-!
-
-DEADLINE TO SELF-NOMINATE IS TUESDAY NOV 14th @ 6PM
-
-
-
-
-
-
-
-
-Advertisements
-
-
-
-
-
- __ATA.cmd.push(function() {
-                    __ATA.initSlot('atatags-26942',  {
-                        collapseEmpty: 'before',
-                        sectionId: '26942',
-                        width: 300,
-                        height: 250
-                    });
-                });
-	
-
-
-
-
-
- __ATA.cmd.push(function() {
-                    __ATA.initSlot('atatags-114160',  {
-                        collapseEmpty: 'before',
-                        sectionId: '114160',
-                        width: 300,
-                        height: 250
-                    });
-                });
-	
-
-
-
-
-
-
-
-(function(){var c=function(){var a=document.getElementById("crt-1467264620");window.Criteo?(a.parentNode.style.setProperty("display","inline-block","important"),a.style.setProperty("display","block","important"),window.Criteo.DisplayAcceptableAdIfAdblocked({zoneid:388248,containerid:"crt-1467264620",collapseContainerIfNotAdblocked:!0,callifnotadblocked:function(){a.style.setProperty("display","none","important");a.style.setProperty("visbility","hidden","important")}})):(a.style.setProperty("display","none","important"),a.style.setProperty("visibility","hidden","important"))};if(window.Criteo)c();else{if(!__ATA.criteo.script){var b=document.createElement("script");b.src="//static.criteo.net/js/ld/publishertag.js";b.onload=function(){for(var a=0;a<__ATA.criteo.cmd.length;a++){var b=__ATA.criteo.cmd[a];"function"===typeof b&&b()}};(document.head||document.getElementsByTagName("head")[0]).appendChild(b);__ATA.criteo.script=b}__ATA.criteo.cmd.push(c)}})();
-		
+\nSend your requests & questions to the CSU's Communications Coordinator.
+\n\n
+communications@csu.qc.ca
+ | 514-848-7474 ext. 7892
+\n
+\n\nNot receiving the newsletter?\nWe receive our undergraduate student list after the drop deadline of every academic term and update our mailing list accordingly. If you want to receive the newsletter at a different email address than that which you used to register at Concordia, then please contact us at commscoordinator@csu.qc.ca\n\nAfter each semester our mailing list is updated once again, so if you want to avoid having to contact us to update your email every semester, then please update your primary email address via the myconcordia.ca portal.\n\nYou could also sign up your new email using the form below, but keep in mind that your registration will only be valid for the semester in questions as the content of our newsletters are intended for Concordia undergraduate students exclusively. \n\n
+\n
+\n<!--/*--><![CDATA[/* ><!--*/\n#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }\n\t/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.\n\t   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */\n\n/*--><!]]>*/\n
+\n
+\n
+Subscribe to CSU Live
  
-
-
-
-(function(){var c=function(){var a=document.getElementById("crt-1014435458");window.Criteo?(a.parentNode.style.setProperty("display","inline-block","important"),a.style.setProperty("display","block","important"),window.Criteo.DisplayAcceptableAdIfAdblocked({zoneid:837497,containerid:"crt-1014435458",collapseContainerIfNotAdblocked:!0,callifnotadblocked:function(){a.style.setProperty("display","none","important");a.style.setProperty("visbility","hidden","important")}})):(a.style.setProperty("display","none","important"),a.style.setProperty("visibility","hidden","important"))};if(window.Criteo)c();else{if(!__ATA.criteo.script){var b=document.createElement("script");b.src="//static.criteo.net/js/ld/publishertag.js";b.onload=function(){for(var a=0;a<__ATA.criteo.cmd.length;a++){var b=__ATA.criteo.cmd[a];"function"===typeof b&&b()}};(document.head||document.getElementsByTagName("head")[0]).appendChild(b);__ATA.criteo.script=b}__ATA.criteo.cmd.push(c)}})();
-		
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-Recent Posts
-
-
-
-
-
-
-
-
-
-
-November 13, 2017
- 
-CASE Concordia
- 
-Events
- 
-
-
-Graduate Studies Info Session
- 
-
-
-
-
-
-
-
-
-
-
-November 10, 2017
- 
-CASE Concordia
- 
-Events
- 
-
-
-Fall 2017 Wine & Cheese
- 
-
-
-
-
-
-
-
-
-
-
-October 10, 2017
-November 3, 2017
- 
-CASE Concordia
- 
-Publishing Opportunities
- 
-
-
-Halloween-Themed Writing Contest
- 
-
-
-
-
-
-
-
-
-
-
-September 13, 2017
- 
-CASE Concordia
- 
-Events
- 
-
-
-The Book Swap Project
- 
-
-
-
-
-
-
-
-
-
-
-September 7, 2017
-September 7, 2017
- 
-CASE Concordia
- 
-Events
- 
-
-
-Orientation Brunch – Fall 2017
- 
-
-
-
-
-
-			More Posts
-→
-
-
-
-
-
-
-
-
-
-
-
-
-Upcoming Events
- 
-
-
-Grad Studies Info Session
-
-
-Wine & Cheese
-
-
-
-
-
-
-CASE is now on Instagram!
-
-
-
-
-
-
-
-
-
-
-
-
-Stay Connected on Facebook!
- 
-
-
-
-
-Stay Connected on Facebook!
-
-
-
-
-Other Places of Interest
- 
-
-
-Concordia English Department
-
-
-Soliloquies Anthology
-
-
-LUCC
-
-
-
-
-Email Notification
-
-
-
-
-Enter your email address to subscribe to this blog and receive notifications of new posts by email.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Powered by WordPress.com
-.
-	
-	
- 
-
-
-
-
-
-
-
-
-
-/* <![CDATA[ */
-var WPGroHo = {"my_hash":""};
-/* ]]> */
-
-
-
-
-
-
-		//initialize and attach hovercards to all gravatars
-		jQuery( document ).ready( function( $ ) {
-
-			if (typeof Gravatar === "undefined"){
-				return;
-			}
-
-			if ( typeof Gravatar.init !== "function" ) {
-				return;
-			}			
-
-			Gravatar.profile_cb = function( hash, id ) {
-				WPGroHo.syncProfileData( hash, id );
-			};
-			Gravatar.my_hash = WPGroHo.my_hash;
-			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
-		});
-	
-
-
-
-
-
-
-
-
-
-
-
-
-Post to
-
-
-
-
-
-
-
-
-Cancel
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-/* <![CDATA[ */
-var jpfbembed = {"appid":"249643311490","locale":"en_US"};
-/* ]]> */
-
-
-
-
-/* <![CDATA[ */
-var actionbardata = {"siteID":"9664333","siteName":"C.A.S.E. Concordia","siteURL":"https:\/\/caseconcordia.ca","icon":"<img alt='' src='https:\/\/secure.gravatar.com\/blavatar\/b5a9379f43ca2ae12a5602e43120b92d?s=50&d=https%3A%2F%2Fs1.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"pub\/ixion","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/caseconcordia.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fcaseconcordia.ca%2F","themeURL":"https:\/\/wordpress.com\/theme\/ixion\/","xhrURL":"https:\/\/caseconcordia.ca\/wp-admin\/admin-ajax.php","nonce":"01877d8e01","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"8bcde15472\" \/>","referer":"https:\/\/caseconcordia.ca\/","canFollow":"1","feedID":"60452258","statusMessage":"","customizeLink":"https:\/\/caseconcordia.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fcaseconcordia.wordpress.com%2F","postID":"1083","shortlink":"https:\/\/wp.me\/PEy8l-ht","canEditPost":"","editLink":"https:\/\/wordpress.com\/page\/caseconcordia.ca\/1083","statsLink":"https:\/\/wordpress.com\/stats\/post\/1083\/caseconcordia.ca","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Ixion","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in Reader","viewReadPost":"View post in Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/caseconcordia.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fcaseconcordia.ca%2F\">Log in now.<\/a>","stats":"Stats"}};
-/* ]]> */
-
-
-
-
-/* <![CDATA[ */
-var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/caseconcordia.ca\/wp-admin\/admin-ajax.php","nonce":"44638de8c6","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/caseconcordia.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fcaseconcordia.ca%2F","blog_id":"9664333","local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>","reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=9664333&v=wpcom&tz=-4&user_id=0&subd=caseconcordia","is_public":"1","reblog_enabled":""};
-/* ]]> */
-
-
-
-
-
-
-// <![CDATA[
-(function() {
-try{
-  if ( window.external &&'msIsSiteMode' in window.external) {
-    if (window.external.msIsSiteMode()) {
-      var jl = document.createElement('script');
-      jl.type='text/javascript';
-      jl.async=true;
-      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
-      var s = document.getElementsByTagName('script')[0];
-      s.parentNode.insertBefore(jl, s);
-    }
-  }
-}catch(e){}
-})();
-// ]]>
-
- 
-
-	var skimlinks_pub_id = "725X584219"
-	var skimlinks_sitename = "caseconcordia.wordpress.com";
-	
-
-
-
-
-
-_tkq = window._tkq || [];
-_stq = window._stq || [];
-_tkq.push(['storeContext', {'blog_id':'9664333','blog_tz':'-4','user_lang':'en','blog_lang':'en','user_id':'0'}]);
-_stq.push(['view', {'blog':'9664333','v':'wpcom','tz':'-4','user_id':'0','post':'1083','subd':'caseconcordia'}]);
-_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWtpP0NsWnVkPS9sL0ViLndld3BxTi9jQ2xTcExndVtiV1Y1UFdzSnZobC9uMzd8MlMwTmgra1hrQVlPdEkyQzUyM2ZIZDV8bU9La0FaVixYcXVmSS1CS2xtLUtLRHVnb0N1cnpaKzFESHB5cEJPYzNnaWw9emw9dkNlW11BL0Z5UXZzQlpnbFhzcEg9OE9pQjlvXz9rQ2JvMnxweFZ+eVZ+SkFhSWVlRXd6cytvK3U4M2dlMEtNQl9XYTVOdEVpZzFKUDZzW3IsTTFDYz05JXQsJkhHLG9xU3Z5K3IyfkdlVXJuQ2pCYlk/JXZ8bjBKcl89SFA5UU1b'}]);
-_stq.push([ 'clickTrackerInit', '9664333', '1083' ]);
-	
-
-
-
-
-
-if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
-
-	wpcom_mobile_user_agent_info.init();
-	var mobileStatsQueryString = "";
-	
-	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
-		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
-	
-	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
-		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
-	
-	if( wpcom_mobile_user_agent_info.isIPad() )
-		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
-
-	if( "" != mobileStatsQueryString ) {
-		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
-	}
-	
-}
-
-
-
-
-
-
-
-
->
+\n\n
+\n
+\n
+\n
+\n
+        
+\n      
+\n      \n          \n    
+\n  \n
+\n          \n        
+\n              
+\n      \n      
+\n    \n      
+\n      \n            \n      
+\n\n    
+\n  
+\n\n\t
+\n\t\n\t
+\n\t\n\t\t\n\t
+\n\t\n  
+\n  \n    \n  
+\n  \n  
+\n  \n    \n  
+\n  \n  
+\n  \n    \n  
+\n\t\n  
+\n\t\n  \t  
+\n\t    
+\n\t      
+\n\t\t        
+\n    \n
+\n\n      \n  
+\n    
+\n
+\n
+\n
+\n
+\u200b  
+\n
+  
+\n\t\t    
+\n\t    
+\n\t  
+\n\t\t\n\t
+\n\t   \n  
+\n\t \n\t\t  
+\n\t  \n\t    
+\n\n\t      \t\t      
+\n\t\t          
+\n    \n
+\n\n        
+Quick Links
+\n    \n  
+\n    
+Login
+\n
+Resources
+\n
+Jobs
+\n
+  
+\n
+  
+\n\t\t      
+\n\t      \t      \n\t\t            \n\t\t    \t      \n\t      \t\t      
+\n\t\t          
+\n    \n
+\n\n        
+Contact Information
+\n    \n  
+\n    
+Downtown:\xa01455 de Maisonneuve Blvd West,\xa0H-711\xa0Montr\xe9al, QC H3G 1M8
+\n\t
+Loyola:\xa07141 Sherbrooke Street West, CC-426\xa0Montr\xe9al,\xa0QC\xa0H4B 1R6
+\n\t
+Phone -\xa0514 848-7474 | Fax: 514 848-7450
+\n\t
+Email -\xa0info@csu.qc.ca
+\n
+  
+\n
+  
+\n\t\t      
+\n\t      \t      \n\t    
+\n\t\n\t  
+\n\t\t\n\t
+\n\t\t\n\t
+\n\t\t\n\t
+\n\t\t\n      
+\n      \n                  
+\n              
+\n    \n
+\n\n      \n  
+\n    
+Concordia Student Union | Copyright 2016\xa0|\xa0All Rights Reserved
+\n  
+\n
+  
+\n          
+\n                  \n          \n      
+\n\n\t
+\n\t\n\t
+\n  \n  
+\n    
+\n\n
+\n\n
+\n\t  
+\n
+\n<!--//--><![CDATA[//><!--\nwindow.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\\x3C/script>")\n//--><!]]>\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n<!--//--><![CDATA[//><!--\n(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-67381822-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");\n//--><!]]>\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n<!--//--><![CDATA[//><!--\njQuery.extend(Drupal.settings, {"basePath":"\\/","pathPrefix":"","ajaxPageState":{"theme":"specialone","theme_token":"jsU3FgOuUif2xhnHX3U_9O3p3__yd8jXdaUJegbzomE","js":{"\\/\\/code.jquery.com\\/jquery-1.10.2.min.js":1,"0":1,"misc\\/jquery.once.js":1,"misc\\/drupal.js":1,"sites\\/all\\/modules\\/mobile_navigation\\/js\\/mobile_menu.js":1,"sites\\/all\\/modules\\/mobile_navigation\\/mobile_navigation.js":1,"sites\\/all\\/modules\\/google_analytics\\/googleanalytics.js":1,"1":1,"sites\\/all\\/modules\\/nivo_slider\\/js\\/nivo_slider.js":1,"sites\\/all\\/libraries\\/nivo-slider\\/jquery.nivo.slider.pack.js":1,"http:\\/\\/maps.google.com\\/maps\\/api\\/js?sensor=false":1,"sites\\/all\\/themes\\/specialone\\/js\\/bootstrap.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.isotope.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.flexslider-min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jflickrfeed.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.fitvids.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.easy-pie-chart.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.eislideshow.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.easing.1.3.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.sequence-min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/app.js":1},"css":{"modules\\/system\\/system.base.css":1,"modules\\/system\\/system.menus.css":1,"modules\\/system\\/system.messages.css":1,"modules\\/system\\/system.theme.css":1,"sites\\/all\\/modules\\/ldap\\/ldap_user\\/ldap_user.css":1,"modules\\/book\\/book.css":1,"sites\\/all\\/modules\\/calendar\\/css\\/calendar_multiday.css":1,"modules\\/comment\\/comment.css":1,"sites\\/all\\/modules\\/date\\/date_api\\/date.css":1,"sites\\/all\\/modules\\/date\\/date_popup\\/themes\\/datepicker.1.7.css":1,"modules\\/field\\/theme\\/field.css":1,"modules\\/node\\/node.css":1,"modules\\/poll\\/poll.css":1,"modules\\/search\\/search.css":1,"modules\\/user\\/user.css":1,"sites\\/all\\/modules\\/workflow\\/workflow_admin_ui\\/workflow_admin_ui.css":1,"sites\\/all\\/modules\\/views\\/css\\/views.css":1,"sites\\/all\\/modules\\/ckeditor\\/css\\/ckeditor.css":1,"sites\\/all\\/modules\\/ctools\\/css\\/ctools.css":1,"sites\\/all\\/modules\\/facebook_pull\\/facebook_pull.css":1,"sites\\/all\\/modules\\/ldap\\/ldap_servers\\/ldap_servers.admin.css":1,"sites\\/all\\/modules\\/panels\\/css\\/panels.css":1,"modules\\/locale\\/locale.css":1,"sites\\/all\\/modules\\/mobile_navigation\\/mobile_navigation.css":1,"sites\\/all\\/libraries\\/nivo-slider\\/themes\\/default\\/default.css":1,"sites\\/all\\/libraries\\/nivo-slider\\/nivo-slider.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/bootstrap.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/style.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/bootstrap-responsive.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/font-awesome.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/flexslider.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/colors\\/custom.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/style-responsive.css":1,"public:\\/\\/css_injector\\/css_injector_2.css":1,"public:\\/\\/css_injector\\/css_injector_3.css":1,"public:\\/\\/css_injector\\/css_injector_11.css":1,"public:\\/\\/css_injector\\/css_injector_13.css":1}},"inEffects":["bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn"],"outEffects":["bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut"],"mobile_navigation":{"breakpoint":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","menuSelector":"#main-menu-links","menuPlugin":"slideMenu","showEffect":"expand_down","showItems":"all","tabHandler":1,"menuWidth":"65","specialClasses":0,"mainPageSelector":"#page","useMask":1,"menuLabel":"Menu","expandActive":0},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"nivo_slider":{"effect":"fade","slices":1,"boxCols":8,"boxRows":4,"animSpeed":200,"pauseTime":10000,"startSlide":1,"directionNav":false,"controlNav":true,"controlNavThumbs":false,"pauseOnHover":true,"manualAdvance":false,"prevText":"Prev","nextText":"Next","randomStart":false},"settings":{"layout_version":"wide","theme_color":"custom","boxed_bColor":"bg-color-grayLight2","use_bPattern":"0","boxed_bPattern":"bg-pattern-wavegrid","header_bColor":"bg-color-grayDark2","header_tColor":"text-color-grayLight1","header_tiColor":"text-color-grayLight2","header_lColor":"text-color-grayLight2","top_content_bColor":"bg-color-grayLight2","top_content_tColor":"text-color-grayDark2","top_content_tiColor":"text-color-grayDark1","top_content_lColor":"text-color-theme","featured_bColor":"bg-color-white","featured_tColor":"text-color-grayDark2","featured_tiColor":"text-color-grayDark1","featured_lColor":"text-color-theme","wide1_bColor":"bg-color-midnightBlue","wide1_tColor":"text-color-white","wide1_tiColor":"text-color-white","wide1_lColor":"text-color-theme","wide1_use_bImg":"0","wide1_bImg":"bg-image-eighteen","wide2_bColor":"bg-color-white","wide2_tColor":"text-color-grayDark2","wide2_tiColor":"text-color-grayDark1","wide2_lColor":"text-color-theme","wide3_bColor":"bg-color-grayLight1","wide3_tColor":"text-color-grayDark2","wide3_tiColor":"text-color-grayDark1","wide3_lColor":"text-color-theme","wide3_use_bImg":"0","wide3_bImg":"bg-image-one","wide4_bColor":"bg-color-white","wide4_tColor":"text-color-grayDark2","wide4_tiColor":"text-color-grayDark1","wide4_lColor":"text-color-theme","before_footer_bColor":"bg-color-theme","before_footer_tColor":"text-color-grayLight2","before_footer_tiColor":"text-color-grayLight1","before_footer_lColor":"text-color-grayLight3","footer_four_bColor":"bg-color-grayDark1","footer_four_tColor":"text-color-grayDark2","footer_four_tiColor":"text-color-grayLight2","footer_four_lColor":"text-color-grayLight2","footer_bColor":"bg-color-grayDark2","footer_tColor":"text-color-grayDark2","footer_tiColor":"text-color-grayLight2","footer_lColor":"text-color-grayLight2","slider_color":"bg-color-belizeHole","slider_use_bImg":"1","slider_bImg":"bg-image-one","google_latitude":"45.497038","google_longitude":"-73.578633","google_zoom":"7","google_title":"Concordia Student Union","google_description":"","flickr_id":"12913238@N03","flickr_limit":"6","base_url":"https:\\/\\/csu.qc.ca"}});\n//--><!]]>\n
+\n\n\n\n>

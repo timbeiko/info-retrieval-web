@@ -1,208 +1,265 @@
-
-
-
-
-
-
-
-
-SOUTH ASIAN FILM FESTIVAL, Oct 27-29 / Nov 3-5, de Sèves Theatre | CUPFA
- 
- 
-img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-shadow:none !important;height:1em !important;width:1em !important;margin:0
-.07em !important;vertical-align:-0.1em !important;background:none !important;padding:0
-!important}
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-#site-title,#site-description{position:absolute;left:-9000px}
-Skip to content
-Professional Development
-Deadlines
-Teaching Application Form
-News
-Quick Links:
-←
- CAMPUS EQUITY WEEK, Oct. 23-28
-BONNIE BAXTER wins Charles-Biddle Award 2017 
-→
-SOUTH ASIAN FILM FESTIVAL, Oct 27-29 / Nov 3-5, de Sèves Theatre
-
-
-Posted on
- 
-October 24, 2017
- 
-by
- 
-laurie
- 
-The South Asian Film Festival of Montreal — organized by 
-Dipti Gupta
- — highlights significant issues and themes being explored by South Asian and diaspora filmmakers. Filmmakers from India, the US, Canada will be present for panel discussions after each screening.
-October 27-29, November 3-5
-
-de Sèves Theatre
-
-Webster Building
-For more information including the schedule, see: 
-http://www.saffm.centrekabir.com/en/
-
-This entry was posted in 
-News
-. Bookmark the 
-permalink
-.
-←
- CAMPUS EQUITY WEEK, Oct. 23-28
-BONNIE BAXTER wins Charles-Biddle Award 2017 
-→
-Home
+\n
+ \n     
+\n     
+\n     \n     
+2002-2007 Agreement - Concordia University Faculty Association
+\n     \n     \n     
+\n     \n     \n     
+\n     
+ \n     
+\n     \n     
+\n     \n     
+\n\t\n     
+\n\t\n\t
+\n\t\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n     
+\n\n\n\n\n\t\n     
+    \n    \t
+\n    
+Search:
+\n        
+\n        
+\n    
+\n
+\t\t
+Login:
+\n\t\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t\t\n\t\t\t\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t\t\n\t\t
+\t\n\t
+Concordia University Faculty Association
+\n\t       \n\t
+\n\n               
+Twitter
+\n          
+<!--\n\t\t\t\tvar a='cufa';\n\t\t\t\tvar b='concordia.ca';\n\t\t\t\tvar fullEmailLink= '<li class="e'+'ma'+'il-icon"><a href="m'+'a'+'ilt'+'o:'+a+'@'+b+'">Em'+'ail CUFA</a></li>';\n\t\t\t\t$("#header-main .networking-icons").prepend(fullEmailLink);\n\t\t\t\t-->
+\n\t\t\t\t        \n\t        \n          
+\n              
 About
-Mandate & History
-Executive 2017-20
-Committees
+\n
+\n\t
+Executive
+\n\t
 Staff
-News & Events
-News
-Events
-Videos
-Media Coverage – Negotiations
-Collective Agreement
-Pensions and Retirement
-Pension Information
-Retirement Planning
-Professional Development
-About PD
-CUPFA Grants
-Travel and Expenses
-Grant Reports
-Small Claims
-PD – FAQ
-Office of Research
+\n\t
+Committees
+\n\t
+Council Members
+\n\t
+From the President
+\n\t
+Frequently Asked Questions
+\n
+\n
+\n
+Resources
+\n
+\n\t
+Constitution
+\n\t
 Forms
-Publications
-Newsletters
-Survival Guide
-Commandments
-Multi-Section Courses
-Concordia Resources
-FAQ
-Contact Us
-
-
-Search for:
-
-
-
-
-Recent Posts
-Official Signing of 5th Collective Agreement
-Words and Public Space, Andrew Forster, Erin Moure...
-Campus Equity Week article in The Concordian
-Instability of Work a Cause of Stress for...
-BONNIE BAXTER wins Charles-Biddle Award 2017
-Post Archives
- 
-Post Archives
-
-
-Select Month
- November 2017
- October 2017
- September 2017
- August 2017
- July 2017
- June 2017
- May 2017
- April 2017
- March 2017
- February 2017
- January 2017
- December 2016
- November 2016
- October 2016
- September 2016
- August 2016
- June 2016
- May 2016
- April 2016
- March 2016
- February 2016
- January 2016
- December 2015
- November 2015
- October 2015
- September 2015
- August 2015
- June 2015
- May 2015
- March 2015
- February 2015
- November 2014
- October 2014
- September 2014
- April 2014
- March 2014
- February 2014
- January 2014
- November 2013
- October 2013
- September 2013
- August 2013
- July 2013
- May 2013
- April 2013
- March 2013
- February 2013
- January 2013
- December 2012
- November 2012
- October 2012
- September 2012
- May 2012
- April 2012
- March 2012
- February 2012
-Contact Info
-Office Hours
-
-Monday – Thursday
-
-9 am to 4 pm
-2150 Bishop, S-K-310
-
-Montreal, Quebec  H3G 1M8
-Telephone
-
-514-848-2424-3691
-Facsimile
-
-514-848-3648
-
-
-
-
-
-
-
-Copyright © CUPFA. All Rights Reserved.
- 
-jQuery(document).ready(function($){jQuery('#dc_jqaccordion_widget-2-item .menu').dcAccordion({eventType:'click',hoverDelay:0,menuClose:false,autoClose:true,saveState:true,autoExpand:true,classExpand:'current-menu-item',classDisable:'',showCount:false,disableLink:true,cookie:'dc_jqaccordion_widget-2',speed:'fast'});});
- 
-jQuery(document).ready(function($){$("a[rel*=lightbox]").colorbox({speed:350,initialWidth:"300",initialHeight:"100",maxWidth:"75%",opacity:0.8,loop:false,scrolling:false,escKey:false,arrowKey:false,top:false,right:false,bottom:false,left:false});});
- 
- 
- 
-
-
->
+\n\t
+CUFA Reports
+\n\t
+Other Links
+\n
+\n
+\n
+Collective Agreements
+\n
+\n\t
+Collective Agreement for 2015 \u2013 2018
+\n\t
+Collective Agreement for 2012 \u2013 2015
+\n\t
+2007-2012 Agreement
+\n\t
+2002-2007 Agreement
+\n
+\n
+\n
+Member Area
+\n
+\n\t
+Edit Your Account
+\n\t
+Meeting Minutes
+\n\t
+Suggestion Box
+\n\t
+Member Fora
+\n\t
+Member Classifieds
+\n\t
+Opinion Polls
+\n\t
+Newsletter Archive
+\n\t
+Financial Statements
+\n\t
+CAUT Documents
+\n\t
+FQPPU Documents
+\n\t
+Investment policy (updated February 2016)
+\n\t
+Bixi
+\n
+\n
+\n
+News
+\n
+Events
+\n
+\n\t
+Upcoming Events
+\n\t
+Past Events
+\n
+\n
+\n
+Career
+\n
+\n\t
+Retirement
+\n
+\n
+\n
+Elections
+\n
+\n\t
+Nomination forms 2017-2019
+\n
+\n
+\n
+           \n          
+   \n\t\n     
+\n\n\n    \n
+         \n\t\n     
+\n\n          
+\n               
+\n                    
+2002-2007 Agreement
+\n               
+\n               \n               \n                           \n            \n               
+\n                    
+Download the 2002-2007 Collective Agreement
+\n
+Letters of Agreement
+\n
+Letters of Agreement between Concordia University and the Concordia University Faculty Association.
+\n
+Agreement concerning limited term appointments
+\n
+Agreement concerning promotion ot Assistant ETAs to Associate Professor
+\n
+Agreement concerning promotion of members with recently awarded Doctoral Degrees
+\n
+Agreement concerning additional steps in the salary grid for Librarian 1
+\n
+Market Supplements
+\n
+Market Supplements for 2004 \u2013 05 [revision of Collective Agreement, Appendix 5]
+\n
+Salary Grids
+\n
+Salary grids for Librarians, Tenure Track Members, Extended Term Appointments and Limited Term Appointments
+\n
+Librarian\u2019s Grid June 2003
+\n
+Librarian\u2019s Grid June 2004
+\n
+Librarian\u2019s Grid June 2005
+\n
+Librarian\u2019s Grid June 2006
+\n
+ETA Grid June 2003
+\n
+ETA Grid June 2004
+\n
+ETA Grid June 2005
+\n
+ETA Grid June 2006
+\n
+Tenure Track Grid June 2003
+\n
+Tenure Track Grid June 2004
+\n
+Tenure Track Grid June 2005
+\n
+Tenure Track Grid June 2006
+\n
+LTA Grid Revised 2003-2006
+\n               
+\n            \n               
+      \n\t
+\n     \n          \n     
+          \n     \n
+  \n\n\n     
+\n                    
+\n               
+Contact Information
+\n               
+ \n                    
+General Inquiries
+\nChantal Bohbot: 514-848-2424 x3999 | 
+<!--\nvar a='c.bohbot';\nvar b='concordia.ca';\nvar fullLink= '<a href="m'+'a'+'ilt'+'o:'+a+'@'+b+'">'+a+'@'+b+'</a>';\ndocument.write(fullLink);\n-->
+\n
+Inquiries about the Collective Agreement
+\nGenevieve Robichaud: 514-848-2424 x3984 | 
+<!--\nvar a='genevieve.robichaud';\nvar b='concordia.ca';\nvar fullLink= '<a href="m'+'a'+'ilt'+'o:'+a+'@'+b+'">'+a+'@'+b+'</a>';\ndocument.write(fullLink);\n-->
+\n                    
+View the Staff Directory \xbb
+\n               
+\n               
+\n                    
+Mailing Address:
+\nHingston Hall
+\n7141 Sherbrooke Street West
+\nMontreal, H4B 1R6
+\n
+Fax:
+ (514) 848-3997
+\n               
+\n          
+\n          
+\n               
+\n                    Copyright \xa9 2007-2014 Concordia University Faculty Association.               
+\n               
+\n                    
+Contact the website developer \xbb
+\n               
+\n          
+\n     
+ \n   \n   \n\n
+\n
+\n    jQuery(document).ready(function($) {\n        $(window).load(function() {\n            $('#news.flexslider').flexslider({\n                animation: "fade",\n                animationDuration: 800,\n                slideshowSpeed: 10000,\n                controlNav: false,\n                directionNav: true\n            });\n        });\n    });\n
+\n                             \n\n>

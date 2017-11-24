@@ -1,120 +1,171 @@
-\n\n
 \n
-\n
-\n
-\n\n
-\n
-\n
-\n
-\n
-\n
-\n
-Outlook Web App
-\n
-\n
-/*Copyright (c) 2003-2006 Microsoft Corporation.  All rights reserved.*/\r\n\r\nbody.rtl \r\n{\r\n\ttext-align:right;\r\n\tdirection:rtl;\r\n}\r\n\r\nbody, .mouse, .twide, .tnarrow, form\r\n{\r\n    height: 100%;\r\n    width: 100%;\r\n    margin: 0px;\r\n}\r\n\r\n.mouse, .twide \r\n{\r\n    min-width: 650px; /* min iPad1 dimension */\r\n    min-height: 650px;\r\n    position: absolute;\r\n    top:0px;\r\n    bottom:0px;\r\n    left:0px;\r\n    right:0px;\r\n}\r\n\r\n.sidebar \r\n{\r\n    background-color:#0072C6;\r\n}\r\n\r\n.mouse .sidebar, .twide .sidebar\r\n{\r\n    position:absolute;\r\n    top: 0px;\r\n    bottom: 0px;\r\n    left: 0px;\r\n    display: inline-block;\r\n    width: 332px;\r\n}\r\n\r\n.tnarrow .sidebar\r\n{\r\n    display: none;\r\n}\r\n\r\n.mouse .owaLogoContainer, .twide .owaLogoContainer\r\n{\r\n    margin:213px auto auto 109px;\r\n    text-align:left     /* Logo aligns left for both ltr & rtl */\r\n}\r\n\r\n.tnarrow .owaLogo \r\n{\r\n    display: none;\r\n}\r\n\r\n.mouse .owaLogoSmall, .twide .owaLogoSmall\r\n{\r\n    display: none;\r\n}\r\n\r\n.logonDiv \r\n{ \r\n\ttext-align:left;\r\n}\r\n\r\n.rtl .logonDiv \r\n{ \r\n\ttext-align:right;\r\n}\r\n\r\n.mouse .logonContainer, .twide .logonContainer\r\n{\r\n    padding-top: 174px;\r\n    padding-left: 464px;\r\n    padding-right:142px;\r\n    position:absolute;\r\n    top:0px;\r\n    bottom: 0px;\r\n    left: 0px;\r\n    right: 0px;\r\n    text-align: center;\r\n}\r\n\r\n.mouse .logonDiv, .twide .logonDiv\r\n{\r\n    position: relative;\r\n    vertical-align:top;\r\n    display: inline-block;\r\n    width: 423px;\r\n}\r\n\r\n.tnarrow .logonDiv\r\n{\r\n    margin:25px auto auto -130px;\r\n    position: absolute;\r\n    left: 50%;\r\n    width: 260px;\r\n    padding-bottom: 20px;\r\n}\r\n\r\n.twide .signInImageHeader, .tnarrow .signInImageHeader\r\n{\r\n    display: none;\r\n}\r\n\r\n.mouse .signInImageHeader\r\n{\r\n    margin-bottom:22px;\r\n}\r\n\r\n.twide .mouseHeader\r\n{\r\n    display: none;\r\n}\r\n\r\n.mouse .twideHeader\r\n{\r\n    display: none;\r\n}\r\n\r\ninput::-webkit-input-placeholder\r\n{\r\n    font-size:16px;\r\n    color: #98A3A6;\r\n}\r\n\r\ninput:-moz-placeholder \r\n{\r\n    font-size:16px;\r\n    color: #98A3A6;\r\n}\r\n\r\n.tnarrow .signInInputLabel, .twide .signInInputLabel\r\n{\r\n    display: none;\r\n}\r\n\r\n.mouse .signInInputLabel\r\n{\r\n    margin-bottom: 2px;\r\n}\r\n\r\n.mouse .showPasswordCheck\r\n{\r\n    display: none;\r\n}\r\n\r\n.signInInputText\r\n{\r\n    border:1px solid #98A3A6;\r\n    color: #333333;\r\n    border-radius: 0;\r\n    -moz-border-radius: 0;\r\n    -webkit-border-radius: 0;\r\n    box-shadow: none;\r\n    -moz-box-shadow: none;\r\n    -webkit-box-shadow: none;\r\n    -webkit-appearance:none;\r\n    background-color: #FDFDFD;\r\n\twidth:250px;\r\n\tmargin-bottom:10px;\r\n\tbox-sizing: content-box;\r\n    -moz-box-sizing: content-box;\r\n    -webkit-box-sizing: content-box;\r\n}\r\n\r\n.mouse .signInInputText \r\n{\r\n    height: 22px;\r\n    font-size: 12px;\r\n    padding: 3px 5px;\r\n    color: #333333;\r\n\tfont-family:'Segoe UI', 'Segoe WP', 'Segoe UI WPC', Tahoma, Arial, sans-serif;\r\n\tmargin-bottom: 20px;\r\n}\r\n\r\n.twide .signInInputText, .tnarrow .signInInputText\r\n{\r\n    border-color: #666666;\r\n    height: 22px;\r\n    font-size: 16px;\r\n    color: #000000;\r\n    font: $ShellInputTextTouchFont;\r\n    padding: 7px 7px;\r\n\tfont-family:'Segoe UI Semibold', 'Segoe WP Semibold', 'Segoe UI WPC Semibold', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;\r\n\tmargin-bottom:20px;\r\n\twidth: 264px;\r\n}\r\n\r\n.divMain\r\n{\r\n\twidth: 444px;\r\n}\r\n\r\n.l\r\n{\r\n\ttext-align:left;\r\n}\r\n.rtl .l\r\n{\r\n\ttext-align:right;\r\n}\r\n.r\r\n{\r\n\ttext-align:right;\r\n}\r\n.rtl .r\r\n{\r\n\ttext-align:left;\r\n}\r\n\r\ntable#tblMain\r\n{\r\n\tmargin-top: 48px;\r\n\tpadding: 0px; \r\n}\r\ntable.mid\r\n{\r\n\twidth: 385px;\r\n\tborder-collapse:collapse;\r\n\tpadding: 0px; \r\n\tcolor:#444444; \r\n}\r\ntable.tblConn\r\n{\r\n\tdirection:ltr;\r\n}\r\ntd.tdConnImg\r\n{\r\n\twidth: 22px;\r\n}\r\ntd.tdConn\r\n{\r\n\tpadding-top: 15px;\r\n}\r\ntd#mdLft\r\n{\r\n\tbackground: url("lgnleft.gif") repeat-y;\r\n\twidth: 15px;\r\n}\r\ntd#mdRt\r\n{\r\n\tbackground: url("lgnright.gif") repeat-y;\r\n\twidth: 15px;\r\n}\r\ntd#mdMid\r\n{\r\n\tpadding: 0px 45px;\r\n\tbackground: #ffffff; \r\n\tvertical-align: top;\r\n}\r\ntd .txtpad\r\n{\r\n\tpadding: 3px 6px 3px 0px; \r\n}\r\n.txt\r\n{\r\n\tpadding: 3px; \r\n\theight: 2.2em;\r\n}\r\ninput.btn\r\n{\r\n\tcolor: #ffffff;\r\n\tbackground-color: #eb9c12;\r\n\tborder: 0px; \r\n\tpadding: 2px 6px; \r\n\tmargin: 0px 6px; \r\n\ttext-align:center;\r\n}\r\n.btnOnFcs\r\n{\r\n\tcolor: #ffffff;\r\n\tbackground-color: #eb9c12;\r\n\tborder: 0px; \r\n\tpadding: 2px 6px; \r\n\tmargin: 0px 6px; \r\n\ttext-align:center;\r\n}\r\n.btnOnMseOvr\r\n{\r\n\tcolor: #ffffff;\r\n\tbackground-color: #f9b133;\r\n\tborder: 0px; \r\n\tpadding: 2px 6px; \r\n\tmargin: 0px 6px; \r\n\ttext-align:center;\r\n}\r\n.btnOnMseDwn\r\n{\r\n\tcolor: #000000;\r\n\tbackground-color: #f9b133;\r\n\tborder: 0px solid #f9b133;\r\n\tpadding: 2px 6px; \r\n\tmargin: 0px 6px; \r\n\ttext-align:center;\r\n}\r\n.nowrap\r\n{\r\n\twhite-space:nowrap;\r\n}\r\nhr\r\n{\r\n\theight: 0px; \r\n\tvisibility: hidden;\r\n}\r\n\r\n.wrng\r\n{\r\n\tcolor:#ff6c00;\r\n}\r\n.disBsc\r\n{\r\n\tcolor:#999999;\r\n}\r\n.expl\r\n{\r\n\tcolor:#999999;\r\n}\r\n.w100, .txt\r\n{\r\n\twidth: 100%;\r\n}\r\n.txt\r\n{\r\n\tmargin: 0px 6px; \r\n}\r\n.rdo\r\n{\r\n\tmargin: 0px 12px 0px 32px;\r\n}\r\nbody.rtl .rdo\r\n{\r\n\tmargin: 0px 32px 0px 12px;\r\n}\r\ntr.expl td, tr.wrng td\r\n{\r\n\tpadding: 2px 0px 4px; \r\n}\r\ntr#trSec td\r\n{\r\n\tpadding: 3px 0px 8px; \r\n}\r\n/* language page specific styles */\r\ntd#tdLng\r\n{\r\n\tpadding: 12px 0px; \r\n}\r\ntd#tdTz\r\n{\r\n\tpadding: 8px 0px; \r\n}\r\nselect#selTz\r\n{\r\n\tpadding: 0px; \r\n\tmargin: 0px; \r\n}\r\ntd#tdOptMsg\r\n{\r\n\tpadding: 10px 0px; \r\n}\r\ntd#tdOptChk\r\n{\r\n\tpadding: 0px 0px 15px 65px;\r\n}\r\ntd#tdOptAcc\r\n{\r\n\tvertical-align:middle;\r\n\tpadding: 0px 0px 0px 3px; \r\n}\r\nselect#selLng\r\n{\r\n\tmargin: 0px 16px;\r\n}\r\n/* logoff page specific styles */\r\ntd#tdMsg\r\n{\r\n\tmargin: 9px 0px 64px;\r\n}\r\ninput#btnCls\r\n{\r\n\tmargin: 3px 6px; \r\n}\r\ntd.lgnTL, td.lgnBL\r\n{\r\n\twidth: 456px;\r\n}\r\ntd.lgnTM\r\n{\r\n\tbackground: url("lgntopm.gif") repeat-x;\r\n\twidth: 100%;\r\n}\r\ntd.lgnBM\r\n{\r\n\tbackground: url("lgnbotm.gif") repeat-x;\r\n\twidth: 100%;\r\n}\r\ntd.lgnTR, td.lgnBR\r\n{\r\n\twidth: 45px;\r\n}\r\ntable.tblLgn\r\n{\r\n\tpadding: 0px; \r\n\tmargin: 0px; \r\n\tborder-collapse:collapse;\r\n\twidth: 100%;\r\n}\r\n.signInBg\r\n{\r\n\tmargin:0px;\r\n}\r\n\r\n.signInTextHeader\r\n{\r\n\tfont-size:60px;\r\n\tcolor:#404344;\r\n\tfont-family:'Segoe UI', 'Segoe WP', 'Segoe UI WPC', Tahoma, Arial, sans-serif;\r\n\tmargin-bottom:18px;\r\n\twhite-space: nowrap;\r\n}\r\n\r\n.signInInputLabel\r\n{\r\n\tfont-size:12px;\r\n\tcolor:#666666;\r\n\tfont-family:'Segoe UI', 'Segoe WP', 'Segoe UI WPC', Tahoma, Arial, sans-serif;\r\n}\r\n\r\n.signInCheckBoxText\r\n{\r\n\tfont-size:12px;\r\n\tcolor:#6A7479;\r\n\tfont-family:'Segoe UI Semilight', 'Segoe WP Semilight', 'Segoe UI WPC Semilight', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;\r\n\tmargin-top:16px;\r\n}\r\n\r\n.twide .signInCheckBoxText, .tnarrow .signInCheckBoxText\r\n{\r\n    font-size: 15px;\r\n}\r\n\r\n.signInCheckBoxLink\r\n{\r\n\tfont-size:12px;\r\n\tcolor:#0072C6;\r\n\tfont-family:'Segoe UI Semilight', 'Segoe WP Semilight', 'Segoe UI WPC Semilight', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;\r\n}\r\n\r\n.signInEnter\r\n{\r\n\tfont-size:22px;\r\n\tcolor:#0072C6;\r\n\tfont-family:'Segoe UI', 'Segoe WP', 'Segoe UI WPC', Tahoma, Arial, sans-serif;\r\n\tmargin-top:20px;\r\n}\r\n\r\n.twide .signInEnter\r\n{\r\n\tmargin-top:17px;\r\n\tfont-size: 29px;\r\n}\r\n\r\n.tnarrow .signInEnter \r\n{\r\n\tmargin-top:2px;\r\n\tfont-size: 29px;\r\n\tposition: relative;\r\n\tfloat: left;\r\n\tleft: 50%;\r\n}\r\n\r\n.signinbutton \r\n{\r\n    cursor:pointer;\r\n    display:inline\r\n}\r\n\r\n.mouse .signinbutton\r\n{\r\n    padding: 0px 8px 5px 8px;\r\n    margin-left: -8px;\r\n}\r\n\r\n.rtl .mouse .signinbutton\r\n{\r\n    margin-right: -8px;\r\n}\r\n\r\n.tnarrow .signinbutton \r\n{\r\n\tposition: relative;\r\n\tfloat: left;\r\n\tleft: -50%;\r\n}\r\n\r\n.shellDialogueHead\r\n{\r\n\tfont-size:29px;\r\n\tcolor:#0072C6;\r\n\tfont-family:'Segoe UI Semilight', 'Segoe WP Semilight', 'Segoe UI WPC Semilight', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;\r\n}\r\n\r\n.mouse .shellDialogueHead \r\n{\r\n    line-height: 35px;\r\n    margin-bottom: 10px;\r\n}\r\n\r\n.twide  .shellDialogueHead, .tnarrow .shellDialogueHead\r\n{\r\n\tline-height:34px;\r\n\tmargin-bottom: 12px;\r\n}\r\n\r\n.shellDialogueMsg\r\n{\r\n\tfont-size:13px;\r\n\tcolor:#333333;\r\n\tfont-family:'Segoe UI', 'Segoe WP', 'Segoe UI WPC', Tahoma, Arial, sans-serif;\r\n\tline-height:18px;\r\n}\r\n\r\n.twide .shellDialogueMsg, .tnarrow .shellDialogueMsg\r\n{\r\n    font-size: 15px;\r\n}\r\n\r\n.headerMsgDiv \r\n{\r\n    width: 350px;\r\n    margin-bottom: 22px;\r\n}\r\n\r\n.twide .headermsgdiv\r\n{\r\n    margin-bottom: 30px;\r\n}\r\n\r\n.tnarrow .headermsgdiv\r\n{\r\n    width: 260px;\r\n    margin-bottom: 30px;\r\n}\r\n\r\n.signInError\r\n{\r\n\tfont-size:12px;\r\n\tcolor:#C1272D;\r\n\tfont-family:'Segoe UI Semilight', 'Segoe WP Semilight', 'Segoe UI WPC Semilight', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;\r\n\tmargin-top:12px;\r\n}\r\n\r\n.passwordError\r\n{\r\n    color: #A80F22;\r\n\tfont-family:'Segoe UI', 'Segoe WP', 'Segoe UI WPC', Tahoma, Arial, sans-serif;\r\n    line-height: 18px;\r\n}\r\n\r\n.mouse .passwordError\r\n{    \r\n    margin-top: 10px;\r\n    font-size: 13px;\r\n}\r\n\r\n.twide .passwordError, .tnarrow .passwordError\r\n{\r\n    margin-top: 12px;\r\n    font-size: 15px;\r\n}\r\n\r\n.signInExpl\r\n{\r\n\tfont-size:12px;\r\n\tcolor:#999999;\r\n\tfont-family:'Segoe UI Semilight', 'Segoe WP Semilight', 'Segoe UI WPC Semilight', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;\r\n\tmargin-top:5px;\r\n}\r\n\r\n.signInWarning\r\n{\r\n\tfont-size:12px;\r\n\tcolor:#C1272D;\r\n\tfont-family:'Segoe UI Semilight', 'Segoe WP Semilight', 'Segoe UI WPC Semilight', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;\r\n\tmargin-top:5px;\r\n}\r\n\r\ninput.chk\r\n{\r\n\tmargin-right:9px;\r\n\tmargin-left:0px;\r\n}\r\n\r\n.imgLnk\r\n{\r\n\tvertical-align: middle;\t\r\n\tline-height:2;\r\n\tmargin-top: -2px;\r\n}\r\n\r\n.signinTxt\r\n{\r\n\tpadding-left:11px;\r\n\tpadding-right:11px;     /* Needed for RTL, doesnt hurt to add this for LTR as well */\r\n}\r\n\r\n.hidden-submit { \r\n    border: 0 none; \r\n    height: 0; \r\n    width: 0; \r\n    padding: 0; \r\n    margin: 0; \r\n    overflow: hidden; \r\n} \r\n\r\n.officeFooter\r\n{\r\n    position:absolute;\r\n    bottom: 33px;\r\n    right: 45px;\r\n}\r\n\r\n.tnarrow .officeFooter\r\n{\r\n    display: none;\r\n}\r\n
-\n
-\r\n//  flogon.js\r\n//\r\n//  This file contains the script used by Logon.aspx\r\n//\r\n//Copyright (c) 2003-2006 Microsoft Corporation.  All rights reserved.\r\n\r\n/// <summary>\r\n/// OnLoad handler for logon page\r\n/// </summary>\r\nwindow.onload = function ()\r\n{\r\n    // If we are replacing the current window with the logon page, initialize the logon page UI now\r\n    //\r\n    if (a_fRC)\r\n        initLogon();\r\n\r\n    // Otherwise we need to find the window to replace with the logon page and redirect that window\r\n    //\r\n    else\r\n        redir();\r\n};\r\n\r\n/// <summary>\r\n/// Initializes the logon page\r\n/// </summary>\r\nfunction initLogon()\r\n{\r\n    try\r\n    {\r\n        //\r\n        // we don't call document.execCommand("ClearAuthenticationCache","false"); anymore. As a part of the Pending-Notification\r\n        // infrastructure, we are making a change to make sure startpage does not get loaded more than once. This solution is cookie\r\n        // based. This execCommand was clearing all cookies in the scenario when a user logged on from a child window during an\r\n        // FBA timeout. We do not want that to happen anymore. If this breaks anything, we may need to consider a different solution.\r\n        //\r\n        // Old Comments:\r\n        // If the "Clear the Authentication Cache" flag is set to true and\r\n        // we are coming from the logoff page , clear the cache. See bug 41770 and 5840 for details.\r\n        //\r\n\r\n        // Logoff the S-Mime control.\r\n        //\r\n        LogoffMime();\r\n    }\r\n    catch (e) { }\r\n\r\n    // Check for username cookie\r\n    //\r\n    var re = /(^|; )logondata=acc=([0|1])&lgn=([^;]+)(;|$)/;\r\n    var rg = re.exec(document.cookie);\r\n\r\n    if (rg)\r\n    {\r\n        // Fill in username, set security to private, and restore the "use basic" selection\r\n        //\r\n\r\n        gbid("username").value = rg[3];\r\n\r\n        try\r\n        {\r\n            var signInErrorElement = gbid("signInErrorDiv");\r\n            if (signInErrorElement)\r\n            {\r\n                signInErrorElement.focus();\r\n            }\r\n            else\r\n            {\r\n                gbid("password").focus();\r\n            }\r\n        }\r\n        catch (e)\r\n        {}\r\n\r\n        if (gbid("chkPrvt") && !gbid("chkPrvt").checked)\r\n        {\r\n            gbid("chkPrvt").click();\r\n        }\r\n\r\n        if (rg[2] == "1" && gbid("chkBsc"))\t// chkBsc doesn't exist if the request comes from ECP\r\n            gbid("chkBsc").click();\r\n\r\n    }\r\n    else\r\n    {\r\n        // The variable g_fFcs is set to false when the password gains focus,\r\n        // so that we don't accidentally set focus to the username field while\r\n        // the user is typing their password\r\n        //\r\n        if (g_fFcs)\r\n        {\r\n            try\r\n            {\r\n                gbid("username").focus();\r\n            }\r\n            catch (e)\r\n            { }\r\n        }\r\n    }\r\n\r\n    // OWA Premium currently supports\r\n    // IE 7+, Safari 3+, Firefox 3+ for Windows / Mac\r\n    if (IsOwaPremiumBrowser() && gbid("chkBsc"))\t// chkBsc doesn't exist if the request comes from ECP\r\n        gbid("chkBsc").disabled = false;\r\n\r\n    // Are cookies enabled?\r\n    //\r\n    var sCN = "cookieTest";\r\n\r\n    document.cookie = sCN + "=1";\r\n    var cookiesEnabled = document.cookie.indexOf(sCN + "=") != -1;\r\n\r\n    if (cookiesEnabled == false)\r\n    {\r\n        shw(gbid("cookieMsg"));\r\n        hd(gbid("lgnDiv"));\r\n    }\r\n\r\n    // Show the public/private warning message\r\n    clkSec();\r\n}\r\n\r\n\r\n/// <summary>\r\n/// Finds the frame we want to load the logon page into, and then loads it there\r\n/// </summary>\r\nfunction redir()\r\n{\r\n    var o = window;\r\n\r\n    // If we're in a dialog, open a logon window and close the dialog - this\r\n    // basically inlines a version of opnWin() so that we don't need to include\r\n    // uglobal.js in logon.aspx\r\n    //\r\n    try\r\n    {\r\n        if (o.dialogArguments)\r\n        {\r\n            var sWN = new String(Math.round(Math.random() * 100000));\r\n            var sF = "toolbar=0,location=0,directories=0,status=1,menubar=0,scrollbars=1,resizable=1,width=800,height=600";\r\n            var iT = Math.round((screen.availHeight - 600) / 2);\r\n            var iL = Math.round((screen.availWidth - 800) / 2);\r\n            sF += ",top=" + iT + ",left=" + iL;\r\n\r\n            // Fix for E12 14838.  Need to open this window from the window that opened us, because opening it from this dialog\r\n            // which we are about to close can cause the auth cookies to not propagate to the window that opened this dialog.\r\n            //\r\n            var op = o.dialogArguments.opener;\r\n            try\r\n            {\r\n                if (op)\r\n                    op.open(a_sCW, sWN, sF);\r\n            }\r\n            catch (e)\r\n            { }\r\n\r\n            o.close();\r\n            return;\r\n        }\r\n    }\r\n    catch (e)\r\n    { }\r\n\r\n    // The url to redirect to after logon\r\n    //\r\n    var sUrl = a_sUrl;\r\n\r\n    // Find the outermost OWA frame\r\n    //\r\n    while (1)\r\n    {\r\n        try\r\n        {\r\n            // Try to move up one window/frame\r\n            //\r\n            if (!(o.frameElement && o.frameElement.ownerDocument))\r\n                break;\r\n\r\n            var oF = o.frameElement.ownerDocument.parentWindow || // IE name\r\n                    o.frameElement.ownerDocument.defaultView;     // W3C name\r\n\r\n            // If we're not in an OWA/ECP window, we've found the frame to replace\r\n            //\r\n            if (!oF || (!oF.g_fOwa && !oF.g_fEcp))\r\n                break;\r\n\r\n            // Move up a frame\r\n            //\r\n            o = oF;\r\n\r\n            // We're replacing something other than the current frame,  we'll just\r\n            // log back in to the default start page if the frame doesn't provide a url\r\n            //  for relogon. The frame should provide a global method GetReloadUrl\r\n            // if it wants to keep current state.\r\n            // $NOTES: ECP needs to keep the current frame state after re-logon.\r\n            sUrl = o.GetReloadUrl ? "&url=" + encodeURIComponent(o.GetReloadUrl()) : "";\r\n        }\r\n        // Either we're at the top, or access was denied - either way, stop\r\n        //\r\n        catch (e)\r\n        {\r\n            break;\r\n        }\r\n    }\r\n\r\n    // See if the window was opened by another window\r\n    //\r\n    try\r\n    {\r\n        var oW = o.opener;\r\n\r\n        // If it was opened by another OWA/ECP window, take it over\r\n        //\r\n        if (oW && (oW.g_fOwa || oW.g_fEcp))\r\n        {\r\n            // Center and resize the window\r\n            //\r\n            var iX = Math.round((screen.availWidth - 800) / 2);\r\n            var iY = Math.round((screen.availHeight - 600) / 2);\r\n            o.moveTo(iX, iY);\r\n            o.resizeTo(800, 600);\r\n\r\n            // Close the window after logging in\r\n            //\r\n            sUrl = "&url=" + encodeURIComponent(a_sCW);\r\n        }\r\n    }\r\n    // We don't have access to the opener window, so it couldn't be part of OWA\r\n    //\r\n    catch (e) { }\r\n\r\n    // Redirect the window\r\n    //\r\n    if (o.navigate)\r\n        o.navigate(a_sLgn + sUrl);\r\n    else\r\n        o.location = a_sLgn + sUrl;\r\n}\r\n\r\n/// <summary>\r\n/// Show an element\r\n/// </summary>\r\n/// <param name="o">Element to show</param>\r\nfunction shw(o)\r\n{\r\n    o.style.display = "";\r\n}\r\n\r\n/// <summary>\r\n/// Hide an element\r\n/// </summary>\r\n/// <param name="o">Element to hide</param>\r\nfunction hd(o)\r\n{\r\n    o.style.display = "none";\r\n}\r\n\r\n/// <summary>\r\n/// OnClick handler for the show private explanation \r\n/// </summary>\r\nfunction clkSecExp(id)\r\n{\r\n    var o = gbid(id);\r\n\r\n    if (o.tagName == "IMG")\r\n        o = o.parentNode;\r\n\r\n    switch (o)\r\n    {\r\n        case gbid("lnkShwSec"):\r\n            hd(gbid("lnkShwSec"));\r\n            shw(gbid("lnkHdSec"));\r\n            shw(gbid("prvtExp"));\r\n            gbid("lnkHdSec").focus();\r\n            break;\r\n        case gbid("lnkHdSec"):\r\n            shw(gbid("lnkShwSec"));\r\n            hd(gbid("lnkHdSec"));\r\n            hd(gbid("prvtExp"));\r\n            gbid("lnkShwSec").focus();\r\n            break;\r\n    }\r\n}\r\n\r\n/// <summary>\r\n/// onkeydown handler for the show private explanation \r\n/// </summary>\r\nfunction kdSecExp(id)\r\n{\r\n    // When user press space bar, we shall treat it as click.\r\n    if (window.event.keyCode == 32)\r\n    {\r\n        clkSecExp(id);\r\n    }\r\n}\r\n\r\n/// <summary>\r\n/// OnClick handler for the security radio buttons\r\n/// </summary>\r\nfunction clkSec()\r\n{\r\n    if (gbid("chkPrvt") == null) {\r\n\r\n        // If the private checkbox is not present in the page there is nothing we should do here\r\n        //\r\n        return;\r\n    }\r\n\r\n    // Display/hide the warning message\r\n    //\r\n    var c = gbid("chkPrvt").checked;\r\n\r\n    gbid("prvtWrn").style.display = c ? "" : "none";\r\n\r\n    // Update flags and username cookie\r\n    //\r\n    if (c)\r\n    {\r\n        document.logonForm["flags"].value |= 4;\r\n    }\r\n    else\r\n    {\r\n        document.logonForm["flags"].value &= ~4;\r\n\r\n        // Remove the cookie by expiring it\r\n        //\r\n        var oD = new Date();\r\n        oD.setTime(oD.getTime() - 9999);\r\n        document.cookie = "logondata=; expires=" + oD.toUTCString();\r\n        document.cookie = "PrivateComputer=; path=/; expires=" + oD.toUTCString();\r\n    }\r\n}\r\n\r\n/// <summary>\r\n/// OnClick handler for the use owa basic checkbox\r\n/// </summary>\r\nfunction clkBsc()\r\n{\r\n    // Display/hide the warning message\r\n    //\r\n    var c = gbid("chkBsc").checked;\r\n    gbid("bscExp").style.display = c ? "" : "none";\r\n\r\n    if (c)\r\n        document.logonForm.flags.value |= 1;\r\n    else\r\n        document.logonForm.flags.value &= ~1;\r\n}\r\n\r\nfunction checkSubmit(e) {\r\n    if (e && e.keyCode == 13) {\r\n        // Since we are explicitly handling the click prevent the default implicit submit  \r\n        if (e.preventDefault) {\r\n            e.preventDefault();\r\n        }\r\n\r\n        clkLgn();\r\n    }\r\n} \r\n\r\n\r\n/// <summary>\r\n/// OnClick handler for the logon button\r\n/// </summary>\r\nfunction clkLgn()\r\n{\r\n    // Add performance marker for Logon page as the item name defined in the spec:\r\n    // http://exweb/14/Specs/E14 Spec Library/Client side perf marker definition.xlsx\r\n    //\r\n    addPerfMarker("Logon.Start");\r\n\r\n    var p = false;\r\n\r\n    if (gbid("chkPrvt")) {\r\n        p = p | gbid("chkPrvt").checked;\r\n    }\r\n    else\r\n    {\r\n        p = true;\r\n    }\r\n\r\n    // If security is set to private, add a cookie to persist username and basic setting\r\n    // Cookie format: logondata=acc=<1 or 0>&lgn=<username>\r\n    //\r\n    if (p)\r\n    {\r\n        // Calculate the expires time for two weeks\r\n        //\r\n        var oD = new Date();\r\n        oD.setTime(oD.getTime() + 2 * 7 * 24 * 60 * 60 * 1000);\r\n        var sA = "acc=" + (gbid("chkBsc") && gbid("chkBsc").checked ? 1 : 0);\r\n        var sL = "lgn=" + gbid("username").value;\r\n        document.cookie = "logondata=" + sA + "&" + sL + "; expires=" + oD.toUTCString();\r\n        document.cookie = "PrivateComputer=true; path=/; expires=" + oD.toUTCString();\r\n    }\r\n\r\n    if (gbid("showPasswordCheck").checked)\r\n    {\r\n        passwordElement = gbid("password");\r\n        passwordTextElement = gbid("passwordText");\r\n        passwordElement.value = passwordTextElement.value;\r\n    }\r\n\r\n    // We clean the post back cookie in order to indicate that the credentials post is legitimate (and not history postback)\r\n    //\r\n    document.cookie = "PBack=0; path=/";\r\n    document.logonForm.submit();\r\n}\r\n\r\n/// <summary>\r\n/// OnClick handler for the retry button\r\n/// </summary>\r\nfunction clkRtry()\r\n{\r\n    window.location.reload();\r\n}\r\n\r\n/// <summary>\r\n/// OnClick handler for the ok button after changing password (will go to owa/)\r\n/// </summary>\r\nfunction clkReLgn()\r\n{\r\n    window.location.href = '../';\r\n}\r\n\r\n/// <summary>\r\n/// GetElementByID from Document\r\n/// </summary>\r\n/// <param name="s">Id of the Element</param>\r\nfunction gbid(s)\r\n{\r\n    return document.getElementById(s);\r\n}\r\n\r\n/// <summary>\r\n/// Is the Client IE 7, Safari 3, Firefox 3 or Above\r\n/// Note The rules should match owa\\bin\\core\\Utlities.cs@IsDownLevelClient\r\n/// </summary>\r\nfunction IsOwaPremiumBrowser()\r\n{\r\n    var ua = navigator.userAgent;\r\n    var av = navigator.appVersion;\r\n    var mac = (av.indexOf('Mac') != -1);\r\n    var win = ((av.indexOf('Win') != -1) || (av.indexOf('NT') != -1));\r\n\r\n    // If you change the follow browser check logic, change utility.js as well.\r\n    // We have duplicate logic because otherwise logon page must include more code than necessary.\r\n    //\r\n    var ie = (ua.indexOf("MSIE ") != -1);\r\n    var firefox = (ua.indexOf("Firefox/") != -1 && ua.indexOf("Gecko/") != -1 && Array.every);\r\n    var safari = (ua.indexOf("Safari") != -1 && ua.indexOf("WebKit") != -1);\r\n    var version = 2.0;\r\n\r\n    if (ie)\r\n    {\r\n        version = parseFloat(ua.replace(/^.*MSIE /, ''));\r\n    }\r\n    else if (firefox)\r\n    {\r\n        version = parseFloat(ua.replace(/^.*Firefox\\//, ''));\r\n    }\r\n    else if (safari)\r\n    {\r\n        version = parseFloat(ua.replace(/^.*Version\\//, ''));\r\n    }\r\n    else\r\n    {\r\n        version = parseInt(av);\r\n    }\r\n\r\n    if (win)\r\n    {\r\n        if (ie)\r\n            return (version >= 7.0);\r\n        else if (safari)\r\n            return (version >= 3.0);\r\n        else if (firefox)\r\n            return (version >= 3.0);\r\n    }\r\n    else if (mac)\r\n    {\r\n        if (safari)\r\n            return (version >= 2.0);\r\n        else if (firefox)\r\n            return (version >= 3.0);\r\n    }\r\n\r\n    return false;\r\n}\r\n\r\n/// <summary>\r\n/// Convert an error code to HRESULT.\r\n/// </summary>\r\nfunction hres(iErr)\r\n{\r\n    return iErr + 0xffffffff + 1;\r\n}\r\n\r\n/// <summary>\r\n/// Log off S-MIME control if it presents.\r\n/// </summary>\r\nfunction LogoffMime()\r\n{\r\n    try\r\n    {\r\n        if ((typeof (mimeLogoffE2k3) != "undefined" && null != mimeLogoffE2k3) && IsMimeCtlInst("MimeBhvr.MimeCtlVer"))\r\n            mimeLogoffE2k3.Logoff();\r\n\r\n        if ((typeof (mimeLogoffE2k7SP1) != "undefined" && null != mimeLogoffE2k7SP1) && IsMimeCtlInst("OwaSMime.MimeCtlVer"))\r\n            mimeLogoffE2k7SP1.Logoff();\r\n\r\n        if ((typeof (mimeLogoffE2k9) != "undefined" && null != mimeLogoffE2k9) && IsMimeCtlInst("OwaSMime2.MimeCtlVer"))\r\n            mimeLogoffE2k9.Logoff();\r\n    }\r\n    catch (e)\r\n    {\r\n    }\r\n}\r\n\r\n/// <summary>\r\n/// Add performance marker which can write ETW trace for clicking logon\r\n/// </summary>\r\n/// <param name="sItemName">Identify string to say start clicking logon</param>\r\nfunction addPerfMarker(sItemName)\r\n{\r\n    try\r\n    {\r\n        if (window.msWriteProfilerMark)\r\n        {\r\n            window.msWriteProfilerMark(sItemName);\r\n        }\r\n    }\r\n    catch (e)\r\n    {\r\n        // We don't care any exception caused by test code in product, swallow it\r\n    }\r\n}\r\n\r\n//\r\n// NOTE: flogon.js does not contain a call to stJS("flogon.js"). This is because flogon.js is loaded at logon time before uglobal.js\r\n//\r\n\r\n//-----------------------------------------------------------\r\n// END flogon.js\r\n//-----------------------------------------------------------\r\n\r\n
-\n
-\r\n\t<!--\r\n\tvar a_fRC = 1;\r\n\tvar g_fFcs = 1;\r\n\tvar a_fLOff = 0;\r\n\tvar a_fCAC = 0;\r\n\tvar a_fEnbSMm = 0;\r\n/// <summary>\r\n/// Is Mime Control installed?\r\n/// </summary>\r\nfunction IsMimeCtlInst(progid)\r\n{\r\n\tif (!a_fEnbSMm)\r\n\t\treturn false;\r\n\r\n\tvar oMimeVer = null;\r\n\r\n\ttry \r\n\t{\r\n\t\t// TODO: ingore this on none IE browser\r\n\t\t//\r\n\t\t//oMimeVer = new ActiveXObject(progid);\r\n\t} \r\n\tcatch (e)\r\n\t{ \r\n\t}\r\n\r\n\tif (oMimeVer != null)\r\n\t\treturn true;\r\n\telse\r\n\t\treturn false;\r\n}\r\n\r\n/// <summary>\r\n/// Render out the S-MIME control if it is installed.\r\n/// </summary>\r\nfunction RndMimeCtl()\r\n{\r\n\tif (IsMimeCtlInst("MimeBhvr.MimeCtlVer"))\r\n\t\tRndMimeCtlHlpr("MimeNSe2k3", "D801B381-B81D-47a7-8EC4-EFC111666AC0", "MIMEe2k3", "mimeLogoffE2k3");\r\n\r\n\tif (IsMimeCtlInst("OwaSMime.MimeCtlVer"))\r\n\t\tRndMimeCtlHlpr("MimeNSe2k7sp1", "833aa5fb-7aca-4708-9d7b-c982bf57469a", "MIMEe2k7sp1", "mimeLogoffE2k7sp1");\r\n\r\n\tif (IsMimeCtlInst("OwaSMime2.MimeCtlVer"))\r\n\t\tRndMimeCtlHlpr("MimeNSe2k9", "4F40839A-C1E5-47E3-804D-A2A17F42DA21", "MIMEe2k9", "mimeLogoffE2k9");\r\n}\r\n\r\n/// <summary>\r\n/// Helper function to factor out the rendering of the S/MIME control.\r\n/// </summary>\r\nfunction RndMimeCtlHlpr(objid, classid, ns, id)\r\n{\r\n\tdocument.write("<OBJECT id='" + objid + "' classid='CLSID:" + classid + "'></OBJECT>");\r\n\tdocument.write("<?IMPORT namespace='" + ns + "' implementation=#" + objid + ">");\r\n\tdocument.write("<" + ns + ":Logoff id='" + id + "' style='display:none'/>");\r\n}\r\n\t-->\r\n
-\n
-\r\n\r\n        var mainLogonDiv = window.document.getElementById("mainLogonDiv");\r\n        var showPlaceholderText = false;\r\n        var mainLogonDivClassName = 'mouse';\r\n\r\n        if (mainLogonDivClassName == "tnarrow") {\r\n            showPlaceholderText = true;\r\n\r\n            // Output meta tag for viewport scaling\r\n            document.write('<meta name="viewport" content="width = 320, initial-scale = 1.0, user-scalable = no" />');\r\n        }\r\n        else if (mainLogonDivClassName == "twide"){\r\n            showPlaceholderText = true;\r\n        }\r\n\r\n        function setPlaceholderText() {\r\n                window.document.getElementById("username").placeholder = "user name";\r\n                window.document.getElementById("password").placeholder = "password";\r\n                window.document.getElementById("passwordText").placeholder = "password";\r\n        }\r\n\r\n        function showPasswordClick() {\r\n            var showPassword = window.document.getElementById("showPasswordCheck").checked;\r\n            passwordElement = window.document.getElementById("password");\r\n            passwordTextElement = window.document.getElementById("passwordText");\r\n            if (showPassword)\r\n            {\r\n                passwordTextElement.value = passwordElement.value;\r\n                passwordElement.style.display = "none";\r\n                passwordTextElement.style.display = "inline";\r\n                passwordTextElement.focus();\r\n            }\r\n            else\r\n            {\r\n                passwordElement.value = passwordTextElement.value;\r\n                passwordTextElement.style.display = "none";\r\n                passwordTextElement.value = "";\r\n                passwordElement.style.display = "inline";\r\n                passwordElement.focus();\r\n            }\r\n        }\r\n    
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-To use Outlook Web App, browser settings must allow scripts to run. For information about how to allow scripts, consult the Help for your browser. If your browser doesn't support scripts, you can download 
-Windows Internet Explorer
- for access to Outlook Web App.
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\r\n\r\n        var mainLogonDiv = window.document.getElementById("mainLogonDiv");\r\n        mainLogonDiv.className = mainLogonDivClassName;\r\n    
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-User name:
-\n
-\n
-Password:
-\n
-\n
-\n
-\n
-\n
-Show password
-\n
-\n
-\n
-\n
-Private computer
-\r\n\t\t\t\u200e(\r\n\t\t\t
-What is this?
-\n
-\r\n\t\t\tHide explanation \r\n\t\t\t
-\r\n\t\t\t)\u200e\r\n\t\t\t
-\n
-Select this option if you're the only person who uses this computer. Your server will allow a longer period of inactivity before signing you out.
-\n
-Warning:  By selecting this option, you confirm that this computer complies with your organization's security policy.
-\n
-\n
-\n
-Use the light version of Outlook Web App
-\n
-\n
-The light version of Outlook Web App includes fewer features. Use it if you're on a slow connection or using a computer with unusually strict browser security settings. We also support the full Outlook Web App experience on some browsers on Windows, Mac, and Linux computers. To check out all the supported browsers and operating systems, 
-click here.
-\n
-\n
-\n
-\n
-\n
-sign in
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-\n
-Outlook Web App 
-\n
-Please enable cookies for this Web site.
-Cookies are currently disabled by your browser. Outlook Web App requires that cookies be enabled. 
-For information about how to enable cookies, see the Help for your Web browser.
-\n
-\n
-\n
-retry
-\n
-\n
-\n
-\n
-\n
-\n
-\r\n    if (showPlaceholderText) {\r\n        setPlaceholderText();\r\n    }\r\n
-\n
-\n\n>
+Cinema Event Co-Organized by MARY ELLEN DAVIS | CUPFA
+ 
+ 
+img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-shadow:none !important;height:1em !important;width:1em !important;margin:0\n.07em !important;vertical-align:-0.1em !important;background:none !important;padding:0\n!important}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#site-title,#site-description{position:absolute;left:-9000px}
+Skip to content
+Professional Development
+Deadlines
+Teaching Application Form
+News
+Quick Links:
+\u2190
+ Exhibition by FRANCINE POTVIN
+CUPFA TOWN HALL, Oct. 10, 5 \u2013 7:30 pm 
+\u2192
+Cinema Event Co-Organized by MARY ELLEN DAVIS
+\n
+Posted on
+ 
+September 2, 2017
+ 
+by
+ 
+laurie
+ 
+\nThis entry was posted in 
+Events
+. Bookmark the 
+permalink
+.
+\u2190
+ Exhibition by FRANCINE POTVIN
+CUPFA TOWN HALL, Oct. 10, 5 \u2013 7:30 pm 
+\u2192
+Home
+About
+Mandate & History
+Executive 2017-20
+Committees
+Staff
+News & Events
+News
+Events
+Videos
+Media Coverage \u2013 Negotiations
+Collective Agreement
+Pensions and Retirement
+Pension Information
+Retirement Planning
+Professional Development
+About PD
+CUPFA Grants
+Travel and Expenses
+Grant Reports
+Small Claims
+PD \u2013 FAQ
+Office of Research
+Forms
+Publications
+Newsletters
+Survival Guide
+Commandments
+Multi-Section Courses
+Concordia Resources
+FAQ
+Contact Us
+\n
+Search for:
+\n
+\n
+Recent Posts
+Official Signing of 5th Collective Agreement
+Words and Public Space, Andrew Forster, Erin Moure...
+Campus Equity Week article in The Concordian
+Instability of Work a Cause of Stress for...
+BONNIE BAXTER wins Charles-Biddle Award 2017
+Post Archives
+\t\t
+Post Archives
+\n
+Select Month
+ November 2017
+ October 2017
+ September 2017
+ August 2017
+ July 2017
+ June 2017
+ May 2017
+ April 2017
+ March 2017
+ February 2017
+ January 2017
+ December 2016
+ November 2016
+ October 2016
+ September 2016
+ August 2016
+ June 2016
+ May 2016
+ April 2016
+ March 2016
+ February 2016
+ January 2016
+ December 2015
+ November 2015
+ October 2015
+ September 2015
+ August 2015
+ June 2015
+ May 2015
+ March 2015
+ February 2015
+ November 2014
+ October 2014
+ September 2014
+ April 2014
+ March 2014
+ February 2014
+ January 2014
+ November 2013
+ October 2013
+ September 2013
+ August 2013
+ July 2013
+ May 2013
+ April 2013
+ March 2013
+ February 2013
+ January 2013
+ December 2012
+ November 2012
+ October 2012
+ September 2012
+ May 2012
+ April 2012
+ March 2012
+ February 2012
+Contact Info
+Office Hours
+\nMonday \u2013 Thursday
+\n9 am to 4 pm
+2150 Bishop, S-K-310
+\nMontreal, Quebec  H3G 1M8
+Telephone
+\n514-848-2424-3691
+Facsimile
+\n514-848-3648
+\n
+\n
+\n
+\nCopyright \xa9 CUPFA. All Rights Reserved.
+ 
+jQuery(document).ready(function($){jQuery('#dc_jqaccordion_widget-2-item .menu').dcAccordion({eventType:'click',hoverDelay:0,menuClose:false,autoClose:true,saveState:true,autoExpand:true,classExpand:'current-menu-item',classDisable:'',showCount:false,disableLink:true,cookie:'dc_jqaccordion_widget-2',speed:'fast'});});
+ 
+jQuery(document).ready(function($){$("a[rel*=lightbox]").colorbox({speed:350,initialWidth:"300",initialHeight:"100",maxWidth:"75%",opacity:0.8,loop:false,scrolling:false,escKey:false,arrowKey:false,top:false,right:false,bottom:false,left:false});});
+ 
+ 
+ \n>

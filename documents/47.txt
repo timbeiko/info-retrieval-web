@@ -1,1703 +1,372 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Student associations
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-		})(window,document,'script','dataLayer','GTM-57BSZT');
-
-
-
-
-
-
-
-
-Concordia University
-
-
-https://www.concordia.ca/content/concordia/en/artsci/students/associations.html/jmsb.html
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Study resources
-
-
-Calendar - Graduate
-
-
-Calendar - Undergraduate
-
-
-Class schedules
-
-
-Class cancellations
-
-
-Course registration
-
-
-Important academic dates
-
-
-More academic resources
-Campus services
-
-
-Concordia Stores
-
-
-IT services
-
-
-Job opportunities
-
-
-Security
-
-
-Shuttle bus
-
-
-Student Service Centre (Birks)
-
-
-All campus services
-What's new
-
-
-Calendar of events
-
-
-Latest news
-
-
-Media Relations
-Faculties, Schools & Colleges
-
-
-Arts and Science
-
-
-Engineering and Computer Science
-
-
-Fine Arts
-
-
-John Molson School of Business
-
-
-School of Graduate Studies
-
-
-All Schools, Colleges & Departments
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Quick links  
-
-
-
-
-
-
-Webmail
-
-
-Library
-
-
-Cspace
-
-
-
-
-
-
-Study resources
-  
-
-
-Calendar - Graduate
-
-
-Calendar - Undergraduate
-
-
-Class schedules
-
-
-Class cancellations
-
-
-Course registration
-
-
-Important academic dates
-
-
-More academic resources
-Campus services
-  
-
-
-Concordia Stores
-
-
-IT services
-
-
-Job opportunities
-
-
-Security
-
-
-Shuttle bus
-
-
-Student Service Centre (Birks)
-
-
-All campus services
-What's new
-  
-
-
-Calendar of events
-
-
-Latest news
-
-
-Media Relations
-Faculties, Schools & Colleges
-  
-
-
-Arts and Science
-
-
-Engineering and Computer Science
-
-
-Fine Arts
-
-
-John Molson School of Business
-
-
-School of Graduate Studies
-
-
-All Schools, Colleges & Departments
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Quick links 
-
-
-The Campaign for Concordia
-
-
-
-
-MyConcordia
-
-
-Cspace
-
-
-Webmail
-
-
-Library
-
-
-Directories
-
-
-A-Z
-
-
-Maps
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Future students
-
-
-Student hub
-
-
-Alumni & friends
-
-
-Parents
-
-
-Faculty & staff
-
-
-Media
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Concordia University
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Concordia University
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Faculty of Arts and Science
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-About the Faculty
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                                Office of the Dean
-                                                            
-
-
-
-
-
-
-
-                                                                Departmental Chairs, faculty & staff
-                                                            
-
-
-
-
-
-
-
-                                                                Faculty awards
-                                                            
-
-
-
-
-
-
-
-                                                                Job opportunities
-                                                            
-
-
-
-
-
-
-
-                                                                FAS 2025
-                                                            
-
-
-
-
-
-
-
-                                                                Montreal 2050
-                                                            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Academics
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                                Departments
-                                                            
-
-
-
-
-
-
-
-                                                                Undergraduate programs
-                                                            
-
-
-
-
-
-
-
-                                                                Graduate programs
-                                                            
-
-
-
-
-
-
-
-                                                                Interdisciplinary studies 
-                                                            
-
-
-
-
-
-
-
-                                                                Visiting & exchange
-                                                            
-
-
-
-
-
-
-
-                                                                Summer schools
-                                                            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Research & graduate studies
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                                Centres & Institutes
-                                                            
-
-
-
-
-
-
-
-                                                                Research Chairs
-                                                            
-
-
-
-
-
-
-
-                                                                Researchers
-                                                            
-
-
-
-
-
-
-
-                                                                Postdoctoral Fellows
-                                                            
-
-
-
-
-
-
-
-                                                                Graduate studies in Arts and Science
-                                                            
-
-
-
-
-
-
-
-                                                                Graduate funding opportunities
-                                                            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Student services
-
-
-
-
-
-
-Alumni
-
-
-
-
-
-
-
-
-
-
-The Campaign for Concordia
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Study resources
-
-
-Calendar - Graduate
-
-
-Calendar - Undergraduate
-
-
-Class schedules
-
-
-Class cancellations
-
-
-Course registration
-
-
-Important academic dates
-
-
-More academic resources
-Campus services
-
-
-Concordia Stores
-
-
-IT services
-
-
-Job opportunities
-
-
-Security
-
-
-Shuttle bus
-
-
-Student Service Centre (Birks)
-
-
-All campus services
-What's new
-
-
-Calendar of events
-
-
-Latest news
-
-
-Media Relations
-Faculties, Schools & Colleges
-
-
-Arts and Science
-
-
-Engineering and Computer Science
-
-
-Fine Arts
-
-
-John Molson School of Business
-
-
-School of Graduate Studies
-
-
-All Schools, Colleges & Departments
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Quick links  
-
-
-
-
-
-
-Webmail
-
-
-Library
-
-
-Cspace
-
-
-
-
-
-
-Study resources
-  
-
-
-Calendar - Graduate
-
-
-Calendar - Undergraduate
-
-
-Class schedules
-
-
-Class cancellations
-
-
-Course registration
-
-
-Important academic dates
-
-
-More academic resources
-Campus services
-  
-
-
-Concordia Stores
-
-
-IT services
-
-
-Job opportunities
-
-
-Security
-
-
-Shuttle bus
-
-
-Student Service Centre (Birks)
-
-
-All campus services
-What's new
-  
-
-
-Calendar of events
-
-
-Latest news
-
-
-Media Relations
-Faculties, Schools & Colleges
-  
-
-
-Arts and Science
-
-
-Engineering and Computer Science
-
-
-Fine Arts
-
-
-John Molson School of Business
-
-
-School of Graduate Studies
-
-
-All Schools, Colleges & Departments
-
-
-
-
-
-
-
-
-
-
-
-
-Information for... 
-
-
-
-
-Future students
-
-
-Student hub
-
-
-Alumni & friends
-
-
-Parents
-
-
-Faculty & staff
-
-
-Media
-
-
-
-
-
-
-
-                        $(".role-links-mobile .open-links").on('click', function() {
-                            $this = $(this);
-                            $this.find('.arrow').toggleClass('concordia-arrow-black-down-icon');
-                            $this.find('.arrow').toggleClass('concordia-arrow-black-up-icon');
-                        });
-                    
-
-
-
-
-
-
-
-
-
-
-
-    $(document).ready(function() {
-        var $dropdowns = $('.nav li.dropdown');
-        var delay = 300;
-    
-        $dropdowns
-            .on('mouseover', function() {
-                if ($(".header-btn").css("display") == "none") { // Only fire this when not on mobile
-
-                    // Make sure the autocomplete is not showing
-                    $(".ui-autocomplete").css("display","none");
-    
-                    var $this = $(this);
-                    $this.siblings('.open').removeClass('open');
-    
-                    if ($this.prop('hoverTimeout')) {
-                        $this.prop('hoverTimeout', clearTimeout($this.prop('hoverTimeout')));
-                    }
-        
-                    $this.prop('hoverIntent', setTimeout(function() {
-                        $this.addClass('open');
-                    }, 0));
-                }
-            })
-            .on('mouseleave', function() {
-                if ($(".header-btn").css("display") == "none") { // Only fire this when not on mobile
-                    var $this = $(this);
-                    $this.siblings('.open').removeClass('open');
-        
-                    if ($this.prop('hoverIntent')) {
-                        $this.prop('hoverIntent', clearTimeout($this.prop('hoverIntent')));
-                    }
-        
-                    // If the dropdown doesn't have any children, set delay to 0
-                    delay = ($this.find('.dropdown-toggle').length != 0) ? 300 : 0;
-        
-                    $this.prop('hoverTimeout', setTimeout(function() {
-                        $this.removeClass('open');
-                    }, delay));
-                }
-            })
-            .on('click', '.open-btn', function() {
-                $this = $(this);
-                $dropdown = $this.closest('.dropdown');
-                $icon = $this.find('span');
-    
-                $(this).closest('.dropdown').find('.dropdown-menu').slideToggle();
-                $dropdown.toggleClass('open');
-    
-                $icon.toggleClass('concordia-arrow-white-down-icon');
-                $icon.toggleClass('concordia-arrow-white-up-icon');
-            });
-
-
-        // On mobile, make sure search is not showing when menu is opened
-        $(".concordia-hamburger-icon").on("click", function() {
-            if ($("#site-search").hasClass("in")) {
-                $("#site-search").collapse("hide");
-            }
-        });
-    
-        // On mobile, make sure navigation is not showing when search is opened
-        $(".concordia-search-icon.visible-phone").on("click", function() {
-            if ($(".nav-collapse").hasClass("in")) {
-                $(".nav-collapse").collapse("hide");
-            }
-        });
-    });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    Concordia
-                
-
-
-
-
-
-
-
-
-
-
-
-                    Directories
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Search
-
-
-
-
-
-
-
-
-
-
-
-
-Concordia University
-
-
-
-
-
-
-
-
-
-
-Faculty of Arts and Science
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    
-                    Concordia.ca
-                    
-                
-
-
-
-	         / 
-	        
-
-
-
-                    
-                    Faculty of Arts and Science
-                    
-                
-
-
-
-	         / 
-	        
-
-
-
-                    
-                    Student services
-                    
-                
-
-
-
-	         / 
-	        
-
-                
-                    Student associations
-                    
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Facebook
-
-
-
-
-
-
-
-
-
-
-Twitter
-
-
-
-
-
-
-
-
-
-
-LinkedIn
-
-
-
-
-
-
-
-
-
-
-GooglePlus
-
-
-
-
-
-
-
-
-
-
-
-            jQuery(document).ready(function() {
-                "use strict";
-                $ =  jQuery;
-
-                var decal = $('.c-socialbar-cta:not(.horizontal)').parent().width();
-                $('.c-socialbar-cta:not(.horizontal)').css({'margin-left':decal+5});
-                $('.c-socialbar-cta:not(.horizontal)').fadeIn();
-
-
-                $(window).scroll(function() {
-                    socialbar.scroll();
-                });
-            });
-
-            var socialbar = (function(jQuery) {
-                var timeOutId = 0;
-                var jitterBuffer = 20;
-
-                return {
-                    scroll:function() {
-                        var offset = $('.c-socialbar-cta:not(.horizontal)').parent().offset();
-                        var top = offset.top -150;
-
-                        if ($(window).scrollTop() > top) {
-                            $('.c-socialbar-cta:not(.horizontal)').addClass('fixed');
-                        }
-                        else {
-                            $('.c-socialbar-cta:not(.horizontal)').removeClass('fixed');
-                        }
-                    }
-                };
-            })();
-        
-
-
-
-
-
-
-Student associations
-
-
-
-
-
-
-
-
-
-
-
-        $(document).ready(function() {
-			$("#1a488d87-4a21-4072-b5ac-0cb9105a6f18content-mainimage").attr("href", "");
-        });
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Back to top
-
-
-
-
-
-
-© Concordia University
-
-
-
-
-
-
-
-
-Concordia University
- - Call us at 514-848-2424
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-About the Faculty
-
-
-Academics
-
-
-Research & graduate studies
-
-
-Student services
-
-
-Alumni
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Sir George Williams Campus
-
-
-1455 De Maisonneuve Blvd. W.
-
-
-Montreal
-, 
-Quebec
-, 
-Canada
-
-
-H3G 1M8
-
-
-
-
-See SGW Campus map 
-
-
-
-
-Loyola Campus
-
-
-7141 Sherbrooke Street W.
-
-
-Montreal
-, 
-Quebec
-, 
-Canada
-
-
-H4B 1R6
-
-
-
-
-See Loyola Campus map 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-facebook
-
-
-twitter
-
-
-google
-
-
-youtube
-
-
-linkedin
-
-
-pinterest
-
-
-instagram
-
-
-flickr
-
-
-
-
-
-
-Concordia social
-
-
-
-
-
-
-
-
-
-
-
-
-© Concordia University
-
-
-Terms
-
-
-Privacy
-
-
-Accessibility
-
-
-Website feedback
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Share this page
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Concordia.ca
-
-
-
-
-
-
-Call us at
-
-
-514-848-2424
-
-
-
-
-
-
-
-
-
-
-
-
-Sir George Williams Campus
-
-
-1455 De Maisonneuve Blvd. W.
-
-
-Montreal
-, 
-Quebec
-, 
-Canada
-
-
-H3G 1M8
-
-
-
-
-See SGW Campus map 
-
-
-
-
-Loyola Campus
-
-
-7141 Sherbrooke Street W.
-
-
-Montreal
-, 
-Quebec
-, 
-Canada
-
-
-H4B 1R6
-
-
-
-
-See Loyola Campus map 
-
-
-
-
-
-
-
-
-
-
-Website feedback
-
-
-
-
-Terms
-
-
-Privacy
-
-
-Accessibility
-
-
-
-
-
-
-
-
-© Concordia University
-
-
-
-
-
->
+\n
+\n\t
+\n\t
+\n\t
+\n\t
+SCIENCE CAF\xc9: Perspectives on Polycystic Kidney Disease (PKD) - PKD Foundation of Canada
+\n\n\t
+\n\t
+\n\t
+\n\t
+\n\n\t
+\n
+\n
+\n\n  
+\n    
+\n    
+\n  
+\n    
+\n    
+\n    
+\n    
+\n    
+\n    
+\n    
+\n    
+\n    
+\n  
+\n\n
+\n  var NB = NB || {};\n\n  NB.environment = "production";\n  NB.pageId = "421";\n  NB.Liquid = NB.Liquid || {\n    Theme: {\n      version: 2,\n      name: "PKD 2016",\n      parent: "bootstrap",\n      variation: ""\n    }\n  };\n  NB.payments = NB.payments || {tokenize: true, elements: {}};\n
+\n\n
+\n    //<![CDATA[\n      window._auth_token_name = "authenticity_token";\n      window._auth_token = "zqvwZCUwdXlKBRMo15rnfzWQAi56txlFgHj3u/izoO0=";\n    //]]>\n
+\n\n\n  
+\n\n\n
+\n\n
+\n  window.twttr = (function (d,s,id) {\n    var t, js, fjs = d.getElementsByTagName(s)[0];\n    if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;\n    js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);\n    return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });\n  }(document, "script", "twitter-wjs"));\n
+\n\n
+\n  NB.FBAppId = '126739610711965';\n
+\n
+\n  (function() {\n    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;\n    po.src = '//apis.google.com/js/plusone.js';\n    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);\n  })();\n
+\n\n  
+\n  
+try{Typekit.load();}catch(e){}
+\n\n  
+\n    var _gaq = _gaq || [];\n    _gaq.push(['_setAccount', 'UA-88108855-1']);\n   \t_gaq.push(['_setDomainName', 'none']);\n    _gaq.push(['_setAllowLinker', true]);\n      _gaq.push(['_setCustomVar', 1, 'Parent', 'events', 3]);\n      _gaq.push(['_setCustomVar', 1, 'UGC', 'false', 3]);\n      _gaq.push(['_setCustomVar', 1, 'Page type', 'Event', 3]);\n    _gaq.push(['_trackPageview']);\n    _gaq.push(['_trackPageLoadTime']);\n\n    (function() {\n      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n    })();\n  
+\n\n\n  
+\n    var _qevents = _qevents || [];\n\n    (function() {\n     var elem = document.createElement('script');\n\n     elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";\n     elem.async = true;\n     elem.type = "text/javascript";\n     var scpt = document.getElementsByTagName('script')[0];\n     scpt.parentNode.insertBefore(elem, scpt);\n    })();\n  
+\n\n\n\n\n\n\t
+\n\t\tNB.appConfig.userIsLoggedIn = false;\n\t
+\n\n\n\n\n\t\n\n\t\n
+\n
+\n\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+Toggle navigation
+\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t
+\n      
+\n\t\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+About Us
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+Learn
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+Get Involved 
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t
+Get Involved
+\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t
+Symposium
+\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+Media and News
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+Donate
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t
+\n\t\t        
+EN
+\n\t\t        
+FR
+\n        
+T
+\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n\n
+\n\n\n\t\n\t\t\n
+\n\n
+\n\n\n\n\n\n\n\n
+\n  
+\n\t\t\t\t\n\t\t\t\t\t
+Events
+\n\t\t\t\t\n\t
+\n
+\n
+\n\n\n\n\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n\n\n
+\n\n                \n\t\t\t\t\t\n
+\n\n\n
+\n\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n\n\n\n
+\n  
+SCIENCE CAF\xc9: Perspectives on Polycystic Kidney Disease (PKD)
+\n  \n
+\n\n\n
+\n
+\n
+\n    
+WHEN
+\n    
+\n    \n    \n        November 17, 2017 at  6:00PM -  8:30PM\n    \n    
+\n
+\n\n  \n\n  
+\n    
+WHERE
+\n    
+\n      \n      DDO Community Centre
+\n      \n      \n      12001 boulevard De Salaberry
+\n      \n      Dollard-des-Ormeaux, QC H9B 2A7
+\n      \n      Canada
+\n      \n      \n      
+Google map and directions
+\n      \n    
+\n  
+\n\n  \n\n
+\n
+\n\n
+\n\n\n    \n    \n\t\t\n        \n\n
+\n\t
+\n
+\n\n
+\n\n
+\n
+\n
+\n  \n  
+\n    
+Featuring local experts to highlight the close reality of PKD and the strengths of the local community, this Science Caf\xe9\xa0will include short presentations from the perspective of a patient living with PKD, a nephrologist caring for them, and the scientists carrying out PKD research. The opportunity for questions from the audience will follow presentations. Enjoy refreshments and live music during the reception.\xa0
+\n
+Please RSVP for this free event below the list of speakers!\xa0
+\n
+\xa0
+\n
+SPEAKERS
+\n
+Luisa Miniaci-Di Leo
+\n
+Patient and Montreal Chapter and Walk Coordinator of the PKD Foundation of Canada
+\n
+\xa0
+\n
+\xa0
+\n
+\n
+Dr. Ahsan Alam, MDCM, FRCP(C)
+\n
+Associate Professor of Medicine at McGill University and nephrologist at the Royal Victoria Hospital
+\n
+Read Dr. Alam's 
+biographical sketch
+.\xa0
+\n
+\xa0
+\n
+\n
+Dr. Marie Trudel, PhD
+\n
+Director and Professor, Molecular Genetics and Development, IRCM,\xa0Professeur Titulaire, D\xe9partement de M\xe9decine - Biologie Mol\xe9culaire et D\xe9partement de Biochimie et M\xe9decine Mol\xe9culaire - Universit\xe9 de Montr\xe9al,\xa0Adjunct Professor, Department of Medicine - Division of Experimental Medicine - McGill University
+\n
+\xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0Read Dr. Trudel's abridged 
+curriculum vitae
+.
+\n
+\xa0
+\n
+\n
+Dr. Elena Torban, PhD
+\n
+Scientist, Division of Nephrology, McGill University
+\n
+Read Dr. Torban's 
+biographical sketch
+.\xa0
+\n
+\xa0
+\n
+\xa0
+\n
+\n
+Dr. Chiara Gamberi, PhD
+\n
+Affiliate Assistant Professor, Department of Biology, Concordia University, Visiting Professor, Chemistry Department, Universit\xe9 de\xa0Montr\xe9al
+\n
+Read Dr. Gamberi's abridged 
+curriculum vitae
+.
+\n
+\xa0
+\n
+\xa0
+\n
+\xa0
+\n  
+\n  \n\n  \n\n  \n\n  
+\n    
+CONTACT
+\n    
+\n      Luisa Miniaci-Di Leo, Montreal Chapter & Walk Coordinator\n      \n      \xb7 
+\n/* <![CDATA[ */\nfunction hivelogic_enkoder(){var kode=\n"kode=\\";)'':)1-htgnel.edok(tArahc.edok?htgnel.edok<i(+x=edok})i(tArahc.edo"+\n"k+)1+i(tArahc.edok=+x{)2=+i;)1-htgnel.edok(<i;0=i(rof;''=x;\\\\\\";'):'1)h-gt"+\n"en.ldekot(rAha.cdekoh?gten.ldekoi<+(=xdeko)}(iAtarche.od+k1)i+t(rAha.cdeko"+\n"+={x2)+=;i1)h-gten.ldeko<(;i=0(ior;f''x=\\\\\\"\\\\\\\\;)''(nioj.)(esrever.)''(ti"+\n"lps.edok=edok\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\o;udectmwni.er\\\\\\"\\\\\\\\t(\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\< \\\\"+\n"\\\\\\\\\\\\rafh\\\\\\\\\\\\\\\\e=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mi\\\\\\\\"+\n"\\\\\\\\ta:lootmenlrhapcea@tnrpeddck\\\\\\\\\\\\\\\\.a\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\"+\n"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ i\\\\\\\\\\\\\\\\lt=t\\\\\\\\\\\\\\\\e\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"+\n"\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\"+\n"\\\\\\\\m\\\\\\\\\\\\\\\\n>roatcealthrpeed@kn.pad/c><\\\\\\\\\\\\\\\\a\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\;\\\\\\\\\\\\"+\n"\\\\=)\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\edok=\\\\\\"\\\\\\\\deko\\\\\\"=edok\\";kode=kode.split('').rever"+\n"se().join('')"\n;var i,c,x;while(eval(kode));}hivelogic_enkoder();\n/* ]]> */\n
+\n      \n      \n      \xb7 (514) 501-9924\n      \n    
+\n  
+\n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n  
+\n    \n
+\n\n
+\n\n  
+\n  \n\n  \n
+\n                \n\t\t\t
+\n            \n            
+\n            \t
+\n            
+\n            \n\t\t\t\n\t\t
+\n\t
+\n\n
+\n\n\t\n\n\t\n
+\n\n
+\n   \n\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t\n                    
+Get Involved
+\n                    
+Learn how today
+\n                    \n\t\t\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n\n\t\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+\n            
+ Join the Community
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+PKD Foundation of Canada
+\n\t\t\t\t\t\t\t
+3-1750 the Queensway, Suite 158
+\n\t\t\t\t\t\t\t
+Etobicoke, Ontario
+\n\t\t\t\t\t\t\t
+M9C 5H5
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n              
+endpkd@endpkd.ca
+\n              
+1-877-410-1741
+\n              
+Toronto: 
+416-410-1740
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t
+\n\t\n\n\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n          
+\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t
+About Us
+\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t
+Learn
+\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t
+Get Involved
+\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t
+Media and News
+\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t
+Donate
+\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t
+\n          \t\t\t
+Follow Us
+\n\t\t\t\t\t
+\n            \t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t
+\n          \t\t\t
+Contact
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t
+PKD Foundation of Canada
+\n\t\t\t\t\t\t
+3-1750 the Queensway, Suite 158
+\n\t\t\t\t\t\t
+Etobicoke, Ontario, M9C 5H5
+\n\t\t\t            
+endpkd@endpkd.ca
+\n\t\t\t            
+1-877-410-1741
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\tCopyright \xa9 PKD Foundation of Canada\n\t\t\t\t
+\n\t\t\t\t
+\n          
+ Back to top of page
+\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\tPowered by 
+NationBuilder
+.\n\t\t\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n\t\n
+\n\n\n\n
+\n\n\t\n    \n    \t
+\n\n
+\n  window.fbAsyncInit = function() {\n    FB.init({\n      appId      : 126739610711965,\n      channelUrl : "//endpkd.nationbuilder.com/channel.html",\n      status     : true,\n      version    : "v2.8",\n      cookie     : true,\n      xfbml      : true\n    });\n  };\n  (function(d, s, id) {\n    var js, fjs = d.getElementsByTagName(s)[0];\n    if (d.getElementById(id)) return;\n    js = d.createElement(s);\n    js.id = id;\n    js.async = true;\n    js.src = "//connect.facebook.net/en_US/sdk.js";\n    fjs.parentNode.insertBefore(js, fjs);\n  }(document, 'script', 'facebook-jssdk'));\n
+\n\n
+\n
+\n\n  \t
+\n\n\n  
+\n  _qevents.push(\n  \t{ qacct:"p-5ftmjaPECGTTU" }\n  \t);\n  
+\n\n  
+\n  &lt;div style="display: none;"&gt;&lt;img src="//pixel.quantserve.com/pixel?a.1=p-5ftmjaPECGTTU" height="1" width="1" alt="Quantcast"/&gt;&lt;/div&gt;\n  
+\n\n\n    \n\n\t
+\n\t
+\n\n\n\n>

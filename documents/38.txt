@@ -1,1703 +1,560 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Student associations
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-		})(window,document,'script','dataLayer','GTM-57BSZT');
-
-
-
-
-
-
-
-
-Concordia University
-
-
-https://www.concordia.ca/content/concordia/en/artsci/students/associations.html/maps/shuttle-bus.html
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Study resources
-
-
-Calendar - Graduate
-
-
-Calendar - Undergraduate
-
-
-Class schedules
-
-
-Class cancellations
-
-
-Course registration
-
-
-Important academic dates
-
-
-More academic resources
-Campus services
-
-
-Concordia Stores
-
-
-IT services
-
-
-Job opportunities
-
-
-Security
-
-
-Shuttle bus
-
-
-Student Service Centre (Birks)
-
-
-All campus services
-What's new
-
-
-Calendar of events
-
-
-Latest news
-
-
-Media Relations
-Faculties, Schools & Colleges
-
-
-Arts and Science
-
-
-Engineering and Computer Science
-
-
-Fine Arts
-
-
-John Molson School of Business
-
-
-School of Graduate Studies
-
-
-All Schools, Colleges & Departments
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Quick links  
-
-
-
-
-
-
-Webmail
-
-
-Library
-
-
-Cspace
-
-
-
-
-
-
-Study resources
-  
-
-
-Calendar - Graduate
-
-
-Calendar - Undergraduate
-
-
-Class schedules
-
-
-Class cancellations
-
-
-Course registration
-
-
-Important academic dates
-
-
-More academic resources
-Campus services
-  
-
-
-Concordia Stores
-
-
-IT services
-
-
-Job opportunities
-
-
-Security
-
-
-Shuttle bus
-
-
-Student Service Centre (Birks)
-
-
-All campus services
-What's new
-  
-
-
-Calendar of events
-
-
-Latest news
-
-
-Media Relations
-Faculties, Schools & Colleges
-  
-
-
-Arts and Science
-
-
-Engineering and Computer Science
-
-
-Fine Arts
-
-
-John Molson School of Business
-
-
-School of Graduate Studies
-
-
-All Schools, Colleges & Departments
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Quick links 
-
-
-The Campaign for Concordia
-
-
-
-
-MyConcordia
-
-
-Cspace
-
-
-Webmail
-
-
-Library
-
-
-Directories
-
-
-A-Z
-
-
-Maps
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Future students
-
-
-Student hub
-
-
-Alumni & friends
-
-
-Parents
-
-
-Faculty & staff
-
-
-Media
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Concordia University
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Concordia University
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Faculty of Arts and Science
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-About the Faculty
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                                Office of the Dean
-                                                            
-
-
-
-
-
-
-
-                                                                Departmental Chairs, faculty & staff
-                                                            
-
-
-
-
-
-
-
-                                                                Faculty awards
-                                                            
-
-
-
-
-
-
-
-                                                                Job opportunities
-                                                            
-
-
-
-
-
-
-
-                                                                FAS 2025
-                                                            
-
-
-
-
-
-
-
-                                                                Montreal 2050
-                                                            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Academics
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                                Departments
-                                                            
-
-
-
-
-
-
-
-                                                                Undergraduate programs
-                                                            
-
-
-
-
-
-
-
-                                                                Graduate programs
-                                                            
-
-
-
-
-
-
-
-                                                                Interdisciplinary studies 
-                                                            
-
-
-
-
-
-
-
-                                                                Visiting & exchange
-                                                            
-
-
-
-
-
-
-
-                                                                Summer schools
-                                                            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Research & graduate studies
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                                Centres & Institutes
-                                                            
-
-
-
-
-
-
-
-                                                                Research Chairs
-                                                            
-
-
-
-
-
-
-
-                                                                Researchers
-                                                            
-
-
-
-
-
-
-
-                                                                Postdoctoral Fellows
-                                                            
-
-
-
-
-
-
-
-                                                                Graduate studies in Arts and Science
-                                                            
-
-
-
-
-
-
-
-                                                                Graduate funding opportunities
-                                                            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Student services
-
-
-
-
-
-
-Alumni
-
-
-
-
-
-
-
-
-
-
-The Campaign for Concordia
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Study resources
-
-
-Calendar - Graduate
-
-
-Calendar - Undergraduate
-
-
-Class schedules
-
-
-Class cancellations
-
-
-Course registration
-
-
-Important academic dates
-
-
-More academic resources
-Campus services
-
-
-Concordia Stores
-
-
-IT services
-
-
-Job opportunities
-
-
-Security
-
-
-Shuttle bus
-
-
-Student Service Centre (Birks)
-
-
-All campus services
-What's new
-
-
-Calendar of events
-
-
-Latest news
-
-
-Media Relations
-Faculties, Schools & Colleges
-
-
-Arts and Science
-
-
-Engineering and Computer Science
-
-
-Fine Arts
-
-
-John Molson School of Business
-
-
-School of Graduate Studies
-
-
-All Schools, Colleges & Departments
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Quick links  
-
-
-
-
-
-
-Webmail
-
-
-Library
-
-
-Cspace
-
-
-
-
-
-
-Study resources
-  
-
-
-Calendar - Graduate
-
-
-Calendar - Undergraduate
-
-
-Class schedules
-
-
-Class cancellations
-
-
-Course registration
-
-
-Important academic dates
-
-
-More academic resources
-Campus services
-  
-
-
-Concordia Stores
-
-
-IT services
-
-
-Job opportunities
-
-
-Security
-
-
-Shuttle bus
-
-
-Student Service Centre (Birks)
-
-
-All campus services
-What's new
-  
-
-
-Calendar of events
-
-
-Latest news
-
-
-Media Relations
-Faculties, Schools & Colleges
-  
-
-
-Arts and Science
-
-
-Engineering and Computer Science
-
-
-Fine Arts
-
-
-John Molson School of Business
-
-
-School of Graduate Studies
-
-
-All Schools, Colleges & Departments
-
-
-
-
-
-
-
-
-
-
-
-
-Information for... 
-
-
-
-
-Future students
-
-
-Student hub
-
-
-Alumni & friends
-
-
-Parents
-
-
-Faculty & staff
-
-
-Media
-
-
-
-
-
-
-
-                        $(".role-links-mobile .open-links").on('click', function() {
-                            $this = $(this);
-                            $this.find('.arrow').toggleClass('concordia-arrow-black-down-icon');
-                            $this.find('.arrow').toggleClass('concordia-arrow-black-up-icon');
-                        });
-                    
-
-
-
-
-
-
-
-
-
-
-
-    $(document).ready(function() {
-        var $dropdowns = $('.nav li.dropdown');
-        var delay = 300;
-    
-        $dropdowns
-            .on('mouseover', function() {
-                if ($(".header-btn").css("display") == "none") { // Only fire this when not on mobile
-
-                    // Make sure the autocomplete is not showing
-                    $(".ui-autocomplete").css("display","none");
-    
-                    var $this = $(this);
-                    $this.siblings('.open').removeClass('open');
-    
-                    if ($this.prop('hoverTimeout')) {
-                        $this.prop('hoverTimeout', clearTimeout($this.prop('hoverTimeout')));
-                    }
+\n\n\t
+\n\t\n\t
+saffm | South Asian Film Festival of Montr\xe9al
+\n\n
+\n\n\t\n\t\t\t\n\t\t\t\t\t\t
+\n\t\t\n\t
+\n\t
+\n\t
+\n\t
+\n\t
+\n
+\n
+\n
+\n
+\n
+\n\t\t
+\n\t\t
+\nimg.wp-smiley,\nimg.emoji {\n\tdisplay: inline !important;\n\tborder: none !important;\n\tbox-shadow: none !important;\n\theight: 1em !important;\n\twidth: 1em !important;\n\tmargin: 0 .07em !important;\n\tvertical-align: -0.1em !important;\n\tbackground: none !important;\n\tpadding: 0 !important;\n}\n
+\n
+\n
+\n
+\n#rs-demo-id {}\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+ \n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+.vc_custom_1506947914069{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1506686175095{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}.vc_custom_1506684405177{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}.vc_custom_1506686185554{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}.vc_custom_1506684481674{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}.vc_custom_1506684558571{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}.vc_custom_1506686194791{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}
+&lt;style type="text/css"&gt; .wpb_animate_when_almost_visible { opacity: 1; }&lt;/style&gt;
+\n\n\n\n\t\t\t\t\t\t
+\n\t
+\n\t
+\n\t\t
+\n\n\t\n\n\n
+\n    
+\n\n\t\t
+\n\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+2016 Edition
+\n
+2015 Edition
+\n
+\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+English
+Fran\xe7ais
+\t\t\t
+\n\t\t
+\n\t
+Contact Us
+\n
+\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t
+\n\t\t                    \t\t\t\t\t
+\n                        \t\t\t\t\t\t\t\t\t\t\t\t\t
+\n                                
+\n                                    
+                                
+\n                            
+\n\t\t\t\t\t\t\t\t\t\t\t\t
+\n                            \t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n                            \t\t\t\t\t\t
+\n                                                \t\t\t\t\t
+\n                    \t\t\t\t\t                                                \t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+Welcome
+\n
+2017 Edition 
+\n
+\n\t
+About
+\n\t
+Festival Staff
+\n\t
+Fund-raising Committee
+\n\t
+Jury
+\n\t
+Panelists
+\n\t
+Partners
+\n\t
+Festival Donors
+\n
+\n
+\n
+Films 
+\n
+\n\t
+Films \u2013 Montreal
+\n\t
+Films \u2013 Chicoutimi
+\n
+\n
+\n
+Calendar & Venue 
+\n
+\n\t
+Calendar & Venue \u2013 Montreal
+\n\t
+Calendar & Venue \u2013 Chicoutimi
+\n
+\n
+\n
+Box Office
+\n
+\n
+\n\t
+\n\t
+\n
+\n
+\n
+\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n                                
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n                                                                                                                        \n                                    
+\n                                
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t\t
+\n                        
+Welcome
+\n
+2017 Edition 
+\n
+\n\t
+About
+\n\t
+Festival Staff
+\n\t
+Fund-raising Committee
+\n\t
+Jury
+\n\t
+Panelists
+\n\t
+Partners
+\n\t
+Festival Donors
+\n
+\n
+\n
+Films 
+\n
+\n\t
+Films \u2013 Montreal
+\n\t
+Films \u2013 Chicoutimi
+\n
+\n
+\n
+Calendar & Venue 
+\n
+\n\t
+Calendar & Venue \u2013 Montreal
+\n\t
+Calendar & Venue \u2013 Chicoutimi
+\n
+\n
+\n
+Box Office
+\n
+\n
+\n\t
+\n\t
+\n
+\n
+\n
+\t\t\t\t\t
+\n\t\t\t\t
+\n\t
+\n\t
+\n\n
+\n\t\t\n\n    \t\t
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t
+\n\t    \t\n    \n\t\t\n\t\n    \n
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t
+\n
+\n
+\n\t
+\n
+\t
+\n\t
+\n\t\t
+\n\t\t
+\n\t\t
+\n\n\t\t
+\n\t\t
+ 
+\n\n\t\t
+\n\t\t
+De S\xe8ve Cinema, 
+Universit\xe9 Concordia 
+1400 De Maisonneuve W.\n 
+\n\n\t\t
+\n\t\t
+Montreal 
+\n\n\t\t
+\n\t\t
+Chicoutimi 
+\n\n\t\t
+\n\t\t
+Collaboration with
+Biblioth\xe8ques de Saguenay 
+\n\n\t\t
+\n\t\t
+October 27 to 29 & 
+November 3 to 5, 2017 
+\n\n\t\t
+\n\t\t
+November
+17 to 19, 2017 
+\n\t
+\n
+\n
+\t
+\n
+var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";\n\t\t\t\tif(htmlDiv) {\n\t\t\t\t\thtmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;\n\t\t\t\t}else{\n\t\t\t\t\tvar htmlDiv = document.createElement("div");\n\t\t\t\t\thtmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";\n\t\t\t\t\tdocument.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);\n\t\t\t\t}\n\t\t\t
+\n\t\t
+\n\t\t\t\t\t\t/******************************************\n\t\t\t\t-\tPREPARE PLACEHOLDER FOR SLIDER\t-\n\t\t\t******************************************/\n\n\t\t\tvar setREVStartSize=function(){\n\t\t\t\ttry{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;\n\t\t\t\t\te.c = jQuery('#rev_slider_3_1');\n\t\t\t\t\te.gridwidth = [1240];\n\t\t\t\t\te.gridheight = [750];\n\t\t\t\t\t\t\t\n\t\t\t\t\te.sliderLayout = "auto";\n\t\t\t\t\tif(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})\n\t\t\t\t\t\n\t\t\t\t}catch(d){console.log("Failure at Presize of Slider:"+d)}\n\t\t\t};\n\t\t\t\n\t\t\tsetREVStartSize();\n\t\t\t\n\t\t\t\t\t\tvar tpj=jQuery;\n\t\t\t\n\t\t\tvar revapi3;\n\t\t\ttpj(document).ready(function() {\n\t\t\t\tif(tpj("#rev_slider_3_1").revolution == undefined){\n\t\t\t\t\trevslider_showDoubleJqueryError("#rev_slider_3_1");\n\t\t\t\t}else{\n\t\t\t\t\trevapi3 = tpj("#rev_slider_3_1").show().revolution({\n\t\t\t\t\t\tsliderType:"standard",\njsFileLocation:"//www.saffm.centrekabir.com/wp-content/plugins/revslider/public/assets/js/",\n\t\t\t\t\t\tsliderLayout:"auto",\n\t\t\t\t\t\tdottedOverlay:"none",\n\t\t\t\t\t\tdelay:9000,\n\t\t\t\t\t\tnavigation: {\n\t\t\t\t\t\t\tonHoverStop:"off",\n\t\t\t\t\t\t},\n\t\t\t\t\t\tvisibilityLevels:[1240,1024,778,480],\n\t\t\t\t\t\tgridwidth:1240,\n\t\t\t\t\t\tgridheight:750,\n\t\t\t\t\t\tlazyType:"none",\n\t\t\t\t\t\tshadow:0,\n\t\t\t\t\t\tspinner:"off",\n\t\t\t\t\t\tstopLoop:"off",\n\t\t\t\t\t\tstopAfterLoops:-1,\n\t\t\t\t\t\tstopAtSlide:-1,\n\t\t\t\t\t\tshuffle:"off",\n\t\t\t\t\t\tautoHeight:"off",\n\t\t\t\t\t\tdisableProgressBar:"on",\n\t\t\t\t\t\thideThumbsOnMobile:"off",\n\t\t\t\t\t\thideSliderAtLimit:0,\n\t\t\t\t\t\thideCaptionAtLimit:0,\n\t\t\t\t\t\thideAllCaptionAtLilmit:0,\n\t\t\t\t\t\tdebugMode:false,\n\t\t\t\t\t\tfallbacks: {\n\t\t\t\t\t\t\tsimplifyAll:"off",\n\t\t\t\t\t\t\tnextSlideOnWindowFocus:"off",\n\t\t\t\t\t\t\tdisableFocusListener:false,\n\t\t\t\t\t\t}\n\t\t\t\t\t});\n\t\t\t\t}\n\t\t\t});\t/*ready*/\n\t\t
+\n\t\t
+\t\t\t
+\n\t\t\t
+\n\t
+\n\t\t\t\t\t\t\t\t\t\t
+\n\t
+\n\t\t
+\n\t\t\t
+South Asian Film Festival of Montr\xe9al (SAFFMontr\xe9al)
+ 
+is presented by Kabir Centre for Arts & Culture, a not-for-profit organization promoting various art forms and activities such as music, dance, cinema, literature and poetry.
+\n\n\t\t
+ \n\t
+ 
+\n\t
+\n\t\t
+\n\t\t\t
+MISSION OF SAFFM
+\n
+South Asian Film Festival of Montr\xe9al (SAFFM), the only one of its kind in the great city of Montr\xe9al, is committed to showcasing new artistic work that fosters discussions and explores the world we inhabit. The Festival hopes to be a platform for filmmakers worldwide whose films have a focus on South Asia and its diaspora.
+\n\n\t\t
+ \n\t
+ 
+\n\t
+\n\t\t
+\n\t\t\t
+TICKETS & FESTIVAL PASSPORT (Montreal)
+\n\n\t\t
+ \n\t
+ 
+\n\n\t
+\n\t\t
+\n\t\t\t
+To watch the films this year, visit the 
+\u2018Calendar & venue\u2019
+ or the 
+\u2018Films\u2019
+ page and get tickets while they are still available.
+\nTickets on sale now!
+\n\n\t\t
+ \n\t
+ \t
+\n\t\t\t
+\n\t\t
+\n\n
+FILMS LIST - MONTREAL
+FESTIVAL PASSPORT
+\n\t
+\n\t\t
+\n\t\t\t
+Films
+\n\n\t\t
+ \n\t
+ 
+\n
+MONTREAL FESTIVAL
+CHICOUTIMI FESTIVAL
+\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n\n\t
+\n\t\t
+\n\t\t\t
+OCTOBER, 27 2017 | 7:00 pm
+\n
+CINEMA TRAVELLERS
+\n
+Hindi, Marathi
+\n\n\t\t
+ \n\t
+ \t
+\n\t\t\t
+\n\t\t
+\n\n
+\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n\n\t
+\n\t\t
+\n\t\t\t
+OCTOBER, 28 2017 | 3:00 pm
+\n
+ESCAPING AGRA
+\n
+English
+\n\n\t\t
+ \n\t
+ \t
+\n\t\t\t
+\n\t\t
+\n\n
+\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n\n\t
+\n\t\t
+\n\t\t\t
+OCTOBER, 29 2017 | 3:00 pm
+\n
+NORMALCY
+\n
+Tamil
+\n\n\t\t
+ \n\t
+ \t
+\n\t\t\t
+\n\t\t
+\n\n
+\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n\n\t
+\n\t\t
+\n\t\t\t
+OCTOBER, 29 2017 | 7:00 pm
+\n
+A BILLION COLOUR STORY
+\n
+English, Hindi, Urdu
+\n\n\t\t
+ \n\t
+ \t
+\n\t\t\t
+\n\t\t
+\n\n
+\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n\n\t
+\n\t\t
+\n\t\t\t
+NOVEMBER, 3 2017 | 7:00 pm
+\n
+KALO POTHI (BLACK HEN)
+\n
+Nepalese
+\n\n\t\t
+ \n\t
+ \t
+\n\t\t\t
+\n\t\t
+\n\n
+\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n\n\t
+\n\t\t
+\n\t\t\t
+NOVEMBER, 4 2017 | 7:00 pm
+\n
+LIPSTICK UNDER MY BURKHA
+\n
+Hindi
+\n\n\t\t
+ \n\t
+ \t
+\n\t\t\t
+\n\t\t
+\n\n
+\n\t
+\n\t\t
+\n\t\t\t
+Sponsors
+\n\n\t\t
+ \n\t
+ 
+\n
+\n\t\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t
+\t\n\t\t\t\n\t
+\n
+\n\n\n\n\t
+\n\t\t
+\n\t\t\t\t
+\n            \t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t
+\t\t\t
+\n\t\t
+\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t
         
-                    $this.prop('hoverIntent', setTimeout(function() {
-                        $this.addClass('open');
-                    }, 0));
-                }
-            })
-            .on('mouseleave', function() {
-                if ($(".header-btn").css("display") == "none") { // Only fire this when not on mobile
-                    var $this = $(this);
-                    $this.siblings('.open').removeClass('open');
+ABOUT FESTIVAL
+\n
+About
+\n
+Festival Staff
+\n
+Fund-raising Committee
+\n
+Jury
+\n
+Panelists
+\n
+Partners
+\n
+Festival Donors
+\n\n\n\n
+\n
+\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t
         
-                    if ($this.prop('hoverIntent')) {
-                        $this.prop('hoverIntent', clearTimeout($this.prop('hoverIntent')));
-                    }
+2017 EDITION
+\n
+Films
+\n
+Calendar & Venues
+\n
+Opening Night
+\n
+Closing Night
+\n
+Contact Us
+\n\n
+\n
+\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t
         
-                    // If the dropdown doesn't have any children, set delay to 0
-                    delay = ($this.find('.dropdown-toggle').length != 0) ? 300 : 0;
-        
-                    $this.prop('hoverTimeout', setTimeout(function() {
-                        $this.removeClass('open');
-                    }, delay));
-                }
-            })
-            .on('click', '.open-btn', function() {
-                $this = $(this);
-                $dropdown = $this.closest('.dropdown');
-                $icon = $this.find('span');
-    
-                $(this).closest('.dropdown').find('.dropdown-menu').slideToggle();
-                $dropdown.toggleClass('open');
-    
-                $icon.toggleClass('concordia-arrow-white-down-icon');
-                $icon.toggleClass('concordia-arrow-white-up-icon');
-            });
-
-
-        // On mobile, make sure search is not showing when menu is opened
-        $(".concordia-hamburger-icon").on("click", function() {
-            if ($("#site-search").hasClass("in")) {
-                $("#site-search").collapse("hide");
-            }
-        });
-    
-        // On mobile, make sure navigation is not showing when search is opened
-        $(".concordia-search-icon.visible-phone").on("click", function() {
-            if ($(".nav-collapse").hasClass("in")) {
-                $(".nav-collapse").collapse("hide");
-            }
-        });
-    });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    Concordia
-                
-
-
-
-
-
-
-
-
-
-
-
-                    Directories
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Search
-
-
-
-
-
-
-
-
-
-
-
-
-Concordia University
-
-
-
-
-
-
-
-
-
-
-Faculty of Arts and Science
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    
-                    Concordia.ca
-                    
-                
-
-
-
-	         / 
-	        
-
-
-
-                    
-                    Faculty of Arts and Science
-                    
-                
-
-
-
-	         / 
-	        
-
-
-
-                    
-                    Student services
-                    
-                
-
-
-
-	         / 
-	        
-
-                
-                    Student associations
-                    
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Facebook
-
-
-
-
-
-
-
-
-
-
-Twitter
-
-
-
-
-
-
-
-
-
-
-LinkedIn
-
-
-
-
-
-
-
-
-
-
-GooglePlus
-
-
-
-
-
-
-
-
-
-
-
-            jQuery(document).ready(function() {
-                "use strict";
-                $ =  jQuery;
-
-                var decal = $('.c-socialbar-cta:not(.horizontal)').parent().width();
-                $('.c-socialbar-cta:not(.horizontal)').css({'margin-left':decal+5});
-                $('.c-socialbar-cta:not(.horizontal)').fadeIn();
-
-
-                $(window).scroll(function() {
-                    socialbar.scroll();
-                });
-            });
-
-            var socialbar = (function(jQuery) {
-                var timeOutId = 0;
-                var jitterBuffer = 20;
-
-                return {
-                    scroll:function() {
-                        var offset = $('.c-socialbar-cta:not(.horizontal)').parent().offset();
-                        var top = offset.top -150;
-
-                        if ($(window).scrollTop() > top) {
-                            $('.c-socialbar-cta:not(.horizontal)').addClass('fixed');
-                        }
-                        else {
-                            $('.c-socialbar-cta:not(.horizontal)').removeClass('fixed');
-                        }
-                    }
-                };
-            })();
-        
-
-
-
-
-
-
-Student associations
-
-
-
-
-
-
-
-
-
-
-
-        $(document).ready(function() {
-			$("#470ee42d-0610-46c1-b721-d9925f147a35content-mainimage").attr("href", "");
-        });
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Back to top
-
-
-
-
-
-
-© Concordia University
-
-
-
-
-
-
-
-
-Concordia University
- - Call us at 514-848-2424
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-About the Faculty
-
-
-Academics
-
-
-Research & graduate studies
-
-
-Student services
-
-
-Alumni
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Sir George Williams Campus
-
-
-1455 De Maisonneuve Blvd. W.
-
-
-Montreal
-, 
-Quebec
-, 
-Canada
-
-
-H3G 1M8
-
-
-
-
-See SGW Campus map 
-
-
-
-
-Loyola Campus
-
-
-7141 Sherbrooke Street W.
-
-
-Montreal
-, 
-Quebec
-, 
-Canada
-
-
-H4B 1R6
-
-
-
-
-See Loyola Campus map 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-facebook
-
-
-twitter
-
-
-google
-
-
-youtube
-
-
-linkedin
-
-
-pinterest
-
-
-instagram
-
-
-flickr
-
-
-
-
-
-
-Concordia social
-
-
-
-
-
-
-
-
-
-
-
-
-© Concordia University
-
-
-Terms
-
-
-Privacy
-
-
-Accessibility
-
-
-Website feedback
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Share this page
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Concordia.ca
-
-
-
-
-
-
-Call us at
-
-
-514-848-2424
-
-
-
-
-
-
-
-
-
-
-
-
-Sir George Williams Campus
-
-
-1455 De Maisonneuve Blvd. W.
-
-
-Montreal
-, 
-Quebec
-, 
-Canada
-
-
-H3G 1M8
-
-
-
-
-See SGW Campus map 
-
-
-
-
-Loyola Campus
-
-
-7141 Sherbrooke Street W.
-
-
-Montreal
-, 
-Quebec
-, 
-Canada
-
-
-H4B 1R6
-
-
-
-
-See Loyola Campus map 
-
-
-
-
-
-
-
-
-
-
-Website feedback
-
-
-
-
-Terms
-
-
-Privacy
-
-
-Accessibility
-
-
-
-
-
-
-
-
-© Concordia University
-
-
-
-
-
->
+PREVIOUS EDITIONS
+\n
+2016 Edition
+\n
+2015 Edition
+\n
+\n
+\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n                \t\t\t\t\t\t\t\t\t
+\n\t\t\t\t        
+Copyright 2017 South Asian Film Festival of Montr\xe9al (SAFFMontr\xe9al). All right reserved. Website by 
+\xd4 WEB
+.
+\n\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t
+\n\t
+\n\t\t\n
+\n
+\n\t\t
+\n\t\t\tfunction revslider_showDoubleJqueryError(sliderID) {\n\t\t\t\tvar errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";\n\t\t\t\terrorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";\n\t\t\t\terrorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";\n\t\t\t\terrorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";\n\t\t\t\terrorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";\n\t\t\t\t\tjQuery(sliderID).show().html(errorMessage);\n\t\t\t}\n\t\t
+\n\t\t
+\n/* <![CDATA[ */\nvar qodeLike = {"ajaxurl":"http:\\/\\/www.saffm.centrekabir.com\\/wp-admin\\/admin-ajax.php"};\n/* ]]> */\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar icl_vars = {"current_language":"en","icl_home":"http:\\/\\/www.saffm.centrekabir.com\\/en\\/","ajax_url":"http:\\/\\/www.saffm.centrekabir.com\\/en\\/wp-admin\\/admin-ajax.php","url_type":"1"};\n/* ]]> */\n
+\n
+\n\n\n>

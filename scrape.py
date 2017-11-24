@@ -15,7 +15,7 @@ STARTING_WEBPAGES = ["https://csu.qc.ca/content/student-groups-associations",
                      "http://www.cupfa.org", 
                      "http://cufa.net"]
 
-NUMBER_OF_PAGES_TO_CRAWL = 100 # This is an upper bound, the crawler may stop before
+NUMBER_OF_PAGES_TO_CRAWL = 500 # This is an upper bound, the crawler may stop before
 CRAWLS_PER_START_PAGE = NUMBER_OF_PAGES_TO_CRAWL/len(STARTING_WEBPAGES)
 RAW_WEBPAGE_OUTPUT_DIR = '/raw_webpages'
 total_crawled_pages = 0 # Total for all pages
@@ -65,7 +65,11 @@ for webpage in STARTING_WEBPAGES:
         # Output content to file 
         filename = RAW_WEBPAGE_OUTPUT_DIR + "/" + str(total_crawled_pages) + ".txt"
         raw_output = open(os.getcwd() + filename, 'w+')
-        raw_output.write(str(soup.prettify))
+        try: 
+            raw_output.write(str(soup.prettify))
+        except: 
+            print "Cannot write contents of " + str(url)
+            continue 
 
         # Get links from webpage 
         for link in soup.find_all('a'):
