@@ -1,5 +1,5 @@
-Average doc length: 3898.64102564
+Average doc length: 3130.38461538
 Size of:										Terms										Postings
-Uncompressed										9890										52779
-No numbers										9466										49376
-Case Folded										7745										49376
+Uncompressed										10082										54251
+No numbers										9587										50547
+Case Folded										7758										50547

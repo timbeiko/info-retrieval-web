@@ -1,1 +1,0 @@
-<bound method BeautifulSoup.prettify of <!DOCTYPE html>\n<html><head>\n\t<title>Engineering Games Concordia</title>\n\t\n</head>\n\n<body>\n\t<center>\n\t\tUnder Construction!\n\t</center>\n\n</body></html>>

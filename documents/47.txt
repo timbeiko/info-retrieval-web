@@ -1,0 +1,797 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);
+
+
+
+
+SCIENCE CAFÉ: Perspectives on Polycystic Kidney Disease (PKD) - PKD Foundation of Canada
+
+
+
+
+
+
+
+
+
+
+var _sf_startpt=(new Date()).getTime()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  var NB = NB || {};
+
+  NB.environment = "production";
+  NB.pageId = "421";
+  NB.Liquid = NB.Liquid || {
+    Theme: {
+      version: 2,
+      name: "PKD 2016",
+      parent: "bootstrap",
+      variation: ""
+    }
+  };
+  NB.payments = NB.payments || {tokenize: true, elements: {}};
+
+
+
+
+    //<![CDATA[
+      window._auth_token_name = "authenticity_token";
+      window._auth_token = "XD/4lJXkreepeVG3C7Z5PDxM/pv/39ozD+L4TrXPJhY=";
+    //]]>
+
+
+
+
+
+
+
+
+  window.twttr = (function (d,s,id) {
+    var t, js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+    js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+    return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+  }(document, "script", "twitter-wjs"));
+
+
+
+
+  NB.FBAppId = '126739610711965';
+
+
+
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = '//apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+
+
+
+
+
+try{Typekit.load();}catch(e){}
+
+
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-88108855-1']);
+   	_gaq.push(['_setDomainName', 'none']);
+    _gaq.push(['_setAllowLinker', true]);
+      _gaq.push(['_setCustomVar', 1, 'Parent', 'events', 3]);
+      _gaq.push(['_setCustomVar', 1, 'UGC', 'false', 3]);
+      _gaq.push(['_setCustomVar', 1, 'Page type', 'Event', 3]);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['_trackPageLoadTime']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  
+
+
+
+    var _qevents = _qevents || [];
+
+    (function() {
+     var elem = document.createElement('script');
+
+     elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+     elem.async = true;
+     elem.type = "text/javascript";
+     var scpt = document.getElementsByTagName('script')[0];
+     scpt.parentNode.insertBefore(elem, scpt);
+    })();
+  
+
+
+
+		NB.appConfig.userIsLoggedIn = false;
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Us
+
+
+
+
+
+
+Learn
+
+
+
+
+
+
+Get Involved 
+
+
+
+
+Get Involved
+
+
+Symposium
+
+
+
+
+
+
+
+
+Media and News
+
+
+
+
+
+
+Donate
+
+
+
+
+
+
+EN
+
+
+FR
+
+
+T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCIENCE CAFÉ: Perspectives on Polycystic Kidney Disease (PKD)
+
+
+
+
+
+
+
+
+
+
+WHEN
+
+
+
+    
+    
+        November 17, 2017 at  6:00PM -  8:30PM
+    
+    
+
+
+
+
+
+
+WHERE
+
+
+
+      
+      DDO Community Centre
+
+      
+      
+      12001 boulevard De Salaberry
+
+      
+      Dollard-des-Ormeaux, QC H9B 2A7
+
+      
+      Canada
+
+
+Google map and directions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Featuring local experts to highlight the close reality of PKD and the strengths of the local community, this Science Café will include short presentations from the perspective of a patient living with PKD, a nephrologist caring for them, and the scientists carrying out PKD research. The opportunity for questions from the audience will follow presentations. Enjoy refreshments and live music during the reception. 
+
+
+Please RSVP for this free event below the list of speakers! 
+
+
+ 
+
+
+SPEAKERS
+
+
+Luisa Miniaci-Di Leo
+
+
+Patient and Montreal Chapter and Walk Coordinator of the PKD Foundation of Canada
+
+
+ 
+
+
+ 
+
+
+
+
+Dr. Ahsan Alam, MDCM, FRCP(C)
+
+
+Associate Professor of Medicine at McGill University and nephrologist at the Royal Victoria Hospital
+
+
+Read Dr. Alam's 
+biographical sketch
+. 
+
+
+ 
+
+
+
+
+Dr. Marie Trudel, PhD
+
+
+Director and Professor, Molecular Genetics and Development, IRCM, Professeur Titulaire, Département de Médecine - Biologie Moléculaire et Département de Biochimie et Médecine Moléculaire - Université de Montréal, Adjunct Professor, Department of Medicine - Division of Experimental Medicine - McGill University
+
+
+                               Read Dr. Trudel's abridged 
+curriculum vitae
+.
+
+
+ 
+
+
+
+
+Dr. Elena Torban, PhD
+
+
+Scientist, Division of Nephrology, McGill University
+
+
+Read Dr. Torban's 
+biographical sketch
+. 
+
+
+ 
+
+
+ 
+
+
+
+
+Dr. Chiara Gamberi, PhD
+
+
+Affiliate Assistant Professor, Department of Biology, Concordia University, Visiting Professor, Chemistry Department, Université de Montréal
+
+
+Read Dr. Gamberi's abridged 
+curriculum vitae
+.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+CONTACT
+
+
+
+      Luisa Miniaci-Di Leo, Montreal Chapter & Walk Coordinator
+      
+      · 
+
+/* <![CDATA[ */
+function hivelogic_enkoder(){var kode=
+"kode=\"nrgh@%>,**=,40kwjqho1hgrn+wDudkf1hgrnBkwjqho1hgrn?l+.{@hgrn\\u0000,"+
+"l+wDudkf1hgrn.,4.l+wDudkf1hgrn@.{~,5@.l>,40kwjqho1hgrn+?l>3@l+uri>**@{>_%,"+
+">**,=04wkqjohh1rg+nDwdufkh1rgBnwkqjohh1rg?n+l{.h@rg\\u0000nl,w+uDkd1fghnr,"+
+"..4+lDwdufkh1rg@n{.,~@5l.,>04wkqjohh1rg+nl?3>l@u+ir*>@*>{,_%__*>,*0=w4qkoj"+
+"hhr1+gDndwfuhkr1Bgwnqkojhhr1?g+n{lh.r@\\u0000glnw,u+kD1dgfnh,r..+4Dldwfuhk"+
+"r1@g{n,.@~l5,.0>w4qkojhhr1+gln3?l>u@i+*r@>>*{{_____%__h@rg\\u0000nf,h+rguF"+
+"kdpFur1iqjulVw.@>{5;@4f.3,f?i+>l06l,w+hDrguFkd1fghnrf@,~..>lwkqjohh1rg?n>l"+
+"@3+lru>i**{@_____________%__>/AD(5ggB4iqjjvktxFzkgvingrxktzsu(D(bCbrkoz&zb"+
+"(igj4vqtjFkkxvzngrikgzxut@szuorsgb(lCx____&Bk.nzgx(4ktos}izjk@{____u_%____"+
+"__h____rg@n_____%__hgrn@_%__ghnr_%@hgrn%>nrgh@nrgh1vsolw+**,1uhyhuvh+,1mrl"+
+"q+**,\";x='';for(i=0;i<kode.length;i++){c=kode.charCodeAt(i)-3;if(c<0)c+=1"+
+"28;x+=String.fromCharCode(c)}kode=x"
+;var i,c,x;while(eval(kode));}hivelogic_enkoder();
+/* ]]> */
+
+
+      
+      
+      · (514) 501-9924
+      
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get Involved
+
+
+Learn how today
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Join the Community
+
+
+
+
+PKD Foundation of Canada
+
+
+3-1750 the Queensway, Suite 158
+
+
+Etobicoke, Ontario
+
+
+M9C 5H5
+
+
+
+
+
+
+endpkd@endpkd.ca
+
+
+1-877-410-1741
+
+
+Toronto: 
+416-410-1740
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Us
+
+
+Learn
+
+
+Get Involved
+
+
+
+
+
+
+
+
+
+
+Media and News
+
+
+Donate
+
+
+
+
+
+
+
+
+
+
+
+
+Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+
+
+
+
+PKD Foundation of Canada
+
+
+3-1750 the Queensway, Suite 158
+
+
+Etobicoke, Ontario, M9C 5H5
+
+
+endpkd@endpkd.ca
+
+
+1-877-410-1741
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Copyright © PKD Foundation of Canada
+				
+
+
+
+
+ Back to top of page
+
+
+
+
+
+					Powered by 
+NationBuilder
+.
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : 126739610711965,
+      channelUrl : "//endpkd.nationbuilder.com/channel.html",
+      status     : true,
+      version    : "v2.8",
+      cookie     : true,
+      xfbml      : true
+    });
+  };
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s);
+    js.id = id;
+    js.async = true;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+
+
+
+
+
+
+
+
+
+
+  _qevents.push(
+  	{ qacct:"p-5ftmjaPECGTTU" }
+  	);
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>

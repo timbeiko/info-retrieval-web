@@ -6,6 +6,7 @@ from math import log
 
 DOCUMENT_COUNT = 21578   
 AVERAGE_DOC_LENGTH = 307.854206213
+mappedURL = {}
 
 def loadAfinn():
     dictionary = json.load(open('afinn_dictionary.json'))
@@ -16,7 +17,7 @@ def loadDocSentiment():
     return dictionary
 
 def loadMapping():
-    mapping = json.load(open('docID_URL_mapping.json.json'))
+    mapping = json.load(open('docID_URL_mapping.json'))
     return mapping
 
 def sentimentSearch(matching_docs,query_sentiment_value,doc_sentiment):
@@ -30,10 +31,11 @@ def sentimentSearch(matching_docs,query_sentiment_value,doc_sentiment):
     # sorted the matching_docs from highest to lowest
     if query_sentiment_value >= 0:
         for doc, sent in sorted(dictionary.items(), key=lambda dictionary: dictionary[1], reverse=True):
-            print "Document ID: " + mappedURL[doc] + " sentiment: " + str(sent)
+            print mappedURL[str(doc)] + " (Sentiment: " + str(sent) + ")"
     else: # sorted the matching_docs from lowest to highest
         for doc, sent in sorted(dictionary.items(), key=lambda dictionary: dictionary[1], reverse=False):
-            print "Document ID: " + mappedURL[doc] + " sentiment: " + str(sent)
+            print(doc,mappedURL[doc].mappedURL[str(doc)] )
+            print mappedURL[str(doc)] + " (Sentiment: " + str(sent) + ")"
 
     print "\n"
 
@@ -70,7 +72,7 @@ def BM25(matching_docs, index, query, doc_lengths):
 
     print str(len(doc_scores)) + " results:"
     for doc in sorted(doc_scores, key=doc_scores.get, reverse=True):
-        print "Doc: " + mappedURL[doc] + " Score: " + str(doc_scores[doc])
+        print mappedURL[str(doc)] + " (Score: " + str(doc_scores[doc]) + ")"
     print "\n"
 
 
@@ -230,6 +232,7 @@ def searchForDocuments(index,doc_sentiment):
                 sentimentSearch(matching_docs,query_sentiment_value,doc_sentiment)
 
 def main():
+    global mappedURL
     displayWelcomePrompt()
     checkIfIndex()
     index = loadIndexToMemory()

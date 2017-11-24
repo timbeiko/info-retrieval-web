@@ -1,0 +1,1926 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vimeo | The high-quality home for video hosting and watching
+
+
+
+
+
+
+
+
+
+        var ablincoln_config = ablincoln_config || {};
+        ablincoln_config.tests = {"DFPAdCohorts":{"id":69,"name":"DFPAdCohorts","buckets":1000,"input":"vuid","url":null,"experiments":[]},"Explore":{"id":64,"name":"Explore","buckets":1000,"input":"vuid","url":"\/","experiments":[]},"TopNavAB":{"id":67,"name":"TopNavAB","buckets":1000,"input":"vuid","url":"\/","experiments":[]},"TopNavCopyTest":{"id":77,"name":"TopNavCopyTest","buckets":1000,"input":"vuid","url":"\/about","experiments":[]},"OnboardingFlow":{"id":132,"name":"OnboardingFlow","buckets":1000,"input":"cuid","url":null,"experiments":[]},"Auth.ToggleModal":{"id":139,"name":"Auth.ToggleModal","buckets":1000,"input":"vuid","url":null,"experiments":[]}};
+    
+
+
+
+        var googletag = googletag || {},
+            gptadslots = [],
+            language,
+            has_uploaded,
+            cohort;
+        googletag.cmd = googletag.cmd || [];
+
+        (function() {
+            var gads = document.createElement('script'),
+                useSSL = 'https:' == document.location.protocol,
+                node;
+            gads.async = true;
+            gads.type = 'text/javascript';
+            gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+            node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+
+        googletag.cmd.push(function() {
+            
+                            language = document.cookie.replace(/(?:(?:^|.*;\s*)language\s*\=\s*([^;]*).*$)|^.*$/, "$1");
+                has_uploaded = (document.cookie.replace(/(?:(?:^|.*;\s*)has_uploaded\s*\=\s*([^;]*).*$)|^.*$/, "$1")) ? 'Y' : 'N';
+            
+            cohort = (window.ABLincoln) ? window.ABLincoln.getTest('DFPAdCohorts').get('cohort', 'A') : 'A';
+
+            googletag.pubads().setTargeting('language', [language]);
+            googletag.pubads().setTargeting('is_uploader', [has_uploaded]);
+            googletag.pubads().setTargeting('cohort', [cohort]);
+            googletag.pubads().setTargeting('cohort_a', [(cohort === 'A') ? 'Y' : 'N']);
+            googletag.pubads().setTargeting('cohort_b', [(cohort === 'B') ? 'Y' : 'N']);
+            googletag.pubads().setTargeting('product', ['']);
+            googletag.pubads().setTargeting('storage', ['N']);
+
+                        googletag.pubads().setTargeting('sec', ['false']);
+
+            googletag.pubads().setTargeting('logged_in', ['false']);
+
+                        googletag.pubads().setTargeting('rpv', (Math.floor(Math.random()*100)+1).toString());
+
+            googletag.pubads().enableAsyncRendering();
+            googletag.enableServices();
+        });
+    
+
+
+
+!function(){var e="undefined"!=typeof window?window:exports,r=[];if(e.performance||(e.performance={}),e.performance.now||(e.performance.now=performance.now||performance.webkitNow||performance.msNow||performance.mozNow),!e.performance.now){var n=Date.now?Date.now():+new Date;performance.timing&&performance.timing&&(n=performance.timing.navigationStart),e.performance.now=function(){var e=Date.now?Date.now():+new Date;return e-n}}e.performance.mark||(e.performance.mark=e.performance.webkitMark?e.performance.webkitMark:function(n){r.forEach(function(e,r,a){e.name===n&&a.splice(r,1)}),r.push({name:n,entryType:"mark",startTime:e.performance.now(),duration:0})}),e.performance.getEntriesByType||(e.performance.getEntriesByType=e.performance.webkitGetEntriesByType?e.performance.webkitGetEntriesByType:function(e){var n=function(r){return r.entryType===e};return-1!==["mark","measure"].indexOf(e)?r.filter(n):void 0}),e.performance.getEntriesByName||(e.performance.getEntriesByName=e.performance.webkitGetEntriesByName?e.performance.webkitGetEntriesByName:function(e){return r.filter(function(r){return r.name===e})}),e.performance.clearMeasures||(e.performance.clearMeasures=e.performance.webkitClearMeasures?e.performance.webkitClearMeasures:function(){r.forEach(function(e,r,n){"measure"===e.entryType&&n.splice(r,1)}),r=[]}),e.performance.clearMarks||(e.performance.clearMarks=e.performance.webkitClearMarks?e.performance.webkitClearMarks:function(){r.forEach(function(e,r,n){"mark"===e.entryType&&n.splice(r,1)}),r=[]}),e.performance.measure||(e.performance.measure=e.performance.webkitMeasure?e.performance.webkitMeasure:function(e,n,a){var t=function(e){return function(r){return r.name===e&&"mark"===r.entryType}},o=r.filter(t(n))[0],m=r.filter(t(a))[0],i=m.startTime-o.startTime;r.push({name:e,entryType:"measure",startTime:o.startTime,duration:i})})}(),window.markUserTime=function(e){var r=window.requestAnimationFrame||function(e){setTimeout(e,0)};r(function(){window.performance.mark(e),window.console&&console.timeStamp&&console.timeStamp(e)})};
+
+(function() {
+    window.markUserTime = function(label) {
+        window._gtm = window._gtm || [];
+
+        // Exit early if the browser can't handle new things
+        if (typeof performance === 'undefined' || typeof performance.mark !== 'function' || typeof performance.getEntriesByName !== 'function' || typeof performance.clearMarks !== 'function') {
+            return;
+        }
+
+        var uid = parseInt(Math.random().toString().split('0.')[1]) + new Date().getTime(),
+            mark_name = label + '_' + uid,
+            parts = label.split('|'),
+            category = parts[0],
+            variable = parts[1],
+            label = parts[2],
+            mark_time,
+            mark_entries;
+
+        performance.mark(mark_name);
+        mark_entries = performance.getEntriesByName(mark_name);
+
+        if (mark_entries.length) {
+            mark_time = mark_entries[0].startTime;
+            window._gtm.push({
+                'event': 'performance_timing',
+                'performance_timing.category': category,
+                'performance_timing.variable': variable,
+                'performance_timing.time': mark_time / 1000,
+                'performance_timing.label': label
+            });
+        }
+    };
+}());
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    window.vimeo = window.vimeo || {};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Join                            
+
+
+
+
+
+
+
+                                Log in                            
+
+
+
+
+
+
+
+                                Host videos                            
+
+
+
+
+
+
+Compare plans
+
+
+
+
+
+
+Professionals
+
+
+
+
+
+
+Businesses
+
+
+
+
+
+
+Live streaming
+
+
+
+
+
+
+Video School
+
+
+
+
+
+
+
+
+
+
+
+                                Sell                            
+
+
+
+
+
+
+Sell your videos
+
+
+
+
+
+
+Launch a subscription service
+
+
+
+
+
+
+
+
+
+
+
+                                Watch                            
+
+
+
+
+
+
+Staff Picks
+
+
+
+
+
+
+On Demand
+
+
+
+
+
+
+Explore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Upload
+
+
+
+
+
+
+
+
+
+        // DO NOT REMOVE. This is a callback for the login & join buttons in TopNavBuilder.
+        function completeUserLogin(response) {
+            if (response && !response.signup) {
+                window.location.reload();
+            }
+        }
+    
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+                        Watch                    
+
+
+
+
+
+
+
+                        Upload                    
+
+
+
+
+
+
+
+                        Host videos                    
+
+
+
+
+
+
+
+                        Live                    
+
+
+
+
+
+
+
+
+Join or log in
+ 
+
+
+
+
+
+
+
+                        Help                    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+More stuff
+
+
+
+
+
+
+
+
+
+                            Terms of Service                        
+
+
+
+
+
+
+
+                            Privacy Policy                        
+
+
+
+
+
+
+
+                            Copyright                        
+
+
+
+
+
+
+
+                            Cookies                        
+
+
+
+
+
+
+
+                            Desktop site                        
+
+
+
+
+
+
+
+                            Language                        
+
+
+
+
+
+                                    English                                
+
+
+
+                                    Español                                
+
+
+
+                                    Deutsch                                
+
+
+
+                                    Français                                
+
+
+
+                                    日本語                                
+
+
+
+                                    Português                                
+
+
+
+                                    한국어                                
+
+
+
+
+
+
+
+
+
+                            FAQ                        
+
+
+
+
+
+
+TM + © 2017 Vimeo, Inc.
+
+
+
+
+
+
+
+(function(window, document){
+
+    // Global values
+    window.vimeo = window.vimeo || {};
+    vimeo.mobile = vimeo.mobile || {};
+    Vimeo = vimeo.mobile || {};
+    Vimeo.desktop_shared = Vimeo.desktop_shared || {};
+
+    // DESKTOP HANDLERS
+
+    var desktop = document.getElementById('topnav_desktop');
+
+    // Prevent touch device to higtlight the area tapped
+    desktop.addEventListener('touchstart', function(e){
+        // Take into consideration avatar img
+        var target = (e.target.tagName.toLowerCase() === 'img') ? e.target.parentNode : e.target;
+
+        if (target.classList.contains('topnav_has_dropdown')) {
+            e.preventDefault();
+            e.stopPropagation();
+        }
+    }, false);
+
+    // Add last_page cookie
+    var listen = 'ontouchstart' in window ? 'touchstart' : window.PointerEvent ? 'pointerdown' : window.MSPointerEvent ? 'MSPointerDown' : 'click';
+    desktop.addEventListener(listen, function(e){
+        if (e.target.classList.contains('js-topnav_menu_auth')) {
+            document.cookie = 'last_page=' + encodeURIComponent(window.location.pathname) + ';path=\'/\';max-age=1800;';
+        }
+    }, false);
+
+    // MOBILE HANDLERS
+
+    // Trigger iOS Upload flow
+    Vimeo.desktop_shared._upload = function(e) {
+        // show iTunes only if we are in iOS world
+        if (/iPad|iPhone|iPod/.test(navigator.userAgent)){
+            var deeplink = 'vimeo://app.vimeo.com/upload?ref=mobileweb',
+                fallback = '/upload',
+                webkitHiddenCallback,
+                hitCallback;
+
+            // Callbacks
+            webkitHiddenCallback = function() {
+                // If the user is still here open the url page.
+                if (!document.webkitHidden) {
+                    window.location = fallback;
+                }
+            };
+
+            // Try to open the Vimeo App
+            hitCallback = function() {
+                window.location = deeplink;
+                setTimeout(webkitHiddenCallback, 25);
+            };
+
+            hitCallback();
+
+            return false;
+        }
+
+        window.location = e.href;
+
+    }
+
+    // Switch to desktop site
+    Vimeo.desktop_shared._s2ds = function() {
+        document.cookie='opt_out_mobile=1;expires=Fri, 31 Dec 9999 23:59:59 GMT;domain=' + vimeo.domain;
+        window.location.reload();
+    };
+
+    // Switch to language
+    Vimeo.desktop_shared._s2l = function(sel) {
+        var lang = sel.value,
+            xhr = new XMLHttpRequest();
+
+        xhr.open('POST', '/settings/locale');
+        xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+        xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+        xhr.send('locale=' + lang + '&token=' + vimeo.xsrft);
+        xhr.onload = function post() {
+            if (xhr.status === 200) {
+                window.location.reload();
+            }
+        };
+    };
+
+    var mobile_logo = document.querySelector('.js-topnav_mobile_header_logo');
+
+    if (mobile_logo) {
+        mobile_logo.addEventListener('click', function(e) {
+            e.stopPropagation();
+            e.preventDefault();
+
+            var mobile_menu_main = document.querySelector('.js-topnav_mobile_menu_main');
+            mobile_menu_main.style.display = 'block';
+
+            // Close
+            var mobile_header_close = document.querySelector('.js-topnav_mobile_header_close');
+            mobile_header_close.addEventListener('click', function(e) {
+                e.stopPropagation();
+                e.preventDefault();
+                mobile_menu_main.style.display = 'none';
+            });
+
+            // Toggle Settings
+            var mobile_menu_settings = document.querySelector('.js-topnav_mobile_menu_settings');
+
+            var topnav2015_mobile_header_settings = document.querySelector('.js-topnav_mobile_header_settings');
+            topnav2015_mobile_header_settings.addEventListener('click', function(e) {
+                e.stopPropagation();
+                e.preventDefault();
+                mobile_menu_settings.style.display = 'block';
+                mobile_menu_main.style.display = 'none';
+
+
+                var topnav2015_mobile_header_settins_close = document.querySelector('.js-topnav_mobile_header_settins_close');
+                topnav2015_mobile_header_settins_close.addEventListener('click', function(e) {
+                    e.stopPropagation();
+                    e.preventDefault();
+                    mobile_menu_settings.style.display = 'none';
+                    mobile_menu_main.style.display = 'block';
+                });
+            });
+        }, false);
+    };
+
+
+    // USER MESSAGE
+
+    // Show notification if it is the case
+    // We wrap this in a setTimeout since the notifications should
+    // have a lower priority in terms of visual compared to other
+    // items on the page.
+    setTimeout(function(){
+         // DOM Elements
+        var avatar = document.getElementById('topnav_menu_avatar');
+        // If there is no avatar then stop it
+        if (!avatar) {
+            return;
+        }
+
+        var bubble = avatar.querySelector('.topnav_menu_avatar_bubble');
+        var dropdown = avatar.querySelector('#topnav_user_dropdown');
+        //var message = avatar.querySelector('.topnav_user_menu_message');
+        //var close = avatar.querySelector('.topnav_user_menu_message_close');
+        var on_hover = false;
+
+        // If there is no bubble then stop it
+        if (bubble) {
+            bubble.classList.add('on');
+        }
+
+        // And we attach hide the bubble
+        avatar.addEventListener('mouseover', function() {
+            if (on_hover) return;
+
+            on_hover = true;
+
+            if (bubble) {
+                bubble.classList.remove('on');
+            }
+
+            // Save removed state [1 means the user open the dropdown]
+            store_user_message_settings(1);
+
+        }, false);
+
+        // Store status of user nav message (bubble closed [1], message hidden [2])
+        function store_user_message_settings(value) {
+            var xhr = new XMLHttpRequest();
+
+            xhr.open('POST', '/settings/nav');
+            xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+            xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+            xhr.send('message_state=' + value + '&token=' + vimeo.xsrft);
+
+            // Nothing to handle. We hope for the best in this case
+            xhr.onload = function () {};
+        };
+
+    }, 1000);
+})(window, document);
+
+
+
+
+
+
+
+
+
+
+                    Private            
+
+
+.player{width:100%;height:100%;}.player>video{display:none !important}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Where videos come first
+
+
+
+
+Find a plan
+
+
+Join free
+
+
+
+
+
+        The Infinite Now
+
+        from 
+Armand Dijcks
+ 
+
+
+
+
+
+
+The high-quality home to make, share, and watch videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Watch Tower of Turkey
+
+
+
+
+
+
+from 
+ 
+Leonardo Dalessandri
+
+
+
+
+
+
+
+
+
+
+
+
+Host videos in the highest quality possible
+
+
+Start uploading and enjoy 4K Ultra HD quality, video management tools, no ads before, during, or after your videos, and professional live streaming plans.
+
+
+Upload
+
+
+
+
+
+
+
+
+
+
+Host videos in the highest quality possible
+
+
+Start uploading and enjoy 4K Ultra HD quality, video management tools, no ads before, during, or after your videos, and professional live streaming plans.
+
+
+Upload
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discover today’s best videos
+
+
+Explore incredible shorts, films, and series on Staff Picks, hand-selected each day for endless inspiration.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Watch
+
+
+
+
+
+
+
+
+
+
+Get powerful video tools, made for creators and brands
+
+
+
+
+Review videos with collaborators
+
+
+Drive engagement and embed anywhere
+
+
+Easily see how your videos are performing
+
+
+
+
+
+
+
+                    Private            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We’ve got tons more features to help your videos go further. See our plans for hosting, live streaming, and selling your videos.
+
+
+Learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“Almost every aspect of my execution is inspired by the work I see on Vimeo.”
+
+
+
+
+
+
+
+                    Brian Curtin 
+Plus
+
+
+
+
+Director, editor, and designer
+
+
+
+
+
+
+
+
+“Vimeo is a vital part of my filmmaking process.”
+
+
+
+
+
+
+
+                    Kate Herron 
+Plus
+
+
+
+
+Writer-director
+
+
+
+
+
+
+
+
+“Vimeo is my storefront, my business card, my website, and my #1 tool besides a camera.”
+
+
+
+
+
+
+
+                    Cy Kuckenbaker 
+PRO
+
+
+
+
+Experimental photo and video maker
+
+
+
+
+
+
+
+
+“The way the staff and community have nurtured me is truly one of the greatest things that’s happened in my life.”
+
+
+
+
+
+
+
+                    Matty Brown 
+PRO
+
+
+
+
+Visual storyteller
+
+
+
+
+
+
+
+
+“Vimeo is a valuable enterprise platform for businesses to share their high-quality, visual stories.”
+
+
+
+
+
+
+
+                    Terrence Morash, Shutterstock 
+Business
+
+
+
+
+Creative Director
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get powerful video tools, made for creators and brands
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Review videos with collaborators
+
+
+Drive engagement and embed anywhere
+
+
+Easily see how your videos are performing
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome to the world’s best community of video creators
+
+
+
+
+Find a plan
+
+
+Join free
+
+
+
+
+
+        Wilderness
+
+        from 
+Studiocanoe
+ 
+
+
+
+
+
+
+
+
+It’s here: professional live streaming for your next event. 
+
+
+
+
+Learn more
+
+             
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    var banner = document.querySelector('#live_banner');
+    var remove = document.body.remove ? 'remove' : 'removeNode';
+    
+    // Remove the hidden banner from placeholder spot
+    if (banner) {
+        banner[remove](true);
+    }
+    
+    // Reveal live banner if not previously dismissed
+    if (banner && document.cookie.indexOf('dismiss_live_banner=1') === -1) {
+        var ribbon = document.querySelector('.VimeoBrand_ColorRibbon');
+
+        if (ribbon) {
+            ribbon.parentNode.insertBefore(banner, ribbon);
+
+            var dismissers = banner.querySelectorAll('.js-live_banner_dismiss');
+            for (var i = 0; i < dismissers.length; i++) {
+                var dismiss = dismissers[i];
+                dismiss.addEventListener('click', function(e) {
+                    banner[remove](true);
+                    document.cookie = 'dismiss_live_banner=1; path=/';
+                });
+            }
+
+            // Show the banner!
+            banner.classList.remove('hidden');
+        }
+    }
+
+
+
+
+    vimeo.config = vimeo.config || {};
+    vimeo.config.staff_picks = [{"clip_id":228236677,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/664856302_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/664856302_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/664856302_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/664856302_3120x1756.jpg","alt":"SEATREKKING -Trekking the Ocean - seatrekking"},"uploaded_on":"3 months ago","duration":{"raw":255,"formatted":"04:15"},"quickstats":{"total_comments":{"raw":12,"formatted":"12"},"total_likes":{"raw":174,"formatted":"174"},"total_plays":{"raw":4240,"formatted":"4240"}},"title":"SEATREKKING -Trekking the Ocean","url":"\/228236677","user":{"id":4425783,"name":"Cedric Schanze","url":"\/cedricschanze","account_type":"pro","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/20470848_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/20470848_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/20470848_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/20470848_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":244171658,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/668507986_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/668507986_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/668507986_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/668507986_3120x1756.jpg","alt":"Delphi - short film"},"uploaded_on":"1 day ago","duration":{"raw":1560,"formatted":"26:00"},"quickstats":{"total_comments":{"raw":17,"formatted":"17"},"total_likes":{"raw":148,"formatted":"148"},"total_plays":null},"title":"Delphi","url":"\/244171658","user":{"id":16692790,"name":"S\u00f8ren Peter Langkj\u00e6r Bojsen","url":"\/user16692790","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/22221253_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/22221253_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/22221253_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/22221253_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":243867727,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/668114758_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/668114758_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/668114758_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/668114758_3120x1756.jpg","alt":"The Internet is under attack. This is the Battle for the Net. - battle for the net"},"uploaded_on":"3 days ago","duration":{"raw":177,"formatted":"02:57"},"quickstats":{"total_comments":{"raw":28,"formatted":"28"},"total_likes":{"raw":674,"formatted":"674"},"total_plays":{"raw":7029,"formatted":"7029"}},"title":"The Internet is under attack. This is the Battle for the Net.","url":"\/243867727","user":{"id":27044913,"name":"Louis Wesolowsky","url":"\/louiswes","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/18332079_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/18332079_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/18332079_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/18332079_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":239159367,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/668311650_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/668311650_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/668311650_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/668311650_3120x1756.jpg","alt":"9 Quarter Circle - Victory Journal"},"uploaded_on":"1 month ago","duration":{"raw":533,"formatted":"08:53"},"quickstats":{"total_comments":{"raw":15,"formatted":"15"},"total_likes":{"raw":396,"formatted":"396"},"total_plays":null},"title":"9 Quarter Circle","url":"\/239159367","user":{"id":22958540,"name":"Victory Journal","url":"\/victoryjournal","account_type":"business","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/9991559_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/9991559_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/9991559_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/9991559_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":243940584,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/668208019_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/668208019_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/668208019_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/668208019_3120x1756.jpg","alt":"Liu Sha"},"uploaded_on":"3 days ago","duration":{"raw":290,"formatted":"04:50"},"quickstats":{"total_comments":{"raw":20,"formatted":"20"},"total_likes":{"raw":326,"formatted":"326"},"total_plays":null},"title":"It Is My Fault","url":"\/243940584","user":{"id":4193662,"name":"Liu Sha","url":"\/liusha","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/15634458_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/15634458_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/15634458_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/15634458_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":243128756,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/667183226_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/667183226_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/667183226_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/667183226_3120x1756.jpg","alt":"Stunning MTB masterclass: Matt Jones | Frames Of Mind - red bull"},"uploaded_on":"1 week ago","duration":{"raw":214,"formatted":"03:34"},"quickstats":{"total_comments":{"raw":15,"formatted":"15"},"total_likes":{"raw":847,"formatted":"847"},"total_plays":{"raw":21686,"formatted":"21.7K"}},"title":"Stunning MTB masterclass: Matt Jones | Frames Of Mind","url":"\/243128756","user":{"id":565183,"name":"Red Bull","url":"\/redbull","account_type":"business","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/14118392_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/14118392_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/14118392_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/14118392_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":170818311,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/668500040_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/668500040_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/668500040_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/668500040_3120x1756.jpg","alt":"Martinus Klemet"},"uploaded_on":"1 year ago","duration":{"raw":544,"formatted":"09:04"},"quickstats":{"total_comments":{"raw":24,"formatted":"24"},"total_likes":{"raw":260,"formatted":"260"},"total_plays":{"raw":24103,"formatted":"24.1K"}},"title":"Fatcula","url":"\/170818311","user":{"id":5861583,"name":"Martinus Klemet","url":"\/martinusklemet","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/10228721_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/10228721_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/10228721_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/10228721_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":243668441,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/667879628_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/667879628_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/667879628_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/667879628_3120x1756.jpg","alt":"Andy Mineo & Wordsplayed - DANCE (You See It) - andy mineo"},"uploaded_on":"4 days ago","duration":{"raw":230,"formatted":"03:50"},"quickstats":{"total_comments":{"raw":28,"formatted":"28"},"total_likes":{"raw":540,"formatted":"540"},"total_plays":{"raw":14929,"formatted":"14.9K"}},"title":"Andy Mineo & Wordsplayed - DANCE (You See It)","url":"\/243668441","user":{"id":3656839,"name":"Voyager","url":"\/voyagercreative","account_type":"pro","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/10260167_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/10260167_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/10260167_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/10260167_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":241958004,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/665715143_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/665715143_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/665715143_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/665715143_3120x1756.jpg","alt":"Salazar"},"uploaded_on":"2 weeks ago","duration":{"raw":717,"formatted":"11:57"},"quickstats":{"total_comments":{"raw":9,"formatted":"9"},"total_likes":{"raw":197,"formatted":"197"},"total_plays":{"raw":7969,"formatted":"7969"}},"title":"Handsome and Majestic","url":"\/241958004","user":{"id":625139,"name":"Salazar","url":"\/salazarfilm","account_type":"pro","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/7486203_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/7486203_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/7486203_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/7486203_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":242719187,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/666669193_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/666669193_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/666669193_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/666669193_3120x1756.jpg","alt":"DAN CROLL - TOKYO - animation"},"uploaded_on":"1 week ago","duration":{"raw":293,"formatted":"04:53"},"quickstats":{"total_comments":{"raw":17,"formatted":"17"},"total_likes":{"raw":795,"formatted":"795"},"total_plays":{"raw":12406,"formatted":"12.4K"}},"title":"DAN CROLL - TOKYO","url":"\/242719187","user":{"id":503441,"name":"simon landrein","url":"\/user503441","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/6777117_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/6777117_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/6777117_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/6777117_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":243556536,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/667734745_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/667734745_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/667734745_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/667734745_3120x1756.jpg","alt":"IMMERSION - 2D Animation"},"uploaded_on":"5 days ago","duration":{"raw":197,"formatted":"03:17"},"quickstats":{"total_comments":{"raw":20,"formatted":"20"},"total_likes":{"raw":725,"formatted":"725"},"total_plays":{"raw":33267,"formatted":"33.3K"}},"title":"IMMERSION","url":"\/243556536","user":{"id":32111277,"name":"Lalita Lupina","url":"\/lalitalupina","account_type":"basic","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/21702578_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/21702578_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/21702578_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/21702578_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":243605444,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/667793183_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/667793183_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/667793183_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/667793183_3120x1756.jpg","alt":"Pregnant Pause - comedy"},"uploaded_on":"4 days ago","duration":{"raw":786,"formatted":"13:06"},"quickstats":{"total_comments":{"raw":20,"formatted":"20"},"total_likes":{"raw":304,"formatted":"304"},"total_plays":{"raw":18165,"formatted":"18.2K"}},"title":"Pregnant Pause","url":"\/243605444","user":{"id":12288923,"name":"Alice Seabright","url":"\/aliceseabright","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/14750838_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/14750838_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/14750838_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/14750838_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":243579287,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/668346022_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/668346022_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/668346022_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/668346022_3120x1756.jpg","alt":"Ethan Brooks"},"uploaded_on":"4 days ago","duration":{"raw":379,"formatted":"06:19"},"quickstats":{"total_comments":{"raw":38,"formatted":"38"},"total_likes":{"raw":537,"formatted":"537"},"total_plays":{"raw":13936,"formatted":"13.9K"}},"title":"Ghost Bikes","url":"\/243579287","user":{"id":40280113,"name":"Ethan Brooks","url":"\/user40280113","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/21811119_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/21811119_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/21811119_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/21811119_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":242763018,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/666719542_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/666719542_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/666719542_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/666719542_3120x1756.jpg","alt":"Jungle - surf movie"},"uploaded_on":"1 week ago","duration":{"raw":1040,"formatted":"17:20"},"quickstats":{"total_comments":{"raw":33,"formatted":"33"},"total_likes":{"raw":1109,"formatted":"1109"},"total_plays":{"raw":60012,"formatted":"60K"}},"title":"Jungle","url":"\/242763018","user":{"id":362093,"name":"Morgan Maassen","url":"\/morganmaassen","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/15302222_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/15302222_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/15302222_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/15302222_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":242858238,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/666839924_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/666839924_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/666839924_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/666839924_3120x1756.jpg","alt":"\u84ee\u82b1\u71c8 Lotus Lantern - Animation"},"uploaded_on":"1 week ago","duration":{"raw":390,"formatted":"06:30"},"quickstats":{"total_comments":{"raw":21,"formatted":"21"},"total_likes":{"raw":376,"formatted":"376"},"total_plays":{"raw":24757,"formatted":"24.8K"}},"title":"\u84ee\u82b1\u71c8 Lotus Lantern","url":"\/242858238","user":{"id":25161588,"name":"Calvin Xingpei Shen","url":"\/calvinshen","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/20009043_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/20009043_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/20009043_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/20009043_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false}];
+
+    window.handleJoinButton = function(e) {
+        var shouldToggle = window.ABLincoln.getTest('Auth.ToggleModal').get('modal_toggle', 'off') === 'on';
+        if (shouldToggle) {
+            e.preventDefault();
+            vimeo.Modal.create({
+                size: 'xsmall',
+                content: '/join?modal=new',
+            }).then(function(response) {
+                // This callback is defined in topnav/desktop.phtml.
+                // I don't like having to do it this way.
+                if (window.completeUserLogin) {
+                    window.completeUserLogin(response);
+                }
+                else {
+                    window.location.reload();
+                }
+            });
+        }
+    }
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+
+var google_conversion_id       =  993702637;
+
+
+var google_custom_params    = window.google_tag_params;
+
+var google_conversion_format   = '3';
+var google_conversion_language = 'en';
+var google_conversion_color    = 'ffffff';
+var google_conversion_value    = '0';
+var google_remarketing_only    =  true;
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vimeo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        About Vimeo                    
+
+
+
+
+
+
+
+                        Vimeo Blog                    
+
+
+
+
+
+
+
+                        Vimeo Guidelines                    
+
+
+
+
+
+
+
+                        Partners                    
+
+
+
+
+
+
+
+                        Developers                    
+
+
+
+
+
+
+
+                        Jobs                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Help Center                    
+
+
+
+
+
+
+
+                        Video School                    
+
+
+
+
+
+
+
+                        FAQ                    
+
+
+
+
+
+
+
+                        Forums                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        On Demand                    
+
+
+
+
+
+
+
+                        Upload                    
+
+
+
+
+
+
+
+                        Site Map                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Upgrade
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Vimeo Plus                    
+
+
+
+
+
+
+
+                        Vimeo PRO                    
+
+
+
+
+
+
+
+                        Vimeo Business                    
+
+
+
+
+
+
+
+                        Vimeo Live                    
+
+
+
+
+
+
+
+                        Vimeo OTT                    
+
+
+
+
+
+
+
+                        Refer a friend                    
+
+
+
+
+
+
+
+
+
+
+
+
+Did you know?
+
+
+All your burning filmmaking questions have answers. Find them in 
+Vimeo Video School
+.
+
+
+
+
+
+
+
+
+
+
+
+
+TM + © 2017 Vimeo, Inc. All rights reserved.
+
+
+
+
+
+
+
+
+
+                    Terms                
+
+
+
+
+
+
+
+                    Privacy                
+
+
+
+
+
+
+
+                    Copyright                
+
+
+
+
+
+
+
+                    Cookies                
+
+
+
+
+
+
+
+            Made with 
+ in NYC.        
+
+
+
+
+
+
+
+            Language:
+            
+English
+
+
+
+
+Mature content filter: 
+None
+
+
+
+
+
+
+
+
+
+
+
+        [{"name":"Vimeo","url":"https://vimeo.com","sameAs":["https://twitter.com/vimeo","http://vimeo.tumblr.com/","https://www.facebook.com/Vimeo","https://plus.google.com/+vimeo","https://instagram.com/vimeo","https://www.linkedin.com/company/vimeo"],"potentialAction":[{"@type":"SearchAction","target":"/search?q={qs}","query-input":"required name=qs"},{"@type":"ViewAction","target":"vimeo://app.vimeo.com/"}],"@type":"WebSite","@context":"http://schema.org"}]    
+
+
+
+    var _gtm = _gtm || [],
+        _initial_gtm_state = {"page_type":"LOHP","language":"en","user_status":"logged_out","user_type":"none","ga_universal_id":"UA-76641-8","comscore_site_id":10348289};
+
+    _initial_gtm_state['vuid'] = document.cookie.replace(/(?:(?:^|.*;\s*)vuid\s*\=\s*([^;]*).*$)|^.*$/, "$1");
+    _initial_gtm_state['gtm.start'] = new Date().getTime();
+    _initial_gtm_state['event'] = 'gtm.js';
+    _gtm.push(_initial_gtm_state);
+
+
+
+
+    var __fa = __fa || [];
+    __fa.push(['trackPageview']);
+
+    /**
+     * If the current request was bucketed in an ABLincoln experiment,
+     * send the selected treatment back from the client, to filter ab test
+     * data down to non-robot users that run JavaScript.
+     */
+     if ("ABLincoln" in window) {
+        (function () {
+                                })();
+    }
+
+        var _extend = function(){for(var r=arguments[0],n=1,e=arguments.length;e>n;n++){var t=arguments[n];for(var a in t)t.hasOwnProperty(a)&&(r[a]=t[a])}return r};
+
+        var CSS_DIR = 'https://f.vimeocdn.com/styles/css_opt/',
+        JS_DIR = 'https://f.vimeocdn.com/js_opt/',
+        IMAGE_DIR = 'https://f.vimeocdn.com/images_v6/',
+        SVG_DIR = 'https://f.vimeocdn.com/svg/',
+                BUILD_HASH = '72454';
+
+    
+        var vimeo = _extend((window.vimeo || {}), {"app_version":"v6","domain":"vimeo.com","url":"vimeo.com","cur_user":false,"origin_user_id":null,"is_mobile":false});
+    vimeo.config = _extend((vimeo.config || {}), {"sticky_topnav":{"excluded_pages":["Vimeo\\Controller\\MarketingABTestController:upgrade","Vimeo\\Controller\\MarketingABTestController:business","Vimeo\\Controller\\AboutController:main","Vimeo\\Controller\\AboutController:professionals","Vimeo\\Controller\\AboutController:create","Vimeo\\Controller\\AboutController:everyone","Vimeo\\Controller\\StoreController:main","Vimeo\\Controller\\User\\Settings2Controller:main","Vimeo\\Controller\\User\\Settings2Controller:team_members","Vimeo\\Controller\\User\\Settings2Controller:password","Vimeo\\Controller\\VideoManagerController:main","Vimeo\\Controller\\UserController:main","Vimeo\\Controller\\ClipStatsController:main","Vimeo\\Controller\\Clip\\Settings\\EmbedController:embed","Vimeo\\Controller\\VideoReviewController","Vimeo\\Controller\\MessagesController","Vimeo\\Controller\\StatsController","Vimeo\\Controller\\UploadController","Vimeo\\Controller\\BlogController","Vimeo\\Controller\\OnDemand\\SettingsController","Vimeo\\Controller\\Clip\\SettingsController"],"topnav_wrap_selector":"#topnav_outer_wrap","content_wrap_selector":".wrap_content"},"locale":"en"});
+
+        var localeConfig = {
+        lang: 'en',
+        'Date': {
+            months: ["January","February","March","April","May","June","July","August","September","October","November","December"],
+            months_abbr: ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+            days: ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+            days_abbr: ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],
+
+            // Culture's date order: MM/DD/YYYY
+            dateOrder: ['date', 'month', 'year'],
+            shortDate: '%d/%m/%Y',
+            shortTime: '%I:%M%p',
+            AM: 'AM',
+            PM: 'PM',
+            firstDayOfWeek: 0,
+
+            // Date.Extras
+            ordinal: function(dayOfMonth){
+                return dayOfMonth;
+            }
+        },
+        'DatePicker': {
+            select_a_time: "Select a time",
+            use_mouse_wheel: "Use the mouse wheel to quickly change value",
+            time_confirm_button: "OK",
+            apply_range: "Apply",
+            cancel: "Cancel",
+            week: "Wk"        },
+                'Number': {
+            decimal: '.',
+            group: ',',
+            currency: {
+                prefix: 'CA$'
+            }
+        },
+        'FormValidator': {"required":"This field is required.","requiredChk":"This field is required."}    };
+
+    var fullLocale = '';
+
+    
+        var Copy = {translate:function(t,i,u){var e='object'!=typeof this.dict[t]?this.dict[t]:i?this.dict[t].plural:this.dict[t].singular;return'object'==typeof u&&(e=this.substitute(e,u)),e},substitute:function(t,i){return void 0!==t.substitute?t.substitute(i):t.replace(/\\?\{([^{}]+)\}/g,function(t,u){return'\\'==t.charAt(0)?t.slice(1):null!=i[u]?i[u]:''})},dict:{}};
+    Copy.dict = {"did_you_mean_email":"Did you mean <em>{SUGGEST}<\/em>?","email_password_mismatch":"Email and password do not match","just_now":"just now","seconds_ago":{"singular":"{COUNT} second ago","plural":"{COUNT} seconds ago"},"minutes_ago":{"singular":"{COUNT} minute ago","plural":"{COUNT} minutes ago"},"hours_ago":{"singular":"{COUNT} hour ago","plural":"{COUNT} hours ago"},"open_comment_box":"Add new comment instead &raquo;","url_unavailable":"Sorry, this url is unavailable.","unsaved_changes_generic":"You have unsaved changes, are you sure you wish to leave?","add":"Add","remove":"Remove","select":"Select","no_followers_for_letter":"You don&rsquo;t follow anyone that begin with the letter &ldquo;{PAGE_LETTER}&rdquo;","share_limit_reached":"You have reached the maximum number of users to share with.","at_least_one":"There must be at least one user.","available":"Available","unavailable":"Unavailable","browse_error_generic":"Sorry, there was an error","browse_error_no_videos":"Sorry, no videos found","follow":"Follow","following":"Following","unfollow":"Unfollow","unfollowing":"Unfollowing","count_comments":{"singular":"{COUNT} comment","plural":"{COUNT} comments"},"first_comment":"Be the first to comment\u2026","no_comments_for_you":"Forbidden. You cannot post comments on this page.","oops":"Oops!","player_try_again":"That wasn't supposed to happen. Please try again in a few minutes.","duration_input_min_duration":"The duration cannot be less than {MIN_DURATION}.","duration_input_max_duration":"The duration cannot be greater than {MAX_DURATION}.","duration_input_invalid_characters":"0-9 and : are the only acceptable inputs.","close":"Close","expand":"Expand","loading":"Loading...","top":"top","advanced_search":"Advanced Search","no_suggestions":"No suggestions","recent_searches":"Recent Searches","search_all":"Search All of Vimeo","email_and_password":"Please enter your email and password","email_address":"Please enter a valid email address","name_email_and_password":"Please enter your name, email, and password"};
+
+
+
+
+
+
+        if (typeof playerAssetUrls !== 'undefined') {
+                            PlayerManager.run(playerAssetUrls);
+                    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+        function onVimeoDomReady(e) {
+                                                
+            var parts = ('; ' + document.cookie).split('; vuid='),
+                vuid_from_cookie = (parts.length == 2) ? parts.pop().split(';').shift() : '',
+                _session_id = vuid_from_cookie,
+                _sift = window._sift = window._sift || [];
+
+            _sift.push(['_setAccount', '9fc40762c3']);
+            
+            _sift.push(['_setSessionId', _session_id]);
+            _sift.push(['_trackPageview']);
+            (function() {
+
+                function ls() {
+                    var e = document.createElement('script');
+                    e.type = 'text/javascript';
+                    e.async = true;
+                    e.src = 'https://f.vimeocdn.com/js_opt/vendor/siftscience/siftscience.1.0.min.js?DEV';
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(e, s);
+                }
+
+                if (window.attachEvent) {
+                    window.attachEvent('onload', ls);
+                }
+                else {
+                    window.addEventListener('load', ls, false);
+                }
+
+            })();
+                                    
+                                                if (!vimeo.bypass_player_responsive_delegates) {
+                        vimeo.player_responsive_delegates = vimeo.player_responsive_delegates || {};
+                        vimeo.player_responsive_delegates.willOpenShareOverlay = vimeo.player_responsive_delegates.willOpenShareOverlay || function(id) {
+                                PlayerManager.pauseAllPlayers();
+                                vimeo.share.Popup(id);
+                                return false;
+                            };
+
+                        vimeo.player_responsive_delegates.willOpenLoginForm = vimeo.player_responsive_delegates.willOpenLoginForm || function(id, context) {
+                            if (typeof vimeo.Modal !== 'undefined') {
+                                PlayerManager.pauseAllPlayers();
+
+                                if (context) {
+                                    vimeo.Session.create({ player: 1, clip_id: id, context: context });
+                                }
+                                else {
+                                    vimeo.Session.create();
+                                }
+
+                                return false;
+                            }
+                        };
+
+                        if (PlayerManager) {
+                            PlayerManager.setDefaultDelegate(vimeo.player_responsive_delegates);
+                        }
+                    }
+                
+                if (PlayerManager) {
+                    PlayerManager.dispatchReadySignals();
+                }
+            
+                    }
+
+                    $(document).ready(onVimeoDomReady);
+            
+
+
+
+
+
+>

@@ -1,0 +1,1046 @@
+
+
+
+
+
+
+
+
+saffm | South Asian Film Festival of Montréal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+#rs-demo-id {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.vc_custom_1506947914069{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1506686175095{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}.vc_custom_1506684405177{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}.vc_custom_1506686185554{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}.vc_custom_1506684481674{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}.vc_custom_1506684558571{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}.vc_custom_1506686194791{margin-top: -10px !important;padding-top: 20px !important;padding-bottom: 20px !important;background-color: #ffffff !important;}
+ .wpb_animate_when_almost_visible { opacity: 1; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2016 Edition
+
+
+2015 Edition
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+English
+Français
+ 
+
+
+
+
+Contact Us
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome
+
+
+2017 Edition 
+
+
+
+
+About
+
+
+Festival Staff
+
+
+Fund-raising Committee
+
+
+Jury
+
+
+Panelists
+
+
+Partners
+
+
+Festival Donors
+
+
+
+
+
+
+Films 
+
+
+
+
+Films – Montreal
+
+
+Films – Chicoutimi
+
+
+
+
+
+
+Calendar & Venue 
+
+
+
+
+Calendar & Venue – Montreal
+
+
+Calendar & Venue – Chicoutimi
+
+
+
+
+
+
+Box Office
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome
+
+
+2017 Edition 
+
+
+
+
+About
+
+
+Festival Staff
+
+
+Fund-raising Committee
+
+
+Jury
+
+
+Panelists
+
+
+Partners
+
+
+Festival Donors
+
+
+
+
+
+
+Films 
+
+
+
+
+Films – Montreal
+
+
+Films – Chicoutimi
+
+
+
+
+
+
+Calendar & Venue 
+
+
+
+
+Calendar & Venue – Montreal
+
+
+Calendar & Venue – Chicoutimi
+
+
+
+
+
+
+Box Office
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+De Sève Cinema, 
+Université Concordia 
+1400 De Maisonneuve W.
+ 
+
+
+
+
+Montreal 
+
+
+
+
+Chicoutimi 
+
+
+
+
+Collaboration with
+Bibliothèques de Saguenay 
+
+
+
+
+October 27 to 29 & 
+November 3 to 5, 2017 
+
+
+
+
+November
+17 to 19, 2017 
+
+
+
+
+
+
+ 
+
+
+var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			
+
+
+
+						/******************************************
+				-	PREPARE PLACEHOLDER FOR SLIDER	-
+			******************************************/
+
+			var setREVStartSize=function(){
+				try{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jQuery('#rev_slider_3_1');
+					e.gridwidth = [1240];
+					e.gridheight = [750];
+							
+					e.sliderLayout = "auto";
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};
+			
+			setREVStartSize();
+			
+						var tpj=jQuery;
+			
+			var revapi3;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_3_1").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_3_1");
+				}else{
+					revapi3 = tpj("#rev_slider_3_1").show().revolution({
+						sliderType:"standard",
+jsFileLocation:"//www.saffm.centrekabir.com/wp-content/plugins/revslider/public/assets/js/",
+						sliderLayout:"auto",
+						dottedOverlay:"none",
+						delay:9000,
+						navigation: {
+							onHoverStop:"off",
+						},
+						visibilityLevels:[1240,1024,778,480],
+						gridwidth:1240,
+						gridheight:750,
+						lazyType:"none",
+						shadow:0,
+						spinner:"off",
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+						shuffle:"off",
+						autoHeight:"off",
+						disableProgressBar:"on",
+						hideThumbsOnMobile:"off",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							nextSlideOnWindowFocus:"off",
+							disableFocusListener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+South Asian Film Festival of Montréal (SAFFMontréal)
+ 
+is presented by Kabir Centre for Arts & Culture, a not-for-profit organization promoting various art forms and activities such as music, dance, cinema, literature and poetry.
+
+
+
+
+ 
+
+
+
+
+
+
+MISSION OF SAFFM
+
+
+South Asian Film Festival of Montréal (SAFFM), the only one of its kind in the great city of Montréal, is committed to showcasing new artistic work that fosters discussions and explores the world we inhabit. The Festival hopes to be a platform for filmmakers worldwide whose films have a focus on South Asia and its diaspora.
+
+
+
+
+ 
+
+
+
+
+
+
+TICKETS & FESTIVAL PASSPORT (Montreal)
+
+
+
+
+ 
+
+
+
+
+
+
+To watch the films this year, visit the 
+‘Calendar & venue’
+ or the 
+‘Films’
+ page and get tickets while they are still available.
+
+Tickets on sale now!
+
+
+
+
+ 
+
+
+
+
+
+
+FILMS LIST - MONTREAL
+FESTIVAL PASSPORT
+
+
+
+
+
+
+Films
+
+
+
+
+ 
+
+
+MONTREAL FESTIVAL
+CHICOUTIMI FESTIVAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OCTOBER, 27 2017 | 7:00 pm
+
+
+CINEMA TRAVELLERS
+
+
+Hindi, Marathi
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OCTOBER, 28 2017 | 3:00 pm
+
+
+ESCAPING AGRA
+
+
+English
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OCTOBER, 29 2017 | 3:00 pm
+
+
+NORMALCY
+
+
+Tamil
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OCTOBER, 29 2017 | 7:00 pm
+
+
+A BILLION COLOUR STORY
+
+
+English, Hindi, Urdu
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOVEMBER, 3 2017 | 7:00 pm
+
+
+KALO POTHI (BLACK HEN)
+
+
+Nepalese
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOVEMBER, 4 2017 | 7:00 pm
+
+
+LIPSTICK UNDER MY BURKHA
+
+
+Hindi
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Sponsors
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+ABOUT FESTIVAL
+
+
+About
+
+
+Festival Staff
+
+
+Fund-raising Committee
+
+
+Jury
+
+
+Panelists
+
+
+Partners
+
+
+Festival Donors
+
+
+
+
+
+
+ 
+2017 EDITION
+
+
+Films
+
+
+Calendar & Venues
+
+
+Opening Night
+
+
+Closing Night
+
+
+Contact Us
+
+
+
+
+
+
+ 
+PREVIOUS EDITIONS
+
+
+2016 Edition
+
+
+2015 Edition
+
+
+
+
+
+
+Copyright 2017 South Asian Film Festival of Montréal (SAFFMontréal). All right reserved. Website by 
+Ô WEB
+.
+
+
+
+
+
+
+
+			function revslider_showDoubleJqueryError(sliderID) {
+				var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+				errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+				errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+				errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+				errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+					jQuery(sliderID).show().html(errorMessage);
+			}
+		
+
+
+
+/* <![CDATA[ */
+var qodeLike = {"ajaxurl":"http:\/\/www.saffm.centrekabir.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.saffm.centrekabir.com\/en\/","ajax_url":"http:\/\/www.saffm.centrekabir.com\/en\/wp-admin\/admin-ajax.php","url_type":"1"};
+/* ]]> */
+
+
+
+
+
+>

@@ -7,6 +7,7 @@ import urlparse
 import urllib2
 import os 
 import json
+import io
 
 AGENT_NAME = 'COMP479'
 VISITED_PAGES = []
@@ -17,7 +18,7 @@ STARTING_WEBPAGES = ["https://csu.qc.ca/content/student-groups-associations",
                      "http://www.cupfa.org", 
                      "http://cufa.net"]
 
-NUMBER_OF_PAGES_TO_CRAWL = 500 # This is an upper bound, the crawler may stop before
+NUMBER_OF_PAGES_TO_CRAWL = 100 # This is an upper bound, the crawler may stop before
 CRAWLS_PER_START_PAGE = NUMBER_OF_PAGES_TO_CRAWL/len(STARTING_WEBPAGES)
 RAW_WEBPAGE_OUTPUT_DIR = '/raw_webpages'
 total_crawled_pages = 0 # Total for all pages
@@ -66,7 +67,7 @@ for webpage in STARTING_WEBPAGES:
         soup = BeautifulSoup(content)
 
         #saving the mapping of Document ID and web URL for this URL
-        docID_to_URL[total_crawled_pages] = url
+        docID_to_URL[int(total_crawled_pages)] = str(url)
 
         # Output content to file 
         filename = RAW_WEBPAGE_OUTPUT_DIR + "/" + str(total_crawled_pages) + ".txt"
@@ -96,4 +97,5 @@ for webpage in STARTING_WEBPAGES:
         crawled_pages += 1 
         total_crawled_pages += 1
 
-json.dump(docID_to_URL, open('docID_URL_mapping.json', 'w'),indent=4) 
+
+json.dump(docID_to_URL, open('docID_URL_mapping.json', 'w'), indent=4)

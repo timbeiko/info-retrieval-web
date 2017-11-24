@@ -1,0 +1,5 @@
+{
+    "0": "https://csu.qc.ca/content/student-groups-associations", 
+    "1": "http://www.cupfa.org", 
+    "2": "http://cufa.net"
+}
