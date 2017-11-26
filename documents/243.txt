@@ -1,0 +1,678 @@
+\n
+\n    
+\n    
+Louba-Christina Michel : \xe9crire et peindre pour exister | Capsules | La Fabrique culturelle
+\n\n    
+\n    
+\n    \n    
+\n    
+\n\n    \n    \n        
+\n        
+\n        
+\n        
+\n        
+\n        
+\n        
+\n\n    \n
+\n
+\n
+\n
+\n
+\n
+\n\n\n        
+\n        
+\n            
+\n            
+\n            
+\n            
+\n\n    
+\n\n
+\n
+\n
+\n
+\n
+\n
+\n\n
+\n
+\n    \n    
+\n\n\n
+\n
+\n
+try{Typekit.load();}catch(e){}
+\n\n    
+\n\tvar _comscore = _comscore || [];\n\t_comscore.push({ c1: "2", c2: "6035744", c3: "", c4: "" });\n\n\t(function() {\n\t\tvar s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;\n\t\ts.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";\n\t\tel.parentNode.insertBefore(s, el);\n\t})();\n
+\n    \n
+\n    var GA_CustomDimensions = {'dimension1':'Multi','dimension2':'Gasp\xe9sie-\xceles-de-la-Madeleine','dimension3':'Portrait','dimension4':'T\xe9l\xe9-Qu\xe9bec','dimension5':'Gasp\xe9sie','dimension6':'MNMedia','dimension7':'Video','dimension8':'LaFab','dimension9':'Non-connect\xe9'};\n    (function (i, s, o, g, r, a, m) {\n        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {\n            (i[r].q = i[r].q || []).push(arguments)\n        }, i[r].l = 1 * new Date(); a = s.createElement(o),\n        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)\n    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');\n    ga('create', 'UA-48304425-1', 'auto');\n    ga('send', 'pageview', GA_CustomDimensions );\n
+\n\n    \n    \n    
+\n    
+\n        {\n        "@context": "http://schema.org",\n        "@type": "WebSite",\n        "name": "La Fabrique culturelle",\n        "alternateName": "La culture a une nouvelle adresse",\n        "url": "http://www.lafabriqueculturelle.tv/"\n        }\n    
+\n    
+\n        {\n        "@context": "http://schema.org",\n        "@type": "Organization",\n        "url": "http://www.lafabriqueculturelle.tv/",\n        "logo": "http://www.lafabriqueculturelle.tv/content/images/logo_w240_h135.jpg"\n        }\n    
+\n    
+\n    
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\n        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n        })(window,document,'script','dataLayer','GTM-TW5S3XJ');
+\n    
+\n\n    \n    
+\n    
+&lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW5S3XJ"\n                      height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;
+\n    
+\n\n    \n\n\n
+\n    
+\n        
+La Fabrique Culturelle
+\n        
+\n            
+\n                
+La Fabrique culturelle
+\n                
+R\xe9pertoires
+\n                
+\n                    
+Th\xe8mes
+\n                    
+\n                        
+\n                                
+Arts\xa0visuels\xa0&\xa0num\xe9riques
+\n                                
+Cin\xe9ma
+\n                                
+Court\xa0m\xe9trage
+\n                                
+Danse
+\n                                
+Design
+\n                                
+Litt\xe9rature
+\n                                
+Multi
+\n                                
+Musique
+\n                                
+Soci\xe9t\xe9\xa0&\xa0mus\xe9es
+\n                                
+Th\xe9\xe2tre\xa0&\xa0sc\xe8ne
+\n                        
+\n                    
+\n                
+\n                
+\n                    
+R\xe9gions
+\n                    
+\n                        
+\n                                
+Abitibi-T\xe9miscamingue
+\n                                
+Bas-Saint-Laurent
+\n                                
+Capitale-Nationale
+\n                                
+Centre-du-Qu\xe9bec
+\n                                
+Chaudi\xe8re-Appalaches
+\n                                
+C\xf4te-Nord
+\n                                
+Estrie
+\n                                
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                                
+International
+\n                        
+\n                        
+\n                                
+Lanaudi\xe8re
+\n                                
+Laurentides
+\n                                
+Laval
+\n                                
+Mauricie
+\n                                
+Mont\xe9r\xe9gie
+\n                                
+Montr\xe9al
+\n                                
+Nord-du-Qu\xe9bec
+\n                                
+Outaouais
+\n                                
+Saguenay\u2013Lac-Saint-Jean
+\n                        
+\n                    
+\n                
+\n            
+\n        
+\n        
+\n            
+\n                    
+\n                        
+\n                        
+\n                    
+\n            
+\n            
+\n\n                
+\xa0Se\xa0connecter
+\n        
+\n    
+\n
+\n\n
+\n
+\n    
+\n    
+La Fabrique culturelle
+\n
+\n\n
+\n    
+\n        
+\n            
+\n                
+R\xe9pertoires
+\n            
+\n            
+\n                
+Th\xe8mes
+\n                
+\n                        
+Arts visuels & num\xe9riques
+\n                        
+Cin\xe9ma
+\n                        
+Court m\xe9trage
+\n                        
+Danse
+\n                        
+Design
+\n                        
+Litt\xe9rature
+\n                        
+Multi
+\n                        
+Musique
+\n                        
+Soci\xe9t\xe9 & mus\xe9es
+\n                        
+Th\xe9\xe2tre & sc\xe8ne
+\n                
+\n            
+\n            
+\n                
+R\xe9gions
+\n                
+\n                        
+Abitibi-T\xe9miscamingue
+\n                        
+Bas-Saint-Laurent
+\n                        
+Capitale-Nationale
+\n                        
+Centre-du-Qu\xe9bec
+\n                        
+Chaudi\xe8re-Appalaches
+\n                        
+C\xf4te-Nord
+\n                        
+Estrie
+\n                        
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                        
+International
+\n                        
+Lanaudi\xe8re
+\n                        
+Laurentides
+\n                        
+Laval
+\n                        
+Mauricie
+\n                        
+Mont\xe9r\xe9gie
+\n                        
+Montr\xe9al
+\n                        
+Nord-du-Qu\xe9bec
+\n                        
+Outaouais
+\n                        
+Saguenay\u2013Lac-Saint-Jean
+\n                
+\n            
+\n        
+\n        
+\n            
+\n            
+\n        
+\n            
+\n                
+ Se connecter
+\n            
+\n    
+\n
+\n    \n\n\n\n\n\n\n\n
+\n\n\n
+\n\n
+\n\n    
+\n    
+\n            
+\n    
+\n        $(document).ready(function () {\n            var mediaContentId = 8499;\n            var provider = 'mnmedia';\n            var referenceId = '31137';\n            var posterFrameUrl = 'https://images.telequebec.tv/medias/031137/default/w1008_h567.jpg';\n            var relativeUrl = '/capsules/8117/louba-christina-michel-ecrire-et-peindre-pour-exister';\n            var elementId = 'video-player-8499';\n            var permaLink = 'https://www.lafabriqueculturelle.tv/capsules/8117/louba-christina-michel-ecrire-et-peindre-pour-exister';\n            var isRelated = false;\n\n            LAFABRIQUE.Capsule.embedVideoPlayer(elementId, mediaContentId, 1000, 563, provider, referenceId, posterFrameUrl, relativeUrl, GA_CustomDimensions, isRelated, permaLink);\n        });\n    
+\n\n    
+\n    
+\n        \n    
+\n    
+\n\n\n
+\n\n
+\n    
+\n    
+Multi
+\n\n    \n    
+Louba-Christina Michel : \xe9crire et peindre pour exister
+\n\n            
+\n                
+\n                
+La Fabrique culturelle
+\n            
+\n            
+\n            
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n    \n\n\n    
+\n\n        9 janvier 2017\n        \n    
+\n\n    
+\n        
+Install\xe9e \xe0 Perc\xe9, Louba-Christina est clairement influenc\xe9e par ce d\xe9cor maritime. Les paysages, ainsi que le rocher, plant\xe9 comme une sculpture dans l\u2019oc\xe9an changeant, nourrissent sa cr\xe9ativit\xe9 et sa pratique artistique.
+\n\n
+Celle pour qui le temps doit \xeatre not\xe9 pour exister nous parle de son processus cr\xe9atif et de son plus r\xe9cent projet Territoires contours. Cette nouvelle exposition juxtaposant une vingtaine de tableaux grand format \xe0 diff\xe9rents po\xe8mes invite les visiteurs \xe0 laisser un vers ou une r\xe9flexion, cr\xe9ant ainsi un dialogue entre les mots et les images.
+\n\n
+\n
+D\xe9marche artistique
+\n\n
+Mes recherches exp\xe9rimentales artistiques et litt\xe9raires s\u2019inscrivent dans un besoin constant d\u2019\xe9quilibre (tant sur le plan personnel que cr\xe9atif) qui prend racine au tout d\xe9but, dans la n\xe9cessit\xe9 de documenter (traces, empreintes, marques du temps qui passe) le quotidien comme preuve \xe0 mon existence, par le dessin, l\u2019\xe9criture et la photographie. De Perc\xe9, je tire en grande partie mon inspiration, par la force intrins\xe8que de sa nature (la mer, le vent, la g\xe9ologie) ainsi que de mon rapport \xe0 l\u2019autre, l\u2019autre comme une \xeele.
+\n\n
+Source\xa0: 
+Louba-Christina Michel
+\n
+\n\n
+L\u2019exposition 
+Territoires contours
+ est pr\xe9sent\xe9e jusqu\u2019au 14 janvier, au Pub Pit Caribou de Perc\xe9.
+\n\n\n            
+http://louba-christinamichel-artiste.weebly.com
+\n\n    
+\n    
+\n\n        
+\n        
+\n\n\n        
+\n            
+\n            
+\n                    
+\n                        
+exposition
+\n                    
+\n                    
+\n                        
+paysage
+\n                    
+\n                    
+\n                        
+peinture
+\n                    
+\n                    
+\n                        
+po\xe9sie
+\n                    
+\n                    
+\n                        
+territoires contours
+\n                    
+\n            
+\n        
+\n\n\n        
+\n            
+\n                
+\n                    
+Cr\xe9dits
+\n                
+\n                
+Coordination : T\xe9l\xe9-Qu\xe9bec Gasp\xe9sie-\xceles-de-la-Madeleine : Caroline Bujold; Janie Poirier
+\n\n
+R\xe9alisation\xa0: Estelle Marcoux
+\n\n
+Cam\xe9ra et montage\xa0: Julien Leblanc
+\n\n
+\u0152uvres visuelles et litt\xe9raires vari\xe9es\xa0: Louba-Christina Michel
+\n\n            
+\n        
+\n\n    
+\n        
+Signaler un abus
+\n    
+\n\n        
+\n        
+Commentaires
+\n        
+\n\n\n            
+\n            
+\n\n                
+\n                    
+Il n'y a aucun commentaire pour le moment.
+\n                
+\n        
+\n        
+\n
+\n\n
+\n        
+\n            
+\n                
+\n                
+Tweeter
+\n                
+\n                
+\n            
+\n        
+\n    
+\n        
+S'abonner \xe0 l'infolettre
+\n    
+\n        
+\n            
+J'aime
+\n        
+\n\n        
+\n            
+\n                
+ Ajouter \xe0 mes collections
+\n            
+\n\n            
+\n        
+\n\n    
+\n        
+\xa0
+1.4K
+\n        
+\xa0
+18
+\n        
+\xa0
+0
+\n    
+\n
+\n
+\n
+\n\n    
+\n        
+Vous aimerez aussi
+\n    
+\n    
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Multi
+\n            
+\n            
+\n                
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                
+Centre culturel Le Griffon, L'Anse-au-Griffon
+\n                    
+Par 
+Conseil de la culture de la Gasp\xe9sie
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Multi
+\n            
+\n            
+\n                
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                
+Cr\xe9ations Marie Gaudet, Gasp\xe9
+\n                    
+Par 
+Conseil de la culture de la Gasp\xe9sie
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Multi
+\n            
+\n            
+\n                
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                
+Boutique La Muse - Mus\xe9e de la Gasp\xe9sie
+\n                    
+Par 
+Conseil de la culture de la Gasp\xe9sie
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Multi
+\n            
+\n            
+\n                
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                
+Boutique La Morue Verte - Manoir Leboutillier, L'anse-au-Griffon
+\n                    
+Par 
+Conseil de la culture de la Gasp\xe9sie
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Multi
+\n            
+\n            
+\n                
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                
+Nasgwa'tatijig
+\n                    
+Par 
+Centre d'artistes Vaste et Vague
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Multi
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Arts visuels et film d'animation
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n\n    
+\n\n\n    
+\n    
+\n        
+\n            
+Recevez notre infolettre
+\n            \n            
+S'abonner 
+\n        
+\n        
+\n            
+Suivez-nous sur les r\xe9seaux sociaux
+\n            \n            
+\n                
+\n                
+\n                
+\n                
+\n                
+\n            
+\n        
+\n    
+\n
+\n
+\n    
+\n        
+\n            
+R\xe9pertoires
+\n            
+\n                
+La Fabrique culturelle
+\n                
+Nos partenaires
+\n                
+La communaut\xe9
+\n            
+\n        
+\n        
+\n            
+R\xe9gions
+\n            
+\n                    
+Abitibi-T\xe9miscamingue
+\n                    
+Bas-Saint-Laurent
+\n                    
+Capitale-Nationale
+\n                    
+Centre-du-Qu\xe9bec
+\n                    
+Chaudi\xe8re-Appalaches
+\n                    
+C\xf4te-Nord
+\n                    
+Estrie
+\n                    
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                    
+International
+\n                    
+Lanaudi\xe8re
+\n                    
+Laurentides
+\n                    
+Laval
+\n                    
+Mauricie
+\n                    
+Mont\xe9r\xe9gie
+\n                    
+Montr\xe9al
+\n                    
+Nord-du-Qu\xe9bec
+\n                    
+Outaouais
+\n                    
+Saguenay\u2013Lac-Saint-Jean
+\n            
+\n        
+\n        
+\n            
+Th\xe8mes
+\n            
+\n                    
+Arts visuels & num\xe9riques
+\n                    
+Cin\xe9ma
+\n                    
+Court m\xe9trage
+\n                    
+Danse
+\n                    
+Design
+\n                    
+Litt\xe9rature
+\n                    
+Multi
+\n                    
+Musique
+\n                    
+Soci\xe9t\xe9 & mus\xe9es
+\n                    
+Th\xe9\xe2tre & sc\xe8ne
+\n            
+\n        
+\n        
+\n            
+Plan du site
+\n            
+\n                \n                
+Webs\xe9ries
+\n                
+Billets
+\n                
+Dossiers
+\n                
+Nos partenaires
+\n                
+\xc0 propos
+\n                
+Foire aux questions
+\n                
+Nous joindre
+\n                
+S'abonner \xe0 l'infolettre 
+\n                
+Fils RSS
+\n            
+\n        
+\n        
+\n            
+Une production de 
+\n        
+\n    
+\n    
+\n        
+\n            
+\xa9 T\xe9l\xe9-Qu\xe9bec \u2014 laFabriqueCulturelle.tv
+\n            
+\n                \n                
+Avis Juridiques
+\n            
+\n        
+\n    
+\n
+\n    \n\n    
+\n\n        
+\n\n    
+\n
+\n    window.fbAsyncInit = function () {\n        FB.init({\n            appId: '1428895017345551',\n            status: false,\n            xfbml: true\n        });\n        FB.Event.subscribe('edge.create', function(targetUrl) {\n            ga('send', 'social', 'Facebook', 'like', targetUrl);\n        });\n        FB.Event.subscribe('edge.remove', function(targetUrl) {\n            ga('send', 'social', 'Facebook', 'unlike', targetUrl);\n        });\n    };\n    // Asynchronously\n    (function (d) {\n        var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];\n        if (d.getElementById(id)) { return; }\n        js = d.createElement('script'); js.id = id; js.async = true;\n        js.src = "//connect.facebook.net/fr_CA/all.js";\n        ref.parentNode.insertBefore(js, ref);\n    } (document));\n
+\n\n    
+\n    
+\nwindow.___gcfg = {lang: 'fr-CA'};\n(function() {\nvar po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;\npo.src = '//apis.google.com/js/platform.js';\nvar s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);\n})();\n
+\n\n    
+\n(function(d){\n    var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');\n    p.type = 'text/javascript';\n    p.async = true;\n    p.src = '//assets.pinterest.com/js/pinit.js';\n    f.parentNode.insertBefore(p, f);\n}(document));\n
+\n\n\n    
+\n        $(document)\n            .ready(function() {\n                var relativeUrl = '/capsules/8117/louba-christina-michel-ecrire-et-peindre-pour-exister';\n                var capsuleId = 8117;\n                LAFABRIQUE.Capsule.init(capsuleId);\n                LAFABRIQUE.Capsule.view(capsuleId, relativeUrl);\n            });\n\n        twttr.ready(function(twttr) {\n            twttr.events.bind('tweet',\n                function(event) {\n                    ga('send', 'social', 'Twitter', 'tweet', event.target.baseURI);\n                });\n        });\n    
+\n\n\n    
+\n    
+\n        var options = [];\n        var pub_manager = new Tq.Pub.Manager(options);\n    
+\n    \n\n>

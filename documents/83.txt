@@ -1,0 +1,317 @@
+\n\n        
+\n        
+John Molson Competition Committee | The Case Competition Program for the John Molson School of Business
+\n        
+\n        
+\n\n        
+        
+        
+                
+\n\n        
+\n
+\n
+\n
+\n\t\t
+\n\t\t
+\nimg.wp-smiley,\nimg.emoji {\n\tdisplay: inline !important;\n\tborder: none !important;\n\tbox-shadow: none !important;\n\theight: 1em !important;\n\twidth: 1em !important;\n\tmargin: 0 .07em !important;\n\tvertical-align: -0.1em !important;\n\tbackground: none !important;\n\tpadding: 0 !important;\n}\n
+\n
+\n
+\n.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\nvar mejsL10n = {"language":"en-us","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\\/\\/get.adobe.com\\/flashplayer\\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\\/Right Arrow keys to advance one second, Up\\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};\n
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar _wpmejsSettings = {"pluginPath":"\\/wp-includes\\/js\\/mediaelement\\/","classPrefix":"mejs-","stretching":"responsive"};\n/* ]]> */\n
+\n
+\n
+\n
+\n
+ \n
+\n
+\n
+\n
+\n
+\n\t\t
+\n\t\t\tjQuery(document).ready(function() {\n\t\t\t\t// CUSTOM AJAX CONTENT LOADING FUNCTION\n\t\t\t\tvar ajaxRevslider = function(obj) {\n\t\t\t\t\n\t\t\t\t\t// obj.type : Post Type\n\t\t\t\t\t// obj.id : ID of Content to Load\n\t\t\t\t\t// obj.aspectratio : The Aspect Ratio of the Container / Media\n\t\t\t\t\t// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content\n\t\t\t\t\t\n\t\t\t\t\tvar content = "<h2>THIS IS SOME TITLE</h2><br/>";\n\n\t\t\t\t\tcontent += "Type:"+obj.type+"</br>";\n\t\t\t\t\tcontent += "ID:"+obj.id+"</br>";        \n\t\t\t\t\tcontent += "Aspect Ratio:"+obj.aspectratio+"</br>";  \n\t\t\t\t\t\n\t\t\t\t\tdata = {};\n\t\t\t\t\t\n\t\t\t\t\tdata.action = 'revslider_ajax_call_front';\n\t\t\t\t\tdata.client_action = 'get_slider_html';\n\t\t\t\t\tdata.token = 'cee3b2bda9';\n\t\t\t\t\tdata.type = obj.type;\n\t\t\t\t\tdata.id = obj.id;\n\t\t\t\t\tdata.aspectratio = obj.aspectratio;\n\t\t\t\t\t\n\t\t\t\t\t// SYNC AJAX REQUEST\n\t\t\t\t\tjQuery.ajax({\n\t\t\t\t\t\ttype:"post",\n\t\t\t\t\t\turl:"http://www.wecompete.ca/wp-admin/admin-ajax.php",\n\t\t\t\t\t\tdataType: 'json',\n\t\t\t\t\t\tdata:data,\n\t\t\t\t\t\tasync:false,\n\t\t\t\t\t\tsuccess: function(ret, textStatus, XMLHttpRequest) {\n\t\t\t\t\t\t\tif(ret.success == true)\n\t\t\t\t\t\t\t\tcontent = ret.data;\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t},\n\t\t\t\t\t\terror: function(e) {\n\t\t\t\t\t\t\tconsole.log(e);\n\t\t\t\t\t\t}\n\t\t\t\t\t});\n\t\t\t\t\t\n\t\t\t\t\t // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!\n\t\t\t\t\t return content;\t\t\t\t\t\t \n\t\t\t\t};\n\t\t\t\t\n\t\t\t\t// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER\n\t\t\t\tvar ajaxRemoveRevslider = function(obj) {\n\t\t\t\t\treturn jQuery(obj.selector+" .rev_slider").revkill();\n\t\t\t\t}\n\n\t\t\t\t// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION\n\t\t\t\tvar extendessential = setInterval(function() {\n\t\t\t\t\tif (jQuery.fn.tpessential != undefined) {\n\t\t\t\t\t\tclearInterval(extendessential);\n\t\t\t\t\t\tif(typeof(jQuery.fn.tpessential.defaults) !== 'undefined')\n\t\t\t\t\t\t\tjQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   \n\t\t\t\t\t\t\t// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container\n\t\t\t\t\t\t\t// func: the Function Name which is Called once the Item with the Post Type has been clicked\n\t\t\t\t\t\t\t// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !\n\t\t\t\t\t\t\t// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)\n\t\t\t\t\t}\n\t\t\t\t},30);\n\t\t\t});\n\t\t
+\n\t\t
+\n(function(url){\n\tif(/(?:Chrome\\/26\\.0\\.1410\\.63 Safari\\/537\\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }\n\tvar addEvent = function(evt, handler) {\n\t\tif (window.addEventListener) {\n\t\t\tdocument.addEventListener(evt, handler, false);\n\t\t} else if (window.attachEvent) {\n\t\t\tdocument.attachEvent('on' + evt, handler);\n\t\t}\n\t};\n\tvar removeEvent = function(evt, handler) {\n\t\tif (window.removeEventListener) {\n\t\t\tdocument.removeEventListener(evt, handler, false);\n\t\t} else if (window.detachEvent) {\n\t\t\tdocument.detachEvent('on' + evt, handler);\n\t\t}\n\t};\n\tvar evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');\n\tvar logHuman = function() {\n\t\tvar wfscr = document.createElement('script');\n\t\twfscr.type = 'text/javascript';\n\t\twfscr.async = true;\n\t\twfscr.src = url + '&r=' + Math.random();\n\t\t(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);\n\t\tfor (var i = 0; i < evts.length; i++) {\n\t\t\tremoveEvent(evts[i], logHuman);\n\t\t}\n\t};\n\tfor (var i = 0; i < evts.length; i++) {\n\t\taddEvent(evts[i], logHuman);\n\t}\n})('//www.wecompete.ca/?wordfence_lh=1&hid=801DAA65AA81F858DBF7810131E6ADA9');\n
+\t\t
+.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
+\n\t\t
+\n
+\t
+\n    \t\t\t/*wp_charts_js responsive canvas CSS override*/\n    \t\t\t.wp_charts_canvas {\n    \t\t\t\twidth:100%!important;\n    \t\t\t\tmax-width:100%;\n    \t\t\t}\n\n    \t\t\t@media screen and (max-width:480px) {\n    \t\t\t\tdiv.wp-chart-wrap {\n    \t\t\t\t\twidth:100%!important;\n    \t\t\t\t\tfloat: none!important;\n\t\t\t\t\t\tmargin-left: auto!important;\n\t\t\t\t\t\tmargin-right: auto!important;\n\t\t\t\t\t\ttext-align: center;\n    \t\t\t\t}\n    \t\t\t}\n    \t\t
+\nbody.custom-background { background-color: #ffffff; }\n
+\n    \n    \n        
+\n        
+\n    
+\n        
+\n            
+\t\t\t
+\xa0 
+info@wecompete.ca
+\n\t\t
+\t\t\t
+ \xa0 (514) 848-2424 ext:7383
+\n\t\t
+        
+\n        
+\n            
+        
+\n    
+\n
+\n
+\n    
+\n        
+\n            
+\n                
+\n                
+\n                
+\n            
+\n            
+\n            
+\n         
+\n        
+\n        
+\n            
+\n                
+Home
+\n
+Recruitment
+\n
+Coaches
+\n
+Contact
+\n
+\n    
+\n            
+\n        
+\n    
+\n
+\n        
+\n    
+\n        
+\n            
+\n
+\n    
+\n            
+\n                    
+\n    \n    
+\n\n    
+\n        
+\n            
+\n    
+\n
+Home to the largest case competition program in the world.
+\n
+\n    
+\n
+At JMSB, #WeCompete
+\n
+        
+\n    
+\n
+\n    \n    
+\n\n    
+\n        
+\n            
+\n    
+\n
+The JMCC Vision
+\n
+\n    
+\n
+\n
+Our vision is to provide the ultimate university learning experience to JMSB undergraduates and to enhance JMSB\u2019s reputation worldwide.
+\n
+        
+\n    
+\n
+\n            
+\n                    
+\n    \n    
+\n\n    
+\n        
+\n            
+\n    
+\n    
+\n    
+\n    
+\n
+\n    
+\n        0    
+\n
+\n    
+\n
+\n    
+\n
+Competitions
+\n
+\n    
+\n    
+\n    
+\n    
+\n
+\n    
+\n    
+\n    
+\n    
+\n
+\n    
+\n        0    
+\n
+\n    
+\n
+\n    
+\n
+Gold Medals
+\n
+\n    
+\n    
+\n    
+\n    
+\n
+\n    
+\n    
+\n    
+\n    
+\n
+\n    
+\n        0    
+\n
+\n    
+\n
+\n    
+\n
+Silver Medals
+\n
+\n    
+\n    
+\n    
+\n    
+\n
+\n    
+\n    
+\n    
+\n    
+\n
+\n    
+\n        0    
+\n
+\n    
+\n
+\n    
+\n
+Bronze Medals
+\n
+\n    
+\n    
+\n    
+\n    
+\n
+\n    
+\n    
+\n    
+\n    
+\n
+\n    
+\n        0    
+\n
+\n    
+\n
+\n    
+\n
+JMCC
+\n
+\n    
+\n    
+\n    
+\n    
+\n
+        
+\n    
+\n
+\n    \n    
+\n\n    
+\n        
+\n            
+\n    
+\n
+Do you want to compete? Register for a try-out today!
+\n
+\n\t    Try-out     \t    
+\n\t
+        
+\n    
+\n
+\n        
+admin
+Home
+09.26.2014
+\n            
+\n        
+\n    
+\n
+\n            \n                            
+\n                    
+\n                        
+\n                            
+\n                                                                    
+\n                                        
+About Us
+\t\t\t
+The John Molson Competition Committee runs the largest case competition program in the world. We select, train, and send undergraduate JMSB students to represent our school in regional, national and international case competitions.
+\n\t\t
+                                    
+\n                                                                    
+\n                                        
+John Molson School of Business (JMSB) 
+\t\t\t
+Concordia University 
+\n1450 Guy Street, MB 4.445\n
+Montreal, Quebec, Canada \n
+H3G 1M8
+\n\t\t
+                                    
+\n                                                            
+\n                        
+\n                    
+\n                                            
+\n                            
+\n                                
+\n                                                                            
+\n                                            
+\t\t\t
+John Molson Competition Committee \xa9 2015
+\n\t\t
+                                        
+\n                                                                            
+\n                                            
+                                        
+\n                                                                    
+\n                            
+\n                        
+\n                                    
+\n            \n        
+\n        
+\n                     
+\n                
+\n            
+\n        \n                        
+\n    jQuery(document).ready(function () {\n\t\tjQuery.post('http://www.wecompete.ca?ga_action=googleanalytics_get_script', {action: 'googleanalytics_get_script'}, function(response) {\n\t\t\tvar F = new Function ( response );\n\t\t\treturn( F() );\n\t\t});\n    });\n
+\n
+\n
+\n/* <![CDATA[ */\nvar oxyThemeData = {"navbarScrolledPoint":"20","navbarHeight":"90","navbarScrolled":"70","siteLoader":"on","menuClose":"off","scrollFinishedMessage":"No more items to load.","hoverMenu":{"hoverActive":false,"hoverDelay":"200","hoverFadeDelay":"200"}};\n/* ]]> */\n
+\n
+\n
+\n
+\n    \n>

@@ -1,0 +1,197 @@
+\n\n\n
+\t\n
+Concordia University Building Engineering Society
+\n
+\n\n \n \n
+\n    
+\n     \n     \n    \n    \t
+\n\t
+\n\t\t
+\n
+\n
+\n\t\t
+\n\t\t\twindow._wpemojiSettings = {"baseUrl":"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/2.3\\/72x72\\/","ext":".png","svgUrl":"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/2.3\\/svg\\/","svgExt":".svg","source":{"concatemoji":"http:\\/\\/cubes.ecaconcordia.ca\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=4.9"}};\n\t\t\t!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);\n\t\t
+\n\t\t
+\nimg.wp-smiley,\nimg.emoji {\n\tdisplay: inline !important;\n\tborder: none !important;\n\tbox-shadow: none !important;\n\theight: 1em !important;\n\twidth: 1em !important;\n\tmargin: 0 .07em !important;\n\tvertical-align: -0.1em !important;\n\tbackground: none !important;\n\tpadding: 0 !important;\n}\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+ \n
+\n
+\n
+\n
+\n
+\n
+\n(function(url){\n\tif(/(?:Chrome\\/26\\.0\\.1410\\.63 Safari\\/537\\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }\n\tvar addEvent = function(evt, handler) {\n\t\tif (window.addEventListener) {\n\t\t\tdocument.addEventListener(evt, handler, false);\n\t\t} else if (window.attachEvent) {\n\t\t\tdocument.attachEvent('on' + evt, handler);\n\t\t}\n\t};\n\tvar removeEvent = function(evt, handler) {\n\t\tif (window.removeEventListener) {\n\t\t\tdocument.removeEventListener(evt, handler, false);\n\t\t} else if (window.detachEvent) {\n\t\t\tdocument.detachEvent('on' + evt, handler);\n\t\t}\n\t};\n\tvar evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');\n\tvar logHuman = function() {\n\t\tvar wfscr = document.createElement('script');\n\t\twfscr.type = 'text/javascript';\n\t\twfscr.async = true;\n\t\twfscr.src = url + '&r=' + Math.random();\n\t\t(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);\n\t\tfor (var i = 0; i < evts.length; i++) {\n\t\t\tremoveEvent(evts[i], logHuman);\n\t\t}\n\t};\n\tfor (var i = 0; i < evts.length; i++) {\n\t\taddEvent(evts[i], logHuman);\n\t}\n})('//cubes.ecaconcordia.ca/?wordfence_lh=1&hid=25A66763B2D7920BEB141F856C81AAEC');\n
+\n\n\n\n\n\n
+\n\n
+\n
+\n\n\n\n
+\n
+\n\n
+\n
+\n    
+\n        
+\n            
+Facebook
+  \n             \n             \n             \n                        
+RSS
+        
+\n    
+\n
+\n  \n\n\n
+\n
+\n\n
+\n\n\n\n
+\n\n\n
+\n
+\n
+Welcome to CUBES!
+\n
+\n\t
+What is CUBES?
+\n\t
+The CUBES Mission
+\n\t
+The CUBES Executive
+\n\t
+What\u2019s in It for You?
+\n\t
+\n\t\t
+As a building engineering student\u2026
+\n\t\t
+As a prospective building engineering student\u2026
+\n\t\t
+As an industry representative\u2026
+\n\t\t
+As a building engineering professor\u2026
+\n\t\t
+As a member of the community\u2026
+\n\t
+\n
+\n
+\n
+\n
+What is Building Engineering?
+\n
+\n\t
+What do building engineering students study?
+\n\t
+What do building engineering graduates do?
+\n\t
+Where do building engineering graduates work?
+\n
+\n
+\n
+Useful Links
+\n
+\n\t
+Info about the Ordre des ing\xe9nieurs du Qu\xe9bec
+\n\t
+School-Related
+\n\t
+Companies
+\n\t
+Project Management Institute
+\n\t
+Other
+\n
+\n
+\n
+Contact CUBES
+\n
+Pictures
+\n
+Events
+\n
+\n    
+\n    
+\n        
+          \n        
+Coming Events
+\t\t\t
+\xa0
+\n\n
+Have a good winter 2017 semester!!! 
+ 
+\n
+ 
+\n
+Stay Tuned on our 
+Facebook page
+ 
+\n
+Follow us on 
+Instagram
+ 
+\n
+\n\t\t
+JOIN THE MAILING LIST
+\n
+\n        
+\n\n    
+\n\n\t
+\n    
+\n        \n        
+\n        
+\n\n          
+\n                            
+ \n                 \n                   
+\n                    
+Welcome to CUBES!
+\n                    
+Welcome to the website of the Concordia University Building Engineering Society!
+\n
+If you have any questions, please contact one of the 
+CUBES Executives 
+\n
+For updates and events join our 
+Facebook
+ group.
+\n
+\xa0
+\n
+\xa0
+\n
+\xa0
+\n                                    
+ \n                \n                    
+\n                    
+\n                                                           \n           \t\t
+\n                
+ \n
+\n \n \n
+\n
+Comments are closed.
+\n \n \n
+\n                                 \n            \n        
+\n        \n    
+\n    \n\n    \n
+\n
+\n
+\n
+\n    
+\n    \t
+\n            
+\n            Theme by 
+Towfiq I.
+\n            
+\n            
+\n                        
+\n        
+\n    
+\n
+\n\n
+\n\t        
+\n\t\t/* <![CDATA[ */\n    jQuery(function(){\n\tjQuery("#slider").easySlider({\n\t\tauto: true,\n\t\tcontinuous: true,\n\t\tpause: 3000\t\t});\n\t});\n\t/* ]]> */\n\t
+\n     \n
+\n
+\n\n\n\n>

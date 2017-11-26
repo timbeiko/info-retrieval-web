@@ -1,0 +1,182 @@
+\n\n
+\n
+\n
+\n
+Staff | CUPFA
+ 
+ 
+img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-shadow:none !important;height:1em !important;width:1em !important;margin:0\n.07em !important;vertical-align:-0.1em !important;background:none !important;padding:0\n!important}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#site-title,#site-description{position:absolute;left:-9000px}
+Skip to content
+Professional Development
+Deadlines
+Teaching Application Form
+News
+Quick Links:
+Staff
+Karen Taillon
+\n
+Office Manager
+As a graduate of Concordia University, I was pleased to return in 1994 as the Association\u2019s Office Manager. I am very happy to be here at CUPFA as part of the CUPFA family. I am responsible for the front-line services offered to all members who call and to assist part-time faculty maneuver through the sometimes murky waters of Concordia. If I don\u2019t have the answer to your question, I can certainly steer you in the right direction.
+\nE: 
+cupfa@concordia.ca
+\nT: 514-848-2424 ext. 3691
+Manon Charland
+\n
+Office Assistant
+E:\xa0
+cupfa@concordia.ca
+\nT: 514-848-2424 ext. 3691
+\xa0
+Michael Pinsonneault
+\n
+Assistant Grievance Officer
+I have been working as Assistant Grievance Officer for CUPFA since 2007, when the position was established. In this regard, I prepare and research issues concerning grievances and the CUPFA Collective Agreement. Working in concert with our Vice President, Collective Agreement and Grievances, I attend when required Grievance Hearings. In addition, I have served numerous terms as the PT Hiring rep for the Departments of Music and Communication Studies from 2002 to the present, as well as on the Music Curriculum Committee. As a member of the CUPFA Advisory Council I sit on the 
+Fine Arts Environmental Health and Safety Committee
+.
+\nE: 
+michael.pinsonneault@hotmail.com
+\nT: 514-848-2424 ext. 3691
+Legal Intern
+Since January 2015, CUPFA has participated in training several law school graduates\xa0on their way to becoming lawyers. \xa0They have passed the Bar exam and are completing\xa0their final six month internship under the supervision of Me Patrice Blais, VP\xa0Collective Agreement and Grievances. \xa0You might remember Max Silverman, Pierre-Luc Bouchard, Catherine LeGuerrier or Jos\xe9Eve McCarthy from a CUPFA event?
+Come by the CUPFA office and meet the current legal intern. \xa0They are here to answer\xa0your questions related to the Collective Agreement, or to a situation concerning your\xa0employment as a part-time professor at Concordia. \xa0They help out with legal\xa0research, negotiations, and representation related to the grievance clinic.
+E : legalintern@cupfa.org
+\nT : 514-848- 2424 ext. 3691
+\xab 
+Back to Top
+Home
+About
+Mandate & History
+Executive 2017-20
+Committees
+Staff
+News & Events
+News
+Events
+Videos
+Media Coverage \u2013 Negotiations
+Collective Agreement
+Pensions and Retirement
+Pension Information
+Retirement Planning
+Professional Development
+About PD
+CUPFA Grants
+Travel and Expenses
+Grant Reports
+Small Claims
+PD \u2013 FAQ
+Office of Research
+Forms
+Publications
+Newsletters
+Survival Guide
+Commandments
+Multi-Section Courses
+Concordia Resources
+FAQ
+Contact Us
+\n
+Search for:
+\n
+\n
+Recent Posts
+Official Signing of 5th Collective Agreement
+Words and Public Space, Andrew Forster, Erin Moure...
+Campus Equity Week article in The Concordian
+Instability of Work a Cause of Stress for...
+BONNIE BAXTER wins Charles-Biddle Award 2017
+Post Archives
+\t\t
+Post Archives
+\n
+Select Month
+ November 2017
+ October 2017
+ September 2017
+ August 2017
+ July 2017
+ June 2017
+ May 2017
+ April 2017
+ March 2017
+ February 2017
+ January 2017
+ December 2016
+ November 2016
+ October 2016
+ September 2016
+ August 2016
+ June 2016
+ May 2016
+ April 2016
+ March 2016
+ February 2016
+ January 2016
+ December 2015
+ November 2015
+ October 2015
+ September 2015
+ August 2015
+ June 2015
+ May 2015
+ March 2015
+ February 2015
+ November 2014
+ October 2014
+ September 2014
+ April 2014
+ March 2014
+ February 2014
+ January 2014
+ November 2013
+ October 2013
+ September 2013
+ August 2013
+ July 2013
+ May 2013
+ April 2013
+ March 2013
+ February 2013
+ January 2013
+ December 2012
+ November 2012
+ October 2012
+ September 2012
+ May 2012
+ April 2012
+ March 2012
+ February 2012
+Contact Info
+Office Hours
+\nMonday \u2013 Thursday
+\n9 am to 4 pm
+2150 Bishop, S-K-310
+\nMontreal, Quebec  H3G 1M8
+Telephone
+\n514-848-2424-3691
+Facsimile
+\n514-848-3648
+\n
+\n
+\n
+\nCopyright \xa9 CUPFA. All Rights Reserved.
+ 
+jQuery(document).ready(function($){jQuery('#dc_jqaccordion_widget-2-item .menu').dcAccordion({eventType:'click',hoverDelay:0,menuClose:false,autoClose:true,saveState:true,autoExpand:true,classExpand:'current-menu-item',classDisable:'',showCount:false,disableLink:true,cookie:'dc_jqaccordion_widget-2',speed:'fast'});});
+ 
+jQuery(document).ready(function($){$("a[rel*=lightbox]").colorbox({speed:350,initialWidth:"300",initialHeight:"100",maxWidth:"75%",opacity:0.8,loop:false,scrolling:false,escKey:false,arrowKey:false,top:false,right:false,bottom:false,left:false});});
+ 
+ 
+ \n>

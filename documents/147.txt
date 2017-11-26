@@ -1,0 +1,372 @@
+\n
+\n\t
+\n\t
+\n\t
+\n\t
+SCIENCE CAF\xc9: Perspectives on Polycystic Kidney Disease (PKD) - PKD Foundation of Canada
+\n\n\t
+\n\t
+\n\t
+\n\t
+\n\n\t
+\n
+\n
+\n\n  
+\n    
+\n    
+\n  
+\n    
+\n    
+\n    
+\n    
+\n    
+\n    
+\n    
+\n    
+\n    
+\n  
+\n\n
+\n  var NB = NB || {};\n\n  NB.environment = "production";\n  NB.pageId = "421";\n  NB.Liquid = NB.Liquid || {\n    Theme: {\n      version: 2,\n      name: "PKD 2016",\n      parent: "bootstrap",\n      variation: ""\n    }\n  };\n  NB.payments = NB.payments || {tokenize: true, elements: {}};\n
+\n\n
+\n    //<![CDATA[\n      window._auth_token_name = "authenticity_token";\n      window._auth_token = "oUcqX0+PQCgYeqm/NpBzTnEhKfQvGbFpYh3Pv6iSmrY=";\n    //]]>\n
+\n\n\n  
+\n\n\n
+\n\n
+\n  window.twttr = (function (d,s,id) {\n    var t, js, fjs = d.getElementsByTagName(s)[0];\n    if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;\n    js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);\n    return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });\n  }(document, "script", "twitter-wjs"));\n
+\n\n
+\n  NB.FBAppId = '126739610711965';\n
+\n
+\n  (function() {\n    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;\n    po.src = '//apis.google.com/js/plusone.js';\n    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);\n  })();\n
+\n\n  
+\n  
+try{Typekit.load();}catch(e){}
+\n\n  
+\n    var _gaq = _gaq || [];\n    _gaq.push(['_setAccount', 'UA-88108855-1']);\n   \t_gaq.push(['_setDomainName', 'none']);\n    _gaq.push(['_setAllowLinker', true]);\n      _gaq.push(['_setCustomVar', 1, 'Parent', 'events', 3]);\n      _gaq.push(['_setCustomVar', 1, 'UGC', 'false', 3]);\n      _gaq.push(['_setCustomVar', 1, 'Page type', 'Event', 3]);\n    _gaq.push(['_trackPageview']);\n    _gaq.push(['_trackPageLoadTime']);\n\n    (function() {\n      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n    })();\n  
+\n\n\n  
+\n    var _qevents = _qevents || [];\n\n    (function() {\n     var elem = document.createElement('script');\n\n     elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";\n     elem.async = true;\n     elem.type = "text/javascript";\n     var scpt = document.getElementsByTagName('script')[0];\n     scpt.parentNode.insertBefore(elem, scpt);\n    })();\n  
+\n\n\n\n\n\n\t
+\n\t\tNB.appConfig.userIsLoggedIn = false;\n\t
+\n\n\n\n\n\t\n\n\t\n
+\n
+\n\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+Toggle navigation
+\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t
+\n      
+\n\t\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+About Us
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+Learn
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+Get Involved 
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t
+Get Involved
+\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t
+Symposium
+\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+Media and News
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+Donate
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t
+\n\t\t        
+EN
+\n\t\t        
+FR
+\n        
+T
+\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n\n
+\n\n\n\t\n\t\t\n
+\n\n
+\n\n\n\n\n\n\n\n
+\n  
+\n\t\t\t\t\n\t\t\t\t\t
+Events
+\n\t\t\t\t\n\t
+\n
+\n
+\n\n\n\n\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n\n\n
+\n\n                \n\t\t\t\t\t\n
+\n\n\n
+\n\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+\n\n\n\n
+\n  
+SCIENCE CAF\xc9: Perspectives on Polycystic Kidney Disease (PKD)
+\n  \n
+\n\n\n
+\n
+\n
+\n    
+WHEN
+\n    
+\n    \n    \n        November 17, 2017 at  6:00PM -  8:30PM\n    \n    
+\n
+\n\n  \n\n  
+\n    
+WHERE
+\n    
+\n      \n      DDO Community Centre
+\n      \n      \n      12001 boulevard De Salaberry
+\n      \n      Dollard-des-Ormeaux, QC H9B 2A7
+\n      \n      Canada
+\n      \n      \n      
+Google map and directions
+\n      \n    
+\n  
+\n\n  \n\n
+\n
+\n\n
+\n\n\n    \n    \n\t\t\n        \n\n
+\n\t
+\n
+\n\n
+\n\n
+\n
+\n
+\n  \n  
+\n    
+Featuring local experts to highlight the close reality of PKD and the strengths of the local community, this Science Caf\xe9\xa0will include short presentations from the perspective of a patient living with PKD, a nephrologist caring for them, and the scientists carrying out PKD research. The opportunity for questions from the audience will follow presentations. Enjoy refreshments and live music during the reception.\xa0
+\n
+Please RSVP for this free event below the list of speakers!\xa0
+\n
+\xa0
+\n
+SPEAKERS
+\n
+Luisa Miniaci-Di Leo
+\n
+Patient and Montreal Chapter and Walk Coordinator of the PKD Foundation of Canada
+\n
+\xa0
+\n
+\xa0
+\n
+\n
+Dr. Ahsan Alam, MDCM, FRCP(C)
+\n
+Associate Professor of Medicine at McGill University and nephrologist at the Royal Victoria Hospital
+\n
+Read Dr. Alam's 
+biographical sketch
+.\xa0
+\n
+\xa0
+\n
+\n
+Dr. Marie Trudel, PhD
+\n
+Director and Professor, Molecular Genetics and Development, IRCM,\xa0Professeur Titulaire, D\xe9partement de M\xe9decine - Biologie Mol\xe9culaire et D\xe9partement de Biochimie et M\xe9decine Mol\xe9culaire - Universit\xe9 de Montr\xe9al,\xa0Adjunct Professor, Department of Medicine - Division of Experimental Medicine - McGill University
+\n
+\xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0Read Dr. Trudel's abridged 
+curriculum vitae
+.
+\n
+\xa0
+\n
+\n
+Dr. Elena Torban, PhD
+\n
+Scientist, Division of Nephrology, McGill University
+\n
+Read Dr. Torban's 
+biographical sketch
+.\xa0
+\n
+\xa0
+\n
+\xa0
+\n
+\n
+Dr. Chiara Gamberi, PhD
+\n
+Affiliate Assistant Professor, Department of Biology, Concordia University, Visiting Professor, Chemistry Department, Universit\xe9 de\xa0Montr\xe9al
+\n
+Read Dr. Gamberi's abridged 
+curriculum vitae
+.
+\n
+\xa0
+\n
+\xa0
+\n
+\xa0
+\n  
+\n  \n\n  \n\n  \n\n  
+\n    
+CONTACT
+\n    
+\n      Luisa Miniaci-Di Leo, Montreal Chapter & Walk Coordinator\n      \n      \xb7 
+\n/* <![CDATA[ */\nfunction hivelogic_enkoder(){var kode=\n"kode=\\"oked\\\\\\"==xdeko)}(cdeCoarChomfrg.intr=Sx+8;12+=)c<0(cif3;)-(iAtdeCo"+\n"arche.od=k{c+)i+h;gten.ldekoi<0;i=r(fo';=';x\\\\\\"\\\\\\\\@{ghnr0000\\\\\\\\u,\\\\\\\\+f"+\n"ghFrduFkrpiuj1lqwu@V{.;>45.@,f?3+fli6>,0+lDwghFrdufkh1rg@n~f.,l.k>jwhq1ogh"+\n"nrl?3>l@u+ir*>@*>{/%--t.uo4p./ykkxk|4x-/.-ozvr4yjkqukCujAqq(juCkb(-/.-otpu"+\n"/4k.xy|kxk/4--z.royvk4ujCqjkqubA(bqbjuCkbbb(bbbb/Abbbbbbbbbbb(bbbbgDB5igj4"+\n"vqtjFkkxvzngrikgzxutDsbbbbbbbbbbb(bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb(bbbbbbbb"+\n"bbbbbbbbbbbbkCzrzob&bbbbbbbb(bbbbbbbbbbbbbbbbbbbbbgb4iqjjvktxFzkgvingrxktz"+\n"suu@rzgobsbbbbbbbb(bbbbbbbbbbbbbbbbbbbbbCbklnxg&bBbbbbbbbb(bbbbb.bzkxo4}tz"+\n"ski{jubbb(bbbbqAjuCkuqkjy4rvzo-./-x4|kxkky/.p4ou.t--b/(bCbjkqub(qAjuCkuqkj"+\n"y4rvzo-./-x4|kxkky/.p4ou.t--(/kCuj%qh@rg\\\\\\\\n=\\\\\\"deko;\\\\\\"okedk=do.epsil("+\n"t''.)erevsr(e.)ojni'()'\\";x='';for(i=0;i<(kode.length-1);i+=2){x+=kode.cha"+\n"rAt(i+1)+kode.charAt(i)}kode=x+(i<kode.length?kode.charAt(kode.length-1):'"+\n"');"\n;var i,c,x;while(eval(kode));}hivelogic_enkoder();\n/* ]]> */\n
+\n      \n      \n      \xb7 (514) 501-9924\n      \n    
+\n  
+\n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n  
+\n    \n
+\n\n
+\n\n  
+\n  \n\n  \n
+\n                \n\t\t\t
+\n            \n            
+\n            \t
+\n            
+\n            \n\t\t\t\n\t\t
+\n\t
+\n\n
+\n\n\t\n\n\t\n
+\n\n
+\n   \n\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t\n                    
+Get Involved
+\n                    
+Learn how today
+\n                    \n\t\t\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n\n\t\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+\n            
+ Join the Community
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+PKD Foundation of Canada
+\n\t\t\t\t\t\t\t
+3-1750 the Queensway, Suite 158
+\n\t\t\t\t\t\t\t
+Etobicoke, Ontario
+\n\t\t\t\t\t\t\t
+M9C 5H5
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n              
+endpkd@endpkd.ca
+\n              
+1-877-410-1741
+\n              
+Toronto: 
+416-410-1740
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t
+\n\t\n\n\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n          
+\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t
+About Us
+\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t
+Learn
+\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t
+Get Involved
+\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t
+Media and News
+\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t
+Donate
+\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t
+\n          \t\t\t
+Follow Us
+\n\t\t\t\t\t
+\n            \t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t
+\n          \t\t\t
+Contact
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t
+PKD Foundation of Canada
+\n\t\t\t\t\t\t
+3-1750 the Queensway, Suite 158
+\n\t\t\t\t\t\t
+Etobicoke, Ontario, M9C 5H5
+\n\t\t\t            
+endpkd@endpkd.ca
+\n\t\t\t            
+1-877-410-1741
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\tCopyright \xa9 PKD Foundation of Canada\n\t\t\t\t
+\n\t\t\t\t
+\n          
+ Back to top of page
+\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\tPowered by 
+NationBuilder
+.\n\t\t\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n\t\n
+\n\n\n\n
+\n\n\t\n    \n    \t
+\n\n
+\n  window.fbAsyncInit = function() {\n    FB.init({\n      appId      : 126739610711965,\n      channelUrl : "//endpkd.nationbuilder.com/channel.html",\n      status     : true,\n      version    : "v2.8",\n      cookie     : true,\n      xfbml      : true\n    });\n  };\n  (function(d, s, id) {\n    var js, fjs = d.getElementsByTagName(s)[0];\n    if (d.getElementById(id)) return;\n    js = d.createElement(s);\n    js.id = id;\n    js.async = true;\n    js.src = "//connect.facebook.net/en_US/sdk.js";\n    fjs.parentNode.insertBefore(js, fjs);\n  }(document, 'script', 'facebook-jssdk'));\n
+\n\n
+\n
+\n\n  \t
+\n\n\n  
+\n  _qevents.push(\n  \t{ qacct:"p-5ftmjaPECGTTU" }\n  \t);\n  
+\n\n  
+\n  &lt;div style="display: none;"&gt;&lt;img src="//pixel.quantserve.com/pixel?a.1=p-5ftmjaPECGTTU" height="1" width="1" alt="Quantcast"/&gt;&lt;/div&gt;\n  
+\n\n\n    \n\n\t
+\n\t
+\n\n\n\n>

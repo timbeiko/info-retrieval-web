@@ -1,0 +1,636 @@
+\n\n
+\n
+\n\n\n
+Culture pour tous
+\n\n
+\n
+\n
+\n
+\n\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n\n
+\n
+\n\n
+\n\n\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+{"@context":"http:\\/\\/schema.org","@type":"Organization","url":"http:\\/\\/www.culturepourtous.ca","sameAs":[],"name":"Culture pour tous","logo":"http:\\/\\/www.culturepourtous.ca\\/wp-content\\/uploads\\/2015\\/04\\/logo-culturepourtous@2x.png"}
+\n
+\n\n
+\n
+\n
+\n
+\n
+\n\t(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n\t\t(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n\t\tm=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n\t})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');\n\n\t__gaTracker('create', 'UA-5725831-1', 'auto');\n\t__gaTracker('set', 'forceSSL', true);\n\t__gaTracker('send','pageview');\n\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+ \n\n
+\n
+\n/* Fluid Video Embeds */\n.fve-video-wrapper {\n    position: relative;\n    overflow: hidden;\n    height: 0;\n    background-color: transparent;\n    padding-bottom: 56.25%;\n    margin: 0.5em 0;\n}\n.fve-video-wrapper iframe,\n.fve-video-wrapper object,\n.fve-video-wrapper embed {\n    position: absolute;\n    display: block;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n}\n.fve-video-wrapper a.hyperlink-image {\n    position: relative;\n    display: none;\n}\n.fve-video-wrapper a.hyperlink-image img {\n    position: relative;\n    z-index: 2;\n    width: 100%;\n}\n.fve-video-wrapper a.hyperlink-image .fve-play-button {\n    position: absolute;\n    left: 35%;\n    top: 35%;\n    right: 35%;\n    bottom: 35%;\n    z-index: 3;\n    background-color: rgba(40, 40, 40, 0.75);\n    background-size: 100% 100%;\n    border-radius: 10px;\n}\n.fve-video-wrapper a.hyperlink-image:hover .fve-play-button {\n    background-color: rgba(0, 0, 0, 0.85);\n}\n
+\n
+\n            
+\n            /* <![CDATA[ */\n                var isc_front_data =\n                {\n                    caption_position : 'bottom-left',\n                }\n            /* ]]> */\n            
+\n            
+\t.ssba {\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t.ssba img\n\t\t\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\t\twidth: 30px !important;\n\t\t\t\t\t\t\t\t\tpadding: px;\n\t\t\t\t\t\t\t\t\tborder:  0;\n\t\t\t\t\t\t\t\t\tbox-shadow: none !important;\n\t\t\t\t\t\t\t\t\tdisplay: inline !important;\n\t\t\t\t\t\t\t\t\tvertical-align: middle;\n\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t.ssba, .ssba a\n\t\t\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\t\ttext-decoration:none;\n\t\t\t\t\t\t\t\t\tborder:0;\n\t\t\t\t\t\t\t\t\tbackground: none;\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tfont-weight: normal;\n\t\t\t\t\t\t\t\t}.ssba_sharecount:after, .ssba_sharecount:before {\n\t\t\t\t\t\t\t\t\tright: 100%;\n\t\t\t\t\t\t\t\t\tborder: solid transparent;\n\t\t\t\t\t\t\t\t\tcontent: " ";\n\t\t\t\t\t\t\t\t\theight: 0;\n\t\t\t\t\t\t\t\t\twidth: 0;\n\t\t\t\t\t\t\t\t\tposition: absolute;\n\t\t\t\t\t\t\t\t\tpointer-events: none;\n\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t.ssba_sharecount:after {\n\t\t\t\t\t\t\t\t\tborder-color: rgba(224, 221, 221, 0);\n\t\t\t\t\t\t\t\t\tborder-right-color: #f5f5f5;\n\t\t\t\t\t\t\t\t\tborder-width: 5px;\n\t\t\t\t\t\t\t\t\ttop: 50%;\n\t\t\t\t\t\t\t\t\tmargin-top: -5px;\n\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t.ssba_sharecount:before {\n\t\t\t\t\t\t\t\t\tborder-color: rgba(85, 94, 88, 0);\n\t\t\t\t\t\t\t\t\tborder-right-color: #e0dddd;\n\t\t\t\t\t\t\t\t\tborder-width: 6px;\n\t\t\t\t\t\t\t\t\ttop: 50%;\n\t\t\t\t\t\t\t\t\tmargin-top: -6px;\n\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t.ssba_sharecount {\n\t\t\t\t\t\t\t\t\tfont: 11px Arial, Helvetica, sans-serif;\n\n\t\t\t\t\t\t\t\t\tpadding: 5px;\n\t\t\t\t\t\t\t\t\t-khtml-border-radius: 6px;\n\t\t\t\t\t\t\t\t\t-o-border-radius: 6px;\n\t\t\t\t\t\t\t\t\t-webkit-border-radius: 6px;\n\t\t\t\t\t\t\t\t\t-moz-border-radius: 6px;\n\t\t\t\t\t\t\t\t\tborder-radius: 6px;\n\t\t\t\t\t\t\t\t\tposition: relative;\n\t\t\t\t\t\t\t\t\tborder: 1px solid #e0dddd;color: #555e58;\n\t\t\t\t\t\t\t\t\t\tbackground: #ffffff;\n\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t.ssba_sharecount:after {\n\t\t\t\t\t\t\t\t\t\tborder-right-color: #ffffff;\n\t\t\t\t\t\t\t\t\t}
+\n\t\n\t\t\t\t
+\n\n  \n  \n    
+\n      
+\n        
+\n                      
+Accueil
+\n          \n\n          \n            \n            \n                              
+\n                  
+Professionnels de la culture
+\n                  
+\n                                                                
+M\xe9diation culturelle
+\n                                                                
+Forums Culture pour tous
+\n                                                                
+Plan culturel num\xe9rique
+\n                                                                
+Prix Charles-Biddle
+\n                                                                
+Les journ\xe9es de la culture
+\n                                      
+\n                
+\n              \n            \n          \n            \n            \n                              
+\n                                                          
+Culture en entreprise
+\n                                  
+\n              \n            \n          \n            \n            \n                              
+\n                  
+Milieu de l'\xe9ducation
+\n                  
+\n                                                                
+Passeurs de r\xeaves
+\n                                                                
+Projet pilote h\xe9misph\xe8res
+\n                                                                
+Carnet de la culture \xe0 l'\xe9cole
+\n                                      
+\n                
+\n              \n            \n          \n            \n            \n                              
+\n                  
+Grand public
+\n                  
+\n                                                                
+Les journ\xe9es de la culture
+\n                                      
+\n                
+\n              \n            \n          \n        
+\n      
+\n    
+\n  \n\n\n  
+\n    
+Culture pour tous
+\n\n    
+Organisation
+\n
+\n\t
+Historique
+\n\t
+\xc9quipe et conseil
+\n\t
+Rapports d\u2019activit\xe9s
+\n
+\n
+\n
+Actualit\xe9s
+\n
+\n\t
+Nouvelles
+\n\t
+Bulletins
+\n\t
+\xc9v\xe9nements
+\n\t
+Communiqu\xe9s
+\n\t
+Articles
+\n
+\n
+\n
+Nos partenaires
+\n
+Pour nous joindre
+\n
+\n  
+\n\n  
+\n    
+Recherche
+\n    \n
+\n  
+\n  
+\n
+  
+\n\n  
+\n    
+\n\n              
+Suivez-nous
+\n      \n      
+\n        
+\n        
+\n        
+\n        
+\n      
+\n    
+\n  
+\n  
+\n      
+English Version
+\n  \n
+\n\n\t\t
+\n\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+\n\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+Menu
+\n\t\t\t\t\t\t
+\n\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t                \t\t\t\t
+Culture pour tous
+\n              \t\t\t\t\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\n\t\t\t\t\t  \n\n  
+\n      
+\n\n              \n                      
+\n              
+\n\n                                                                    
+Professionnels de la culture
+\n                  
+\n                                                                
+M\xe9diation culturelle
+\n                                                                
+Forums Culture pour tous
+\n                                                                
+Plan culturel num\xe9rique
+\n                                                                
+Prix Charles-Biddle
+\n                                                                
+Les journ\xe9es de la culture
+\n                                      
+\n                \n              
+\n            
+\n                        \n                      
+\n              
+\n\n                                                                                          
+Culture en entreprise
+\n                                  \n              
+\n            
+\n                        \n                      
+\n              
+\n\n                                                                    
+Milieu de l'\xe9ducation
+\n                  
+\n                                                                
+Passeurs de r\xeaves
+\n                                                                
+Projet pilote h\xe9misph\xe8res
+\n                                                                
+Carnet de la culture \xe0 l'\xe9cole
+\n                                      
+\n                \n              
+\n            
+\n                        \n                      
+\n              
+\n\n                                                                    
+Grand public
+\n                  
+\n                                                                
+Les journ\xe9es de la culture
+\n                                      
+\n                \n              
+\n            
+\n                \n      
+\n\n      
+\n    
+\n\n\n\t\t\t\t\t
+\n\t\t\t\t
+\n\n\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t    \t\t\t\t\t\n
+\n  
+\n  
+\n
+\t    \t\t\t\t
+\n    \t\t\t\t
+\n\t\t\t\t
+\n\t\t\t
+\n\n\t\t\t
+\n\n\n\n\n\n\n
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t
+\n
+\n\n
+\n\t\n\t\t
+Manchettes... pour tous !
+\n\n\t\t
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+En vedette
+\n\t\t\t\t\t\t\t\t
+La cr\xe9ation collective
+\n\t\t\t\t\t\t\t\tDeux nouveaux projets de notre programme 
+La culture en entreprise
+ ont \xe9t\xe9 inaugur\xe9s au cours de l\u2019automne. Intitul\xe9 
+Roches, Papiers, Ciseaux
+,
+ le premier a permis aux employ\xe9s de Qu\xe9bec de la 
+Commission g\xe9ologique du Canada
+ de c\xe9l\xe9brer de mani\xe8re cr\xe9ative les 175\xa0ans de l\u2019organisme avec la sculpteure 
+Julie Picard.
+ R\xe9unissant une trentaine d\u2019employ\xe9s du 
+Fonds FTQ,
+ le second a men\xe9 \xe0 la cr\xe9ation collective d\u2019une 
+\u0153uvre de mosa\xefque
+ inspir\xe9e par le th\xe8me du changement. Apprenez-en plus sur ces deux projets 
+en suivant ce lien
+.
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t\t
+\n\t\t\t\t
+Continuer sur Facebook
+\n\t\t\t
+\n\t\t
+\t\t
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t
+@Culturepourtous
+\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t\t
+\n\t\t\t\t
+Continuer sur Twitter
+\n\t\t\t
+\n\t\t
+\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t
+Nouvelles
+\n\t\t\t\t\t\t\t\t\t\t
+La f\xe9e des dents aime les livres jeunesse!
+\n\n\t\t\t\t\t\t\t\t\t\t
+Kim Gobeil, Culture pour tous Et si on offrait des livres plut\xf4t que de l\u2019argent lorsqu\u2019un enfant perd une dent\xa0? C\u2019est ce que propose Une\xa0dent, un\xa0livre, une id\xe9e de l\u2019auteure Nadine Poirier qui a vu le jour dans le cadre du concours Une id\xe9e qui conte de Culture pour tous. Lanc\xe9e il y a quelques [\u2026]
+\n
+\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t
+Jeunesse
+culture num\xe9rique
+litt\xe9rature
+\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t
+\n\n\t\t\t\t\t\t\t\t\t\t\t\t
+Cr\xe9dit : La Fabrique culturelle de T\xe9l\xe9-Qu\xe9bec
+\n\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t
+\n\n\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t
+Nouvelles
+\n\t\t\t\t\t\t\t\t\t\t\t\t
+Le prix Charles-Biddle 2017 remis \xe0 Bonnie Baxter
+\n\n\t\t\t\t\t\t\t\t\t\t\t\t
+Le ministre de l\u2019Immigration, de la Diversit\xe9 et de l\u2019Inclusion, Monsieur David Heurtel, et la pr\xe9sidente-directrice g\xe9n\xe9rale de Culture pour tous, Mme\xa0Louise Sicuro, ont remis aujourd\u2019hui le prix Charles-Biddle 2017 \xe0 l\u2019artiste en arts visuels Bonnie Baxter, \xe0 l\u2019occasion du lancement des activit\xe9s de la Semaine qu\xe9b\xe9coise des rencontres interculturelles (SQRI). Le prix Charles-Biddle est [\u2026]
+\n
+\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+Interculturalit\xe9
+bourses et r\xe9compenses
+Prix Charles-Biddle
+\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\n\t\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t
+Articles
+\n\t\t\t\t\t\t\t\t\t\t
+Formation sur mesure pour les travailleurs de la culture
+\n\n\t\t\t\t\t\t\t\t\t\t
+Les Forums Culture pour tous reprennent la route Rendez-vous de formation sur le d\xe9veloppement culturel des territoires pr\xe9sent\xe9s en partenariat avec une dizaine de villes ou de MRC du Qu\xe9bec et avec l\u2019appui financier de Patrimoine canadien, les Forums Culture pour tous ont pour but d\u2019enrichir les capacit\xe9s de direction, d\u2019organisation et de gestion des [\u2026]
+\n
+\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t
+Formation
+Forums Culture pour tous
+\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t
+\t\t
+\n\t\n\t
+\n\t
+\n\t\t\t\t\t
+Nos projets
+\n\t\t\n\t\t
+\n\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t
+\n\t\t\t\t\t
+\n\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\n\t\t\t\t\t\t
+Trois jours d'activit\xe9s interactives, de d\xe9couverte et d'appr\xe9ciation des arts et de la culture offertes gratuitement, chaque automne, partout au Qu\xe9bec.
+\n\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+D\xe9couvrez
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t
+\n\t\t\t\t\t
+\n\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tM\xe9diation 
+culturelle\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\n\t\t\t\t\t\t
+Processus de mise en relation entre les sph\xe8res de la culture et du social visant \xe0 faire de chaque personne, visiteur ou spectateur, un v\xe9ritable acteur culturel.
+\n\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+D\xe9couvrez
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t
+\n\t\t\t\t\t
+\n\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tForums 
+Culture pour tous\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\n\t\t\t\t\t\t
+Des rencontres itin\xe9rantes de deux jours visant, gr\xe2ce aux experts invit\xe9s, \xe0 enrichir et \xe0 approfondir les capacit\xe9s de gestion et d\u2019organisation des travailleurs culturels.
+\n\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+D\xe9couvrez
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t
+\n\t\t\t\t\t
+\n\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPrix 
+Charles-Biddle\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\n\t\t\t\t\t\t
+D\xe9cern\xe9 annuellement \xe0 une personne ayant immigr\xe9 au Qu\xe9bec et dont l'engagement personnel ou professionnel contribue \xe0 notre d\xe9veloppement culturel et artistique.
+\n\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+D\xe9couvrez
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t
+\n\t\t\t\t\t
+\n\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPasseurs 
+de r\xeaves\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\n\t\t\t\t\t\t
+Programme de mentorat culturel en pers\xe9v\xe9rance scolaire pour les jeunes de 3e secondaire.
+\n\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+D\xe9couvrez
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t
+\n\t\t\t\t\t
+\n\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCarnet de la 
+culture \xe0 l'\xe9cole\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\n\t\t\t\t\t\t
+Un journal de bord qui accompagne les jeunes des 2e et 3e cycles du primaire dans leur d\xe9couverte des arts et de la culture.
+\n\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+D\xe9couvrez
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t
+\n\t\t\t\t\t
+\n\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCulture en 
+entreprise\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\n\t\t\t\t\t\t
+Un programme de jumelage arts-affaires visant \xe0 favoriser les interactions entre les milieux de la culture et du travail.
+\n\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+D\xe9couvrez
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\n\t\t\t\t\t\t
+Plan culturel num\xe9rique
+\n\n\t\t\t\t\t\t
+Le Plan assure la vitalit\xe9 de la culture qu\xe9b\xe9coise et la fait rayonner sur les march\xe9s locaux, nationaux et internationaux.
+\n\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+D\xe9couvrez
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\t
+\n\t
+\n  
+\n\n  
+\n    
+\n      
+\n\n        
+\n\n                      
+\n              
+\n              
+\t\t\t
+Culture pour tous
+ est un organisme \xe0 but non lucratif enregistr\xe9 comme organisme de bienfaisance. Son financement de base provient du 
+minist\xe8re de la Culture et des Communications
+ et est compl\xe9t\xe9 par des revenus g\xe9n\xe9r\xe9s par ses propres activit\xe9s.
+\n
+\n\t\t
+            
+\n          \n                      
+\n              
+\n              
+\n\n\n\n\n\n\n\n
+D\xe9couvrez nos
+\nautres partenaires
+\n
+            
+\n          \n        
+\n      
+\n\n              
+\n
+\n
+\n            
+NOTRE MISSION
+\n
+Contribuer \xe0 faire reconna\xeetre les arts et la culture comme dimensions essentielles du d\xe9veloppement individuel et collectif en favorisant la participation des citoyens \xe0 la vie culturelle.
+\n
+\n
+Engagement
+\n
+Partage
+\n
+Cr\xe9ativit\xe9
+\n
+Synergie
+\n
+Respect
+\n
+Plaisir
+\n
+\n
+\n
+\n
+      \n
+\n\n      
+\n\n        
+\n\n          
+\n\n            
+Contact
+\n            
+\n\n            
+\n              
+\n                
+\n                                                        
+Culture pour tous
+\n                    4750, avenue Henri-Julien
+\n                    Montr\xe9al (Qu\xe9bec)
+\n                    H2T 2C8
+\n                    
+(lien Google Map)
+\n                                    
+\n              
+\n\n              
+\n                
+\n                                                        
+T\xe9l\xe9phone
+ : 
+514 873-2641
+\n                    
+Sans frais
+ : 
+1 866 734-4441
+\n                    
+Courriel
+ : 
+info@culturepourtous.ca
+\n                  \n                
+\n              
+\n            
+\n\n          
+\n\n          
+\n            
+\n              
+\n                              
+L'\xe9quipe de 
+Culture pour tous
+ sera heureuse de recevoir vos commentaires.
+\n                
+Pour communiquer avec l'\xe9quipe des 
+Journ\xe9es de la culture
+, 
+consultez le site de l'\xe9v\xe9nement.
+\n                          
+\n          
+\n\n        
+\n      
+\n\n      
+\n        
+\n\n          
+\n\n                          
+Suivez-nous
+\n            \n            
+\n              
+\n                
+\n                
+\n                
+\n                
+\n              
+\n            
+\n          
+\n\n          
+\n                          
+Inscrivez-vous \xe0 notre bulletin
+\n                      
+\n\n        
+\n      
+\n\n      
+\n                  
+English Version
+\n              
+\n\n    
+\n    \n  
+\n\n  
+\n
+\n\n
+\n
+\n
+\n\n\n\n>

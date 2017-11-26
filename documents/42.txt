@@ -1,1272 +1,570 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CUPFA on Vimeo
-
-
-
-
-
-
-
-
-
-
-
-
-
-        var ablincoln_config = ablincoln_config || {};
-        ablincoln_config.tests = {"DFPAdCohorts":{"id":69,"name":"DFPAdCohorts","buckets":1000,"input":"vuid","url":null,"experiments":[]},"Explore":{"id":64,"name":"Explore","buckets":1000,"input":"vuid","url":"\/","experiments":[]},"TopNavAB":{"id":67,"name":"TopNavAB","buckets":1000,"input":"vuid","url":"\/","experiments":[]},"TopNavCopyTest":{"id":77,"name":"TopNavCopyTest","buckets":1000,"input":"vuid","url":"\/about","experiments":[]},"OnboardingFlow":{"id":132,"name":"OnboardingFlow","buckets":1000,"input":"cuid","url":null,"experiments":[]},"Auth.ToggleModal":{"id":139,"name":"Auth.ToggleModal","buckets":1000,"input":"vuid","url":null,"experiments":[]}};
-    
-
-
-
-        var googletag = googletag || {},
-            gptadslots = [],
-            language,
-            has_uploaded,
-            cohort;
-        googletag.cmd = googletag.cmd || [];
-
-        (function() {
-            var gads = document.createElement('script'),
-                useSSL = 'https:' == document.location.protocol,
-                node;
-            gads.async = true;
-            gads.type = 'text/javascript';
-            gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
-            node = document.getElementsByTagName('script')[0];
-            node.parentNode.insertBefore(gads, node);
-        })();
-
-        googletag.cmd.push(function() {
-            
-                            language = document.cookie.replace(/(?:(?:^|.*;\s*)language\s*\=\s*([^;]*).*$)|^.*$/, "$1");
-                has_uploaded = (document.cookie.replace(/(?:(?:^|.*;\s*)has_uploaded\s*\=\s*([^;]*).*$)|^.*$/, "$1")) ? 'Y' : 'N';
-            
-            cohort = (window.ABLincoln) ? window.ABLincoln.getTest('DFPAdCohorts').get('cohort', 'A') : 'A';
-
-            googletag.pubads().setTargeting('language', [language]);
-            googletag.pubads().setTargeting('is_uploader', [has_uploaded]);
-            googletag.pubads().setTargeting('cohort', [cohort]);
-            googletag.pubads().setTargeting('cohort_a', [(cohort === 'A') ? 'Y' : 'N']);
-            googletag.pubads().setTargeting('cohort_b', [(cohort === 'B') ? 'Y' : 'N']);
-            googletag.pubads().setTargeting('product', ['']);
-            googletag.pubads().setTargeting('storage', ['N']);
-
-                        googletag.pubads().setTargeting('sec', ['false']);
-
-            googletag.pubads().setTargeting('logged_in', ['false']);
-
-                        googletag.pubads().setTargeting('rpv', (Math.floor(Math.random()*100)+1).toString());
-
-            googletag.pubads().enableAsyncRendering();
-            googletag.enableServices();
-        });
-    
-
-
-
-!function(){var e="undefined"!=typeof window?window:exports,r=[];if(e.performance||(e.performance={}),e.performance.now||(e.performance.now=performance.now||performance.webkitNow||performance.msNow||performance.mozNow),!e.performance.now){var n=Date.now?Date.now():+new Date;performance.timing&&performance.timing&&(n=performance.timing.navigationStart),e.performance.now=function(){var e=Date.now?Date.now():+new Date;return e-n}}e.performance.mark||(e.performance.mark=e.performance.webkitMark?e.performance.webkitMark:function(n){r.forEach(function(e,r,a){e.name===n&&a.splice(r,1)}),r.push({name:n,entryType:"mark",startTime:e.performance.now(),duration:0})}),e.performance.getEntriesByType||(e.performance.getEntriesByType=e.performance.webkitGetEntriesByType?e.performance.webkitGetEntriesByType:function(e){var n=function(r){return r.entryType===e};return-1!==["mark","measure"].indexOf(e)?r.filter(n):void 0}),e.performance.getEntriesByName||(e.performance.getEntriesByName=e.performance.webkitGetEntriesByName?e.performance.webkitGetEntriesByName:function(e){return r.filter(function(r){return r.name===e})}),e.performance.clearMeasures||(e.performance.clearMeasures=e.performance.webkitClearMeasures?e.performance.webkitClearMeasures:function(){r.forEach(function(e,r,n){"measure"===e.entryType&&n.splice(r,1)}),r=[]}),e.performance.clearMarks||(e.performance.clearMarks=e.performance.webkitClearMarks?e.performance.webkitClearMarks:function(){r.forEach(function(e,r,n){"mark"===e.entryType&&n.splice(r,1)}),r=[]}),e.performance.measure||(e.performance.measure=e.performance.webkitMeasure?e.performance.webkitMeasure:function(e,n,a){var t=function(e){return function(r){return r.name===e&&"mark"===r.entryType}},o=r.filter(t(n))[0],m=r.filter(t(a))[0],i=m.startTime-o.startTime;r.push({name:e,entryType:"measure",startTime:o.startTime,duration:i})})}(),window.markUserTime=function(e){var r=window.requestAnimationFrame||function(e){setTimeout(e,0)};r(function(){window.performance.mark(e),window.console&&console.timeStamp&&console.timeStamp(e)})};
-
-(function() {
-    window.markUserTime = function(label) {
-        window._gtm = window._gtm || [];
-
-        // Exit early if the browser can't handle new things
-        if (typeof performance === 'undefined' || typeof performance.mark !== 'function' || typeof performance.getEntriesByName !== 'function' || typeof performance.clearMarks !== 'function') {
-            return;
-        }
-
-        var uid = parseInt(Math.random().toString().split('0.')[1]) + new Date().getTime(),
-            mark_name = label + '_' + uid,
-            parts = label.split('|'),
-            category = parts[0],
-            variable = parts[1],
-            label = parts[2],
-            mark_time,
-            mark_entries;
-
-        performance.mark(mark_name);
-        mark_entries = performance.getEntriesByName(mark_name);
-
-        if (mark_entries.length) {
-            mark_time = mark_entries[0].startTime;
-            window._gtm.push({
-                'event': 'performance_timing',
-                'performance_timing.category': category,
-                'performance_timing.variable': variable,
-                'performance_timing.time': mark_time / 1000,
-                'performance_timing.label': label
-            });
-        }
-    };
-}());
-
-
-
-
-
-
-        (function(window) {
-            var firstScript = document.getElementsByTagName('script')[0];
-            var script = document.createElement('script');
-            script.src = playerAssetUrls.chromeless_js;
-            firstScript.parentNode.insertBefore(script, firstScript);
-
-            // Load the stylesheet
-            var link = document.createElement('link');
-            link.rel = 'stylesheet';
-            link.href = playerAssetUrls.chromeless_css;
-            firstScript.parentNode.insertBefore(link, firstScript);
-        })(window);
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-    window.vimeo = window.vimeo || {};
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                Join                            
-
-
-
-
-
-
-
-                                Log in                            
-
-
-
-
-
-
-
-                                Host videos                            
-
-
-
-
-
-
-Compare plans
-
-
-
-
-
-
-Professionals
-
-
-
-
-
-
-Businesses
-
-
-
-
-
-
-Live streaming
-
-
-
-
-
-
-Video School
-
-
-
-
-
-
-
-
-
-
-
-                                Sell                            
-
-
-
-
-
-
-Sell your videos
-
-
-
-
-
-
-Launch a subscription service
-
-
-
-
-
-
-
-
-
-
-
-                                Watch                            
-
-
-
-
-
-
-Staff Picks
-
-
-
-
-
-
-On Demand
-
-
-
-
-
-
-Explore
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Upload
-
-
-
-
-
-
-
-
-
-        // DO NOT REMOVE. This is a callback for the login & join buttons in TopNavBuilder.
-        function completeUserLogin(response) {
-            if (response && !response.signup) {
-                window.location.reload();
-            }
-        }
-    
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
- 
-
-
- 
-
-
-
-
-
-
-
-
-
-                        Watch                    
-
-
-
-
-
-
-
-                        Upload                    
-
-
-
-
-
-
-
-                        Host videos                    
-
-
-
-
-
-
-
-                        Live                    
-
-
-
-
-
-
-
-
-Join or log in
- 
-
-
-
-
-
-
-
-                        Help                    
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-More stuff
-
-
-
-
-
-
-
-
-
-                            Terms of Service                        
-
-
-
-
-
-
-
-                            Privacy Policy                        
-
-
-
-
-
-
-
-                            Copyright                        
-
-
-
-
-
-
-
-                            Cookies                        
-
-
-
-
-
-
-
-                            Desktop site                        
-
-
-
-
-
-
-
-                            Language                        
-
-
-
-
-
-                                    English                                
-
-
-
-                                    Español                                
-
-
-
-                                    Deutsch                                
-
-
-
-                                    Français                                
-
-
-
-                                    日本語                                
-
-
-
-                                    Português                                
-
-
-
-                                    한국어                                
-
-
-
-
-
-
-
-
-
-                            FAQ                        
-
-
-
-
-
-
-TM + © 2017 Vimeo, Inc.
-
-
-
-
-
-
-
-(function(window, document){
-
-    // Global values
-    window.vimeo = window.vimeo || {};
-    vimeo.mobile = vimeo.mobile || {};
-    Vimeo = vimeo.mobile || {};
-    Vimeo.desktop_shared = Vimeo.desktop_shared || {};
-
-    // DESKTOP HANDLERS
-
-    var desktop = document.getElementById('topnav_desktop');
-
-    // Prevent touch device to higtlight the area tapped
-    desktop.addEventListener('touchstart', function(e){
-        // Take into consideration avatar img
-        var target = (e.target.tagName.toLowerCase() === 'img') ? e.target.parentNode : e.target;
-
-        if (target.classList.contains('topnav_has_dropdown')) {
-            e.preventDefault();
-            e.stopPropagation();
-        }
-    }, false);
-
-    // Add last_page cookie
-    var listen = 'ontouchstart' in window ? 'touchstart' : window.PointerEvent ? 'pointerdown' : window.MSPointerEvent ? 'MSPointerDown' : 'click';
-    desktop.addEventListener(listen, function(e){
-        if (e.target.classList.contains('js-topnav_menu_auth')) {
-            document.cookie = 'last_page=' + encodeURIComponent(window.location.pathname) + ';path=\'/\';max-age=1800;';
-        }
-    }, false);
-
-    // MOBILE HANDLERS
-
-    // Trigger iOS Upload flow
-    Vimeo.desktop_shared._upload = function(e) {
-        // show iTunes only if we are in iOS world
-        if (/iPad|iPhone|iPod/.test(navigator.userAgent)){
-            var deeplink = 'vimeo://app.vimeo.com/upload?ref=mobileweb',
-                fallback = '/upload',
-                webkitHiddenCallback,
-                hitCallback;
-
-            // Callbacks
-            webkitHiddenCallback = function() {
-                // If the user is still here open the url page.
-                if (!document.webkitHidden) {
-                    window.location = fallback;
-                }
-            };
-
-            // Try to open the Vimeo App
-            hitCallback = function() {
-                window.location = deeplink;
-                setTimeout(webkitHiddenCallback, 25);
-            };
-
-            hitCallback();
-
-            return false;
-        }
-
-        window.location = e.href;
-
-    }
-
-    // Switch to desktop site
-    Vimeo.desktop_shared._s2ds = function() {
-        document.cookie='opt_out_mobile=1;expires=Fri, 31 Dec 9999 23:59:59 GMT;domain=' + vimeo.domain;
-        window.location.reload();
-    };
-
-    // Switch to language
-    Vimeo.desktop_shared._s2l = function(sel) {
-        var lang = sel.value,
-            xhr = new XMLHttpRequest();
-
-        xhr.open('POST', '/settings/locale');
-        xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
-        xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
-        xhr.send('locale=' + lang + '&token=' + vimeo.xsrft);
-        xhr.onload = function post() {
-            if (xhr.status === 200) {
-                window.location.reload();
-            }
-        };
-    };
-
-    var mobile_logo = document.querySelector('.js-topnav_mobile_header_logo');
-
-    if (mobile_logo) {
-        mobile_logo.addEventListener('click', function(e) {
-            e.stopPropagation();
-            e.preventDefault();
-
-            var mobile_menu_main = document.querySelector('.js-topnav_mobile_menu_main');
-            mobile_menu_main.style.display = 'block';
-
-            // Close
-            var mobile_header_close = document.querySelector('.js-topnav_mobile_header_close');
-            mobile_header_close.addEventListener('click', function(e) {
-                e.stopPropagation();
-                e.preventDefault();
-                mobile_menu_main.style.display = 'none';
-            });
-
-            // Toggle Settings
-            var mobile_menu_settings = document.querySelector('.js-topnav_mobile_menu_settings');
-
-            var topnav2015_mobile_header_settings = document.querySelector('.js-topnav_mobile_header_settings');
-            topnav2015_mobile_header_settings.addEventListener('click', function(e) {
-                e.stopPropagation();
-                e.preventDefault();
-                mobile_menu_settings.style.display = 'block';
-                mobile_menu_main.style.display = 'none';
-
-
-                var topnav2015_mobile_header_settins_close = document.querySelector('.js-topnav_mobile_header_settins_close');
-                topnav2015_mobile_header_settins_close.addEventListener('click', function(e) {
-                    e.stopPropagation();
-                    e.preventDefault();
-                    mobile_menu_settings.style.display = 'none';
-                    mobile_menu_main.style.display = 'block';
-                });
-            });
-        }, false);
-    };
-
-
-    // USER MESSAGE
-
-    // Show notification if it is the case
-    // We wrap this in a setTimeout since the notifications should
-    // have a lower priority in terms of visual compared to other
-    // items on the page.
-    setTimeout(function(){
-         // DOM Elements
-        var avatar = document.getElementById('topnav_menu_avatar');
-        // If there is no avatar then stop it
-        if (!avatar) {
-            return;
-        }
-
-        var bubble = avatar.querySelector('.topnav_menu_avatar_bubble');
-        var dropdown = avatar.querySelector('#topnav_user_dropdown');
-        //var message = avatar.querySelector('.topnav_user_menu_message');
-        //var close = avatar.querySelector('.topnav_user_menu_message_close');
-        var on_hover = false;
-
-        // If there is no bubble then stop it
-        if (bubble) {
-            bubble.classList.add('on');
-        }
-
-        // And we attach hide the bubble
-        avatar.addEventListener('mouseover', function() {
-            if (on_hover) return;
-
-            on_hover = true;
-
-            if (bubble) {
-                bubble.classList.remove('on');
-            }
-
-            // Save removed state [1 means the user open the dropdown]
-            store_user_message_settings(1);
-
-        }, false);
-
-        // Store status of user nav message (bubble closed [1], message hidden [2])
-        function store_user_message_settings(value) {
-            var xhr = new XMLHttpRequest();
-
-            xhr.open('POST', '/settings/nav');
-            xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
-            xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
-            xhr.send('message_state=' + value + '&token=' + vimeo.xsrft);
-
-            // Nothing to handle. We hope for the best in this case
-            xhr.onload = function () {};
-        };
-
-    }, 1000);
-})(window, document);
-
-
-
-
-
-
-
-
-
-
-
-×
-
-
-
-
-
-
-
-
-
-           Watch in our app       
-
-
-
-
-Open in app
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Vimeo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        About Vimeo                    
-
-
-
-
-
-
-
-                        Vimeo Blog                    
-
-
-
-
-
-
-
-                        Vimeo Guidelines                    
-
-
-
-
-
-
-
-                        Partners                    
-
-
-
-
-
-
-
-                        Developers                    
-
-
-
-
-
-
-
-                        Jobs                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Help
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        Help Center                    
-
-
-
-
-
-
-
-                        Video School                    
-
-
-
-
-
-
-
-                        FAQ                    
-
-
-
-
-
-
-
-                        Forums                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-More
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        On Demand                    
-
-
-
-
-
-
-
-                        Upload                    
-
-
-
-
-
-
-
-                        Site Map                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Upgrade
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        Vimeo Plus                    
-
-
-
-
-
-
-
-                        Vimeo PRO                    
-
-
-
-
-
-
-
-                        Vimeo Business                    
-
-
-
-
-
-
-
-                        Vimeo Live                    
-
-
-
-
-
-
-
-                        Vimeo OTT                    
-
-
-
-
-
-
-
-                        Refer a friend                    
-
-
-
-
-
-
-
-
-
-
-
-
-Did you know?
-
-
-Our panel for Adobe Premiere Pro uploads to Vimeo and 
-simplifies your workflow.
-
-
-
-
-
-
-
-
-
-
-
-
-TM + © 2017 Vimeo, Inc. All rights reserved.
-
-
-
-
-
-
-
-
-
-                    Terms                
-
-
-
-
-
-
-
-                    Privacy                
-
-
-
-
-
-
-
-                    Copyright                
-
-
-
-
-
-
-
-                    Cookies                
-
-
-
-
-
-
-
-            Made with 
- in NYC.        
-
-
-
-
-
-
-
-            Language:
-            
+\n\n\t
+\n
+\n<!--//--><![CDATA[//><!--\nwindow.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\\x3C/script>")\n//--><!]]>\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n<!--//--><![CDATA[//><!--\n(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-67381822-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");\n//--><!]]>\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n<!--//--><![CDATA[//><!--\njQuery.extend(Drupal.settings, {"basePath":"\\/","pathPrefix":"","ajaxPageState":{"theme":"specialone","theme_token":"5GObh23qc3ETY8SiBPN66-8yyEpd1YXwwur4fRVAOjE","js":{"\\/\\/code.jquery.com\\/jquery-1.10.2.min.js":1,"0":1,"misc\\/jquery.once.js":1,"misc\\/drupal.js":1,"sites\\/all\\/modules\\/mobile_navigation\\/js\\/mobile_menu.js":1,"sites\\/all\\/modules\\/mobile_navigation\\/mobile_navigation.js":1,"sites\\/all\\/modules\\/google_analytics\\/googleanalytics.js":1,"1":1,"sites\\/all\\/modules\\/nivo_slider\\/js\\/nivo_slider.js":1,"sites\\/all\\/libraries\\/nivo-slider\\/jquery.nivo.slider.pack.js":1,"http:\\/\\/maps.google.com\\/maps\\/api\\/js?sensor=false":1,"sites\\/all\\/themes\\/specialone\\/js\\/bootstrap.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.isotope.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.flexslider-min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jflickrfeed.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.fitvids.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.easy-pie-chart.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.eislideshow.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.easing.1.3.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.sequence-min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/app.js":1},"css":{"modules\\/system\\/system.base.css":1,"modules\\/system\\/system.menus.css":1,"modules\\/system\\/system.messages.css":1,"modules\\/system\\/system.theme.css":1,"sites\\/all\\/modules\\/ldap\\/ldap_user\\/ldap_user.css":1,"modules\\/book\\/book.css":1,"sites\\/all\\/modules\\/calendar\\/css\\/calendar_multiday.css":1,"modules\\/comment\\/comment.css":1,"sites\\/all\\/modules\\/date\\/date_api\\/date.css":1,"sites\\/all\\/modules\\/date\\/date_popup\\/themes\\/datepicker.1.7.css":1,"modules\\/field\\/theme\\/field.css":1,"modules\\/node\\/node.css":1,"modules\\/poll\\/poll.css":1,"modules\\/search\\/search.css":1,"modules\\/user\\/user.css":1,"sites\\/all\\/modules\\/workflow\\/workflow_admin_ui\\/workflow_admin_ui.css":1,"sites\\/all\\/modules\\/views\\/css\\/views.css":1,"sites\\/all\\/modules\\/ckeditor\\/css\\/ckeditor.css":1,"sites\\/all\\/modules\\/ctools\\/css\\/ctools.css":1,"sites\\/all\\/modules\\/facebook_pull\\/facebook_pull.css":1,"sites\\/all\\/modules\\/ldap\\/ldap_servers\\/ldap_servers.admin.css":1,"sites\\/all\\/modules\\/panels\\/css\\/panels.css":1,"modules\\/locale\\/locale.css":1,"sites\\/all\\/modules\\/mobile_navigation\\/mobile_navigation.css":1,"sites\\/all\\/libraries\\/nivo-slider\\/themes\\/default\\/default.css":1,"sites\\/all\\/libraries\\/nivo-slider\\/nivo-slider.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/bootstrap.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/style.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/bootstrap-responsive.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/font-awesome.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/flexslider.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/colors\\/custom.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/style-responsive.css":1,"public:\\/\\/css_injector\\/css_injector_2.css":1,"public:\\/\\/css_injector\\/css_injector_3.css":1,"public:\\/\\/css_injector\\/css_injector_10.css":1,"public:\\/\\/css_injector\\/css_injector_11.css":1,"public:\\/\\/css_injector\\/css_injector_13.css":1}},"inEffects":["bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn"],"outEffects":["bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut"],"mobile_navigation":{"breakpoint":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","menuSelector":"#main-menu-links","menuPlugin":"slideMenu","showEffect":"expand_down","showItems":"all","tabHandler":1,"menuWidth":"65","specialClasses":0,"mainPageSelector":"#page","useMask":1,"menuLabel":"Menu","expandActive":0},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"nivo_slider":{"effect":"fade","slices":1,"boxCols":8,"boxRows":4,"animSpeed":200,"pauseTime":10000,"startSlide":1,"directionNav":false,"controlNav":true,"controlNavThumbs":false,"pauseOnHover":true,"manualAdvance":false,"prevText":"Prev","nextText":"Next","randomStart":false},"settings":{"layout_version":"wide","theme_color":"custom","boxed_bColor":"bg-color-grayLight2","use_bPattern":"0","boxed_bPattern":"bg-pattern-wavegrid","header_bColor":"bg-color-grayDark2","header_tColor":"text-color-grayLight1","header_tiColor":"text-color-grayLight2","header_lColor":"text-color-grayLight2","top_content_bColor":"bg-color-grayLight2","top_content_tColor":"text-color-grayDark2","top_content_tiColor":"text-color-grayDark1","top_content_lColor":"text-color-theme","featured_bColor":"bg-color-white","featured_tColor":"text-color-grayDark2","featured_tiColor":"text-color-grayDark1","featured_lColor":"text-color-theme","wide1_bColor":"bg-color-midnightBlue","wide1_tColor":"text-color-white","wide1_tiColor":"text-color-white","wide1_lColor":"text-color-theme","wide1_use_bImg":"0","wide1_bImg":"bg-image-eighteen","wide2_bColor":"bg-color-white","wide2_tColor":"text-color-grayDark2","wide2_tiColor":"text-color-grayDark1","wide2_lColor":"text-color-theme","wide3_bColor":"bg-color-grayLight1","wide3_tColor":"text-color-grayDark2","wide3_tiColor":"text-color-grayDark1","wide3_lColor":"text-color-theme","wide3_use_bImg":"0","wide3_bImg":"bg-image-one","wide4_bColor":"bg-color-white","wide4_tColor":"text-color-grayDark2","wide4_tiColor":"text-color-grayDark1","wide4_lColor":"text-color-theme","before_footer_bColor":"bg-color-theme","before_footer_tColor":"text-color-grayLight2","before_footer_tiColor":"text-color-grayLight1","before_footer_lColor":"text-color-grayLight3","footer_four_bColor":"bg-color-grayDark1","footer_four_tColor":"text-color-grayDark2","footer_four_tiColor":"text-color-grayLight2","footer_four_lColor":"text-color-grayLight2","footer_bColor":"bg-color-grayDark2","footer_tColor":"text-color-grayDark2","footer_tiColor":"text-color-grayLight2","footer_lColor":"text-color-grayLight2","slider_color":"bg-color-belizeHole","slider_use_bImg":"1","slider_bImg":"bg-image-one","google_latitude":"45.497038","google_longitude":"-73.578633","google_zoom":"7","google_title":"Concordia Student Union","google_description":"","flickr_id":"12913238@N03","flickr_limit":"6","base_url":"https:\\/\\/csu.qc.ca"}});\n//--><!]]>\n
+\n\t
+\n\t
+\n
+\n
+\n
+\n
+\n\t
+Fee Levy Groups | Concordia Student Union | csu.qc.ca
+\n\t
+\n\t
+\n@import url("https://csu.qc.ca/modules/system/system.base.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/system/system.menus.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/system/system.messages.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/system/system.theme.css?ok8zbn");\n
+\n
+\n@import url("https://csu.qc.ca/sites/all/modules/ldap/ldap_user/ldap_user.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/book/book.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/calendar/css/calendar_multiday.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/comment/comment.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/date/date_api/date.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/field/theme/field.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/node/node.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/poll/poll.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/search/search.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/user/user.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/workflow/workflow_admin_ui/workflow_admin_ui.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/views/css/views.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/ckeditor/css/ckeditor.css?ok8zbn");\n
+\n
+\n@import url("https://csu.qc.ca/sites/all/modules/ctools/css/ctools.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/facebook_pull/facebook_pull.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/ldap/ldap_servers/ldap_servers.admin.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/panels/css/panels.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/locale/locale.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/mobile_navigation/mobile_navigation.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/libraries/nivo-slider/themes/default/default.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/libraries/nivo-slider/nivo-slider.css?ok8zbn");\n
+\n
+\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/bootstrap.min.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/style.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/bootstrap-responsive.min.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/font-awesome.min.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/flexslider.css?ok8zbn");\n
+\n
+\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/colors/custom.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/style-responsive.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/default/files/css_injector/css_injector_2.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/default/files/css_injector/css_injector_3.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/default/files/css_injector/css_injector_10.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/default/files/css_injector/css_injector_11.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/default/files/css_injector/css_injector_13.css?ok8zbn");\n
+\n\t
+\n\n\n\n\t\t\n
+\n   \n  
+\n\n      
+\n      
+\n        
+\n                  
+\n        
+\n            
+\n    \n
+\n\n      \n  
+\n    
 English
-
-
-
-
-Mature content filter: 
-None
-
-
-
-
-
-
-
-
-
-
-
-        [{"name":"CUPFA","url":"/cupfa","image":"https://i.vimeocdn.com/portrait/16114358_640x640","description":"Concordia University Part Time Faculty Association","potentialAction":{"@type":"ViewAction","target":"vimeo://app.vimeo.com/users/44835383"},"@type":"Person","@context":"http://schema.org"}]    
-
-
-
-    var _gtm = _gtm || [],
-        _initial_gtm_state = {"page_type":"Profile","language":"en","user_status":"logged_out","user_type":"none","ga_universal_id":"UA-76641-8","comscore_site_id":10348289};
-
-    _initial_gtm_state['vuid'] = document.cookie.replace(/(?:(?:^|.*;\s*)vuid\s*\=\s*([^;]*).*$)|^.*$/, "$1");
-    _initial_gtm_state['gtm.start'] = new Date().getTime();
-    _initial_gtm_state['event'] = 'gtm.js';
-    _gtm.push(_initial_gtm_state);
-
-
-
-
-    var __fa = __fa || [];
-    __fa.push(['trackPageview']);
-
-    /**
-     * If the current request was bucketed in an ABLincoln experiment,
-     * send the selected treatment back from the client, to filter ab test
-     * data down to non-robot users that run JavaScript.
-     */
-     if ("ABLincoln" in window) {
-        (function () {
-                                })();
-    }
-
-        var _extend = function(){for(var r=arguments[0],n=1,e=arguments.length;e>n;n++){var t=arguments[n];for(var a in t)t.hasOwnProperty(a)&&(r[a]=t[a])}return r};
-
-        var CSS_DIR = 'https://f.vimeocdn.com/styles/css_opt/',
-        JS_DIR = 'https://f.vimeocdn.com/js_opt/',
-        IMAGE_DIR = 'https://f.vimeocdn.com/images_v6/',
-        SVG_DIR = 'https://f.vimeocdn.com/svg/',
-                BUILD_HASH = '72454';
-
-    
-        var vimeo = _extend((window.vimeo || {}), {"app_version":"v6","domain":"vimeo.com","url":"vimeo.com","cur_user":false,"origin_user_id":null,"is_mobile":false});
-    vimeo.config = _extend((vimeo.config || {}), {"profile":{"initial_state":{"cur_user_is_following":false,"watch_later_clip_ids":[],"hero_preferences":null,"clips":[{"clip_id":243559002,"is_staffpick":false,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/667727704_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/667727704_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/667727704_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/667727704_3120x1756.jpg","alt":"CUPFA"},"uploaded_on":"5 days ago","duration":{"raw":365,"formatted":"06:05"},"quickstats":{"total_comments":{"raw":0,"formatted":"0"},"total_likes":{"raw":0,"formatted":"0"},"total_plays":null},"title":"GenivieveRail","url":"\/243559002","user":{"id":44835383,"name":"CUPFA","url":"\/cupfa","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/16114358_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":243540569,"is_staffpick":false,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/667704468_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/667704468_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/667704468_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/667704468_3120x1756.jpg","alt":"CUPFA"},"uploaded_on":"5 days ago","duration":{"raw":340,"formatted":"05:40"},"quickstats":{"total_comments":{"raw":0,"formatted":"0"},"total_likes":{"raw":0,"formatted":"0"},"total_plays":null},"title":"ColleenGray","url":"\/243540569","user":{"id":44835383,"name":"CUPFA","url":"\/cupfa","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/16114358_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":243539595,"is_staffpick":false,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/667703170_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/667703170_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/667703170_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/667703170_3120x1756.jpg","alt":"CUPFA"},"uploaded_on":"5 days ago","duration":{"raw":331,"formatted":"05:31"},"quickstats":{"total_comments":{"raw":0,"formatted":"0"},"total_likes":{"raw":0,"formatted":"0"},"total_plays":{"raw":1,"formatted":"1"}},"title":"BeatrizBartolome","url":"\/243539595","user":{"id":44835383,"name":"CUPFA","url":"\/cupfa","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/16114358_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":243537661,"is_staffpick":false,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/667701869_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/667701869_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/667701869_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/667701869_3120x1756.jpg","alt":"CUPFA"},"uploaded_on":"5 days ago","duration":{"raw":317,"formatted":"05:17"},"quickstats":{"total_comments":{"raw":0,"formatted":"0"},"total_likes":{"raw":0,"formatted":"0"},"total_plays":null},"title":"AlexAntonopoulos","url":"\/243537661","user":{"id":44835383,"name":"CUPFA","url":"\/cupfa","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/16114358_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":243536621,"is_staffpick":false,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/667699762_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/667699762_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/667699762_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/667699762_3120x1756.jpg","alt":"CUPFA"},"uploaded_on":"5 days ago","duration":{"raw":342,"formatted":"05:42"},"quickstats":{"total_comments":{"raw":0,"formatted":"0"},"total_likes":{"raw":0,"formatted":"0"},"total_plays":null},"title":"LindaKay","url":"\/243536621","user":{"id":44835383,"name":"CUPFA","url":"\/cupfa","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/16114358_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":243451620,"is_staffpick":false,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/667593060_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/667593060_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/667593060_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/667593060_3120x1756.jpg","alt":"CUPFA"},"uploaded_on":"6 days ago","duration":{"raw":362,"formatted":"06:02"},"quickstats":{"total_comments":{"raw":0,"formatted":"0"},"total_likes":{"raw":0,"formatted":"0"},"total_plays":null},"title":"ValerieLamontagne","url":"\/243451620","user":{"id":44835383,"name":"CUPFA","url":"\/cupfa","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/16114358_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":243448755,"is_staffpick":false,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/667589744_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/667589744_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/667589744_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/667589744_3120x1756.jpg","alt":"CUPFA"},"uploaded_on":"6 days ago","duration":{"raw":378,"formatted":"06:18"},"quickstats":{"total_comments":{"raw":0,"formatted":"0"},"total_likes":{"raw":0,"formatted":"0"},"total_plays":null},"title":"AlisonLoader","url":"\/243448755","user":{"id":44835383,"name":"CUPFA","url":"\/cupfa","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/16114358_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":243447067,"is_staffpick":false,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/667587312_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/667587312_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/667587312_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/667587312_3120x1756.jpg","alt":"CUPFA"},"uploaded_on":"6 days ago","duration":{"raw":369,"formatted":"06:09"},"quickstats":{"total_comments":{"raw":0,"formatted":"0"},"total_likes":{"raw":0,"formatted":"0"},"total_plays":null},"title":"KimberleyManning","url":"\/243447067","user":{"id":44835383,"name":"CUPFA","url":"\/cupfa","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/16114358_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":243446200,"is_staffpick":false,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/667586031_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/667586031_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/667586031_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/667586031_3120x1756.jpg","alt":"CUPFA"},"uploaded_on":"6 days ago","duration":{"raw":364,"formatted":"06:04"},"quickstats":{"total_comments":{"raw":0,"formatted":"0"},"total_likes":{"raw":0,"formatted":"0"},"total_plays":null},"title":"DaynaMcLeod","url":"\/243446200","user":{"id":44835383,"name":"CUPFA","url":"\/cupfa","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/16114358_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":243445327,"is_staffpick":false,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/667584902_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/667584902_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/667584902_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/667584902_3120x1756.jpg","alt":"CUPFA"},"uploaded_on":"6 days ago","duration":{"raw":367,"formatted":"06:07"},"quickstats":{"total_comments":{"raw":0,"formatted":"0"},"total_likes":{"raw":0,"formatted":"0"},"total_plays":null},"title":"pk_langshaw","url":"\/243445327","user":{"id":44835383,"name":"CUPFA","url":"\/cupfa","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/16114358_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/16114358_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false}],"clips_meta":{"page":1,"total_pages":2,"has_next":true}},"app_config":{"user":{"id":44835383,"name":"cupfa","display_name":"CUPFA","should_truncate_display_name":false,"url":"\/cupfa","location":"Montreal, QC","skills":[],"bio":{"full":"<p class=\"first\">Concordia University Part Time Faculty Association<\/p>","short":"Concordia University Part Time Faculty Association"},"join_date":{"raw":"2015-10-13 23:58:47","formatted":"2 years"},"account_type":"plus","sm_portrait":"https:\/\/i.vimeocdn.com\/portrait\/16114358_300x300","lg_portrait":"https:\/\/i.vimeocdn.com\/portrait\/16114358_600x600","badge":{"type":"plus","alt_text":"Learn more about Vimeo Plus","url":"\/plus","text":"Plus"},"links":[],"is_staff":false,"block_follow":false,"stats":{"followers":"0","videos":"20","likes":"0"}},"recruiter_clips":null,"cur_user_is_staff":false,"cur_user_can_flag":false,"cur_user_is_self":false,"can_add_skills":false,"collaborators":[],"recaptcha_site_key":"6LeRCLwSAAAAAOJ1ba_xqd3NBOlV5P_XRWJVEPdw","has_clips":true,"has_appearances":false,"has_more_clips":true,"nav_links":[{"path":"\/cupfa\/following","text":"Following","keyword":"following","is_app_link":false},{"path":"\/cupfa\/likes","text":"Likes","keyword":"likes","is_app_link":false},{"path":"\/cupfa\/about","text":"About","keyword":"about","is_app_link":true}],"ad_config":{"network_id":"54549544","unit_name":"users","sizes":[300,250]}}},"coach_notes":{"has_seen_coach_note":false,"id":null,"slides":[{"image_url":"https:\/\/f.vimeocdn.com\/images_v6\/coach-notes\/profile\/scene-1.gif","title":"New: customize the order of your public videos","description":"Pin videos to keep them at the top of your profile, then click and drag to customize their order."}],"data_tip_id":"uu"},"cdn_images":"i.vimeocdn.com","api":{"url":"api.vimeo.com","jwt":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1MTE2NDMwMjYsInVzZXJfaWQiOm51bGwsImFwcF9pZCI6NTMxMTEsInNjb3BlcyI6InB1YmxpYyBwcml2YXRlIGludGVyYWN0In0.-ze25DHL0hhgiBavoL_DV8MpMG4822-kb1oqfoEKcO8","version":"3.2"},"sticky_topnav":{"excluded_pages":["Vimeo\\Controller\\MarketingABTestController:upgrade","Vimeo\\Controller\\MarketingABTestController:business","Vimeo\\Controller\\AboutController:main","Vimeo\\Controller\\AboutController:professionals","Vimeo\\Controller\\AboutController:create","Vimeo\\Controller\\AboutController:everyone","Vimeo\\Controller\\StoreController:main","Vimeo\\Controller\\User\\Settings2Controller:main","Vimeo\\Controller\\User\\Settings2Controller:team_members","Vimeo\\Controller\\User\\Settings2Controller:password","Vimeo\\Controller\\VideoManagerController:main","Vimeo\\Controller\\UserController:main","Vimeo\\Controller\\ClipStatsController:main","Vimeo\\Controller\\Clip\\Settings\\EmbedController:embed","Vimeo\\Controller\\VideoReviewController","Vimeo\\Controller\\MessagesController","Vimeo\\Controller\\StatsController","Vimeo\\Controller\\UploadController","Vimeo\\Controller\\BlogController","Vimeo\\Controller\\OnDemand\\SettingsController","Vimeo\\Controller\\Clip\\SettingsController"],"topnav_wrap_selector":"#topnav_outer_wrap","content_wrap_selector":".wrap_content"},"locale":"en"});
-
-        var localeConfig = {
-        lang: 'en',
-        'Date': {
-            months: ["January","February","March","April","May","June","July","August","September","October","November","December"],
-            months_abbr: ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
-            days: ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
-            days_abbr: ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],
-
-            // Culture's date order: MM/DD/YYYY
-            dateOrder: ['date', 'month', 'year'],
-            shortDate: '%d/%m/%Y',
-            shortTime: '%I:%M%p',
-            AM: 'AM',
-            PM: 'PM',
-            firstDayOfWeek: 0,
-
-            // Date.Extras
-            ordinal: function(dayOfMonth){
-                return dayOfMonth;
-            }
-        },
-        'DatePicker': {
-            select_a_time: "Select a time",
-            use_mouse_wheel: "Use the mouse wheel to quickly change value",
-            time_confirm_button: "OK",
-            apply_range: "Apply",
-            cancel: "Cancel",
-            week: "Wk"        },
-                'Number': {
-            decimal: '.',
-            group: ',',
-            currency: {
-                prefix: '$'
-            }
-        },
-        'FormValidator': {"required":"This field is required.","requiredChk":"This field is required."}    };
-
-    var fullLocale = '';
-
-    
-        var Copy = {translate:function(t,i,u){var e='object'!=typeof this.dict[t]?this.dict[t]:i?this.dict[t].plural:this.dict[t].singular;return'object'==typeof u&&(e=this.substitute(e,u)),e},substitute:function(t,i){return void 0!==t.substitute?t.substitute(i):t.replace(/\\?\{([^{}]+)\}/g,function(t,u){return'\\'==t.charAt(0)?t.slice(1):null!=i[u]?i[u]:''})},dict:{}};
-    Copy.dict = {"did_you_mean_email":"Did you mean <em>{SUGGEST}<\/em>?","email_password_mismatch":"Email and password do not match","just_now":"just now","seconds_ago":{"singular":"{COUNT} second ago","plural":"{COUNT} seconds ago"},"minutes_ago":{"singular":"{COUNT} minute ago","plural":"{COUNT} minutes ago"},"hours_ago":{"singular":"{COUNT} hour ago","plural":"{COUNT} hours ago"},"open_comment_box":"Add new comment instead &raquo;","url_unavailable":"Sorry, this url is unavailable.","unsaved_changes_generic":"You have unsaved changes, are you sure you wish to leave?","add":"Add","remove":"Remove","select":"Select","no_followers_for_letter":"You don&rsquo;t follow anyone that begin with the letter &ldquo;{PAGE_LETTER}&rdquo;","share_limit_reached":"You have reached the maximum number of users to share with.","at_least_one":"There must be at least one user.","available":"Available","unavailable":"Unavailable","browse_error_generic":"Sorry, there was an error","browse_error_no_videos":"Sorry, no videos found","follow":"Follow","following":"Following","unfollow":"Unfollow","unfollowing":"Unfollowing","count_comments":{"singular":"{COUNT} comment","plural":"{COUNT} comments"},"first_comment":"Be the first to comment\u2026","no_comments_for_you":"Forbidden. You cannot post comments on this page.","oops":"Oops!","player_try_again":"That wasn't supposed to happen. Please try again in a few minutes.","duration_input_min_duration":"The duration cannot be less than {MIN_DURATION}.","duration_input_max_duration":"The duration cannot be greater than {MAX_DURATION}.","duration_input_invalid_characters":"0-9 and : are the only acceptable inputs.","close":"Close","expand":"Expand","loading":"Loading...","top":"top","advanced_search":"Advanced Search","no_suggestions":"No suggestions","recent_searches":"Recent Searches","search_all":"Search All of Vimeo","email_and_password":"Please enter your email and password","email_address":"Please enter a valid email address","name_email_and_password":"Please enter your name, email, and password","Add a short bio to introduce yourself":"Add a short bio to introduce yourself","Add links":"Add links","Add your location":"Add your location","Advertisement":"Advertisement","Albums":"Albums","Back":"Back","Be cool and play nice.":"Be cool and play nice.","Cancel":"Cancel","Channels":"Channels","Choose a video to play at the top of your page":"Choose a video to play at the top of your page","Choose which part of the video to loop ":"Choose which part of the video to loop ","Click and drag to reposition the video ":"Click and drag to reposition the video ","Collaborators":"Collaborators","Cover video":"Cover video","Edit info":"Edit info","Edit videos":"Edit videos","Edit":"Edit","Experience":"Experience","Groups":"Groups","Joined {DURATION} ago":"Joined {DURATION} ago","Load more":"Load more","Message":"Message","MessagesComposeNoContacts":"You must be following at least one Vimeo member before you can send a private message. To get started, find a friend, family member, or someone with cool videos and click the \"Follow\" button on their profile page.","More":"More","Navigate to:":"Navigate to:","Next":"Next","No results for \u201c{TERM}\u201d":"No results for \u201c{TERM}\u201d","On Demand":"On Demand","Pin videos to your profile, then drag and drop to sort them.":"Pin videos to your profile, then drag and drop to sort them.","Pin":"Pin","Please fill out the form completely.":"Please fill out the form completely.","Please verify your account":"Please verify your account","Portfolios":"Portfolios","Profile settings":"Profile settings","Profile videos":"Profile videos","Read more":"Read more","Report account":"Report account","Save":"Save","Selection not long enough":"Selection not long enough","Send a Message":"Send a Message","Send Message":"Send Message","Share your skills, roles, and other creative qualifications.":"Share your skills, roles, and other creative qualifications.","Sorry, vertical videos won\u2019t work here.":"Sorry, vertical videos won\u2019t work here.","Tell the world more about who you are, what you like to make, and what things you\u2019re interested in working on next.":"Tell the world more about who you are, what you like to make, and what things you\u2019re interested in working on next.","The Vimeo Staff {BADGE}Staff{\/BADGE} is unable to respond to help requests via private messages. Instead please use the {LINK}Help Center{\/LINK} to find answers to your questions and contact the Staff.":"The Vimeo Staff {BADGE}Staff{\/BADGE} is unable to respond to help requests via private messages. Instead please use the {LINK}Help Center{\/LINK} to find answers to your questions and contact the Staff.","This person hasn\u2019t updated their profile yet.":"This person hasn\u2019t updated their profile yet.","This video is hidden because someone credited you in it. Pinning this video will make it appear on your profile.":"This video is hidden because someone credited you in it. Pinning this video will make it appear on your profile.","To pin more than 10 of your videos, upgrade to Vimeo Plus, PRO, or Business.":"To pin more than 10 of your videos, upgrade to Vimeo Plus, PRO, or Business.","Unpin":"Unpin","Upgrade to pin more":"Upgrade to pin more","Upgrade":"Upgrade","Upload your videos to showcase them here, or share them with the world. {LINK}Get started.{\/LINK}":"Upload your videos to showcase them here, or share them with the world. {LINK}Get started.{\/LINK}","You don\u2019t have any videos yet. To add a cover video {LINK}upload one now{\/LINK}.":"You don\u2019t have any videos yet. To add a cover video {LINK}upload one now{\/LINK}.","You haven\u2019t uploaded any videos yet.":"You haven\u2019t uploaded any videos yet.","You need to verify your email address before following other members on Vimeo. {LINK}Need help?{\/LINK}":"You need to verify your email address before following other members on Vimeo. {LINK}Need help?{\/LINK}","Your message has been sent":"Your message has been sent","{COUNT} Followers":{"singular":"{COUNT} Follower","plural":"{COUNT} Followers"},"{COUNT} Likes":{"singular":"{COUNT} Like","plural":"{COUNT} Likes"},"{COUNT} Videos":{"singular":"{COUNT} Video","plural":"{COUNT} Videos"},"{DISPLAY_NAME} hasn\u2019t uploaded any videos yet.":"{DISPLAY_NAME} hasn\u2019t uploaded any videos yet."};
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        function onVimeoDomReady(e) {
-            
-            
-                    }
-
-                    $(document).ready(onVimeoDomReady);
-            
-
-
-
-
-
->
+\n
+Fran\xe7ais
+\n
+  
+\n
+  
+\n        
+\n      
+\n    
+\n     \n  
+\n   \n\t
+\n    
+\n  \n    
+\n  \n  \t  
+\n  \t\t          \t
+\n          \t  
+\n  \n  \t
+\n  \n  \t
+\n  \n  \t  
+\n  \t\t  
+\n  \t\t\t  
+\n  \t\t\t\t  
+\n  \t\t\t\t\t  
+Menu
+\n  \n  \t\t\t\t\t  
+\n  \t\t\t\t\t    
+About Us
+Our Mission
+Council of Representatives
+Executive Team
+Judicial Board
+Funding and Fees
+Directory
+University Bodies
+Senate
+Board of Governors
+Jobs @ CSU
+Services
+Advocacy Centre
+Legal Information Clinic
+Housing and Job Bank (HOJO)
+Classifieds
+Health and Dental Plan
+Hive Loyola Free Lunch
+Emergency Food Vouchers
+Bookings
+General Booking Terms and Conditions
+CSU Mezzanine Information Tables Terms and Usage Policies
+CSU Live Newsletter
+Projects
+Reggie's Bar Renovations
+Daycare Service
+Hive Caf\xe9 Solidarity Co-op
+Cooperative Student Housing
+Cooperative Housing Committee
+Cooperative Housing Focus Group
+Concordia Student Congress
+Survey
+Campaigns
+Campaigns
+Unpaid Internships
+Climate Justice & Divestment
+Anti-Consumerism
+Past Campaigns
+#BringBissanHome
+Austerity
+International Tuition Hike
+Tribunals
+Student Life
+Fee Levy Groups
+Student Groups & Associations
+Bursaries at the CSU
+Sustainability
+Food Systems Reform
+Sustainability Resources on Campus
+Food System Special Project Funding Policy
+Clubs
+Active Clubs
+Starting a New Club
+How to Manage your Club
+Resources
+Apply for Funding
+Apply for Funding
+Special Project Funding
+CSU Special Clubs Funding
+CSU Community Action Fund
+Food Systems Special Project Funding
+CSU Committee Funding
+Other Sources of Funding
+  \t\t\t\t\t  
+\n  \t\t\t\t  
+\n  \t\t\t  
+\n  \t\t  
+\n  \t  
+\n  \n  \t
+\n  \n    
+\n  
+\n  \n  
+\n\n  
+\n  \t\t\n\t\t
+\n      
+\n        \n        
+\n        \n        
+\n          
+Home
+\u203a
+Student Life
+                  
+\n        
+\n\n      
+\n    
+\n\t\n\t
+\n\t  \n  
+\n\n  
+\n   \n      
+\n      
+\n        
+\n            
+\n    \n
+\n\n      \n  
+\n      
+\n
+  
+\n        
+\n      
+\n    
+\n     \n  
+\n\t\n\t
+\n  \n  \n  
+\n\t\n\t
+\n  \n    \n  
+\n\t\n\t
+\n  \n  
+\n  \n    
+\n      
+\n\n                  
+Fee Levy Groups
+\n                \n        
+\n\t\t    \t\t      \n\t\t    
+\n\t\t    \t\t      \t\t    \n      
+\n    
+\n    \n    
+\n  \n      
+\n  \n        \n      
+\n\t   \n      
+\n      \n      
+\n         \n        
+\n        
+\n  \n      
+\n      \n            \n            \n      
+\n        
+\n          
+\n\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t
+\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t
+Quebec Public Interest Research Group (QPIRG) Concordia
+QPIRG Concordia is a resource centre for student and community research and organizing . It strives to raise awareness and support grassroots activism around diverse social and environmental issues, with work that is rooted in an anti-oppression analysis and practice . A lot of what QPIRG does happens through the 28 working groups it supports . These groups are incredibly diverse, and range from advocacy, to support, to event organizing . QPIRG also provides a resource library, computers, space, workshops, and tons more logistical support and help, both to students and to the wider-Montreal community . To get a better grasp of everything that this expansive and important organization does, check out their website or drop on by their space!
+Address: 
+1500 de Maisonneuve West (Suite 204)
+Email:
+\xa0
+info@qpirgconcordia.org
+Phone:\xa0
+514-848-2424 ext 7935
+Website:
+\xa0
+http://www.qpirgconcordia.org
+\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t
+Center for Gender Advocacy
+The Centre for Gender Advocacy is an independent, student-funded, organization, mandated to promote gender equality and empowerment particularly as it relates to marginalized communities. Their activities fall into two broad categories: Services and Resources offered to the Concordia and Montreal communities (including free and confidential peer support, free safer-sex supplies, and trans health resources), as well as Campaigns and Programming (such as advocating for reproductive health services and trans rights, and organizing a wide range of events!). The Centre works to promote gender self-determination, bodily sovereignty, and self-love. To find out more, get in touch!
+Address:\xa0
+2110 Mackay Street
+Email:
+\xa0
+info@genderadvocacy.org
+Phone:\xa0
+514 848-2424 ext 7431
+Website:
+\xa0
+http://www.genderadvocacy.org
+\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t
+Concordia Community Solidarity Co-Operative Bookstore
+The Co-op Bookstore is a long-time Concordia mainstay, and an incredible resource for students on campus and members of the wider-Montreal community . The Co-op was initially conceived and developed by the CSU in 2001 . Since that time, it has grown into a full-fledged and totally independent bookstore on campus that provides invaluable services to Concordia\u2019s students and faculty . Through a non-profit co-operative model, that is directly controlled by its users, worker and support members, the Bookstore is able to provide low prices and professional services to all who visit it . They also provide a large selection of used textbooks and coursepacks, as well as a consignment service, so students can resell their old books each semester, and keep the profits!
+Address:\xa0
+2150 Bishop Street
+Email:
+\xa0
+coopbookstore@gmail.com
+Phone:\xa0
+514 848-2046
+Website:
+\xa0
+http://www.co-opbookstore.ca
+\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t
+Art Matters
+Now celebrating its 15th year, Art Matters is a student-run festival that showcases the diversity of Concordia University\u2019s artistic community . The festival promotes emerging talent and provides students with professional experiences by working alongside cultural institutions, galleries and artist-run centres in Montreal and beyond . The Art Matters festival has exhibited work produced by Concordia undergraduate students in the fields of dance, video, music, design, creative writing, theatre and the visual arts . Taking place annually in mid-March, Art Matters features two weeks of exhibitions curated by Concordia students in venues throughout the city and hosts an opening party with live performances, artist talks, vernissages, an open-house weekend and more!
+Address:\xa0
+SGW VA-038
+Email:
+\xa0
+info@artmattersfestival.org
+Phone:\xa0
+514 848-2424 ext 5011
+Website:
+\xa0
+http://www.artmattersfestival.org
+\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t
+Cinema Politica
+Cinema Politica is a Montreal-based non-profit network of community and campus locals that screen independent political film and video by Canadian and international artists . Concordia\u2019s local is Cinema Politica\u2019s largest and longest-running one, and since 2003 it attracts between 300 and 700 people to their weekly screenings . Each semester they screen powerful independent documentaries and connect Concordia students to artists, activists and the Montreal community . To see their schedule for this year, please visit their website or just show up in H-110 for 7pm on nearly every Monday during the school year!
+Address:\xa0
+SGW H-733-1
+Email:
+\xa0
+concordia@cinemapolitica.org
+Website:\xa0
+http://www.cinemapolitica.org/concordia
+\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t
+CJLO
+Formed in 1998, CJLO is Concordia University\u2019s one and only radio station . 100% non-profit, and run almost entirely by volunteers, the station is located in the heart of the Loyola campus in the NDG borough of Montreal . With over 80 DJs working the airwaves, CJLO is able to broadcast original programming 7 days a week, covering the whole gamut of musical styles and genres . Whether you are interested in Rock, Alt, Hip-Hop, RPM, Punk, Metal, Jazz, Blues, World, Country or Talk and Sports, CJLO has something for you, and is always looking for more on-air talent . You can listen from anywhere online, and around Montreal straight on the real-life radio .
+Address:\xa0
+LOY CC-430
+Email:
+\xa0
+office@cjlo.com
+Phone:\xa0
+514 848-8663
+Website:
+\xa0
+http://www.cjlo.com
+\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t
+Queer Concordia
+Queer Concordia is an on campus resource centre for queer, lesbian, gay, trans, two-spirited, bisexual, asexual, intersex, questioning, and allies . It is based on a belief in the diversity of communities and supporting saf- er sex practices . Acknowledging the complexities of oppression, Queer Concordia is committed to breaking down the barriers of all forms of oppression, through the creation of community and safer spaces . Ad- ditionally, Queer Concordia has safer-sex products available FOR FREE at all times (condoms, dental dams, lube, nitrile and latex gloves) . They also have an extensive library of queer literature, so feel free to come hang out at the office and read a book!
+Address:\xa0
+2020 Mackay Street (Suite P-102)
+Email:
+\xa0
+queerconcordia@gmail.com
+Website:
+\xa0
+http://www.queerconcordia.com
+\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t
+CUTV
+CUTV is a Campus/Community TV and video production studio that provides an essential service to those in the Concordia and Montreal communities . CUTV\u2019s dedicated team of volunteers and staff produce and diffuse original content, online, that is an integral part of the Concordia and Montreal communities . From live-streaming events to producing original content of all varieties, Concordia couldn\u2019t be what it is today without CUTV here supporting it . Above and beyond that, it also serves as an important community resource, providing space, equipment and know-how to let passionate individuals and groups produce content that accurately represents them and their interests.
+Address:\xa0
+SGW V-403
+Email:
+\xa0
+info@cutvmontreal.com
+Phone:\xa0
+514 848-2424 ext 7403
+Website:
+\xa0
+http://www.cutvmontreal.com/
+\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t
+Concordia Food Coalition
+Concordia Food Coalition (CFC) is a group concerned about the economic, ecological, and social implications of the food system at Concordia University . At the CFC, we bring together students, faculty and staff to promote and facilitate a transition to a more sustainable food system in collaboration with organizations at Concordia and beyond . Our aim is to foster a community-centered food system that will begin at Concordia University, but that will be built with expansion in mind . Please contact us to get involved in the food movement happening at Concordia!
+Address:\xa0
+2090 Mackay Street (Suite Z-304)
+Email:
+\xa0
+concordiafoodcoalition@gmail.com
+Website:
+\xa0
+http://www.concordiafoodcoalition.com
+\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t
+Concordia Greenhouse
+Located in a rooftop greenhouse at the top of the Hall building, downtown (take the stairs from the 12th floor!), the Greenhouse is a badly-needed oasis of sun, warmth, plants, and the intoxicating smell of life going about its business . It provides a gorgeous atrium for students to relax, work, and socialize, as well as multiple rooms housing projects ranging from a Tea Garden, to a full scale Aquaponics system . Their annual seedling sale is a mainstay of Montreal\u2019s urban farmers, and goes a long way towards promoting local food production right here among our own student body! The Greenhouse also runs an annual City Farm School, which offers participants an intensive 8 month internship and workshops in Urban Farming in Montreal . Drop in anytime to learn, to relax, to get involved, or just to see how beautiful Montreal is from inside a greenhouse 13 stories off the ground . The City Farm School project is founded with the same principles and goals of the Concordia Greenhouse, to facilitate education through an experience-based model . The primary goal of this project is to respond to a growing interest in issues around food sovereignty, beekeeping, and the practice of urban agriculture as well as to provide an opportunity for students and community to collaborate . See our website for ways to get involved!
+Address:\xa0
+SGW Hall Building (13th Floor - Take the stairs from the 12th Floor)
+Email:
+\xa0
+concordiagreenhouse@gmail.com
+Phone:\xa0
+514 848-2424 ext 5134
+Website:
+\xa0
+http://www.concordiagreenhouseproject.wordpress.com
+\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t
+Frigo Vert
+Choices for your groceries are pretty limited downtown, and food options around SGW tend to range from burgers to subs . The Frigo-Vert is a beacon of sweet organic goodness amidst the otherwise bland corporate domination of the downtown core . Founded on a Cooperative business model, the Frigo strives to offer high-quality organic food to students and the whole Montreal community at prices that are accessible to all . Beyond good food at good prices, the Frigo also strives to advance core principles of social justice, by opposing systemic forms of violence that undermine local communities and their food security . Drop in anytime for bulk food, fresh snacks, cheap coffee, and the comfortable lounge in the back .
+Address:\xa0
+2130 Mackay Street
+Email:
+\xa0
+yesfrigo@gmail.com
+Phone:\xa0
+514 848-7586
+Website:
+\xa0
+http://www.lefrigovert.com
+\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t
+People's Potato
+Concordia couldn\u2019t be Concordia without the People\u2019s Potato, an absolute pillar of the Concordia Community . Offering a delicious and healthy vegan meal every day, Monday to Friday from 12:30 to 2pm, for the entirety of the Fall and Winter semesters, the Potato serves as a hub of the downtown campus, serving more than 400 meals a day . They also provide other fundamental services to the community, such as food banks for students in need . It is difficult to overstate the importance of the People\u2019s Potato to Concordia, and to the wider Montreal community . Drop by any day of the week for one of the best meals on campus, bring your own tupperware to get fed faster, and consider stopping in early or staying around after you eat to volunteer and help the Potato keep doing what it does: supporting our community with good food . Want to volunteer? check out: peoplespotato.com/volunteering
+Address: 
+SGW H-735
+Email:
+\xa0
+peoplespotato@gmail.com
+Phone:\xa0
+514 848-2424 ext 7590
+Website:
+\xa0
+http://www.peoplespotato.com
+\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t
+Sustainable Concordia
+We at Sustainable Concordia believe that universities have a crucial role to play in developing an ecologically-aware, socially-just, and economically-responsible society . Our mission is based on the understanding that problem-solving is most fruitful and effective when students, staff, and faculty work together, using a multistakeholder approach . Sustainable Concordia is a nexus that engages our community to work together in non-hierarchical, consensus based decision-making processes to address issues surrounding climate justice, waste-reduction, and the promotion of sustainable transportation . Come visit us for resources, information, tools, and support for initiating your own project that promotes a more sustainable university!
+Address:\xa0
+2090 Mackay Street (Suite Z-204.1)
+Email:
+\xa0
+suscon.office@gmail.com
+Phone:\xa0
+514 848-2424 ext 5829
+Website:
+\xa0
+http://www.sustainableconcordia.ca
+\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t
+Sustainability Action Fund
+SAF was founded in 2007 to help fund projects that contribute towards making Concordia University one of the most sustainable campuses in Canada . Since its inception, it has awarded over $400,000 to help do that, funding projects as diverse as banning bottled water on campus, sustaining the Greenhouse through its formative years, supporting a shift in Concordia\u2019s food system, and supporting sustainable business initiatives . SAF is at the heart of incredibly diverse efforts that all come together on a single point: helping to make Concordia sustainable, in the hopes that our local effects can reverberate across the province, country, and world .
+Address:\xa0
+2090 Mackay Street (Suite Z-303)
+Email:
+\xa0
+safconcordia@gmail.com
+Phone: 
+514 848-2424 ext 5138
+Website:
+\xa0
+http://www.safconcordia.ca
+\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t
+The Link Newspaper
+The Link is an independent, student-run, not-for-profit newspaper at Concordia University . It aims to publish stories not usually covered by mainstream media, with a focus on advocacy journalism . Contributors cover stories about student life, as well as local, national, and international issues of interest to the Concordia and Montreal communities . You can find a free copy of The Link in almost all campus buildings . The Link is printed weekly, with new issues coming out on Tuesdays! For live-tweets and updates on major events and campus news, check them out on Twitter.
+Address: 
+SGW H-649
+Email:
+\xa0
+business@thelinknewspaper.ca
+Phone:\xa0
+514 848-2424 ext 7406
+Website:
+\xa0
+http://www.thelinknewspaper.ca
+\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t
+L'Organe
+L\u2019Organe offre aux \xe9tudiant-e-s de l\u2019Universit\xe9 Concordia et \xe0 l'ensemble de la population montr\xe9alaise un contenu alternatif et innovateur en fran\xe7ais. Le magazine se veut organique: d\xe9pendant des int\xe9r\xeats des \xe9tudiant-e-s qui publient en ses pages, il \xe9volue avec la communaut\xe9 francophone/francophile de Concordia.
+Email:
+redaction.lorgane@gmail.com
+Website:
+\xa0
+http://www.lorgane.ca
+\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t
+The Concordian
+One of Concordia\u2019s two student run newspapers, The Concordian provides coverage of campus events, student politics, local news, sports, music, life, arts, and opinion pieces . Pick up a free copy in nearly any building on either campus, printed on Tuesdays . You can also follow them on Twitter for live-tweeting of major events and campus going-ons .
+Address: 
+H 733-4 & LOY CC-431
+Email:
+\xa0
+business@theconcordian.com
+Phone: 
+514 848-2424 ext 7499
+Website:
+\xa0
+http://www.theconcordian.com
+\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t
+CEED Concordia (Community, Empowerment, Education, Development)
+CEED Concordia (Community, Empowerment, Education, Development) is an international internship program dedicated to social justice and community empowerment. Every summer, CEED brings students to northern Uganda to work on unique youth-development internships and research alongside Ugandan university students for 3 months.\xa0The program is open to Concordia students (both undergrad and graduate), faculty and alumni. Students can earn up to six academic credits through the pre-departure course and the CEED internship program in Uganda. The course, Orientation to International Community Engagement, is offered during the winter semester and is open to all Concordia undergraduate students.\xa0Take your learning outside the classroom and join one of the most accessible and impactful programs of its kind, anywhere.\xa0Visit their website or their office, or call for more information.
+Address:\xa0
+2110 Mackay Street (V-210)
+Email:
+\xa0
+ info@ceedconcordia.org
+Phone:\xa0
+514 848-2424 ext 7876
+Website:
+\xa0
+http://www.ceedconcordia.org
+\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t
+Concordia Model UN (CONMUN)
+CONMUN represents Concordia at national and global MUN Conferences where they attempt to develop solutions to world problems.
+Email:
+\xa0
+conmunel@gmail.com
+Website:
+\xa0
+https://www.facebook.com/CONMUN
+\n
+        
+\n      
+\n      \n          \n    
+\n  \n
+\n          \n        
+\n              
+\n      \n      
+\n    \n      
+\n      \n            \n      
+\n\n    
+\n  
+\n\n\t
+\n\t\n\t
+\n\t\n\t\t\n\t
+\n\t\n  
+\n  \n    \n  
+\n  \n  
+\n  \n    \n  
+\n  \n  
+\n  \n    \n  
+\n\t\n  
+\n\t\n  \t  
+\n\t    
+\n\t      
+\n\t\t        
+\n    \n
+\n\n      \n  
+\n    
+\n
+\n
+\n
+\n
+\u200b  
+\n
+  
+\n\t\t    
+\n\t    
+\n\t  
+\n\t\t\n\t
+\n\t   \n  
+\n\t \n\t\t  
+\n\t  \n\t    
+\n\n\t      \t\t      
+\n\t\t          
+\n    \n
+\n\n        
+Quick Links
+\n    \n  
+\n    
+Login
+\n
+Resources
+\n
+Jobs
+\n
+  
+\n
+  
+\n\t\t      
+\n\t      \t      \n\t\t            \n\t\t    \t      \n\t      \t\t      
+\n\t\t          
+\n    \n
+\n\n        
+Contact Information
+\n    \n  
+\n    
+Downtown:\xa01455 de Maisonneuve Blvd West,\xa0H-711\xa0Montr\xe9al, QC H3G 1M8
+\n\t
+Loyola:\xa07141 Sherbrooke Street West, CC-426\xa0Montr\xe9al,\xa0QC\xa0H4B 1R6
+\n\t
+Phone -\xa0514 848-7474 | Fax: 514 848-7450
+\n\t
+Email -\xa0
+contactus@csu.qc.ca
+\n
+  
+\n
+  
+\n\t\t      
+\n\t      \t      \n\t    
+\n\t\n\t  
+\n\t\t\n\t
+\n\t\t\n\t
+\n\t\t\n\t
+\n\t\t\n      
+\n      \n                  
+\n              
+\n    \n
+\n\n      \n  
+\n    
+Concordia Student Union | Copyright 2016\xa0|\xa0All Rights Reserved
+\n  
+\n
+  
+\n          
+\n                  \n          \n      
+\n\n\t
+\n\t\n\t
+\n  \n  
+\n    
+\n\n
+\n\n
+\n\t  
+\n
+\n<!--//--><![CDATA[//><!--\nwindow.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\\x3C/script>")\n//--><!]]>\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n<!--//--><![CDATA[//><!--\n(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-67381822-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");\n//--><!]]>\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n<!--//--><![CDATA[//><!--\njQuery.extend(Drupal.settings, {"basePath":"\\/","pathPrefix":"","ajaxPageState":{"theme":"specialone","theme_token":"5GObh23qc3ETY8SiBPN66-8yyEpd1YXwwur4fRVAOjE","js":{"\\/\\/code.jquery.com\\/jquery-1.10.2.min.js":1,"0":1,"misc\\/jquery.once.js":1,"misc\\/drupal.js":1,"sites\\/all\\/modules\\/mobile_navigation\\/js\\/mobile_menu.js":1,"sites\\/all\\/modules\\/mobile_navigation\\/mobile_navigation.js":1,"sites\\/all\\/modules\\/google_analytics\\/googleanalytics.js":1,"1":1,"sites\\/all\\/modules\\/nivo_slider\\/js\\/nivo_slider.js":1,"sites\\/all\\/libraries\\/nivo-slider\\/jquery.nivo.slider.pack.js":1,"http:\\/\\/maps.google.com\\/maps\\/api\\/js?sensor=false":1,"sites\\/all\\/themes\\/specialone\\/js\\/bootstrap.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.isotope.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.flexslider-min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jflickrfeed.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.fitvids.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.easy-pie-chart.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.eislideshow.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.easing.1.3.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.sequence-min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/app.js":1},"css":{"modules\\/system\\/system.base.css":1,"modules\\/system\\/system.menus.css":1,"modules\\/system\\/system.messages.css":1,"modules\\/system\\/system.theme.css":1,"sites\\/all\\/modules\\/ldap\\/ldap_user\\/ldap_user.css":1,"modules\\/book\\/book.css":1,"sites\\/all\\/modules\\/calendar\\/css\\/calendar_multiday.css":1,"modules\\/comment\\/comment.css":1,"sites\\/all\\/modules\\/date\\/date_api\\/date.css":1,"sites\\/all\\/modules\\/date\\/date_popup\\/themes\\/datepicker.1.7.css":1,"modules\\/field\\/theme\\/field.css":1,"modules\\/node\\/node.css":1,"modules\\/poll\\/poll.css":1,"modules\\/search\\/search.css":1,"modules\\/user\\/user.css":1,"sites\\/all\\/modules\\/workflow\\/workflow_admin_ui\\/workflow_admin_ui.css":1,"sites\\/all\\/modules\\/views\\/css\\/views.css":1,"sites\\/all\\/modules\\/ckeditor\\/css\\/ckeditor.css":1,"sites\\/all\\/modules\\/ctools\\/css\\/ctools.css":1,"sites\\/all\\/modules\\/facebook_pull\\/facebook_pull.css":1,"sites\\/all\\/modules\\/ldap\\/ldap_servers\\/ldap_servers.admin.css":1,"sites\\/all\\/modules\\/panels\\/css\\/panels.css":1,"modules\\/locale\\/locale.css":1,"sites\\/all\\/modules\\/mobile_navigation\\/mobile_navigation.css":1,"sites\\/all\\/libraries\\/nivo-slider\\/themes\\/default\\/default.css":1,"sites\\/all\\/libraries\\/nivo-slider\\/nivo-slider.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/bootstrap.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/style.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/bootstrap-responsive.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/font-awesome.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/flexslider.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/colors\\/custom.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/style-responsive.css":1,"public:\\/\\/css_injector\\/css_injector_2.css":1,"public:\\/\\/css_injector\\/css_injector_3.css":1,"public:\\/\\/css_injector\\/css_injector_10.css":1,"public:\\/\\/css_injector\\/css_injector_11.css":1,"public:\\/\\/css_injector\\/css_injector_13.css":1}},"inEffects":["bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn"],"outEffects":["bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut"],"mobile_navigation":{"breakpoint":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","menuSelector":"#main-menu-links","menuPlugin":"slideMenu","showEffect":"expand_down","showItems":"all","tabHandler":1,"menuWidth":"65","specialClasses":0,"mainPageSelector":"#page","useMask":1,"menuLabel":"Menu","expandActive":0},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"nivo_slider":{"effect":"fade","slices":1,"boxCols":8,"boxRows":4,"animSpeed":200,"pauseTime":10000,"startSlide":1,"directionNav":false,"controlNav":true,"controlNavThumbs":false,"pauseOnHover":true,"manualAdvance":false,"prevText":"Prev","nextText":"Next","randomStart":false},"settings":{"layout_version":"wide","theme_color":"custom","boxed_bColor":"bg-color-grayLight2","use_bPattern":"0","boxed_bPattern":"bg-pattern-wavegrid","header_bColor":"bg-color-grayDark2","header_tColor":"text-color-grayLight1","header_tiColor":"text-color-grayLight2","header_lColor":"text-color-grayLight2","top_content_bColor":"bg-color-grayLight2","top_content_tColor":"text-color-grayDark2","top_content_tiColor":"text-color-grayDark1","top_content_lColor":"text-color-theme","featured_bColor":"bg-color-white","featured_tColor":"text-color-grayDark2","featured_tiColor":"text-color-grayDark1","featured_lColor":"text-color-theme","wide1_bColor":"bg-color-midnightBlue","wide1_tColor":"text-color-white","wide1_tiColor":"text-color-white","wide1_lColor":"text-color-theme","wide1_use_bImg":"0","wide1_bImg":"bg-image-eighteen","wide2_bColor":"bg-color-white","wide2_tColor":"text-color-grayDark2","wide2_tiColor":"text-color-grayDark1","wide2_lColor":"text-color-theme","wide3_bColor":"bg-color-grayLight1","wide3_tColor":"text-color-grayDark2","wide3_tiColor":"text-color-grayDark1","wide3_lColor":"text-color-theme","wide3_use_bImg":"0","wide3_bImg":"bg-image-one","wide4_bColor":"bg-color-white","wide4_tColor":"text-color-grayDark2","wide4_tiColor":"text-color-grayDark1","wide4_lColor":"text-color-theme","before_footer_bColor":"bg-color-theme","before_footer_tColor":"text-color-grayLight2","before_footer_tiColor":"text-color-grayLight1","before_footer_lColor":"text-color-grayLight3","footer_four_bColor":"bg-color-grayDark1","footer_four_tColor":"text-color-grayDark2","footer_four_tiColor":"text-color-grayLight2","footer_four_lColor":"text-color-grayLight2","footer_bColor":"bg-color-grayDark2","footer_tColor":"text-color-grayDark2","footer_tiColor":"text-color-grayLight2","footer_lColor":"text-color-grayLight2","slider_color":"bg-color-belizeHole","slider_use_bImg":"1","slider_bImg":"bg-image-one","google_latitude":"45.497038","google_longitude":"-73.578633","google_zoom":"7","google_title":"Concordia Student Union","google_description":"","flickr_id":"12913238@N03","flickr_limit":"6","base_url":"https:\\/\\/csu.qc.ca"}});\n//--><!]]>\n
+\n\n\n\n>

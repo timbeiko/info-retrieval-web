@@ -1,731 +1,989 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Forms - Concordia University Faculty Association
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Search:
-
-
-
-
-
-
-
-
- 
-Login:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Concordia University Faculty Association
-
-
-
-
+\n\n    
+\n    
+\n    
+\n    
+\n    
+\n    
+Student life
+\n    \n        
+\n    \n\t\n
+\n
+\n
+\n
+\n
+\n
+\n\n    
+\n    
+\n    
+\n
+\n
+\n
+\n
+\n
+\n\n\n\n\n    
+\n
+\n
+\n\n    \n    
+\n
+\n\n    
+\n\n\n    
+\n\n    
+\n\n    
+\n\n\n    
+\n\n    
+\n\t\n\t\n\t\n\t\t    
+\n\t\t        var _gaq = _gaq || [];\n\t\t\t\t_gaq.push(['_setAccount', 'UA-2729211-1']);\n\t\t\t\t_gaq.push(['_trackPageview']);\n\n\t\t\t\t(function() {\n\t\t\t\t\tvar ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n\t\t\t\t\tga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n\t\t\t\t\tvar s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n\t\t\t\t})();\t\t\t\t\n\t\t    
+\n\n    \n\n\n\n    \n\t\t
+\n\t\t
+&lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-57BSZT"\n\t\theight="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;
+\n\t\t
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n\t\tnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\n\t\tj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n\t\t'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n\t\t})(window,document,'script','dataLayer','GTM-57BSZT');
+\n\t\t
+\n    \n    
+\n        \n\n\n\n
+\n    
+Concordia University
+\n    
+http://www.concordia.ca/content/concordia/en/finearts/dance/student-life.html
+\n
+\n\n
+\n    
+\n
+\n\n
+\n\n\n    \n\n\n
+\n\n\n\n\n
+\n    
+\n        \n        
+\n        \n    
+\n\n    
+\n        
+\n        
+\n
+Study resources
+\n                    \t
+Calendar - Graduate
+\n                    \t
+Calendar - Undergraduate
+\n                    \t
+Class schedules
+\n                    \t
+Class cancellations
+\n                    \t
+Course registration
+\n                    \t
+Important academic dates
+\n                    \t
+More academic resources
+Campus services
+\n                    \t
+Concordia Stores
+\n                    \t
+IT services
+\n                    \t
+Job opportunities
+\n                    \t
+Security
+\n                    \t
+Shuttle bus
+\n                    \t
+Student Service Centre (Birks)
+\n                    \t
+All campus services
+What's new
+\n                    \t
+Calendar of events
+\n                    \t
+Latest news
+\n                    \t
+Media Relations
+Faculties, Schools & Colleges
+\n                    \t
+Arts and Science
+\n                    \t
+Engineering and Computer Science
+\n                    \t
+Fine Arts
+\n                    \t
+John Molson School of Business
+\n                    \t
+School of Graduate Studies
+\n                    \t
+All Schools, Colleges & Departments
+\t\t\n        
+\n    
+\n
+\n\n\n\n
+\n\t
+\n\t
+\n        
+Quick links \xa0
+\n        
+\n            
+\n                
+Webmail
+\n                
+Library
+\n                
+Cspace
+\n            
+\n\n        \t
+\n
+Study resources
+ \xa0
+\n\t\t            \t
+Calendar - Graduate
+\n\t\t            \t
+Calendar - Undergraduate
+\n\t\t            \t
+Class schedules
+\n\t\t            \t
+Class cancellations
+\n\t\t            \t
+Course registration
+\n\t\t            \t
+Important academic dates
+\n\t\t            \t
+More academic resources
+Campus services
+ \xa0
+\n\t\t            \t
+Concordia Stores
+\n\t\t            \t
+IT services
+\n\t\t            \t
+Job opportunities
+\n\t\t            \t
+Security
+\n\t\t            \t
+Shuttle bus
+\n\t\t            \t
+Student Service Centre (Birks)
+\n\t\t            \t
+All campus services
+What's new
+ \xa0
+\n\t\t            \t
+Calendar of events
+\n\t\t            \t
+Latest news
+\n\t\t            \t
+Media Relations
+Faculties, Schools & Colleges
+ \xa0
+\n\t\t            \t
+Arts and Science
+\n\t\t            \t
+Engineering and Computer Science
+\n\t\t            \t
+Fine Arts
+\n\t\t            \t
+John Molson School of Business
+\n\t\t            \t
+School of Graduate Studies
+\n\t\t            \t
+All Schools, Colleges & Departments
+\t\n    \t\t
+\n        
+\n    
+\n
+\n\n\n
+\n    
+\n        
+Quick links 
+\n        
+The Campaign for Concordia
+\n\n        
+\n        \t\n            \t
+MyConcordia
+\n                
+Cspace
+\n                
+Webmail
+\n                
+Library
+\n            \t
+Directories
+\n                
+A-Z
+\n                
+Maps
+\n        \t\n    \t
+\n\t
+\n
+\n\n\n
+\n    
+\n\n        
+\n            \n\n
+\n    
+Concordia University
+\n
+\n\n            
+\n                
+\n                
+\n\n                \n                            
+\n                
+\n                
+\n            
+\n\n            
+\n                \n\n\n
+\n    
+Concordia University
+\n
+\n    
+\n        
+\n    
+\n            
+\n\n            \n        
+\n    
+\n\n    \n        
+\n            \n\n\n
+\n        
+\n            
+\n                
+Department of Contemporary Dance
+\n            
+\n        
+\n
+\n        
+\n\n    \n\n    \n\n\n\n\n\n    \n\n    \n\n\n
+\n    
+\n        
+\n\n            
+\n                    
+\n            \n                            
+\n                                    
+About the department
+\n                                    
+\n                                    
+\n\n                                            
+\n                                                
+\n                                                        
+\n                                                            
+\n                                                                Faculty members\n                                                            
+\n                                                        
+\n                                                        
+\n                                                            
+\n                                                                Performances\n                                                            
+\n                                                        
+\n                                                        
+\n                                                            
+\n                                                                Job opportunities\n                                                            
+\n                                                        
+\n                                                
+\n                                            
+\n                                    
+\n                            
+\n            \n                            
+\n                                    
+Programs
+\n                                    
+\n                                    
+\n\n                                            
+\n                                                
+\n                                                        
+\n                                                            
+\n                                                                Major in Contemporary Dance\n                                                            
+\n                                                        
+\n                                                
+\n                                            
+\n                                    
+\n                            
+\n            \n                            
+\n                                    
+Research & creation
+\n                                    
+\n                                    
+\n\n                                            
+\n                                                
+\n                                                        
+\n                                                            
+\n                                                                Michael Montanaro\n                                                            
+\n                                                        
+\n                                                        
+\n                                                            
+\n                                                                Silvy Panet-Raymond\n                                                            
+\n                                                        
+\n                                                
+\n                                            
+\n                                    
+\n                            
+\n            \n                            
+                             \n                                    
+Facilities
+\n                            
+\n            \n                            
+                             \n                                    
+Student life
+\n                            
+\n                    
+\n\n                    
+\n                    \n\n\n                
+\n                    
+The Campaign for Concordia
+\n                
+\n                    
+\n\n\n\n\n
+\n    
+\n        \n        
+\n        \n    
+\n\n    
+\n        
+\n        
+\n
+Study resources
+\n                    \t
+Calendar - Graduate
+\n                    \t
+Calendar - Undergraduate
+\n                    \t
+Class schedules
+\n                    \t
+Class cancellations
+\n                    \t
+Course registration
+\n                    \t
+Important academic dates
+\n                    \t
+More academic resources
+Campus services
+\n                    \t
+Concordia Stores
+\n                    \t
+IT services
+\n                    \t
+Job opportunities
+\n                    \t
+Security
+\n                    \t
+Shuttle bus
+\n                    \t
+Student Service Centre (Birks)
+\n                    \t
+All campus services
+What's new
+\n                    \t
+Calendar of events
+\n                    \t
+Latest news
+\n                    \t
+Media Relations
+Faculties, Schools & Colleges
+\n                    \t
+Arts and Science
+\n                    \t
+Engineering and Computer Science
+\n                    \t
+Fine Arts
+\n                    \t
+John Molson School of Business
+\n                    \t
+School of Graduate Studies
+\n                    \t
+All Schools, Colleges & Departments
+\t\t\n        
+\n    
+\n
+\n\n\n\n
+\n\t
+\n\t
+\n        
+Quick links \xa0
+\n        
+\n            
+\n                
+Webmail
+\n                
+Library
+\n                
+Cspace
+\n            
+\n\n        \t
+\n
+Study resources
+ \xa0
+\n\t\t            \t
+Calendar - Graduate
+\n\t\t            \t
+Calendar - Undergraduate
+\n\t\t            \t
+Class schedules
+\n\t\t            \t
+Class cancellations
+\n\t\t            \t
+Course registration
+\n\t\t            \t
+Important academic dates
+\n\t\t            \t
+More academic resources
+Campus services
+ \xa0
+\n\t\t            \t
+Concordia Stores
+\n\t\t            \t
+IT services
+\n\t\t            \t
+Job opportunities
+\n\t\t            \t
+Security
+\n\t\t            \t
+Shuttle bus
+\n\t\t            \t
+Student Service Centre (Birks)
+\n\t\t            \t
+All campus services
+What's new
+ \xa0
+\n\t\t            \t
+Calendar of events
+\n\t\t            \t
+Latest news
+\n\t\t            \t
+Media Relations
+Faculties, Schools & Colleges
+ \xa0
+\n\t\t            \t
+Arts and Science
+\n\t\t            \t
+Engineering and Computer Science
+\n\t\t            \t
+Fine Arts
+\n\t\t            \t
+John Molson School of Business
+\n\t\t            \t
+School of Graduate Studies
+\n\t\t            \t
+All Schools, Colleges & Departments
+\t\n    \t\t
+\n        
+\n    
+\n
+\n\n            
+\n        
+\n    
+\n
+\n\n
+\n    $(document).ready(function() {\n        var $dropdowns = $('.nav li.dropdown');\n        var delay = 300;\n    \n        $dropdowns\n            .on('mouseover', function() {\n                if ($(".header-btn").css("display") == "none") { // Only fire this when not on mobile\n\n                    // Make sure the autocomplete is not showing\n                    $(".ui-autocomplete").css("display","none");\n    \n                    var $this = $(this);\n                    $this.siblings('.open').removeClass('open');\n    \n                    if ($this.prop('hoverTimeout')) {\n                        $this.prop('hoverTimeout', clearTimeout($this.prop('hoverTimeout')));\n                    }\n        \n                    $this.prop('hoverIntent', setTimeout(function() {\n                        $this.addClass('open');\n                    }, 0));\n                }\n            })\n            .on('mouseleave', function() {\n                if ($(".header-btn").css("display") == "none") { // Only fire this when not on mobile\n                    var $this = $(this);\n                    $this.siblings('.open').removeClass('open');\n        \n                    if ($this.prop('hoverIntent')) {\n                        $this.prop('hoverIntent', clearTimeout($this.prop('hoverIntent')));\n                    }\n        \n                    // If the dropdown doesn't have any children, set delay to 0\n                    delay = ($this.find('.dropdown-toggle').length != 0) ? 300 : 0;\n        \n                    $this.prop('hoverTimeout', setTimeout(function() {\n                        $this.removeClass('open');\n                    }, delay));\n                }\n            })\n            .on('click', '.open-btn', function() {\n                $this = $(this);\n                $dropdown = $this.closest('.dropdown');\n                $icon = $this.find('span');\n    \n                $(this).closest('.dropdown').find('.dropdown-menu').slideToggle();\n                $dropdown.toggleClass('open');\n    \n                $icon.toggleClass('concordia-arrow-white-down-icon');\n                $icon.toggleClass('concordia-arrow-white-up-icon');\n            });\n\n\n        // On mobile, make sure search is not showing when menu is opened\n        $(".concordia-hamburger-icon").on("click", function() {\n            if ($("#site-search").hasClass("in")) {\n                $("#site-search").collapse("hide");\n            }\n        });\n    \n        // On mobile, make sure navigation is not showing when search is opened\n        $(".concordia-search-icon.visible-phone").on("click", function() {\n            if ($(".nav-collapse").hasClass("in")) {\n                $(".nav-collapse").collapse("hide");\n            }\n        });\n    });\n
+\n\n    
+\n\n\n\n\n    \t\t\n\n\n\n\n
+\n
+\n
+\n\n\n
+\n    
+ \n        
+\n        
+\n        
+\n\n        
+\n            
+\n                
+\n                    
+\n                    
+\n                        
+\n                    
+\n                    Concordia\n                
+\n                
+\n                    
+ \n                    
+\n                        
+\n                    
+\n                    Directories\n                
+\n            
+\n        
+\n    \n        
+        \n            
+\n                
+\n                
+\n            
+\n            
+Search
+\n        
+\n    
+\n
+\n\n\n    
+\n        \n\n\n
+\n    
+Concordia University
+\n
+\n    
+\n        
+\n    
+\n            \n\n\n
+\n        
+\n            
+\n                
+Department of Contemporary Dance
+\n            
+\n        
+\n
+\n    
+\n\n    \n        
+\n            \n\n\n
+\n
+\n\t        
+\n                \n                
+\n                    \n                    Concordia.ca\n                    \n                
+\n                \n\t        
+\n\t        \xa0/\xa0\n\t        
+\n                \n                
+\n                    \n                    Faculty of Fine Arts\n                    \n                
+\n                \n\t        
+\n\t        \xa0/\xa0\n\t        
+\n                \n                
+\n                    \n                    Department of Contemporary Dance\n                    \n                
+\n                \n\t        
+\n\t        \xa0/\xa0\n\t        
+\n                \n                    Student life\n                    \n                \n                \n\t        
+\n\t        \n
+\n\n        
+\n   \t\n
+\n        \n\n
+\n    
+\n\t\t
+\n\t\t\t
+\n\n\n\n\n\n\n
+\n\n\n\n\n        
+\n            
+\n                
+\n                    
+\n                    \t
+Facebook
+\n                    
+\n                
+\n                
+\n                    
+\n                    \t
 Twitter
-
-
-<!--
-				var a='cufa';
-				var b='concordia.ca';
-				var fullEmailLink= '<li class="e'+'ma'+'il-icon"><a href="m'+'a'+'ilt'+'o:'+a+'@'+b+'">Em'+'ail CUFA</a></li>';
-				$("#header-main .networking-icons").prepend(fullEmailLink);
-				-->
-
-
-
-
-About
-
-
-
-
-Executive
-
-
-Staff
-
-
-Committees
-
-
-Council Members
-
-
-From the President
-
-
-Frequently Asked Questions
-
-
-
-
-
-
-Resources
-
-
-
-
-Constitution
-
-
-Forms
-
-
-CUFA Reports
-
-
-Other Links
-
-
-
-
-
-
-Collective Agreements
-
-
-
-
-Collective Agreement for 2015 – 2018
-
-
-Collective Agreement for 2012 – 2015
-
-
-2007-2012 Agreement
-
-
-2002-2007 Agreement
-
-
-
-
-
-
-Member Area
-
-
-
-
-Edit Your Account
-
-
-Meeting Minutes
-
-
-Suggestion Box
-
-
-Member Fora
-
-
-Member Classifieds
-
-
-Opinion Polls
-
-
-Newsletter Archive
-
-
-Financial Statements
-
-
-CAUT Documents
-
-
-FQPPU Documents
-
-
-Investment policy (updated February 2016)
-
-
-Bixi
-
-
-
-
-
-
-News
-
-
-Events
-
-
-
-
-Upcoming Events
-
-
-Past Events
-
-
-
-
-
-
-Career
-
-
-
-
-Retirement
-
-
-
-
-
-
-Elections
-
-
-
-
-Nomination forms 2017-2019
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Forms
-
-
-
-
-
-
-MEMBERSHIP APPLICATION FORM
-
-
-DEMANDE D’ADHÉSION
-
-
-Tuition waiver – form for CREDIT-courses – English
-
-
-Tuition waiver – form for CREDIT-courses – Français
-
-
-Tuition waiver – form for NON – Credit-courses – English
-
-
-Tuition waiver – form for NON – Credit-courses – Français
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CUFA Member Suggestion Box
-
-
-Have a suggestion about negotiations or something else? 
-			
-Please share your input with us!
-
-
-
-
- 
-November 2017
-
-
-Previous Month
-
-
-Next Month
-
-
-
-
-S
-M
-T
-W
-T
-F
-S
-
-
-
-
-1
-2
-3
-4
-5
- 
-
-
-
-
-
-
-CUFA Council Meeting
-
-
-9:30am - 11:25am / S-MB 9A
-
-
-
-
-
-
-
-				6
-7
-8
-9
- 
-
-
-
-
-
-
-Senate
-
-
-2:00pm - 5:00pm / EV-2.260
-
-
-
-
-
-
-
-				10
-11
-12
- 
-
-
-
-
-
-
-CUFA Executive Meeting
-
-
-12:00pm - 2:00pm / SGW TBD
-
-
-
-
-
-
-
-				13
-14
-15
-16
-17
-18
-19
-20
-21
-22
- 
-
-
-
-
-
-
-CUFA 5 à 7 – November 23, 2017
-
-
-5:00pm - 7:00pm / JMSB Building, 9th Floor Rooms C and D
-
-
-
-
-
-
-
-				23
-24
-25
-26
- 
-
-
-
-
-
-
-CUFA Executive Meeting
-
-
-10:00am - 12:00pm / L-HB109
-
-
-
-
-
-
-
-				27
-28
-29
-30
- 
-
-
-
-
- 
-
-	jQuery(document).ready(function($){
-		$('#calendar-container').on('click', '.cal-nav', function(e) {
-			e.preventDefault();
-			$('#calendar-container').animate({opacity: 0.75}, 300);
-			$.ajax({
-				type : "post",
-				url : "http://cufa.net/wp-admin/admin-ajax.php",
-				data : { action: 'load_mini_calendar', month: $(this).data('month'), year: $(this).data('year') },
-				success: function(response) {
-					$("#calendar-container").html(response).animate({opacity: 1.0}, 200);
-				}
-			});
-		});
-		$('#calendar-container').on({
-			mouseenter: function () {
-				$(this).children('.event-details').show();
-			},
-			mouseleave: function () {
-			    $(this).children('.event-details').hide();
-			}
-		 }, '.an-event .day');
-	});
-	
-
-
-
-
-On Twitter
-
-
-
-
-CUFA/APUC
-@cufa_apuc
-
-
-https://t.co/6nardwZ6Pq
-
-
-Sunday, November 5
-
-
-
-
-CUFA/APUC
-@cufa_apuc
-
-
-In a Volatile Climate on Campus, Professors Teach on Tenterhooks 
-https://t.co/l0q7JJLHst
-
-
-Sunday, November 5
-
-
-
-
-CUFA/APUC
-@cufa_apuc
-
-
-https://t.co/syt4neq01z
-
-
-Wednesday, October 18
-
-
-
-
-
-
-
-
-Latest News
-
-
-
-
-
-
-Support for Professor Louise Briand, faculty representative on the UQO Board of Governors
-Read the letter of support from the FQPPU
-
-
-
-
-
-
-U Can’t Talk to Ur Professor Like This – The New York Times
-Read the full story
-
-
-
-
-
-
-March for Science – April 22 12:00 pm
-View details about the March
- 
-Canadian Messaging – March for Science
-
-
-
-
-
-
-Conferences are intellectual lifelines – but as a single parent I often miss out
-Read the full story
-
-
-
-
-
-
-New study suggests female professors outperform men in terms of service
-Read the full story
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contact Information
-
-
-
-
-General Inquiries
-
-Chantal Bohbot: 514-848-2424 x3999 | 
-<!--
-var a='c.bohbot';
-var b='concordia.ca';
-var fullLink= '<a href="m'+'a'+'ilt'+'o:'+a+'@'+b+'">'+a+'@'+b+'</a>';
-document.write(fullLink);
--->
-
-
-Inquiries about the Collective Agreement
-
-Genevieve Robichaud: 514-848-2424 x3984 | 
-<!--
-var a='genevieve.robichaud';
-var b='concordia.ca';
-var fullLink= '<a href="m'+'a'+'ilt'+'o:'+a+'@'+b+'">'+a+'@'+b+'</a>';
-document.write(fullLink);
--->
-
-
-View the Staff Directory »
-
-
-
-
-
-
-Mailing Address:
-
-Hingston Hall
-
-7141 Sherbrooke Street West
-
-Montreal, H4B 1R6
-
-
-Fax:
- (514) 848-3997
-
-
-
-
-
-
-
-
-
-                    Copyright © 2007-2014 Concordia University Faculty Association.               
-
-
-
-
-Contact the website developer »
-
-
-
-
-
-
-
-
-
-
-
-    jQuery(document).ready(function($) {
-        $(window).load(function() {
-            $('#news.flexslider').flexslider({
-                animation: "fade",
-                animationDuration: 800,
-                slideshowSpeed: 10000,
-                controlNav: false,
-                directionNav: true
-            });
-        });
-    });
-
-
-
-
-
->
+\n                    
+\n                
+\n                
+\n                    
+\n                        
+LinkedIn
+\n                    
+\n                
+\n                
+\n                    
+\n                        
+GooglePlus
+\n                    
+\n                
+\n            
+   \n        
+\n\n\n        
+\n            jQuery(document).ready(function() {\n                "use strict";\n                $ =  jQuery;\n\n                var decal = $('.c-socialbar-cta:not(.horizontal)').parent().width();\n                $('.c-socialbar-cta:not(.horizontal)').css({'margin-left':decal+5});\n                $('.c-socialbar-cta:not(.horizontal)').fadeIn();\n\n\n                $(window).scroll(function() {\n                    socialbar.scroll();\n                });\n            });\n\n            var socialbar = (function(jQuery) {\n                var timeOutId = 0;\n                var jitterBuffer = 20;\n\n                return {\n                    scroll:function() {\n                        var offset = $('.c-socialbar-cta:not(.horizontal)').parent().offset();\n                        var top = offset.top -150;\n\n                        if ($(window).scrollTop() > top) {\n                            $('.c-socialbar-cta:not(.horizontal)').addClass('fixed');\n                        }\n                        else {\n                            $('.c-socialbar-cta:not(.horizontal)').removeClass('fixed');\n                        }\n                    }\n                };\n            })();\n        
+\n\n\t        
+\n\n\n\n
+\n    \n    \t
+Student life
+\n\t\n\n    \n    \t
+Contemporary Dance students are a part of tightly-knit community. Connect to a student association, 
+apply for project funding
+, and plug into the diverse activities 
+happening in Montreal
+ and 
+across the country
+.
+\n
+\n\t\n
+\n
+\n\n\n
+\n    
+\n
+\n
+\n\n\n\n\n\n
+Course schedules
+\n\n
+\n
+\n\n\n\n\n\n
+Program guides
+\n\n
+\n
+\n\n\n\n\n\n
+Who Teaches What [PDF]
+\n\n
+\n
+\n\n\n
+\n    
+\n
+\n
+\n    \n    \n
+\n    (function() {\n        var imageDiv = document.getElementById("cq\\u002Dimage\\u002Djsp\\u002D\\/content\\/concordia\\/en\\/finearts\\/dance\\/student\\u002Dlife\\/jcr:content\\/content\\u002Dmain\\/image");\n        var imageEvars = '{ imageLink: "", imageAsset: "/content/dam/finearts/dance/images/20140904-Campus-Life-032-600x400.jpg", imageTitle: "Student life" }';\n        var tagNodes = imageDiv.getElementsByTagName('A');\n        for (var i = 0; i < tagNodes.length; i++) {\n            var link = tagNodes.item(i); \n            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "foundation/components/image"})');\n        }\n        \n    })();\n
+\n\n
+\n
+\n
+\n
+Class registration
+\n
+Need help with class registration? 
+Visit Student Academic Services
+ to learn more about registration procedures for newly admitted and returning students.
+\n
+\n\n
+\n
+\n
+\n
+Student advising
+\n
+For academic advice on your Major in dance or related questions, please contact 
+Silvy Panet-Raymond
+.
+\n\n
+\n
+\n
+\n
+Important dates
+\n
+Find important dates
+, including the university deadlines, holiday closures, and exams.
+\n\n
+\n
+\n\n\n
+\n    
+\n
+\n
+\n
+\n
+Student resources
+\n\n
+\n
+\n\n\n\n\n\n
+Financial aid
+\n\n
+\n
+\n\n\n\n\n\n
+Forms and student requests
+\n\n
+\n
+\n\n\n\n\n\n
+\xc9tudiants francophones
+\n\n
+\n
+\n\n\n\n\n\n
+International study opportunities
+\n\n
+\n
+\n\n\n
+\n    
+\n
+\n
+\n
+\n
+Dance Student Association
+\n\xa0
+\n\n
+\n
+\n\n
+\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+President:
+Robert Gusdal
+Treasurer:
+Jimmy Chung
+Secretary:
+Alexis Gingras
+First Year Representative:\xa0
+Hannah Hollingham
+Second Year Representative:
+Olivia Jaen Flores
+Third Year Representative:
+Magalie Casaubon\xa0
+Fourth Year Representative:
+Jade Tinio
+Workshops:\xa0
+Mark Durand, Magali Casaubon, Mohammadreza Akrami
+Events committee\xa0
+Amber Downie-Back, Olivia Jaen Flores, Candice Riera
+Group ticket\xa0\xa0
+Melissa McCracken, V\xe9ronique Morin, Xdunum Danae Trejo
+\n
+\n\n
+Amber Downie-Back, Olivia Jaen Flores, Candice Riera
+\n
+\n
+\n\n
+Amber Downie-Back, Olivia Jaen Flores, Candice Riera
+\n
+\n
+\n\n
+Amber Downie-Back, Olivia Jaen Flores, Candice Riera
+\n
+\n\n
+\n
+\n
+\n
+Useful links
+\n \xa0
+\n\n
+\n
+\n
+\n
+\n
+Regroupement qu\xe9becois de la danse
+\xa0(Qu\xe9bec Danse)
+\n
+\n
+Art\xe8re: renseignements utiles pour la rel\xe8ve artistique
+\xa0
+\n
+The Dance Current
+\n
+The Dance Centre
+\n
+Canada Council for the Arts
+\xa0\xa0\xa0\xa0
+\n
+\n
+English Language Arts Network
+\n
+Conseil des arts et des lettres du Qu\xe9bec
+\n
+\n
+Conseil des arts de Montr\xe9al
+\n
+Surviving Dance
+ \xa0
+\n
+\n\n
+\n
+\n\n
+\n\n        
+\n    
+\n
+\n        \n\n\n\n
+\n\n\n\n    
+\n        
+Back to top
+\n        
+\n    
+\n\n\n\n\n
+\xa9 Concordia University
+\n\n
+\n    
+\n        
+\n            
+Concordia University
+ - Call us at 514-848-2424
+\n            
+\n                
+        \n\t\t            
+\n\t\t\t            
+\n                            \n                                
+\n
+\n
+\n
+About the department
+\n
+Programs
+\n
+Research & creation
+\n
+Facilities
+\n
+Student life
+\n
+News & events
+\n 
+Contact us
+\n\n
+\n
+\n
+\n
+\n\n\t\t\t            
+\n\n\t\t\t            
+\n                            \n\t\t\t                \t
+\n
+\n
+\n
+\n\n                            \n\t\t\t            
+\n\t\t            
+\n                
+\t\n\t            
+\n                    \n                        
+\n
+\n
+\n
+Department of Contemporary Dance
+\n\n
+\n
+\n
+\n
+Civic address:
+\n
+\n
+1550 De Maisonneuve Blvd. West
+\n GM 500-01
+\n Montreal
+, 
+Quebec
+, 
+Canada
+\n
+H3G 1M8
+\n
+\n
+See SGW Campus map
+\n
+\n
+Mailing address:
+\n
+\n
+1455 De Maisonneuve Blvd. West
+\n
+Montreal
+, 
+Quebec
+, 
+Canada
+\n
+H3G 1M8
+\n
+\n
+\n
+\n\n
+\n
+\n
+\n
+\n\n                    \n\t            
+\n\t        
+\n        
+\n    
+\n\t
+       \n        
+    \n\t        
+\n\t            
+\n\t                
+\n\n\n
+\n    \n            
+\n            \n                            
+facebook
+\n                            \n                            
+twitter
+\n                            \n                            
+google
+\n                            \n                            
+youtube
+\n                            \n                            
+linkedin
+\n                            \n                            
+pinterest
+\n                            \n                            
+instagram
+\n                            \n                            
+flickr
+\n                            \n            
+ \n\n    
+\n        \n            
+Concordia social
+\n        \n    
+\n
+\n \n\t            
+\n\n\t\t\t\t
+\n                    
+\n                        
+\xa9 Concordia University
+ \n                        
+Terms
+\n                        
+Privacy
+\n                        
+Accessibility
+\n\n    \t\t\t\t\t\n                        \t
+Website feedback
+\n                        \n                    
+\n                
+\n\t       
+\n\t    
+\n\t
+\n\n    \n\n\t\n
+\n\n
+\n    
+\n        
+Share this page
+\n        
+\n            
+\n                
+\n            
+\n        
+\n        
+\n            
+\n                
+\n            
+\n        
+\n        
+\n            
+\n                
+\n            
+\n        
+\n        
+\n            
+\n                
+\n            
+\n        
+\n        
+\n    
+\n\n    
+\n        
+\n            
+\n            
+Concordia.ca
+\n        
+\n        
+\n            
+Call us at
+\n            
+514-848-2424
+\n        
+\n        
+\n    
+\n\n    
+\n
+\n
+Sir George Williams Campus
+\n
+1455 De Maisonneuve Blvd. W.
+\n
+Montreal
+, 
+Quebec
+, 
+Canada
+\n
+H3G 1M8
+\n
+\n
+See SGW Campus map 
+\n
+\n
+Loyola Campus
+\n
+7141 Sherbrooke Street W.
+\n
+Montreal
+, 
+Quebec
+, 
+Canada
+\n
+H4B 1R6
+\n
+\n
+See Loyola Campus map 
+\n
+\n
+\n
+\n\n\n    
+\n    \t\n\t\t\t
+Website feedback
+\n        \n\n        
+\n            
+Terms
+\n            
+Privacy
+\n            
+Accessibility
+\n            
+\n        
+\n    
+\n\n    
+\xa9 Concordia University
+\n
+        \n    
+\n\n>

@@ -1,0 +1,89 @@
+\n\n    
+\n    
+\n    
+\n    
+\n    
+Post a Tweet on Twitter
+\n    
+\n\n    
+\n    
+\n      &lt;style type="text/css"&gt;\n        html { display: block; }\n      &lt;/style&gt;\n    
+\n  \n  \n  \n  \n\n    
+\n      
+\n        
+\n          
+Twitter
+\n        
+\n\n        
+\n          
+Sign up
+\n        
+\n      
+\n    
+\n\n    
+\n      
+\n      What\u2019s happening?\n
+\n\n
+\n  
+\n      
+\n\n      
+\n    
+\n\n    
+Tweet Text
+\n  
+\n\n\n  
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n     
+\n  
+Log in to Twitter
+\n  
+\n    
+\n      Phone, email or username\n    
+\n    
+\n  
+\n  
+\n    
+Password
+\n    
+\n  
+\n  
+\n    
+\n    
+Remember me
+\n    \xb7\n    
+Forgot password?
+\n  
+\n    
+\n    
+\n
+\n\n    
+\n      
+\n    
+\n  
+\n
+\n\n    
+\n\n        
+\n  
+\n    
+\n      New to Twitter?\n      
+Sign up
+\n    
+\n    
+\n      Get instant updates from your friends, industry experts, favorite celebrities, and what's happening around the world.\n    
+\n    
+What is Twitter? Learn more
+.
+\n  
+\n
+\n\n\n    
+\n      var twttr = twttr || {};\n      twttr.form_authenticity_token = 'bbc04c5415806d21923c072d0bcd6d32bb59aa60';\n      if (self == top) {\n        document.documentElement.style.display = 'block';\n      }\n    
+\n\n    
+\n\n    
+\n\n  var twttr = twttr || {};\n  twttr.tco = {\n    length: 23\n  };\n\n  using('tfw/intents/tweetbox', 'imports/jquery', function(Tweetbox, $) {\n    $('#status').each(function() {\n      new Tweetbox(this, 0, 0);\n    });\n  });\n\n
+\n\n    
+\n  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");\n  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));\n\n  try {\n    var pageTracker = _gat._getTracker("UA-30775-6");\n    pageTracker._setDomainName("twitter.com");\n    \n    pageTracker._setVar('Not Logged In');\n    pageTracker._setVar('lang: en');\n    pageTracker._initData();\n    pageTracker._trackPageview();\n  } catch(err) { }\n
+\n\n  \n\n>

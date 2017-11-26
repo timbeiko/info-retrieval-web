@@ -1,0 +1,5226 @@
+\n
+\n    
+\n    
+R\xe9pertoires
+\n\n    
+\n    
+\n    \n    
+\n    
+\n\n    \n    \n    \n
+\n
+\n
+\n
+\n
+\n
+\n\n\n    
+\n\n
+\n
+\n
+\n
+\n
+\n
+\n\n
+\n
+\n    \n    
+\n\n\n
+\n
+\n
+try{Typekit.load();}catch(e){}
+\n\n    
+\n\tvar _comscore = _comscore || [];\n\t_comscore.push({ c1: "2", c2: "6035744", c3: "", c4: "" });\n\n\t(function() {\n\t\tvar s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;\n\t\ts.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";\n\t\tel.parentNode.insertBefore(s, el);\n\t})();\n
+\n    \n
+\n    (function (i, s, o, g, r, a, m) {\n        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {\n            (i[r].q = i[r].q || []).push(arguments)\n        }, i[r].l = 1 * new Date(); a = s.createElement(o),\n        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)\n    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');\n    ga('create', 'UA-48304425-1', 'auto');\n    ga('send', 'pageview');\n
+\n    \n    \n    
+\n    
+\n        {\n        "@context": "http://schema.org",\n        "@type": "WebSite",\n        "name": "La Fabrique culturelle",\n        "alternateName": "La culture a une nouvelle adresse",\n        "url": "http://www.lafabriqueculturelle.tv/"\n        }\n    
+\n    
+\n        {\n        "@context": "http://schema.org",\n        "@type": "Organization",\n        "url": "http://www.lafabriqueculturelle.tv/",\n        "logo": "http://www.lafabriqueculturelle.tv/content/images/logo_w240_h135.jpg"\n        }\n    
+\n    
+\n    
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\n        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n        })(window,document,'script','dataLayer','GTM-TW5S3XJ');
+\n    
+\n\n    \n    
+\n    
+&lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW5S3XJ"\n                      height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;
+\n    
+\n\n    \n\n\n
+\n    
+\n        
+La Fabrique Culturelle
+\n        
+\n            
+\n                
+La Fabrique culturelle
+\n                
+R\xe9pertoires
+\n                
+\n                    
+Th\xe8mes
+\n                    
+\n                        
+\n                                
+Arts\xa0visuels\xa0&\xa0num\xe9riques
+\n                                
+Cin\xe9ma
+\n                                
+Court\xa0m\xe9trage
+\n                                
+Danse
+\n                                
+Design
+\n                                
+Litt\xe9rature
+\n                                
+Multi
+\n                                
+Musique
+\n                                
+Soci\xe9t\xe9\xa0&\xa0mus\xe9es
+\n                                
+Th\xe9\xe2tre\xa0&\xa0sc\xe8ne
+\n                        
+\n                    
+\n                
+\n                
+\n                    
+R\xe9gions
+\n                    
+\n                        
+\n                                
+Abitibi-T\xe9miscamingue
+\n                                
+Bas-Saint-Laurent
+\n                                
+Capitale-Nationale
+\n                                
+Centre-du-Qu\xe9bec
+\n                                
+Chaudi\xe8re-Appalaches
+\n                                
+C\xf4te-Nord
+\n                                
+Estrie
+\n                                
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                                
+International
+\n                        
+\n                        
+\n                                
+Lanaudi\xe8re
+\n                                
+Laurentides
+\n                                
+Laval
+\n                                
+Mauricie
+\n                                
+Mont\xe9r\xe9gie
+\n                                
+Montr\xe9al
+\n                                
+Nord-du-Qu\xe9bec
+\n                                
+Outaouais
+\n                                
+Saguenay\u2013Lac-Saint-Jean
+\n                        
+\n                    
+\n                
+\n            
+\n        
+\n        
+\n            
+\n                    
+\n                        
+\n                        
+\n                    
+\n            
+\n            
+\n\n                
+\xa0Se\xa0connecter
+\n        
+\n    
+\n
+\n\n
+\n
+\n    
+\n    
+La Fabrique culturelle
+\n
+\n\n
+\n    
+\n        
+\n            
+\n                
+R\xe9pertoires
+\n            
+\n            
+\n                
+Th\xe8mes
+\n                
+\n                        
+Arts visuels & num\xe9riques
+\n                        
+Cin\xe9ma
+\n                        
+Court m\xe9trage
+\n                        
+Danse
+\n                        
+Design
+\n                        
+Litt\xe9rature
+\n                        
+Multi
+\n                        
+Musique
+\n                        
+Soci\xe9t\xe9 & mus\xe9es
+\n                        
+Th\xe9\xe2tre & sc\xe8ne
+\n                
+\n            
+\n            
+\n                
+R\xe9gions
+\n                
+\n                        
+Abitibi-T\xe9miscamingue
+\n                        
+Bas-Saint-Laurent
+\n                        
+Capitale-Nationale
+\n                        
+Centre-du-Qu\xe9bec
+\n                        
+Chaudi\xe8re-Appalaches
+\n                        
+C\xf4te-Nord
+\n                        
+Estrie
+\n                        
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                        
+International
+\n                        
+Lanaudi\xe8re
+\n                        
+Laurentides
+\n                        
+Laval
+\n                        
+Mauricie
+\n                        
+Mont\xe9r\xe9gie
+\n                        
+Montr\xe9al
+\n                        
+Nord-du-Qu\xe9bec
+\n                        
+Outaouais
+\n                        
+Saguenay\u2013Lac-Saint-Jean
+\n                
+\n            
+\n        
+\n        
+\n            
+\n            
+\n        
+\n            
+\n                
+ Se connecter
+\n            
+\n    
+\n
+\n    \n\n\n
+\n    
+\n        
+\n            
+\n                
+\n                    
+\n                        
+\n                    
+\n                    
+La Fabrique culturelle
+\n                
+\n                
+Les dix \xe9quipes de La Fabrique culturelle, d\xe9ploy\xe9es aux quatre coins du Qu\xe9bec, vont \xe0 la rencontre des artistes d\u2019ici pour tourner des contenus vid\xe9o \xe9tonnants, trait\xe9s avec une touche d\u2019originalit\xe9 et beaucoup de profondeur, toutes disciplines et r\xe9gions confondues.
+\n                
+Tout voir\xa0
+\n            
+\n\n                
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Mauricie
+\n                
+Val\xe9rie Milot | Orbis : le concert classique r\xe9invent\xe9
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Cin\xe9ma
+\n            
+\n            
+\n                
+Abitibi-T\xe9miscamingue
+\n                
+Gold en Abitibi! | Le making of...
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Outaouais
+\n                
+Serge Olivier Fokoua : Parlons baloney
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n\n\n        
+\n        
+\n            
+\n                
+\n                    
+Nos partenaires
+\n                
+\n                
+\n                    
+La communaut\xe9
+\n                
+\n            
+\n        
+\n    
+\n\n\n    
+\n    
+\n        
+\n            
+La Fabrique culturelle cr\xe9e des alliances avec de nombreux organismes et \xe9v\xe9nements culturels. Ceux-ci disposent d\u2019une page personnalis\xe9e pour y d\xe9poser des vid\xe9os qui t\xe9moignent de la diversit\xe9 et de la vitalit\xe9 de leurs activit\xe9s.
+\n        
+\n\n        \n\n
+\n    
+\n        
+\n\n                
+Trier\xa0par\xa0:
+\n                
+\n                        
+\n        
+Les plus r\xe9centes
+\n            
+Les plus r\xe9centes
+\n            
+A \xe0 Z
+\n    
+\n\n                
+\n\n\n            \n\n\n\n\n        
+\n    
+\n
+\n\n        
+\n            \n\n\n    
+\n        
+\n            
+\n                
+\n                
+Tourisme Abitibi-T\xe9miscamingue
+\n            
+\n            
+Tourisme Abitibi-T\xe9miscamingue est un carrefour touristique o\xf9 convergent la structuration de l\u2019offre et la promotion touristique. Des consultants au d\xe9veloppement  des secteurs plein air, festivals et \xe9v\xe9nements, tourisme culturel, pourvoirie et motoneige travaillent de pair avec chaque secteur et les diff\xe9rentes organisations qui sont reli\xe9s afin de d\xe9velopper des produits de qualit\xe9 et comp\xe9titifs.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Soci\xe9t\xe9 & mus\xe9es
+\n            
+\n            
+\n                
+Abitibi-T\xe9miscamingue
+\n                
+Semaine culturelle de Winneway
+\n                    
+Par 
+Tourisme Abitibi-T\xe9miscamingue
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Litt\xe9rature
+\n            
+\n            
+\n                
+Abitibi-T\xe9miscamingue
+\n                
+La langue anicinabe, toujours vivante!
+\n                    
+Par 
+Tourisme Abitibi-T\xe9miscamingue
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Mus\xe9e national des beaux-arts du Qu\xe9bec
+\n            
+\n            
+Faire conna\xeetre, promouvoir et conserver l\u2019art qu\xe9b\xe9cois de toutes les p\xe9riodes, voil\xe0 la mission du Mus\xe9e national des beaux-arts du Qu\xe9bec (MNBAQ). Situ\xe9 au c\u0153ur du majestueux parc des Champs-de-Bataille \xe0 Qu\xe9bec, le MNBAQ poss\xe8de une collection de plus de 37 000 \u0153uvres du 17e si\xe8cle \xe0 aujourd\u2019hui. Peintures, sculptures, dessins, photographies, estampes et objets d\u2019art d\xe9coratif mettent en lumi\xe8re le patrimoine qu\xe9b\xe9cois dans des salles de la collection. Des expositions temporaires pr\xe9sentent \xe9galement la production d\u2019artistes du Qu\xe9bec, du Canada, des \xc9tats-Unis et de l\u2019Europe.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Soci\xe9t\xe9 & mus\xe9es
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+Mitchell/Riopelle: Michel Martin raconte
+\n                    
+Par 
+Mus\xe9e national des beaux-arts du Qu\xe9bec
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Soci\xe9t\xe9 & mus\xe9es
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+Inspiration : Jean-Paul Riopelle, d\xe9cembre 2017 | Cr\xe9ez avec le MNBAQ
+\n                    
+Par 
+Mus\xe9e national des beaux-arts du Qu\xe9bec
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Soci\xe9t\xe9 & mus\xe9es
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+Mitchell/Riopelle : Yves Michaud raconte
+\n                    
+Par 
+Mus\xe9e national des beaux-arts du Qu\xe9bec
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Th\xe9\xe2tre du Nouveau Monde
+\n            
+\n            
+Le TNM, situ\xe9 au c\u0153ur du Quartier des spectacles, produit et diffuse les \u0153uvres majeures des r\xe9pertoires international et national, tout en accordant une place de choix \xe0 la cr\xe9ation.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Th\xe9\xe2tre & sc\xe8ne
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Entretien avec Nadine Jean autour de Vu du pont d'Arthur Miller au TNM | Nadine Jean, premi\xe8re r\xe9cipiendaire de la Bourse Inclusion et \xc9quit\xe9 du TNM
+\n                    
+Par 
+Th\xe9\xe2tre du Nouveau Monde
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Th\xe9\xe2tre & sc\xe8ne
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Les T\xeates d'affiche du TNM au MBAM : Marc Beaupr\xe9
+\n                    
+Par 
+Th\xe9\xe2tre du Nouveau Monde
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Th\xe9\xe2tre & sc\xe8ne
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Les T\xeates d'affiche du TNM au MBAM : Isabelle Blais
+\n                    
+Par 
+Th\xe9\xe2tre du Nouveau Monde
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Le Festival international de la chanson de Granby
+\n            
+\n            
+Le FICG est le plus important concours de chansons francophones au monde. Pendant 10 jours, il prend les proportions d\u2019un festival majeur avec son concours pancanadien, ses spectacles ext\xe9rieurs grand public, ses vitrines musicales r\xe9unissant artistes et professionnels d\u2019Europe et de partout au pays ainsi que ses projets jeunesse pour les 6 \xe0 17 ans provenant des 4 coins du Canada. C'est l\u2019une des rares rencontres entre le touriste, le professionnel, l\u2019artiste et la communaut\xe9 r\xe9gionale.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Mont\xe9r\xe9gie
+\n                
+Nicolas G\xe9mus - Finaliste FICG 2017 | Bunker de tes bras
+\n                    
+Par 
+Le Festival international de la chanson de Granby
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Mont\xe9r\xe9gie
+\n                
+Marc-Antoine Beaudoin - Finaliste FICG 2017 | J'ai perdu mon sourire
+\n                    
+Par 
+Le Festival international de la chanson de Granby
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Mont\xe9r\xe9gie
+\n                
+Escabo - Finaliste FICG 2017 | Je marcherais
+\n                    
+Par 
+Le Festival international de la chanson de Granby
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Les Rencontres internationales du documentaire de Montr\xe9al (RIDM)
+\n            
+\n            
+Les RIDM sont enti\xe8rement consacr\xe9es au cin\xe9ma documentaire. Le public y d\xe9couvre chaque ann\xe9e le meilleur du cin\xe9ma du r\xe9el. \xc0 travers la s\xe9lection de quelques 140 films d'ici et d'ailleurs et une quinzaine d'activit\xe9s compl\xe9mentaires telles que des le\xe7ons de cin\xe9ma, d\xe9bats, tables rondes, installations et concerts, les RIDM mettent de l\u2019avant des auteurs aux d\xe9marches singuli\xe8res et des films qui traitent de fa\xe7on novatrice d\u2019enjeux sociaux et humains actuels.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Cin\xe9ma
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Bagages | R\xe9cits de migrations
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+\xab Futur, pas s\xfbr \xbb, quand 43 jeunes produisent un webdoc
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Cin\xe9ma
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Pascal Sanchez et ses vaillants
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Musique Nomade
+\n            
+\n            
+Musique nomade est un organisme \xe0 but non lucratif, petite cousine du Wapikoni mobile, qui \u0153uvre en production musicale aupr\xe8s des auteurs-compositeurs-interpr\xe8tes autochtones du Qu\xe9bec et du Canada.  Escales d\u2019enregistrement en communaut\xe9, ateliers de professionnalisation, showcase, r\xe9sidences de cr\xe9ation, activit\xe9s de r\xe9seautage sont organis\xe9s afin d\u2019outiller les artistes qui d\xe9sirent d\xe9velopper et promouvoir leur carri\xe8re en musique.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+\n                
+Musuhmi Owen (Grandfather Fog) de Kesley Arrow-Saulis | Ateliers MN sur la route
+\n                    
+Par 
+Musique Nomade
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+\xab Makusham MTL \xbb, Shauit et Socalled
+\n                    
+Par 
+Musique Nomade
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+\xab Mishkadan Mamo \xbb, Sunny Duval et Laura Niquay
+\n                    
+Par 
+Musique Nomade
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Conseil qu\xe9b\xe9cois de la musique
+\n            
+\n            
+Le Conseil qu\xe9b\xe9cois de la musique (CQM) regroupe des professionnels du milieu de la musique dite de concert, c'est \xe0 dire des organismes, des entreprises et des individus qui oeuvrent dans les secteurs de la cr\xe9ation, de la production, de la diffusion, de la recherche et de l'\xe9ducation. Sa mission consiste \xe0 promouvoir la discipline et \xe0 soutenir son rayonnement. Le CQM travaille sur trois axes : la repr\xe9sentation, la concertation et les services \xe0 ses membres.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Buzz Beat \u2013 Quintette de cuivres, vibraphone et batterie
+\n                    
+Par 
+Conseil qu\xe9b\xe9cois de la musique
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Bas-Saint-Laurent
+\n                
+Concerts aux Iles du Bic : la passion cr\xe9ative de deux musiciens audacieux
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+TNT pr\xe9sente \xab Trompette \u2018N\u2019 Tuba \xbb
+\n                    
+Par 
+Conseil qu\xe9b\xe9cois de la musique
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Travelling distribution 
+\n            
+\n            
+Depuis sa cr\xe9ation en septembre 2007, Travelling se donne pour mission de promouvoir le court m\xe9trage qu\xe9b\xe9cois ind\xe9pendant. \xc0 ce jour, Travelling repr\xe9sente en festival et aupr\xe8s des acheteurs de courts, plus de 100 films et pr\xe8s de 150 artistes issus du cin\xe9ma, de la vid\xe9o et des arts m\xe9diatiques. Parmi nos s\xe9lections les plus prestigieuses, notons la Comp\xe9tition officielle de Cannes, la Semaine de la Critique, les festivals de Locarno, Rotterdam, Tampere, Clermont-Ferrand, Annecy, Oberhausen, Sundance et plusieurs autres. Bref, on ne s\u2019appelle pas Travelling, les films qui voyagent, pour rien!
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Court m\xe9trage
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+La peau sauvage (2016)
+\n                    
+Par 
+Travelling distribution 
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Court m\xe9trage
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Marius Borodine
+\n                    
+Par 
+Travelling distribution 
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Court m\xe9trage
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Training Session
+\n                    
+Par 
+Travelling distribution 
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Les Libraires
+\n            
+\n            
+Les libraires, c'est d'abord une coop\xe9rative (Les librairies ind\xe9pendantes du Qu\xe9bec) qui regroupe pr\xe8s d'une centaine de membres qui ont \xe0 c\u0153ur non seulement le livre et le lecteur, mais le dynamisme du milieu litt\xe9raire. Ces librairies ind\xe9pendantes sont r\xe9unies sur le portail transactionnel www.leslibraires.ca et offrent un bimestriel papier qui se consacre \xe0 l'actualit\xe9 litt\xe9raire depuis 1998. Au milieu de votre quartier, au coeur de votre ville, consultez vos libraires ind\xe9pendants.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Litt\xe9rature
+\n            
+\n            
+\n                
+Laurentides
+\n                
+Le libraire engag\xe9 | Librairie Ste-Th\xe9r\xe8se
+\n                    
+Par 
+Les Libraires
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Litt\xe9rature
+\n            
+\n            
+\n                
+Saguenay\u2013Lac-Saint-Jean
+\n                
+Librairie Marie-Laura
+\n                    
+Par 
+Les Libraires
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Litt\xe9rature
+\n            
+\n            
+\n                
+C\xf4te-Nord
+\n                
+Librairie A \xe0 Z Baie Comeau
+\n                    
+Par 
+Les Libraires
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Minist\xe8re de la Culture et des Communications
+\n            
+\n            
+Le minist\xe8re de la Culture et des Communications a pour mission de contribuer \xe0 l'affirmation de l'identit\xe9 et de la vitalit\xe9 culturelle qu\xe9b\xe9coises, de favoriser l\u2019acc\xe8s et la participation des citoyennes et des citoyens \xe0 la vie culturelle et de susciter le d\xe9veloppement des communications.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Soci\xe9t\xe9 & mus\xe9es
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+Les Prix du Qu\xe9bec : 40 ans de reconnaissance | Des laur\xe9ats de l'\xe9dition 2017 t\xe9moignent
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Multi
+\n            
+\n            
+\n                
+\n                
+Massi Mahiou pr\xe9sente La grande rentr\xe9e culturelle 2017
+\n                    
+Par 
+Minist\xe8re de la Culture et des Communications
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Soci\xe9t\xe9 & mus\xe9es
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+Rencontre avec Yvette Michelin, fl\xe9cherande
+\n                    
+Par 
+Minist\xe8re de la Culture et des Communications
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Festival Musique du Bout du Monde 
+\n            
+\n            
+Unique en Gasp\xe9sie,le festival Musique du Bout du Monde est l'un des \xe9v\xe8nements les plus populaires dans la r\xe9gion. Il est un des festival mettant principalement \xe0 l'avant-plan le cr\xe9neau des musiques du monde et se d\xe9finit par sa client\xe8le familiale. Il se veut un lieu d'\xe9changes entre la culture gasp\xe9sienne et les autres cultures du monde.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                
+Au bout du ciel
+\n                    
+Par 
+Festival Musique du Bout du Monde 
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Danse
+\n            
+\n            
+\n                
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                
+Danse maorie de Whakatopu Kotahi | Festival Musique du Bout du Monde
+\n                    
+Par 
+Festival Musique du Bout du Monde 
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                
+Chlo\xe9 Sainte-Marie interpr\xe8te \xab Paysage d\xe9pays\xe9 \xbb | Festival Musique du Bout du Monde
+\n                    
+Par 
+Festival Musique du Bout du Monde 
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Canal Savoir
+\n            
+\n            
+Canal Savoir est une cha\xeene d\xe9di\xe9e depuis 1984 \xe0 la diffusion et \xe0 la vulgarisation des connaissances, dont T\xe9l\xe9-Qu\xe9bec devenait son partenaire principal en 2009. Sa programmation a pour objet de t\xe9moigner de l\u2019effervescence des milieux de cr\xe9ation du savoir \xe9manant des universit\xe9s et coll\xe8ges membres, d'institutions culturelles et scientifiques. Elle permet de nourrir la r\xe9flexion des citoyens, d'offrir \xe0 la jeune rel\xe8ve un lieu d\u2019expression et de stimuler les neurones!
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Litt\xe9rature
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+\xab Matricide \xbb de Katherine Raymond | Un extrait de la s\xe9rie Rature et lit
+\n                    
+Par 
+Canal Savoir
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Litt\xe9rature
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+\xab Un pr\xe9sent infini \xbb de Rafa\xeble Germain | Un extrait de la s\xe9rie Rature et lit
+\n                    
+Par 
+Canal Savoir
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Litt\xe9rature
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+\xab L'embaumeur \xbb d'Anne-Ren\xe9e Caill\xe9 | Un extrait de la s\xe9rie Rature et lit
+\n                    
+Par 
+Canal Savoir
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Wapikoni mobile
+\n            
+\n            
+Cofond\xe9 par Manon Barbeau, le Conseil de la Nation Atikamekw et le Conseil des jeunes des Premi\xe8res Nations du Qu\xe9bec et du Labrador, le Wapikoni mobile aura 10 ans en 2014. Avec ses studios ambulants \xe9quip\xe9s des plus r\xe9centes technologies, ce projet novateur d\u2019intervention et de formation cible surtout les jeunes autochtones des r\xe9gions \xe9loign\xe9es pour qu\u2019ils s\u2019expriment et d\xe9veloppent leurs talents par la musique et la vid\xe9o. En 2014, le Wapikoni compte 3000 participants qui ont r\xe9alis\xe9 600 courts m\xe9trages et 70 prix d\xe9cern\xe9s par de prestigieux festivals nationaux et internationaux.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Cin\xe9ma
+\n            
+\n            
+\n                
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                
+\xab Malsem \xbb de Jesse Martin | Un \xab Blair Witch Project \xbb \xe0 la sauce mig'maq
+\n                    
+Par 
+Wapikoni mobile
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Cin\xe9ma
+\n            
+\n            
+\n                
+C\xf4te-Nord
+\n                
+Le prix de l'implication La Fabrique culturelle remis \xe0 Napess Ishtapao | Lancement 2017 des courts m\xe9trages du Wapikoni mobile
+\n                    
+Par 
+Wapikoni mobile
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Cin\xe9ma
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Un nouveau souffle : la voix de leaders autochtones
+\n                    
+Par 
+Wapikoni mobile
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+REGARD 
+\n            
+\n            
+REGARD - Festival international du court m\xe9trage au Saguenay est un exemple de d\xe9veloppement culturel en r\xe9gion. Le maillage avec la communaut\xe9 locale et sa discipline, les nombreux projets sp\xe9ciaux et le d\xe9veloppement r\xe9gulier de la manifestation cimentent l\u2019\xe9v\xe9nement aupr\xe8s de ses publics. C\u2019est un p\xf4le g\xe9n\xe9reux de collaboration avec de nombreux festivals canadiens \xe9mergents, avec sa communaut\xe9 par le truchement de plusieurs conseils, comit\xe9s et cin\xe9-clubs; avec son milieu gr\xe2ce \xe0 son March\xe9 du court o\xf9 sont organis\xe9s divers ateliers, conf\xe9rences, tables rondes et autres rencontres publiques ou priv\xe9es. REGARD, c\u2019est aussi un objectif. \xcatre une porte d\u2019entr\xe9e des Am\xe9riques pour le cin\xe9ma court et une rampe de lancement internationale du cin\xe9ma canadien.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Court m\xe9trage
+\n            
+\n            
+\n                
+Saguenay\u2013Lac-Saint-Jean
+\n                
+\xab Kommitt\xe9n \xbb de Jenni Toivoniemi et\xa0Gunhild Enger
+\n                    
+Par 
+REGARD 
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Court m\xe9trage
+\n            
+\n            
+\n                
+Saguenay\u2013Lac-Saint-Jean
+\n                
+\xab Le plombier \xbb de M\xe9ryl Fortunat-Rossi et Xavier Seron
+\n                    
+Par 
+REGARD 
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Court m\xe9trage
+\n            
+\n            
+\n                
+Saguenay\u2013Lac-Saint-Jean
+\n                
+\xab Fantasia \xbb de Teemu Nikki
+\n                    
+Par 
+REGARD 
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Les Mus\xe9es de la civilisation
+\n            
+\n            
+Les Mus\xe9es de la civilisation : innovateurs et audacieux, tant dans le design que le propos de leurs expositions.  Lieux de savoir et d\u2019id\xe9es, les Mus\xe9es jettent un regard neuf, souvent inattendu, sur l'exp\xe9rience humaine dans son ensemble.  Petits et grands sont transport\xe9s; au centre des grandes villes du monde, aux c\xf4t\xe9s de fascinantes civilisations anciennes, au milieu de mouvements socioculturels marquants et au c\u0153ur de la soci\xe9t\xe9 qu\xe9b\xe9coise.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Soci\xe9t\xe9 & mus\xe9es
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+Sauvons notre h\xe9ritage | L'abb\xe9 Laurent Tailleur, directeur des archives du S\xe9minaire de Qu\xe9bec 1984-1999
+\n                    
+Par 
+Les Mus\xe9es de la civilisation
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Soci\xe9t\xe9 & mus\xe9es
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+L'enfer ou les livres mis \xe0 l'index
+\n                    
+Par 
+Les Mus\xe9es de la civilisation
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Soci\xe9t\xe9 & mus\xe9es
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+La biblioth\xe8que du S\xe9minaire de Qu\xe9bec
+\n                    
+Par 
+Les Mus\xe9es de la civilisation
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+FCVQ - Festival du cin\xe9ma de la ville de Qu\xe9bec
+\n            
+\n            
+Le cin\xe9ma tous azimuts, c\u2019est le cin\xe9ma que nous avons choisi\u2009! Cin\xe9ma populaire, cin\xe9ma ind\xe9pendant ou du patrimoine mondial cin\xe9matographique, c\u2019est \xe0 Qu\xe9bec qu\u2019ils sont r\xe9unis. \nNous affirmons qu\u2019un \xe9v\xe9nement de cin\xe9ma peut \xeatre organis\xe9 avec le c\u0153ur, tout en s\u2019amusant avec les cordes et les codes \xe9v\xe9nementiels. Discutons\u2009! D\xe9battons\u2009! Trinquons\u2009! Toutes les raisons seront bonnes pour c\xe9l\xe9brer avec nous la grande f\xeate du cin\xe9ma de la Capitale-Nationale.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Cin\xe9ma
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+T\xeate-\xe0-t\xeate avec L\xe9a Pool | Entrevue la r\xe9alisatrice de \xab Et au pire, on se mariera \xbb
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Court m\xe9trage
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+\xab Cr\xe8me de menthe \xbb de Philippe David Gagn\xe9 et Jean-Marc E. Roy | Une premi\xe8re qu\xe9b\xe9coise
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Cin\xe9ma
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+\xab Ailleurs \xbb de Samuel Matteau | Premier long m\xe9trage pour le cin\xe9aste de Qu\xe9bec
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Quartier des spectacles
+\n            
+\n            
+Coeur culturel de Montr\xe9al, le Quartier des spectacles offre la plus grande concentration et diversit\xe9 de lieux de diffusion culturelle en Am\xe9rique du Nord. Il est anim\xe9 par un grand nombre de festivals et d\u2019\xe9v\xe9nements et accueille des installations urbaines innovantes telles, design d\u2019\xe9clairage, cr\xe9ation d\u2019environnements immersifs et espaces num\xe9riques interactifs. Le Quartier est une vitrine des technologies multim\xe9dia en mati\xe8re de diffusion de contenus num\xe9riques en milieu urbain.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+KM\xb3: le making of | Visitez les ateliers et faites connaissance avec les artistes
+\n                    
+Par 
+Quartier des spectacles
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+KM\xb3 : Rencontre avec les artistes (3/5) | Visitez les ateliers et faites connaissance avec les artistes
+\n                    
+Par 
+Quartier des spectacles
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+KM\xb3 : Rencontre avec les artistes (4/5) | Visitez les ateliers et faites connaissance avec les artistes
+\n                    
+Par 
+Quartier des spectacles
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+L'OFF Festival de jazz de Montr\xe9al
+\n            
+\n            
+L\u2019OFF Festival de jazz de Montr\xe9al a \xe9t\xe9 cr\xe9\xe9 en 2000 par un collectif de musiciens voulant mettre \xe0 l\u2019honneur le jazz, les musiques cr\xe9atives et les musiciens d\u2019ici. Quinze ans plus tard, le festival continue sa mission et est devenu une vitrine d\u2019exception et essentielle pour le d\xe9veloppement du jazz au Qu\xe9bec. Cet \xe9v\xe9nement est maintenant un incontournable pour les amateurs de jazz mais aussi tout un public avide de nouveaut\xe9s et de cr\xe9ativit\xe9 musicale.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+R\xe9mi-Jean Leblanc, Rafael Zaldivar, Greg Ritchie avec invit\xe9 sp\xe9cial Ben Wendel | L\u2019OFF Jazz 18e
+\n                    
+Par 
+L'OFF Festival de jazz de Montr\xe9al
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+MNSF: Mark Nelson's Sympathetic Frequencies | L'OFF Jazz 18e
+\n                    
+Par 
+L'OFF Festival de jazz de Montr\xe9al
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Christine Jensen & Maggi | L'OFF Jazz 17e
+\n                    
+Par 
+L'OFF Festival de jazz de Montr\xe9al
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Conseil qu\xe9b\xe9cois du patrimoine vivant\t
+\n            
+\n            
+Le Conseil qu\xe9b\xe9cois du patrimoine vivant (CQPV) constitue l\u2019ONG de regroupement national en patrimoine immat\xe9riel et traditions vivantes, reconnu par le minist\xe8re de la Culture et des Communications du Qu\xe9bec (Canada). Il rassemble et d\xe9fend les artistes, artisans, chercheurs, individus et plus de 80 organismes \xe0 but non-lucratif dans le domaine des traditions orales et gestuelles depuis 1993. Il agit officiellement \xe0 titre d\u2019organisation conseil aupr\xe8s de l\u2019UNESCO dans le cadre de la Convention pour la sauvegarde du patrimoine culturel immat\xe9riel. Le CQPV dispense \xe9galement un programme de formations professionnelles en lien avec diverses disciplines du PCI, en partenariat avec Emploi Qu\xe9bec. Il r\xe9alise en fonction de son mandat et des besoins du milieu plusieurs projets ponctuels, concours, colloques, conf\xe9rences, consultations publiques, diffusion d\u2019informations, demandes de d\xe9signations officielles, \xe9tudes, etc.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Danse
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+La veill\xe9e de danse traditionnelle | Patrimoine immat\xe9riel du Qu\xe9bec
+\n                    
+Par 
+Conseil qu\xe9b\xe9cois du patrimoine vivant\t
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Les Journ\xe9es de la culture
+\n            
+\n            
+Chaque ann\xe9e, le dernier vendredi de septembre et les deux jours suivants, les arts et la culture sont au c\u0153ur de cette grande f\xeate populaire se d\xe9roulant dans plus de 400 villes et villages, d\u2019un bout \xe0 l\u2019autre du Qu\xe9bec. De tous les \xe2ges et tous les styles, de tous les milieux et dans toutes les r\xe9gions, tout le monde est invit\xe9 \xe0 participer \xe0 plus de 3 000 activit\xe9s gratuites, toutes disciplines confondues ! Chacun trouvera de quoi nourrir son go\xfbt d\u2019apprendre et sa soif de beaut\xe9.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Les soeurs Boulay | De la terre jusqu'au courant
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Village en chanson de Petite-Vall\xe9e
+\n            
+\n            
+Le Village en chanson est un organisme culturel gasp\xe9sien assurant la gestion du Festival en chanson de Petite-Vall\xe9e, du Camp chanson de Petite-Vall\xe9e et du Th\xe9\xe2tre de la Vieille Forge. Par ses activit\xe9s, il diffuse et produit une offre culturelle multidisciplinaire, en plus de contribuer \xe0 la cr\xe9ation d'une rel\xe8ve artistique.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                
+La Petite \xc9cole de la chanson interpr\xe8te \xab\xa0De la terre jusqu'au courant \xbb | Festival en chanson de Petite-Vall\xe9e
+\n                    
+Par 
+Village en chanson de Petite-Vall\xe9e
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                
+Nikamu Mamuitun aux Chansons Rassembleuses de Petite-Vall\xe9e
+\n                    
+Par 
+Village en chanson de Petite-Vall\xe9e
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                
+Les artistes complices | Festival en chanson de Petite-Vall\xe9e
+\n                    
+Par 
+Village en chanson de Petite-Vall\xe9e
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Mus\xe9e d'art contemporain de Montr\xe9al
+\n            
+\n            
+Situ\xe9 au c\u0153ur du Quartier des spectacles, le Mus\xe9e d\u2019art contemporain de Montr\xe9al fait vibrer l\u2019art actuel au centre de la vie montr\xe9alaise et qu\xe9b\xe9coise. Le MAC assure depuis plus de cinquante ans la rencontre entre les artistes locaux et internationaux, leurs \u0153uvres et un public toujours plus vaste. Lieu de d\xe9couvertes, le Mus\xe9e propose aux visiteurs des exp\xe9riences sans cesse renouvel\xe9es, souvent inattendues et saisissantes.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Jean-Pierre Aub\xe9, paysagiste de l'invisible | MAC Collection
+\n                    
+Par 
+Mus\xe9e d'art contemporain de Montr\xe9al
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Emanuelle L\xe9onard | MAC Collection
+\n                    
+Par 
+Mus\xe9e d'art contemporain de Montr\xe9al
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Teresa Margolles : Mundos / S\xe9rie \xab Pista de baile \xbb
+\n                    
+Par 
+Mus\xe9e d'art contemporain de Montr\xe9al
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Conseil des arts et des lettres du Qu\xe9bec
+\n            
+\n            
+Le CALQ a pour mission de soutenir, dans toutes les r\xe9gions du Qu\xe9bec, la cr\xe9ation artistique et litt\xe9raire, l'exp\xe9rimentation, la production et la diffusion dans les domaines de la litt\xe9rature et du conte, des arts de la sc\xe8ne, des arts multidisciplinaires, des arts num\xe9riques, du cin\xe9ma et de la vid\xe9o, des arts visuels, des m\xe9tiers d'art ainsi que de la recherche architecturale. Il soutient \xe9galement le rayonnement des artistes, des \xe9crivains, des organismes artistiques et de leurs oeuvres, que ce soit au Qu\xe9bec, ailleurs au Canada ou \xe0 l'\xe9tranger.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                
+La Mer
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                
+Wiklatmu\u2019j
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                
+Raynald
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+INIS
+\n            
+\n            
+L\u2019inis est un centre de formation professionnelle con\xe7u pour et par le milieu du cin\xe9ma, de la t\xe9l\xe9vision et des m\xe9dias interactifs. Plus de 5 000 personnes ont b\xe9n\xe9fici\xe9 d'une formation de L'inis depuis le d\xe9but de ses activit\xe9s en 1996. Plusieurs de ses dipl\xf4m\xe9s occupent aujourd\u2019hui des postes cl\xe9s dans le domaine de l\u2019audiovisuel. Dans le cadre de ses programmes de formation, L\u2019inis produit des courts m\xe9trages de fiction et documentaires dont un \xe9chantillon est rendu disponible sur cette plateforme.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Court m\xe9trage
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Comptine en 2 temps
+\n                    
+Par 
+INIS
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Cin\xe9ma
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Tortellini
+\n                    
+Par 
+INIS
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Cin\xe9ma
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Ma bo\xeete noire
+\n                    
+Par 
+INIS
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Biblioth\xe8que et Archives nationales du Qu\xe9bec
+\n            
+\n            
+\xc0 la fois biblioth\xe8que nationale, archives nationales et biblioth\xe8que publique de grande m\xe9tropole, Biblioth\xe8que et Archives nationales du Qu\xe9bec (BAnQ) rassemble, conserve et diffuse le patrimoine documentaire qu\xe9b\xe9cois ou relatif au Qu\xe9bec. V\xe9ritable carrefour culturel, BAnQ \u0153uvre \xe0 la d\xe9mocratisation de l\u2019acc\xe8s \xe0 la connaissance \xe0 titre d\u2019acteur cl\xe9 de la soci\xe9t\xe9 du savoir et d\xe9ploie ses activit\xe9s dans 12 \xe9difices ouverts \xe0 tous sur le territoire du Qu\xe9bec.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Soci\xe9t\xe9 & mus\xe9es
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Carte postale de Montr\xe9al
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Design
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+BAnQ Saint-Sulpice : d\xe9voilement du laur\xe9at du concours d'architecture
+\n                    
+Par 
+Biblioth\xe8que et Archives nationales du Qu\xe9bec
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Multi
+\n            
+\n            
+\n                
+\n                
+BAnQ : la culture sans obstacles
+\n                    
+Par 
+Biblioth\xe8que et Archives nationales du Qu\xe9bec
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Le Festif! 
+\n            
+\n            
+Le Festif! est un OSBL constitu\xe9 depuis 2009. L'organisme a mis sur pied Le Festif! de Baie-St-Paul. Ce festival de musique et d'arts de la rue est un incontournable \xe0 l'\xe9chelle du Qu\xe9bec et une r\xe9f\xe9rence en la mati\xe8re. En plus du festival estival, Le Festif! a mis sur pied le Cabaret Festif! de la rel\xe8ve (concours destin\xe9 aux artistes de la rel\xe8ve du Qu\xe9bec). Depuis 7 ans, le concours aura couronn\xe9 des artistes \xe0 l'avant-sc\xe8ne de la musique au Qu\xe9bec tels que Philippe Brach, \xc9mile Bilodeau et Michel Robichaud.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+Alaclair Ensemble sur un char au Festif!
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+Beyries et Louis-Jean Cormier sur la galerie de Jacqueline | Le Festif!
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+Violett Pi au balcon du presbyt\xe8re | Le Festif!
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+FestiVoix de Trois-Rivi\xe8res
+\n            
+\n            
+En plein c\u0153ur du centre-ville et des quartiers historiques de Trois-Rivi\xe8res, le FestiVoix se d\xe9ploie dans un cadre exceptionnel. Le festival re\xe7oit pr\xe8s de 360 000 festivaliers chaque ann\xe9e sur des sites majestueux, dress\xe9s aux abords du fleuve Saint-Laurent. Vedettes internationales et artistes \xe9mergents se donnent rendez-vous pendant 9 jours de festivit\xe9s sur les 13 sc\xe8nes qui repr\xe9sentent tous, \xe0 leurs couleurs, un style unique de musique. \xc0 l'artiste populaire, au jazz, aux nouveaux talents, au blues jusqu'au classique. Le FestiVoix est l'\xe9v\xe9nement culturel majeur en Mauricie.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Mauricie
+\n                
+Yann Perreau interpr\xe8te \xab Hymne \xe0 la lune \xbb | FestiVoix de Trois-Rivi\xe8res
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Mauricie
+\n                
+Mordicus interpr\xe8te \xab Ces nuits blanches \xbb | FestiVoix de Trois-Rivi\xe8res
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Mauricie
+\n                
+Louis-Jean Cormier et la chorale de l'\xc9P\xc9I interpr\xe8tent \xab Si tu reviens \xbb | FestiVoix de Trois-Rivi\xe8res
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+RIASQ
+\n            
+\n            
+Le RIASQ est une corporation sans but lucratif qui \u0153uvre au d\xe9veloppement d'activit\xe9s \xe9ducatives de loisir culturel pour les \xe9tudiants du coll\xe9gial.  Le RIASQ produit annuellement les \xe9v\xe9nements intercoll\xe9giaux qui occupent le calendrier culturel qu\xe9b\xe9cois:  C\xe9geps en spectacle, Circuit d'improvisation du RIASQ, Intercoll\xe9gial d'arts visuels, Intercoll\xe9gial de danse, Intercoll\xe9gial de th\xe9\xe2tre et l'Egr\xe9gore.  Le RIASQ compte 72 \xe9tablissements membres soit 90% des \xe9tudiants du milieu coll\xe9gial
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Court m\xe9trage
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+\xab 9.8 Newtons \xbb au 24e Intercoll\xe9gial de cin\xe9ma \xe9tudiant
+\n                    
+Par 
+RIASQ
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Court m\xe9trage
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+\xab Le roi de la montagne \xbb au 24e Intercoll\xe9gial de cin\xe9ma \xe9tudiant
+\n                    
+Par 
+RIASQ
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Court m\xe9trage
+\n            
+\n            
+\n                
+International
+\n                
+\xab Mambo \xbb au 24e Intercoll\xe9gial de cin\xe9ma \xe9tudiant
+\n                    
+Par 
+RIASQ
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Livetoune
+\n            
+\n            
+Amateur de musique ou fan d'artistes? Livetoune est la plateforme qu\u2019il vous faut!  Envie d\u2019en d\xe9couvrir plus sur l'actualit\xe9 musicale? Livetoune vous propose des capsules, sessions acoustiques, entrevues et bien plus.\nVous voulez assister \xe0 des \xe9v\xe9nements en direct, mais vous pr\xe9f\xe9rez rester dans votre salon? Pas de probl\xe8me, on s\u2019occupe de tout! Livetoune capte et diffuse des \xe9v\xe8nements en direct sur internet tout au long de l\u2019ann\xe9e.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Massicotte interpr\xe8te \xab Tu likes pu mes statuts \xbb | Session acoustique
+\n                    
+Par 
+Livetoune
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Babins interpr\xe8tent \xab Une chanson sans refrain \xbb | Session acoustique
+\n                    
+Par 
+Livetoune
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Alexandre Poulin interpr\xe8te \xab Couleurs primaires \xbb | Session acoustique
+\n                    
+Par 
+Livetoune
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Circuit-Est centre chor\xe9graphique
+\n            
+\n            
+Depuis 30 ans, Circuit-Est centre chor\xe9graphique soutient la recherche, la cr\xe9ation et le perfectionnement en danse contemporaine. Sa programmation, compos\xe9e de classes de ma\xeetre, d\u2019ateliers, de programmes de mentorats, de r\xe9sidences et de projets d\u2019\xe9changes internationaux, se renouvelle sans cesse afin de toujours mieux r\xe9pondre aux besoins des artistes. Ouvert \xe0 l\u2019ensemble de la communaut\xe9, cet organisme bas\xe9 sur le partage de ressources regroupe dix compagnies membres : Louise B\xe9dard Danse, Sylvain \xc9mard Danse, Dani\xe8le Desnoyers/Le Carr\xe9 des Lombes, Fortier Danse-Cr\xe9ation, Et Marianne et Simon, Danse Carpe Diem/Emmanuel Jouthe, marib\xe9\u2013 sors de ce corps, Fr\xe9d\xe9rick Gravel/Grouped\u2019ArtGravelArtGroup, MAYDAY et la Cie Manuel Roque.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Danse
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Rencontre avec les danseurs d'Ensemble ON danse ! (2e partie)
+\n                    
+Par 
+Circuit-Est centre chor\xe9graphique
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Danse
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Les dessous d'Ensemble ON danse! (3e partie)
+\n                    
+Par 
+Circuit-Est centre chor\xe9graphique
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Danse
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Les d\xe9buts d'Ensemble ON danse! (1re partie)
+\n                    
+Par 
+Circuit-Est centre chor\xe9graphique
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Universit\xe9 McGill
+\n            
+\n            
+McGill, un lieu de culture au coeur de la ville! Aimeriez-vous errer dans un mus\xe9e sans murs,  ou assister \xe0 des centaines de concerts chaque ann\xe9e, allant de l\u2019op\xe9ra \xe0 la musique d\u2019avant-garde? Si l\u2019on connait l\u2019Universit\xe9 McGill  pour ses performances acad\xe9miques et scientifiques, il est plus que temps d\u2019explorer ce lieu unique de culture o\xf9 la collection d\u2019objets de Napol\xe9on c\xf4toie des ouvrages magnifiques sur les oiseaux et des disques branch\xe9s des ann\xe9es 60. Un patrimoine culturel qu\xe9b\xe9cois \xe0 d\xe9couvrir.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+L\u2019espace entre les notes
+\n                    
+Par 
+Universit\xe9 McGill
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Trois hommes nus en qu\xeate d\u2019une place au soleil
+\n                    
+Par 
+Universit\xe9 McGill
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Comprendre le cerveau par la musique
+\n                    
+Par 
+Universit\xe9 McGill
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Francouvertes
+\n            
+\n            
+Les Francouvertes mettent en lumi\xe8re depuis 21 ans des artistes et groupes de la rel\xe8ve musicale francophone qui proposent des compositions originales. Le concours-vitrine de toutes les musiques offre au public l'occasion d'\xeatre aux premi\xe8res loges pour d\xe9couvrir chaque ann\xe9e 21 nouveaux artistes. Damien Robitaille, Les soeurs Boulay, Philippe Brach, Bernard Adamus, Dead Obies, Karim Ouellet, Alex Nevsky, Rosie Valland, pour ne nommer que ceux-ci, ont pu b\xe9n\xe9ficier de cette incroyable tribune.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+En attendant la grande finale des Francouvertes 2017
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+M\xe9lanie Venditti aux Francouvertes
+\n                    
+Par 
+Francouvertes
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Shawn Jobin aux Francouvertes
+\n                    
+Par 
+Francouvertes
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Vision Diversit\xe9
+\n            
+\n            
+Vision Diversit\xe9 a \xe9t\xe9 cofond\xe9, en 2006 par Aida et Pam\xe9la Kamar dans l\u2019objectif de mettre de l'avant le m\xe9tissage humain et artistique qui enrichit et nourrit notre d\xe9veloppement culturel au Qu\xe9bec. Joueur essentiel de la sc\xe8ne culturelle montr\xe9alaise, son mandat depuis 10  ans est de mobiliser les milieux, b\xe2tir des partenariats pour une action compl\xe9mentaire des divers intervenants culturels, et faire rayonner ce m\xe9tissage artistique qui fait la force de Montr\xe9al.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+\xab Farz \xbb par L\u2019Ensemble ?st?n | Les Sessions #LaFab
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Vision Diversit\xe9 - 10 ans de m\xe9tissage
+\n                    
+Par 
+Vision Diversit\xe9
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Mamselle Ruiz - Des artistes d'ici, des rythmes du monde entier
+\n                    
+Par 
+Vision Diversit\xe9
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Centre Phi
+\n            
+\n            
+Phi est un p\xf4le culturel et artistique multidisciplinaire qui cultive tous les aspects de la cr\xe9ation, de l\u2019\xe9laboration, de la production et de la diffusion. Au carrefour de l\u2019art, du cin\xe9ma, de la musique, du design et de la technologie, Phi provoque des rencontres inattendues entre les artistes et les publics gr\xe2ce \xe0 une programmation \xe9clectique et \xe0 la cr\xe9ation de contenus originaux. Fond\xe9 et dirig\xe9 par Phoebe Greenberg, Phi exerce ses activit\xe9s \xe0 partir du Centre Phi, \xe0 Montr\xe9al, Canada.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Multi
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Pony X Joe Rocca, un duo de feu
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Pony : l\u2019univers pop de Gabrielle La\xefla Tittley
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Nouvelles exp\xe9riences narratives : les Qu\xe9b\xe9cois \xe0 l'honneur
+\n                    
+Par 
+Centre Phi
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+RIDEAU
+\n            
+\n            
+Le R\xe9seau ind\xe9pendant des diffuseurs d\u2019\xe9v\xe9nements artistiques unis (RIDEAU) est une association nationale de diffuseurs de spectacles. Ses membres sont r\xe9partis sur le territoire qu\xe9b\xe9cois et en francophonie canadienne. Leurs activit\xe9s visent \xe0 donner \xe0 la population qu\u2019ils desservent l\u2019acc\xe8s \xe0 une offre artistique diversifi\xe9e et de qualit\xe9. RIDEAU a pour mission de structurer, de documenter et de promouvoir la diffusion des arts vivants.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+Vingt ans de rayonnement pour les Cowboys Fringants
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+La Bourse RIDEAU, un pivot pour le march\xe9 du spectacle
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Saguenay\u2013Lac-Saint-Jean
+\n                
+collectif9 : le grand tour
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Conseil des arts et des lettres du Qu\xe9bec
+\n            
+\n            
+Depuis sa fondation, le Conseil des arts et des lettres du Qu\xe9bec d\xe9cerne des Prix et distinctions dans toutes les r\xe9gions du Qu\xe9bec et dans plusieurs disciplines artistiques. Avec ces r\xe9compenses, le Conseil poursuit son objectif de reconnaissance publique en d\xe9montrant son appui aux cr\xe9ateurs dont les r\xe9alisations se distinguent par leur qualit\xe9 et leur rayonnement. La Fabrique culturelle propose ici une s\xe9lection de capsules vid\xe9o mettant en vedette certains des r\xe9cipiendaires de prix du CALQ
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Multi
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+L\xe9na Mill-Reuillard, laur\xe9ate du prix \xab \u0152uvre de la rel\xe8ve \xe0 Montr\xe9al 2016 \xbb du CALQ
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Saguenay\u2013Lac-Saint-Jean
+\n                
+Julien Boily : dialogue entre le r\xe9el et le virtuel
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Cin\xe9ma
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Laura Rietveld, laur\xe9ate du prix \xab \u0152uvre de la rel\xe8ve \xe0 Montr\xe9al 2015 \xbb du CALQ \xe0 Montr\xe9al
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Mus\xe9e des beaux-arts de Montr\xe9al
+\n            
+\n            
+Le Mus\xe9e des beaux\u2010arts de Montr\xe9al est l\u2019un des mus\xe9es les plus fr\xe9quent\xe9s au Canada. Annuellement, plus de 850 000 personnes visitent sa collection encyclop\xe9dique unique au Canada et ses expositions temporaires originales. Pr\xe8s de 200 000 familles et \xe9coliers participent aussi \xe0 ses programmes \xe9ducatifs, culturels et communautaires. Ses riches collections sont d\xe9ploy\xe9es dans quatre pavillons d\xe9di\xe9s aux cultures du monde, \xe0 l\u2019art europ\xe9en ancien et contemporain, aux arts d\xe9coratifs et au design et \xe0 l\u2019art qu\xe9b\xe9cois et canadien.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Soci\xe9t\xe9 & mus\xe9es
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Manifeste pour un mus\xe9e humaniste
+\n                    
+Par 
+Mus\xe9e des beaux-arts de Montr\xe9al
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Robert Mapplethorpe au MBAM
+\n                    
+Par 
+Mus\xe9e des beaux-arts de Montr\xe9al
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Soci\xe9t\xe9 & mus\xe9es
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Les coulisses de la campagne annuelle du MBAM
+\n                    
+Par 
+Mus\xe9e des beaux-arts de Montr\xe9al
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+On est 10
+\n            
+\n            
+Coop\xe9rative de solidarit\xe9 \xe0 but non-lucratif sp\xe9cialis\xe9e en production et en post-production.  Dans ses projets, elle porte un regard neuf sur les sujets abord\xe9s et on remarque une v\xe9ritable r\xe9flexion artistique et un souci d\u2019authenticit\xe9.  On est 10 et l\u2019Atelier Pierre Thibault ont plusieurs points en commun. Il \xe9tait donc naturel qu\u2019une collaboration naisse entre eux, sous forme de webs\xe9rie dont l\u2019objectif est de d\xe9mocratiser le m\xe9tier d\u2019architecte et d\u2019\xe9veiller le public au Premier Art.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Design
+\n            
+\n            
+\n                
+Mauricie
+\n                
+St-\xc9lie, la continuit\xe9 dans la modernit\xe9 | L'Atelier Pierre Thibault
+\n                    
+Par 
+On est 10
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Design
+\n            
+\n            
+\n                
+Laurentides
+\n                
+Habiter la nature (la suite) | L'Atelier Pierre Thibault
+\n                    
+Par 
+On est 10
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Design
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Le Japon, entre nature et densit\xe9 | L'Atelier Pierre Thibault
+\n                    
+Par 
+On est 10
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+DHC/ART Fondation pour l'art contemporain
+\n            
+\n            
+\xc9tablie en 2007, la fondation DHC/ART est un organisme sans but lucratif qui se consacre \xe0 la pr\xe9sentation de l\u2019art contemporain. Abrit\xe9e dans deux b\xe2timents patrimoniaux situ\xe9s au c\u0153ur du Vieux-Montr\xe9al, DHC/ART offre une programmation qui s\u2019est m\xe9rit\xe9 la faveur critique aussi bien ici qu\u2019\xe0 l\u2019\xe9tranger. \xc0 chaque ann\xe9e sont offertes gratuitement deux \xe0 trois expositions majeures, une s\xe9rie d\u2019\xe9v\xe9nements publics, des projets sp\xe9ciaux de collaboration et un programme d\u2019\xe9ducation innovateur.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Entretien avec Olivia Boudreau
+\n                    
+Par 
+DHC/ART Fondation pour l'art contemporain
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Entretien avec Gunnar B. Kvaran
+\n                    
+Par 
+DHC/ART Fondation pour l'art contemporain
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Entretien avec Maria Ezcurra
+\n                    
+Par 
+DHC/ART Fondation pour l'art contemporain
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+JEU Revue de th\xe9\xe2tre
+\n            
+\n            
+Fond\xe9e en 1976, JEU est la seule revue francophone en Am\xe9rique du Nord qui soit consacr\xe9e exclusivement aux arts du spectacle vivant. Publi\xe9e quatre fois l'an, la revue accueille dans ses pages en couleur des r\xe9flexions d\u2019artistes et d\u2019observateurs exigeants de la sc\xe8ne th\xe9\xe2trale. Dossiers et rubriques offrent des points de vue multiples, des prises de position passionn\xe9es et approfondies qui font de la revue une r\xe9f\xe9rence.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Th\xe9\xe2tre & sc\xe8ne
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Le JEU des 40 : \xc9tienne Pilon, com\xe9dien
+\n                    
+Par 
+JEU Revue de th\xe9\xe2tre
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Th\xe9\xe2tre & sc\xe8ne
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Le JEU des 40 : Catherine Larochelle, com\xe9dienne
+\n                    
+Par 
+JEU Revue de th\xe9\xe2tre
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Th\xe9\xe2tre & sc\xe8ne
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Le JEU des 40 : Christian Lapointe, metteur en sc\xe8ne
+\n                    
+Par 
+JEU Revue de th\xe9\xe2tre
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+R\xe9seau des conseils r\xe9gionaux de la culture du Qu\xe9bec
+\n            
+\n            
+Les conseils r\xe9gionaux de la culture (CRC) sont des p\xf4les d\u2019expertise et d\u2019intervention r\xe9gionale, dot\xe9s d\u2019une vision transversale, qui soutiennent le d\xe9veloppement de l\u2019ensemble de la vie culturelle sur leurs territoires. Interlocuteurs privil\xe9gi\xe9s du gouvernement du Qu\xe9bec, les CRC sont appuy\xe9s par des membres repr\xe9sentatifs de tous les secteurs d\u2019activit\xe9 artistique et culturelle de leur r\xe9gion respective et par des partenaires du milieu. Cette concertation conduit \xe0 des actions de sensibilisation, de repr\xe9sentation, de promotion et de d\xe9veloppement.\n\n \n\nLe R\xe9seau des conseils r\xe9gionaux de la culture du Qu\xe9bec (RCRCQ) est le porteur de la d\xe9marche \xab Re_Cr\xe9ation \xbb, un vaste mouvement de mobilisation pour reconna\xeetre, valoriser et soutenir la cr\xe9ativit\xe9 et les talents culturels et artistiques de nos jeunes qui cr\xe9eront le Qu\xe9bec de demain.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+\n                
+Re_Cr\xe9ation : le moment de Marie-Sophie
+\n                    
+Par 
+R\xe9seau des conseils r\xe9gionaux de la culture du Qu\xe9bec
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Litt\xe9rature
+\n            
+\n            
+\n                
+\n                
+Le moment de Denis | Re_Cr\xe9ation
+\n                    
+Par 
+R\xe9seau des conseils r\xe9gionaux de la culture du Qu\xe9bec
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+\n                
+Le moment de Sylvain Mass\xe9 | Re_Cr\xe9ation
+\n                    
+Par 
+R\xe9seau des conseils r\xe9gionaux de la culture du Qu\xe9bec
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Mus\xe9e d'art contemporain de Baie-Saint-Paul
+\n            
+\n            
+Le Mus\xe9e d\u2019art contemporain de Baie-Saint-Paul est la seule institution mus\xe9ale dans la r\xe9gion de la Capitale-Nationale \xe0 se consacrer enti\xe8rement \xe0 l\u2019art contemporain. Institution ouverte, ancr\xe9e dans son milieu et dont la mission englobe la promotion, la conservation et la diffusion de l\u2019art contemporain qu\xe9b\xe9cois, le MACBSP est le pr\xe9sentateur depuis 1982 du Symposium international d\u2019art contemporain de Baie-Saint-Paul. R\xe9unissant autour d\u2019un th\xe8me, pendant un mois, 12 artistes de diff\xe9rents horizons, le Symposium est un \xe9v\xe9nement unique au Qu\xe9bec en art actuel dont la mission consiste \xe0 favoriser la rencontre entre les cr\xe9ateurs et le public.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+Rencontre avec Anne-Sophie Turion | Symposium de Baie-St-Paul
+\n                    
+Par 
+Mus\xe9e d'art contemporain de Baie-Saint-Paul
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+Rencontre avec Guillaume Adjutor Provost | Symposium de Baie-St-Paul
+\n                    
+Par 
+Mus\xe9e d'art contemporain de Baie-Saint-Paul
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+Rencontre avec Momar Seck | Symposium de Baie-St-Paul
+\n                    
+Par 
+Mus\xe9e d'art contemporain de Baie-Saint-Paul
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Pointe-\xe0-Calli\xe8re, cit\xe9 d'arch\xe9ologie et d'histoire de Montr\xe9al\t
+\n            
+\n            
+Pointe-\xe0-Calli\xe8re est un complexe mus\xe9al \xe9rig\xe9 sur une concentration de sites historiques et arch\xe9ologiques d\u2019envergure nationale qui permettent de retracer de grands pans de l\u2019histoire de Montr\xe9al, du Qu\xe9bec et du Canada. En plus de pr\xe9senter un spectacle multim\xe9dia intitul\xe9 Sign\xe9 Montr\xe9al et deux expositions permanentes, Ici naquit Montr\xe9al et Pirates ou corsaires ?, le Mus\xe9e offre tous les ans trois expositions temporaires sur des volets de l'histoire montr\xe9alaise ou sur de grandes civilisations de l'humanit\xe9.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Soci\xe9t\xe9 & mus\xe9es
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+La fabrication d'une pointe de projectile
+\n                    
+Par 
+Pointe-\xe0-Calli\xe8re, cit\xe9 d'arch\xe9ologie et d'histoire de Montr\xe9al\t
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Soci\xe9t\xe9 & mus\xe9es
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Ici depuis 12 000 ans!
+\n                    
+Par 
+Pointe-\xe0-Calli\xe8re, cit\xe9 d'arch\xe9ologie et d'histoire de Montr\xe9al\t
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Soci\xe9t\xe9 & mus\xe9es
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Montr\xe9al, une capitale, un parlement (1844-1849)
+\n                    
+Par 
+Pointe-\xe0-Calli\xe8re, cit\xe9 d'arch\xe9ologie et d'histoire de Montr\xe9al\t
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Regroupement qu\xe9b\xe9cois de la danse
+\n            
+\n            
+Le Regroupement qu\xe9b\xe9cois de la danse rassemble et repr\xe9sente pr\xe8s de 500 professionnels de la danse de recherche, de cr\xe9ation ou de r\xe9pertoire et joue un r\xf4le de premier plan dans l\u2019avancement de tous les secteurs de la discipline : cr\xe9ation, production, diffusion, formation, service. Initiateur de projets bas\xe9s sur la concertation et les interventions \xe0 longue port\xe9e, dont le Plan directeur de la danse professionnelle au Qu\xe9bec 2011-2021, le RQD contribue activement \xe0 la reconnaissance et \xe0 l'am\xe9lioration des conditions de pratique de la danse sur la sc\xe8ne publique depuis pr\xe8s de 30 ans.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Danse
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+L'arbre ensemble : Journ\xe9e internationale de la danse 2016
+\n                    
+Par 
+Regroupement qu\xe9b\xe9cois de la danse
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Danse
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Une danse olympique
+\n                    
+Par 
+Regroupement qu\xe9b\xe9cois de la danse
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Danse
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Les grands de la danse
+\n                    
+Par 
+Regroupement qu\xe9b\xe9cois de la danse
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Festival TransAm\xe9riques
+\n            
+\n            
+Le Festival TransAm\xe9riques est le plus important festival consacr\xe9 \xe0 la danse et au th\xe9\xe2tre en Am\xe9rique du Nord. Chaque printemps, \xe0 travers environ 25 spectacles \xe0 l\u2019esth\xe9tique et au propos r\xe9solument contemporains, le FTA donne \xe0 voir et \xe0 entendre la repr\xe9sentation de l\u2019art de notre \xe9poque, \xe0 travers les \u0153uvres de chor\xe9graphes, d\u2019auteurs et de metteurs en sc\xe8nes d\u2019ici et de l\u2019\xe9tranger.Multilingue, hybride, festif, le FTA se vit au rythme et \xe0 l\u2019image de son port d\u2019attache : Montr\xe9al.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Th\xe9\xe2tre & sc\xe8ne
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+\xab Logique du pire \xbb au FTA : \xe9gos en chute libre
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Danse
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+\xab Fin de s\xe9rie \xbb au FTA : de l\u2019illusion \xe0 la r\xe9bellion
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Multi
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+10 ans de FTA : c\xe9l\xe9bration d\u2019un mariage heureux
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Arte Musica
+\n            
+\n            
+En r\xe9sidence au Mus\xe9e des beaux-arts de Montr\xe9al, la Fondation Arte Musica a pour mission d\u2019y d\xe9velopper la programmation musicale. Depuis l\u2019ouverture de la salle Bourgie en 2011, elle y pr\xe9sente annuellement plus de 150 concerts, des activit\xe9s familiales et scolaires, ainsi que des conf\xe9rences et des films qui sont en lien avec les collections du Mus\xe9e. En 2014, la Fondation s'est donn\xe9e pour d\xe9fi de pr\xe9senter au cours des huit prochaines ann\xe9es l\u2019int\xe9grale des cantates de J.S. Bach, \xe0 raison de huit concerts par saison. Les spectateurs y sont m\xeame convi\xe9s \xe0 mettre leur voix \xe0 l'\xe9preuve!
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Cordes et discorde
+\n                    
+Par 
+Arte Musica
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Le piano historique \xc9rard, une acquisition exceptionnelle
+\n                    
+Par 
+Arte Musica
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Jeunes & pros \xe0 la salle Bourgie
+\n                    
+Par 
+Arte Musica
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Ville de Montr\xe9al
+\n            
+\n            
+La Ville de Montr\xe9al encourage l'\xe9panouissement de ses citoyens \xe0 travers son r\xe9seau de biblioth\xe8ques, de loisirs, de diffuseurs culturels et de mus\xe9es municipaux. Elle d\xe9ploie des efforts pour d\xe9velopper sa collection d'art public, assurer la p\xe9rennit\xe9 de son patrimoine et soutenir les artistes, organismes et festivals culturels montr\xe9alais \xe0 travers diff\xe9rentes mesures. Elle joue un r\xf4le pr\xe9dominant dans le d\xe9veloppement des quartiers culturels dans tous les arrondissements montr\xe9alais.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Design
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Pelletier de Fontenay, laur\xe9ats 2015 de la bourse Phyllis-Lambert
+\n                    
+Par 
+Ville de Montr\xe9al
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Design
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Laur\xe9ats de la bourse Phyllis-Lambert
+\n                    
+Par 
+Ville de Montr\xe9al
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Design
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+\xc9milie F Grenier laur\xe9ate de la bourse Phyllis-Lambert Design Montr\xe9al 2014
+\n                    
+Par 
+Ville de Montr\xe9al
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+POP Montr\xe9al
+\n            
+\n            
+Fond\xe9 en 2002, le Festival international de musique POP Montr\xe9al est un \xe9v\xe9nement culturel \xe0 but non lucratif qui encourage l\u2019ind\xe9pendance artistique et pr\xe9sente des artistes \xe9mergents et renomm\xe9s du monde entier. Chaque ann\xe9e, pendant cinq jours, le festival rassemble plus de 400 artistes et 50 000 festivaliers. Offrant un m\xe9lange audacieux de diverses formes d\u2019art, POP propose des conf\xe9rences, des foires d\u2019artisanat et d\u2019arts visuels, des projections de films et des f\xeates l\xe9gendaires.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+BIG|BRAVE | POP Shots
+\n                    
+Par 
+POP Montr\xe9al
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+POP Montr\xe9al 2015 - bande-annonce officielle
+\n                    
+Par 
+POP Montr\xe9al
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Milk & Bone | POP Shots
+\n                    
+Par 
+POP Montr\xe9al
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+La Maison de la litt\xe9rature
+\n            
+\n            
+Composante majeure de la Biblioth\xe8que de Qu\xe9bec, la Maison de la litt\xe9rature abrite une biblioth\xe8que publique et une exposition permanente sur la litt\xe9rature qu\xe9b\xe9coise, des cabinets d\u2019\xe9criture, un atelier de BD, un studio de cr\xe9ation, une r\xe9sidence d\u2019\xe9crivains, un salon de qui\xe9tude, ainsi que, toute l\u2019ann\xe9e, une programmation vari\xe9e pr\xe9sent\xe9e sur la sc\xe8ne litt\xe9raire.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Litt\xe9rature
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+En r\xe9sidence \xe0 la Maison de la litt\xe9rature
+\n                    
+Par 
+La Maison de la litt\xe9rature
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Litt\xe9rature
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+Inauguration de la Maison de la litt\xe9rature : Jean D\xe9sy
+\n                    
+Par 
+La Maison de la litt\xe9rature
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Litt\xe9rature
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+Inauguration de la Maison de la litt\xe9rature : Arleen Thibault
+\n                    
+Par 
+La Maison de la litt\xe9rature
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Zone Occup\xe9e
+\n            
+\n            
+Zone Occup\xe9e est une revue d\u2019art et de culture actuelle biannuelle qui pr\xe9sente et analyse le travail des artistes de la r\xe9gion du Saguenay\u2013Lac-Saint-Jean. Au-del\xe0 du simple magazine, elle s\u2019impose comme outil de r\xe9f\xe9rence autant pour les jeunes artistes que pour les artistes professionnels qui \u0153uvrent en r\xe9gion \xe9loign\xe9e des grands centres. Se divisant en plusieurs sections traitant des arts et de la culture, chaque parution de Zone Occup\xe9e se veut une r\xe9flexion sociologique et artistique th\xe9matique ax\xe9e sur le monde culturel r\xe9gional.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Saguenay\u2013Lac-Saint-Jean
+\n                
+Art Nomade 2013 / jour 2
+\n                    
+Par 
+Zone Occup\xe9e
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Saguenay\u2013Lac-Saint-Jean
+\n                
+Art Nomade 2013 / jour 1
+\n                    
+Par 
+Zone Occup\xe9e
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Saguenay\u2013Lac-Saint-Jean
+\n                
+Art Nomade 2013 / jour 3
+\n                    
+Par 
+Zone Occup\xe9e
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Association nationale des \xe9diteurs de livres
+\n            
+\n            
+Regroupant une centaine de maisons d'\xe9dition litt\xe9raire, culturelle, g\xe9n\xe9rale et scolaire de langue fran\xe7aise, l'Association nationale des \xe9diteurs de livres encourage le d\xe9veloppement d\u2019une \xe9dition nationale et favorise sa promotion et sa diffusion. Elle pr\xf4ne la libert\xe9 d'expression, le respect du droit d'auteur et l'acc\xe8s universel au livre comme soutien \xe0 la connaissance et outil d'apprentissage. L'ANEL est l'organisme de repr\xe9sentation de l'\xe9dition de langue fran\xe7aise dans le milieu culturel.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Litt\xe9rature
+\n            
+\n            
+\n                
+Mont\xe9r\xe9gie
+\n                
+Le 12 ao\xfbt, j'ach\xe8te un livre qu\xe9b\xe9cois!
+\n                    
+Par 
+Association nationale des \xe9diteurs de livres
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Litt\xe9rature
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Litt\xe9ratoclip : Sophie Bienvenu et Birocratic
+\n                    
+Par 
+Association nationale des \xe9diteurs de livres
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Litt\xe9rature
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+L'enfer des paradis fiscaux | T\xeate-B\xeache
+\n                    
+Par 
+Association nationale des \xe9diteurs de livres
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Pr\xe9sence autochtone
+\n            
+\n            
+Pr\xe9sence Autochtone est un festival multidisciplinaire mettant en valeur le meilleur de la cr\xe9ativit\xe9 des autochtones des trois Am\xe9riques et d\u2019ailleurs.  Pr\xe9sence Autochtone propose une multitude d\u2019activit\xe9s : des prestations sc\xe9niques de musique, de chant, de danse, un grand d\xe9fil\xe9, de la cuisine de rue, des ateliers, ainsi que des centaines de projections de films. Se d\xe9roulant notamment sur la Place des festivals, l'\xe9v\xe9nement s'impose comme un lieu incontournable d\u2019\xe9changes et de d\xe9couvertes.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Cin\xe9ma
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Coups de coeur de la programmation (2e partie)
+\n                    
+Par 
+Pr\xe9sence autochtone
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Cin\xe9ma
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Coups de coeur de la programmation (1\xe8re partie)
+\n                    
+Par 
+Pr\xe9sence autochtone
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Multi
+\n            
+\n            
+\n                
+\n                
+Quand les passions se rencontrent
+\n                    
+Par 
+Pr\xe9sence autochtone
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+La Raffinerie
+\n            
+\n            
+Les cabarets humoristiques de la Raffinerie mettent en sc\xe8ne com\xe9diens, auteurs et humoristes dans des monologues comiques de leur cru.  Banc d\u2019essai pour certains, tremplin pour d\u2019autres, La Raffinerie se donne comme mandat d\u2019offrir une tribune diff\xe9rente \xe0 ceux et celles qui souhaitent se frotter \xe0 l\u2019art difficile \u2013 mais \xf4 combien satisfaisant \u2013 de faire rire.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Th\xe9\xe2tre & sc\xe8ne
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Patrick Dupuis | La Raffinerie
+\n                    
+Par 
+La Raffinerie
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Th\xe9\xe2tre & sc\xe8ne
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Pascale Renaud-H\xe9bert | La Raffinerie
+\n                    
+Par 
+La Raffinerie
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Th\xe9\xe2tre & sc\xe8ne
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Julien Corriveau | La Raffinerie
+\n                    
+Par 
+La Raffinerie
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+R\xe9seau Art Actuel
+\n            
+\n            
+R\xe9seau Art Actuel est un portail d\xe9di\xe9 \xe0 la promotion de l\u2019art actuel et contemporain. Cet espace virtuel vise \xe0 pr\xe9senter la multiplicit\xe9 des activit\xe9s et des pratiques du secteur de l\u2019art actuel et contemporain au Qu\xe9bec, au Canada et sur la sc\xe8ne internationale. R\xe9seau Art Actuel est une initiative du Regroupement des centres d\u2019artistes autog\xe9r\xe9s du Qu\xe9bec (RCAAQ)
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+\xab Le sommeil trouble de l\u2019op\xe9rateur \xbb de S\xe9bastien Cliche
+\n                    
+Par 
+R\xe9seau Art Actuel
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+Loup gris
+\n                    
+Par 
+R\xe9seau Art Actuel
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+Carrefour d\xe9ment
+\n                    
+Par 
+R\xe9seau Art Actuel
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Conservatoire de musique et d'art dramatique du Qu\xe9bec
+\n            
+\n            
+Fond\xe9 par Wilfrid Pelletier, le Conservatoire de musique et d\u2019art dramatique du Qu\xe9bec est une institution publique de formation sup\xe9rieure en arts de la sc\xe8ne compos\xe9e de 9 \xe9coles prestigieuses d\xe9ploy\xe9es \xe0 travers le Qu\xe9bec, \xe0 Gatineau, \xe0 Montr\xe9al, \xe0 Qu\xe9bec, \xe0 Rimouski, \xe0 Saguenay, \xe0 Trois-Rivi\xe8res et \xe0 Val-d\u2019Or. Gr\xe2ce \xe0 une \xe9quipe de professeurs chevronn\xe9s, le Conservatoire d\xe9piste et propulse les artistes de la sc\xe8ne culturelle d\u2019ici et d\u2019ailleurs, depuis 1942.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Mauricie
+\n                
+\xab Anitra's Tanz \xbb de Milot et Caron | Les Sessions #LaFab
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+Marie-Jos\xe9e Lord : vingt ans au Conservatoire
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Abitibi-T\xe9miscamingue
+\n                
+Visite du nouveau Conservatoire de musique de Val-d\u2019Or
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+La Biennale de Montr\xe9al
+\n            
+\n            
+\xc9v\xe9nement international majeur en art contemporain, BNLMTL 2014, L\u2019avenir (looking forward), a lieu \xe0 Montr\xe9al du 22 octobre 2014 au 4 janvier 2015.\n\nBNLMTL 2014 offre une constellation d\u2019\xe9v\xe9nements gravitant autour d\u2019une grande exposition r\xe9unissant plus de 150 \u0153uvres, dont 25 cr\xe9ations in\xe9dites, de 50 artistes d\u2019ici et d\u2019ailleurs.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Les artistes de BNLMTL 2014
+\n                    
+Par 
+La Biennale de Montr\xe9al
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+La Biennale dans la ville
+\n                    
+Par 
+La Biennale de Montr\xe9al
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+BNLMTL 2014, L\u2019avenir (looking forward)
+\n                    
+Par 
+La Biennale de Montr\xe9al
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Les Fr\xe8res Goyette
+\n            
+\n            
+La l\xe9gende des Fr\xe8res Goyette c'est six personnages de faux fr\xe8res plus vrais que nature, fra\xeechement d\xe9barqu\xe9s du village de Champlain. Les Fr\xe8res Goyette se font remarquer par leur approche sc\xe9nique inhabituelle mariant musique et humour. Ils ont fait parra\xeetre leurs chansons folk aux accents rock sur quatre albums : Vos yeule! On chante (2002), Minimiser les d\xe9g\xe2ts (2007) et Rencontre du troisi\xe8me \xe2ge (2010), Fid\xe8les, Tenaces et fr\xe8res (2013). En 2010, ils mettaient en ligne leur premi\xe8re web-s\xe9rie.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Multi
+\n            
+\n            
+\n                
+Mauricie
+\n                
+\xc9pisode 1 - Chanson au champ centre
+\n                    
+Par 
+Les Fr\xe8res Goyette
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Multi
+\n            
+\n            
+\n                
+Mauricie
+\n                
+\xc9pisode 2 \u2013 Une bulle dans le sirop
+\n                    
+Par 
+Les Fr\xe8res Goyette
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Multi
+\n            
+\n            
+\n                
+Mauricie
+\n                
+\xc9pisode 3 \u2013 Le ski audio
+\n                    
+Par 
+Les Fr\xe8res Goyette
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Kinomada
+\n            
+\n            
+KINOMADA est un organisme \xe0 but non-lucratif dont la mission consiste \xe0 organiser des laboratoires internationaux de cr\xe9ation de courts m\xe9trages. Notre organisme est nomade : nous nous d\xe9pla\xe7ons dans le monde pour organiser ces laboratoires, qui ont lieu deux fois par ann\xe9e. Pendant une semaine, nous r\xe9unissons des artistes et artisans du cin\xe9ma et de la vid\xe9o d'horizons vari\xe9s : ceux-ci doivent relever le d\xe9fi de cr\xe9er des courts m\xe9trages dans ce temps limite, en s'entraidant.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Court m\xe9trage
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+\xab 999/1 \xbb, un film de Felipe Martinez
+\n                    
+Par 
+Kinomada
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Court m\xe9trage
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+\xab El Presidente! \xbb de Maxence Bradley et Elisabeth Olga Tremblay
+\n                    
+Par 
+Kinomada
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Court m\xe9trage
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+\xab Jet Lag \xbb, un film de Sergio Tovar Velarde
+\n                    
+Par 
+Kinomada
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Galeries Montr\xe9al
+\n            
+\n            
+Galeries Montr\xe9al, la r\xe9f\xe9rence des galeries et des lieux d'art de Montr\xe9al a pour mission de promouvoir et diffuser les arts visuels et m\xe9diatiques en offrant un guide complet permettant de d\xe9couvrir les galeries d\u2019art, centres d\u2019artistes autog\xe9r\xe9s, mus\xe9es et centres d\u2019exposition. Les utilisateurs de la plateforme ont la possibilit\xe9 de consulter une base de donn\xe9es de plus de 120 lieux d'exposition, d'explorer des circuits pi\xe9tonniers, de rester \xe0 l'aff\xfbt des expositions et bien plus.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Soci\xe9t\xe9 & mus\xe9es
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Les 50 ans du MAC : la vision du dg
+\n                    
+Par 
+Galeries Montr\xe9al
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Nicolas Lachance : entre peinture et voitures
+\n                    
+Par 
+Galeries Montr\xe9al
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Laval
+\n                
+Daylight 2014 : Plein feux sur Laval
+\n                    
+Par 
+Galeries Montr\xe9al
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+La Cin\xe9math\xe8que qu\xe9b\xe9coise
+\n            
+\n            
+La Cin\xe9math\xe8que qu\xe9b\xe9coise, c\u2019est le mus\xe9e de l\u2019image en mouvement \xe0 Montr\xe9al. Sa mission est d\u2019acqu\xe9rir, documenter et sauvegarder le patrimoine audiovisuel qu\xe9b\xe9cois ainsi que le cin\xe9ma d\u2019animation international, collectionner des \u0153uvres significatives du cin\xe9ma canadien et mondial, pour en assurer la mise en valeur \xe0 des fins culturelles et \xe9ducatives.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n        \n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Le Festival International de cin\xe9ma et d'art de Perc\xe9 -Les Perc\xe9ides
+\n            
+\n            
+Le Festival Les Perc\xe9ides est un festival international de cin\xe9ma d\u2019auteur qui se d\xe9roule \xe0 chaque mois d\u2019ao\xfbt \xe0 Perc\xe9 en Gasp\xe9sie. La programmation du festival met de l\u2019avant la production annuelle de longs m\xe9trages et courts m\xe9trages qui explorent diff\xe9rents genres, tels que la fiction, le documentaire, l\u2019animation, le cin\xe9ma populaire et le cin\xe9ma exp\xe9rimental. Le festival se distingue par sa libert\xe9 d\u2019esprit, son caract\xe8re novateur dans la programmation et son souci d\u2019ouverture aux spectateurs non professionnels int\xe9ress\xe9s par les cin\xe9mas contemporains audacieux.
+\n            
+Tout voir\xa0
+\n\n            \n\n        
+\n        \n    
+\n\n\n\n        
+\n\n\n    
+\n    
+\n    
+\n    
+\n        
+\n            
+La Fabrique culturelle est une plateforme interactive. On peut devenir membre de sa communaut\xe9 pour partager ses propres contenus. On trouve dans cette section de v\xe9ritables tr\xe9sors qui rivalisent de cr\xe9ativit\xe9 et d\u2019audace.
+\n            
+S\u2019inscrire 
+\n        
+\n\n        
+\n        \n\n
+\n    
+\n        
+\n\n                
+Trier\xa0par\xa0:
+\n                
+\n                        
+\n        
+Les plus r\xe9centes
+\n            
+Les plus r\xe9centes
+\n            
+A \xe0 Z
+\n    
+\n\n                
+\n\n\n            \n\n\n\n\n        
+\n    
+\n
+\n\n        
+\n\n        
+\n            \n    
+\n        
+\n            
+\n                
+\n                
+MAI (Montr\xe9al, arts interculturels)
+\n            
+\n            
+Depuis 1999, le MAI (Montr\xe9al, arts interculturels) pr\xe9sente des \u0153uvres vives, engageantes et r\xe9solument actuelles. Diffuseur pluridisciplinaire en arts contemporains, v\xe9ritable incubateur permettant la recherche et la r\xe9flexion, lieu d\u2019\xe9change et de dialogue, le MAI a pour mission d\u2019appuyer la cr\xe9ation, la diffusion et le rayonnement des arts interculturels; des cr\xe9ations originales en danse, musique, th\xe9\xe2tre, arts interdisciplinaires, arts visuels et m\xe9diatiques.
+\n            
+Tout voir\xa0
+\n\n\n        
+\n\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Danse
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Portrait d'artiste | Sarah Elola
+\n                    
+Par 
+MAI (Montr\xe9al, arts interculturels)
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Tom Jacques
+\n            
+\n            
+Musicien\u200b \u200bmulti-instrumentiste\u200b \u200bet\u200b \u200bartiste\u200b \u200bsonore,\u200b \u200bTom\u200b \u200bJacques\u200b \u200bd\xe9veloppe\u200b \u200bdepuis\u200b \u200bde\u200b \u200bnombreuses\u200b \u200bann\xe9es des\u200b \u200bdispositifs\u200b \u200bmusicaux\u200b \u200bafin\u200b \u200bde\u200b \u200br\xe9aliser\u200b \u200bdiff\xe9rentes\u200b \u200brecherches\u200b \u200bsonores\u200b \u200bet\u200b \u200blui\u200b \u200bapporter\u200b \u200bde\u200b \u200bnouveaux \xe9l\xe9ments\u200b \u200bcompositionnels.\u200b \u200bMembre\u200b \u200bfondateur\u200b \u200bet\u200b \u200bdirecteur\u200b \u200bartistique\u200b \u200bde\u200b \u200bBASCAILLE,\u200b \u200bil\u200b \u200best\u200b \u200b\xe9galement\u200b \u200bmusicien\u200b \u200bGGRIL,\u200b \u200bdu\u200b \u200bquatuor\u200b \u200bjazz\u200b \u200bMANTA\u200b \u200bet\u200b \u200bcollabore\u200b \u200br\xe9guli\xe8rement\u200b \u200bavec plusieurs\u200b \u200bartistes\u200b.
+\n            
+Tout voir\xa0
+\n\n\n        
+\n\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Bas-Saint-Laurent
+\n                
+Terroir Sonore
+\n                    
+Par 
+Tom Jacques
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Jo\xebl Desmarais
+\n            
+\n            
+Auteur/compositeur folk d\u2019expression francophone. Arm\xe9 de sa guitare, son harmonica et parfois d'un piano martel\xe9, il d\xe9fend avec vigueur ses chansons semi-fictives dans la plus pure tradition des chanteurs folks des ann\xe9es 70. La musique de Jo\xebl est m\xe9lodieuse et m\xe9lancolique, avec un fini non-l\xe9ch\xe9 qui garde en haleine jusqu'\xe0 la derni\xe8re note. Sa po\xe9sie authentique met la touche finale \xe0 cet univers granuleux teint\xe9 de rouille et de sable.
+\n            
+Tout voir\xa0
+\n\n\n        
+\n\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Lanaudi\xe8re
+\n                
+Jo\xebl Desmarais - U.F.O. [Vid\xe9oclip officiel]
+\n                    
+Par 
+Jo\xebl Desmarais
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Biblioth\xe8que qu\xe9b\xe9coise
+\n            
+\n            
+BQ est une maison d\u2019\xe9dition ind\xe9pendante fond\xe9e en 1988, administr\xe9e conjointement par les \xc9ditions Hurtubise et Lem\xe9ac. Son catalogue de pr\xe8s de 300 titres propose le meilleur de la litt\xe9rature qu\xe9b\xe9coise et canadienne-anglaise en traduction. Plusieurs g\xe9n\xe9rations de lecteurs ont lu BQ qui demeure une collection de r\xe9f\xe9rence, mais aussi d\u2019innovation pour la litt\xe9rature d\u2019hier et d\u2019aujourd\u2019hui.
+\n            
+Tout voir\xa0
+\n\n\n        
+\n\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Litt\xe9rature
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Questions pour l'auteure M\xe9lissa Verreault
+\n                    
+Par 
+Biblioth\xe8que qu\xe9b\xe9coise
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Orchestre national de jazz | Montr\xe9al
+\n            
+\n            
+L\u2019Orchestre national de jazz de Montr\xe9al (ONJ) est un ensemble \xe0 g\xe9om\xe9trie variable unique qui r\xe9unit des chefs d'orchestre et des instrumentistes du plus haut calibre, issus de toutes les r\xe9gions du Canada. Depuis sa fondation en 2012, l\u2019Orchestre a offert pr\xe8s de 40 concerts, r\xe9alis\xe9 2 CD et collabor\xe9 avec pr\xe8s d\u2019une centaine des meilleurs musiciens de jazz nationaux et internationaux. L\u2019ONJ favorise la participation des femmes et des personnes de toutes origines culturelles et communautaires.
+\n            
+Tout voir\xa0
+\n\n\n        
+\n\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Sous l'influence de Montr\xe9al
+\n                    
+Par 
+Orchestre national de jazz | Montr\xe9al
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Marie Jos\xe9e Simard
+\n            
+\n            
+\n            
+Tout voir\xa0
+\n\n\n        
+\n\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+\xab La Muerte del Angel \xbb d'Astor Piazzola
+\n                    
+Par 
+Marie Jos\xe9e Simard
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Th\xe9\xe2tre Gilles-Vigneault
+\n            
+\n            
+Portant le nom de l\u2019un des plus grands ambassadeurs de la chanson de la francophonie, le Th\xe9\xe2tre Gilles-Vigneault occupera une place de choix dans la r\xe9gion des Laurentides en raison de sa qualit\xe9 sup\xe9rieure et de son statut de plus grande salle de spectacles des Laurentides. Des journ\xe9es portes ouvertes se tiendront \xe0 la fin du mois de novembre 2017 et proposeront des parcours guid\xe9s, de l\u2019animation et des activit\xe9s sp\xe9ciales, en plus de la pr\xe9sentation d\u2019un concert inaugural en janvier 2018.
+\n            
+Tout voir\xa0
+\n\n\n        
+\n\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Multi
+\n            
+\n            
+\n                
+Laurentides
+\n                
+L'\xe9volution des travaux du Th\xe9\xe2tre Gilles-Vigneault : l'humour
+\n                    
+Par 
+Th\xe9\xe2tre Gilles-Vigneault
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Nicole Deschamps
+\n            
+\n            
+\n            
+Tout voir\xa0
+\n\n\n        
+\n\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Laurentides
+\n                
+Faire impression au rouleau compresseur
+\n                    
+Par 
+Nicole Deschamps
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+MRC de D'Autray
+\n            
+\n            
+L\u2019histoire de la MRC de D\u2019Autray a fa\xe7onn\xe9 son territoire et la culture de ses habitants depuis les tout d\xe9buts de la colonisation. Les quinze municipalit\xe9s qui la composent aujourd\u2019hui offrent aux visiteurs un contact direct avec l\u2019histoire, par la richesse de son patrimoine architectural, et par les diff\xe9rentes vocations qu\u2019ont pr\xe9serv\xe9 les secteurs.
+\n            
+Tout voir\xa0
+\n\n\n        
+\n\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Multi
+\n            
+\n            
+\n                
+Lanaudi\xe8re
+\n                
+Le gossage de cups | Pour la suite du geste\u2026 rassemblons-nous!
+\n                    
+Par 
+MRC de D'Autray
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Gagn\xe9
+\n            
+\n            
+Auteur, compositeur, interpr\xe8te,natif de Cacouna, un village du Bas-du-Fleuve.  Ce d\xe9cor fut pour lui la source de ses premi\xe8res exp\xe9riences musicales,
+\n            
+Tout voir\xa0
+\n\n\n        
+\n\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+\n                
+Comme un phare
+\n                    
+Par 
+Gagn\xe9
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Patrick Aubert
+\n            
+\n            
+Patrick Aubert a \xe9tudi\xe9 le cin\xe9ma \xe0 l\u2019Universit\xe9 Concordia. Son film AVANT L'AUBE (2007), lui a valu une bourse d'excellence en r\xe9alisation/montage. Depuis la fin de ses \xe9tudes, il a \xe9crit et r\xe9alis\xe9 12 courts m\xe9trages en collaboration avec Kino Montr\xe9al, dont ROBERT & LA ROUSSE (2010) et UNE PENS\xc9E POUR ROBERT (2012), qui ont \xe9t\xe9 pr\xe9sent\xe9s dans 70 festivals \xe0 travers le monde. Patrick a \xe9galement particip\xe9 \xe0 la cr\xe9ation de 15 longs m\xe9trages et 100 courts m\xe9trages \xe0 titre de scripte.
+\n            
+Tout voir\xa0
+\n\n\n        
+\n\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Court m\xe9trage
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Le Piment
+\n                    
+Par 
+Patrick Aubert
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Productions Nuits d'Afrique
+\n            
+\n            
+\n            
+Tout voir\xa0
+\n\n\n        
+\n\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+HK et l'Empire de papier | Nuits d'Afrique
+\n                    
+Par 
+Productions Nuits d'Afrique
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Bellemare Artiste
+\n            
+\n            
+\n            
+Tout voir\xa0
+\n\n\n        
+\n\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+Entrez dans l'univers cr\xe9atif de Pierre Bellemare!
+\n                    
+Par 
+Bellemare Artiste
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Franck Sylvestre
+\n            
+\n            
+Conteur, auteur et com\xe9dien, Franck Sylvestre publie plusieurs livres de contes jeunesse  dont le dernier " L'Incroyable secret de Barbe noire" a remport\xe9 en France,  le prix Plume de paon 2017 du livre disque.\n\nSon dernier opus, " Histoires Slam\xe9es" un livre disque de slam, para\xeetra octobre 2017 aux \xe9ditions plan\xe8te rebelle.
+\n            
+Tout voir\xa0
+\n\n\n        
+\n\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Dimanche soir
+\n                    
+Par 
+Franck Sylvestre
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Martin Forget
+\n            
+\n            
+R\xe9alisateur de court-m\xe9trages.
+\n            
+Tout voir\xa0
+\n\n\n        
+\n\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Court m\xe9trage
+\n            
+\n            
+\n                
+Capitale-Nationale
+\n                
+La Divine Strat\xe9gie
+\n                    
+Par 
+Martin Forget
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Olga Claing
+\n            
+\n            
+Olga Claing travaille \xe0 la promotion des compagnies de cr\xe9ations th\xe9\xe2trales et multidisciplinaires, plus particuli\xe8rement, mais non exclusivement, celles qui affectionnent l\u2019exp\xe9rimentation, la recherche, et qui poussent les formes de cr\xe9ation habituelles au-del\xe0 des conventions.
+\n            
+Tout voir\xa0
+\n\n\n        
+\n\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Th\xe9\xe2tre & sc\xe8ne
+\n            
+\n            
+\n                
+\n                
+Omi Mouna | Ou ma rencontre fantastique avec mon arri\xe8re-grand-m\xe8re
+\n                    
+Par 
+Olga Claing
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Festival du cin\xe9ma international en Abitibi-T\xe9miscamingue
+\n            
+\n            
+\n            
+Tout voir\xa0
+\n\n\n        
+\n\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Cin\xe9ma
+\n            
+\n            
+\n                
+Abitibi-T\xe9miscamingue
+\n                
+FCIAT: bande-annonce 2017
+\n                    
+Par 
+Festival du cin\xe9ma international en Abitibi-T\xe9miscamingue
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Le long week-end du court
+\n            
+\n            
+Le long week-end du court offrira une r\xe9trospective de la derni\xe8re ann\xe9e en cin\xe9ma court \xe0 travers des programmations r\xe9gionale, nationale et internationale. Atelier et rencontres de r\xe9seautage sont aussi \xe0 l\u2019horaire de l\u2019\xe9v\xe8nement. Une occasion unique de d\xe9couvrir le meilleur du court m\xe9trage \xe0 Trois-Rivi\xe8res! Pr\xe9sent\xe9 les 25, 26 et 27 septembre 2015 au cin\xe9ma Le Tapis Rouge.
+\n            
+Tout voir\xa0
+\n\n\n        
+\n\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Court m\xe9trage
+\n            
+\n            
+\n                
+Mauricie
+\n                
+Le fleuve
+\n                    
+Par 
+Le long week-end du court
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+Jean Claude
+\n            
+\n            
+Jean Claude est un Auteur-Compositeur-Interpr\xe8te qu\xe9b\xe9cois
+\n            
+Tout voir\xa0
+\n\n\n        
+\n\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Mont\xe9r\xe9gie
+\n                
+\xab Rivi\xe8re de nous \xbb de Jean Claude
+\n                    
+Par 
+Jean Claude
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            
+\n                
+\n                
+OMNIBUS le corps du th\xe9\xe2tre / \xc9cole OMNIBUS th\xe9\xe2tre corporel
+\n            
+\n            
+DE L'ART DU CORPS AU CORPS DU TH\xc9\xc2TRE... \nOMNIBUS le corps du th\xe9\xe2tre et l\u2019\xc9cole OMNIBUS th\xe9\xe2tre corporel transmettent une vision de la pratique th\xe9\xe2trale o\xf9 l\u2019acte se conjugue au verbe avec une \xe9gale \xe9loquence \xe0 l\u2019int\xe9rieur de partis-pris esth\xe9tiques radicaux. N\u2019h\xe9sitant pas \xe0 recourir \xe0 la transversalit\xe9 avec d\u2019autres pratiques artistiques, OMNIBUS explore et lib\xe8re les moyens sp\xe9cifiques du mime; une technique moderne au service d\u2019une dramaturgie actuelle.
+\n            
+Tout voir\xa0
+\n\n\n        
+\n\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Th\xe9\xe2tre & sc\xe8ne
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Conte \xe0 rendre (un interrogatoire) | CAPSULE #2
+\n                    
+Par 
+OMNIBUS le corps du th\xe9\xe2tre / \xc9cole OMNIBUS th\xe9\xe2tre corporel
+\n            
+\n        
+\n    
+\n\n    
+\n\n\n        
+\n    
+\n    
+\n
+\n\n\n
+\n    
+\n        \n\n
+Afficher plus
+\n    
+\n
+\n    
+\n    
+\n        
+\n            
+Recevez notre infolettre
+\n            \n            
+S'abonner 
+\n        
+\n        
+\n            
+Suivez-nous sur les r\xe9seaux sociaux
+\n            \n            
+\n                
+\n                
+\n                
+\n                
+\n                
+\n            
+\n        
+\n    
+\n
+\n
+\n    
+\n        
+\n            
+R\xe9pertoires
+\n            
+\n                
+La Fabrique culturelle
+\n                
+Nos partenaires
+\n                
+La communaut\xe9
+\n            
+\n        
+\n        
+\n            
+R\xe9gions
+\n            
+\n                    
+Abitibi-T\xe9miscamingue
+\n                    
+Bas-Saint-Laurent
+\n                    
+Capitale-Nationale
+\n                    
+Centre-du-Qu\xe9bec
+\n                    
+Chaudi\xe8re-Appalaches
+\n                    
+C\xf4te-Nord
+\n                    
+Estrie
+\n                    
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                    
+International
+\n                    
+Lanaudi\xe8re
+\n                    
+Laurentides
+\n                    
+Laval
+\n                    
+Mauricie
+\n                    
+Mont\xe9r\xe9gie
+\n                    
+Montr\xe9al
+\n                    
+Nord-du-Qu\xe9bec
+\n                    
+Outaouais
+\n                    
+Saguenay\u2013Lac-Saint-Jean
+\n            
+\n        
+\n        
+\n            
+Th\xe8mes
+\n            
+\n                    
+Arts visuels & num\xe9riques
+\n                    
+Cin\xe9ma
+\n                    
+Court m\xe9trage
+\n                    
+Danse
+\n                    
+Design
+\n                    
+Litt\xe9rature
+\n                    
+Multi
+\n                    
+Musique
+\n                    
+Soci\xe9t\xe9 & mus\xe9es
+\n                    
+Th\xe9\xe2tre & sc\xe8ne
+\n            
+\n        
+\n        
+\n            
+Plan du site
+\n            
+\n                \n                
+Webs\xe9ries
+\n                
+Billets
+\n                
+Dossiers
+\n                
+Nos partenaires
+\n                
+\xc0 propos
+\n                
+Foire aux questions
+\n                
+Nous joindre
+\n                
+S'abonner \xe0 l'infolettre 
+\n                
+Fils RSS
+\n            
+\n        
+\n        
+\n            
+Une production de 
+\n        
+\n    
+\n    
+\n        
+\n            
+\xa9 T\xe9l\xe9-Qu\xe9bec \u2014 laFabriqueCulturelle.tv
+\n            
+\n                \n                
+Avis Juridiques
+\n            
+\n        
+\n    
+\n
+\n    \n    
+\n        $(document)\n            .ready(function() {\n                LAFABRIQUE.Chaines.init();\n            });\n    
+\n\n\n    
+\n    
+\n        var options = [];\n        var pub_manager = new Tq.Pub.Manager(options);\n    
+\n    \n\n>

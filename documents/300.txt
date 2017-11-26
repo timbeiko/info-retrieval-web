@@ -1,0 +1,942 @@
+\n\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+Study finds female professors outperform men in service -- to their possible professional detriment
+\n
+\n
+\n
+\n
+\n
+\n
+\n<!--//--><![CDATA[//><!--\nwindow.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js'>\\x3C/script>")\n//--><!]]>\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n<!--//--><![CDATA[//><!--\n;var googletag=googletag||{};googletag.cmd=googletag.cmd||[];googletag.slots=googletag.slots||{};\n//--><!]]>\n
+\n
+\n<!--//--><![CDATA[//><!--\n;var mapping=googletag.sizeMapping().addSize([0,0],[300,250]).addSize([980,1],[160,600]).build();googletag.slots['story_level_pages']=googletag.defineSlot('/309842/site172.tmus/story_level_pages',[160,600],'dfp-ad-story_level_pages').addService(googletag.pubads()).setTargeting('tile','2').setTargeting('kw',['diversity','faculty']).defineSizeMapping(mapping);\n//--><!]]>\n
+\n
+\n<!--//--><![CDATA[//><!--\n;googletag.slots['clone_of_story_level_pages']=googletag.defineSlot('/309842/site172.tmus/story_level_pages',[300,250],'dfp-ad-clone_of_story_level_pages').addService(googletag.pubads()).setTargeting('tile','1').setTargeting('kw',['diversity','faculty']);\n//--><!]]>\n
+\n
+\n<!--//--><![CDATA[//><!--\n;googletag.slots['all_other_pages']=googletag.defineSlot('/309842/site172.tmus/all_other_pages',[300,250],'dfp-ad-all_other_pages').addService(googletag.pubads()).setTargeting('kw','node/193471');\n//--><!]]>\n
+\n
+\n<!--//--><![CDATA[//><!--\n;var mapping=googletag.sizeMapping().addSize([0,0],[300,250]).addSize([768,1],[728,90]).build();googletag.slots['clone_of_clone_of_story_level_pages']=googletag.defineSlot('/309842/site172.tmus/story_level_pages',[728,90],'dfp-ad-clone_of_clone_of_story_level_pages').addService(googletag.pubads()).setTargeting('tile','3').setTargeting('kw',['diversity','faculty']).defineSizeMapping(mapping);\n//--><!]]>\n
+\n
+\n<!--//--><![CDATA[//><!--\n;googletag.cmd.push(function(){googletag.pubads().enableAsyncRendering();googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs(!0)});googletag.enableServices();\n//--><!]]>\n
+\n
+\n<!--//--><![CDATA[//><!--\n(function(a,c,o,i,e,t,n){a['GoogleAnalyticsObject']=e;a[e]=a[e]||function(){(a[e].q=a[e].q||[]).push(arguments)},a[e].l=1*new Date();t=c.createElement(o),n=c.getElementsByTagName(o)[0];t.async=1;t.src=i;n.parentNode.insertBefore(t,n)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-2139597-1',{'cookieDomain':'auto'});ga('set','dimension1','Career Advice, Faculty');ga('send','pageview');\n//--><!]]>\n
+\n
+\n<!--//--><![CDATA[//><!--\n;jQuery.extend(Drupal.settings,{"basePath":"\\/","pathPrefix":"","ajaxPageState":{"theme":"ihecustom","theme_token":"eZ90DizZQq8zoQN98-CQPm7GRw9P8nl_FXxU0TP6DZA","css":{"modules\\/system\\/system.base.css":1,"modules\\/system\\/system.menus.css":1,"modules\\/system\\/system.messages.css":1,"modules\\/system\\/system.theme.css":1,"sites\\/all\\/libraries\\/chosen\\/chosen.css":1,"sites\\/all\\/modules\\/chosen\\/css\\/chosen-drupal.css":1,"modules\\/aggregator\\/aggregator.css":1,"sites\\/all\\/modules\\/date\\/date_api\\/date.css":1,"sites\\/all\\/modules\\/date\\/date_popup\\/themes\\/datepicker.1.7.css":1,"sites\\/all\\/modules\\/date\\/date_repeat_field\\/date_repeat_field.css":1,"modules\\/field\\/theme\\/field.css":1,"sites\\/all\\/modules\\/google_analytics_reports\\/google_analytics_reports\\/google_analytics_reports.css":1,"modules\\/node\\/node.css":1,"modules\\/search\\/search.css":1,"modules\\/user\\/user.css":1,"sites\\/all\\/modules\\/views\\/css\\/views.css":1,"sites\\/all\\/modules\\/ckeditor\\/css\\/ckeditor.css":1,"sites\\/all\\/modules\\/colorbox\\/styles\\/default\\/colorbox_style.css":1,"sites\\/all\\/modules\\/ctools\\/css\\/ctools.css":1,"sites\\/all\\/modules\\/panels\\/css\\/panels.css":1,"sites\\/all\\/modules\\/panels\\/plugins\\/layouts\\/twocol_bricks\\/twocol_bricks.css":1,"sites\\/all\\/modules\\/tb_megamenu\\/css\\/bootstrap.css":1,"sites\\/all\\/modules\\/tb_megamenu\\/css\\/base.css":1,"sites\\/all\\/modules\\/tb_megamenu\\/css\\/default.css":1,"sites\\/all\\/modules\\/tb_megamenu\\/css\\/compatibility.css":1,"sites\\/all\\/modules\\/tb_megamenu\\/fonts\\/font-awesome\\/css\\/font-awesome.css":1,"sites\\/all\\/modules\\/nice_menus\\/css\\/nice_menus.css":1,"sites\\/all\\/modules\\/nice_menus\\/css\\/nice_menus_default.css":1,"sites\\/all\\/themes\\/ihecustom\\/css\\/html-reset.css":1,"sites\\/all\\/themes\\/ihecustom\\/css\\/wireframes.css":1,"sites\\/all\\/themes\\/ihecustom\\/css\\/layout-fixed.css":1,"sites\\/all\\/themes\\/ihecustom\\/css\\/page-backgrounds.css":1,"sites\\/all\\/themes\\/ihecustom\\/css\\/tabs.css":1,"sites\\/all\\/themes\\/ihecustom\\/css\\/messages.css":1,"sites\\/all\\/themes\\/ihecustom\\/css\\/pages.css":1,"sites\\/all\\/themes\\/ihecustom\\/css\\/blocks.css":1,"sites\\/all\\/themes\\/ihecustom\\/css\\/navigation.css":1,"sites\\/all\\/themes\\/ihecustom\\/css\\/views-styles.css":1,"sites\\/all\\/themes\\/ihecustom\\/css\\/nodes.css":1,"sites\\/all\\/themes\\/ihecustom\\/css\\/comments.css":1,"sites\\/all\\/themes\\/ihecustom\\/css\\/forms.css":1,"sites\\/all\\/themes\\/ihecustom\\/css\\/fields.css":1,"sites\\/all\\/themes\\/ihecustom\\/css\\/print.css":1},"js":{"\\/\\/ajax.googleapis.com\\/ajax\\/libs\\/jquery\\/1.8.3\\/jquery.min.js":1,"misc\\/jquery.once.js":1,"https:\\/\\/www.googletagservices.com\\/tag\\/js\\/gpt.js":1,"misc\\/drupal.js":1,"sites\\/all\\/modules\\/nice_menus\\/js\\/jquery.bgiframe.js":1,"sites\\/all\\/modules\\/nice_menus\\/js\\/jquery.hoverIntent.js":1,"sites\\/all\\/modules\\/nice_menus\\/js\\/superfish.js":1,"sites\\/all\\/modules\\/nice_menus\\/js\\/nice_menus.js":1,"sites\\/all\\/modules\\/custom\\/custom_behaviors\\/custom_behaviors.js":1,"sites\\/all\\/modules\\/google_analytics_reports\\/google_analytics_reports\\/google_analytics_reports.js":1,"sites\\/all\\/libraries\\/colorbox\\/jquery.colorbox-min.js":1,"sites\\/all\\/modules\\/colorbox\\/js\\/colorbox.js":1,"sites\\/all\\/modules\\/colorbox\\/styles\\/default\\/colorbox_style.js":1,"sites\\/all\\/modules\\/colorbox\\/js\\/colorbox_load.js":1,"sites\\/all\\/modules\\/colorbox\\/js\\/colorbox_inline.js":1,"sites\\/all\\/modules\\/image_caption\\/image_caption.min.js":1,"sites\\/all\\/modules\\/disqus\\/js\\/disqus.js":1,"misc\\/jquery.cookie.js":1,"sites\\/all\\/modules\\/mostpopular\\/js\\/fade.js":1,"sites\\/all\\/modules\\/mostpopular\\/js\\/mostpopular.js":1,"sites\\/all\\/modules\\/google_analytics\\/googleanalytics.js":1,"sites\\/all\\/modules\\/tb_megamenu\\/js\\/tb-megamenu-frontend.js":1,"sites\\/all\\/modules\\/tb_megamenu\\/js\\/tb-megamenu-touch.js":1,"sites\\/all\\/modules\\/tb_megamenu\\/js\\/jw-additions.js":1,"sites\\/all\\/modules\\/chosen\\/chosen.js":1,"sites\\/all\\/libraries\\/chosen\\/chosen.jquery.min.js":1,"sites\\/all\\/themes\\/ihecustom\\/js\\/jquery.formalize.js":1,"sites\\/all\\/themes\\/ihecustom\\/js\\/viewswork.js":1,"sites\\/all\\/themes\\/ihecustom\\/js\\/jquery.sidr.min.js":1,"sites\\/all\\/themes\\/ihecustom\\/js\\/jquery.stickem.js":1,"sites\\/all\\/themes\\/ihecustom\\/js\\/general.js":1,"sites\\/all\\/themes\\/ihecustom\\/js\\/jquery.ddslick.min.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\\u00ab Prev","next":"Next \\u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"googleAnalyticsReportsAjaxUrl":"\\/google-analytics-reports\\/ajax","disqusComments":"insidehighered","disqus":{"domain":"insidehighered","url":"https:\\/\\/www.insidehighered.com\\/news\\/2017\\/04\\/12\\/study-finds-female-professors-outperform-men-service-their-possible-professional","title":"Study finds female professors outperform men in service -- to their possible professional detriment","identifier":"node\\/193471"},"mostpopular":{"url":"\\/mostpopular\\/ajax"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"chosen":{"selector":"select:visible","minimum_single":20,"minimum_multiple":20,"minimum_width":200,"options":{"disable_search":false,"disable_search_threshold":0,"search_contains":false,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match","inherit_select_classes":true}},"urlIsAjaxTrusted":{"\\/news\\/2017\\/04\\/12\\/study-finds-female-professors-outperform-men-service-their-possible-professional":true},"nice_menus_options":{"delay":"800","speed":"slow"}});\n//--><!]]>\n
+\n
+var _sf_startpt=(new Date()).getTime()
+\n
+\n  var isiPad = navigator.userAgent.match(/iPad/i) != null;\n  if (isiPad) {getElementById("iPadPush").style.display="block";}\n
+\n
+var getElementsByClassName=function(className,tag,elm){if(document.getElementsByClassName){getElementsByClassName=function(className,tag,elm){elm=elm||document;var elements=elm.getElementsByClassName(className),nodeName=(tag)?new RegExp("\\\\b"+tag+"\\\\b","i"):null,returnElements=[],current;for(var i=0,il=elements.length;i<il;i+=1){current=elements[i];if(!nodeName||nodeName.test(current.nodeName)){returnElements.push(current)}}return returnElements}}else if(document.evaluate){getElementsByClassName=function(className,tag,elm){tag=tag||"*";elm=elm||document;var classes=className.split(" "),classesToCheck="",xhtmlNamespace="http://www.w3.org/1999/xhtml",namespaceResolver=(document.documentElement.namespaceURI===xhtmlNamespace)?xhtmlNamespace:null,returnElements=[],elements,node;for(var j=0,jl=classes.length;j<jl;j+=1){classesToCheck+="[contains(concat(' ', @class, ' '), ' "+classes[j]+" ')]"}try{elements=document.evaluate(".//"+tag+classesToCheck,elm,namespaceResolver,0,null)}catch(e){elements=document.evaluate(".//"+tag+classesToCheck,elm,null,0,null)}while((node=elements.iterateNext())){returnElements.push(node)}return returnElements}}else{getElementsByClassName=function(className,tag,elm){tag=tag||"*";elm=elm||document;var classes=className.split(" "),classesToCheck=[],elements=(tag==="*"&&elm.all)?elm.all:elm.getElementsByTagName(tag),current,returnElements=[],match;for(var k=0,kl=classes.length;k<kl;k+=1){classesToCheck.push(new RegExp("(^|\\\\s)"+classes[k]+"(\\\\s|$)"))}for(var l=0,ll=elements.length;l<ll;l+=1){current=elements[l];match=false;for(var m=0,ml=classesToCheck.length;m<ml;m+=1){match=classesToCheck[m].test(current.className);if(!match){break}}if(match){returnElements.push(current)}}return returnElements}}return getElementsByClassName(className,tag,elm)};
+\n
+\n{\n  "@context" : "http://schema.org",\n  "@type" : "Organization",\n  "name" : "Inside Higher Ed",\n  "url" : "https://www.insidehighered.com",\n  "sameAs" : [\n\t"https://www.facebook.com/InsideHigherEdDC",\n\t"https://twitter.com/insidehighered",\n\t"https://www.linkedin.com/company/inside-higher-ed"\n\t],\n  "logo" : "https://www.insidehighered.com/sites/all/themes/ihecustom/logo.jpg",\n  "contactPoint" : [{\n\t"@type" : "ContactPoint",\n\t"telephone" : "+1-202-448-6101",\n\t"contactType" : "customer support"\n  }]\n}\n
+\n\n\n
+\n
+&lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-P948F7" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;
+\n
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;j.type='text/javascript';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-P948F7');
+\n
+\n
+\n  
+Jump to Navigation
+\n
+\n
+\n  
+ 
+\n\n\t  
+\n\t\t 
+\n\t\t\t
+ Advertise
+\n
+About
+\n
+Contact
+\n
+Subscribe
+\n
+\t\t 
+\n      
+\n\n\n\n\n\n
+\n  
+\n    \n    
+\n  
+\n\n      \n  
+\n    
+search
+\n  
+\n\n
+ 
+\n
+\n\n      \n  
+\n    
+\n      
+Search form
+\n    
+\n  
+search 
+\n 
+\n
+\n
+\n  
+ 
+*
+\n 
+News & Opinion
+Jobs
+\n
+\n
+\n
+\n
+\n
+  
+\n\n
+ 
+\n
+\n\n      \n  
+\n    
+Close Menu
+  
+\n\n
+ 
+\n
+\n\n      \n  
+\n    
+| View Exclusive AAUP Compensation Survey Data |
+\n
+\n<!--//--><![CDATA[// ><!--\n\n(function ($) {\n$(document).ready(function() {\n\t\tif ($("body").hasClass("logged-in")) {    {\n      $( ".aaup-homepage" ).css("top", "-56px");\n    }\n\n                                         }});\n})(jQuery);\n\n//--><!]]>\n
+  
+\n\n
+ 
+\n
+\n\n      \n  
+\n    
+Menu
+\n  
+\n\n
+ 
+\n
+\n\n      \n  
+\n    
+\nvar addthis_share = { url_transforms : { shorten: { twitter: 'bitly' } }, shorteners : { bitly : {}  } };\nvar addthis_config = { ui_open_windows: true, data_ga_property: "UA-2139597-1", data_ga_social : true };\n
+\n
+\n  
+\n\n
+ 
+\n
+\n\n      \n  
+\n    
+\n  
+\n\n
+ 
+\n
+\n\n      \n  
+\n    
+\n      
+\n      
+\n    
+\n    
+\n    
+\n  
+\n  
+\n        \n    News          
+\n  
+\n  
+\n    
+\n  
+\n  
+\n        
+\n  
+\n  
+\n        \n    News          
+\n  
+\n\n
+\n  
+\n        \n    Admissions Insider          
+\n  
+\n\n
+\n  
+\n        \n    Digital Learning          
+\n  
+\n\n
+\n  
+\n        \n    Diversity Matters          
+\n  
+\n\n
+\n  
+\n        \n    Quick Takes          
+\n  
+\n\n
+\n  
+\n        \n    Around the Web          
+\n  
+\n\n
+\n  
+\n        \n    Events & People          
+\n  
+\n\n
+\n  
+\n        \n    Booklets          
+\n  
+\n\n
+\n  
+\n        \n    Audio          
+\n  
+\n\n
+\n  
+\n        \n    Topics          
+\n  
+\n
+\n  
+\n
+\n
+\n  
+\n
+\n
+\n\n
+\n  
+\n        \n    OPINION          
+\n  
+\n  
+\n    
+\n  
+\n  
+\n        
+\n  
+\n  
+\n        \n    Views          
+\n  
+\n\n
+\n  
+\n        \n    Blog U          
+\n  
+\n\n
+\n  
+\n        \n    Career Advice          
+\n  
+\n
+\n  
+\n
+\n
+\n  
+\n
+\n
+\n\n
+\n  
+\n        \n    Surveys          
+\n  
+\n  
+\n    
+\n  
+\n  
+\n        
+\n  
+\n  
+\n        \n    AAUP Faculty Compensation Survey          
+\n  
+\n
+\n  
+\n
+\n
+\n  
+\n
+\n
+\n\n
+\n  
+\n        \n    Webcasts          
+\n  
+\n\n
+\n  
+\n        \n    Jobs          
+\n  
+\n  
+\n    
+\n  
+\n  
+\n        
+\n  
+\n  
+\n        \n    Job Search          
+\n  
+\n\n
+\n  
+\n        \n    Dual Career Search          
+\n  
+\n\n
+\n  
+\n        \n    Career Advice          
+\n  
+\n\n
+\n  
+\n        \n    My Job Alerts          
+\n  
+\n\n
+\n  
+\n        \n    My Saved Jobs          
+\n  
+\n\n
+\n  
+\n        \n    Hire Faculty & Staff          
+\n  
+\n
+\n  
+\n
+\n
+\n  
+\n
+\n
+\n
+\n      
+\n  
+\n  
+\n\n
+ 
+\n
+ 
+\n  
+\n            
+\n                
+News
+\n
+Admissions Insider
+\n
+Digital Learning
+\n
+Diversity Matters
+\n
+Views
+\n
+Career Advice
+\n
+Blog U
+\n
+Surveys
+\n
+Webinars
+\n
+Events & People
+\n
+Jobs
+\n
+\n              
+\n    \t\t\t\t 
+\n\t\t\t\t
+Admissions
+\n
+Books
+\n
+Technology
+\n
+Community Colleges
+\n
+Diversity
+\n
+Teaching & Learning
+\n
+Global
+\n
+Audio
+\n
+Booklets
+\n
+More
+\n
+\t\t\t\t
+\n\t\t\t\t\tmenuelement = document.getElementsByClassName("menu-7629");\n\t\t\t\t\tbox = document.getElementById("topics");\n\t\t\t\t\tif (document.all) {\n\t\t\t\t\t     menuelement[0].onclick = function () { document.getElementById('topics').style.display='block';return false; };\n\t\t\t\t\t} else {\n\t\t\t\t\t    menuelement[0].setAttribute("onclick","document.getElementById('topics').style.display='block'; document.getElementById('topics').style.borderTop='5px solid #EF7521'; document.getElementById('topics').style.margin='0 0 20px 0'; document.getElementById('topics').style.height= '230px';return false;"); }\n\t\t\t\t
+\n\t\t\t 
+\n\t\t\t 
+\n\t    
+\n    
+\n\t    
+\n\t      
+\n  
+\n\n      \n  
+\n    
+\n
+\n    
+\n    googletag.cmd.push(function() {\n      googletag.display("dfp-ad-clone_of_clone_of_story_level_pages");\n    });\n  
+\n
+\n
+  
+\n\n
+ 
+\n
+ 
+\n\t      \t      
+\n\t      \t      \t      \t      \t      \t        
+\n\t      \t      \t      \t      
+\n  
+\n\n      \n  
+\n    
+\n  
+\n    
+\n  \n      \n  \n  
+\n    
+\xab Back to News
+\xa0 
+Print This
+  
+\n\n  \n  
+\n
+\n  \n      \n  \n  
+\n    
+Relying on Women, Not Rewarding Them
+  
+\n\n  \n  
+\n
+\n  \n      \n  \n  
+\n    
+New study suggests female professors outperform men in terms of service -- to their possible professional detriment.
+\n  
+\n\n  \n  
+\n
+\n  
+\n  
+\n    
+\n      
+\n  \n        
+By 
+\n    \n  \n  
+\n    
+Colleen Flaherty
+  
+\n\n  \n  
+\n
+\n  \n      \n  \n  
+\n    April 12, 2017  
+\n\n  \n  
+\n
+\n  \n      \n  \n  
+\n    
+\n    \n     \n  \n  \n  \n      
+\n        
+\n      \n  
+        
+Comments
+  
+  
+\n    
+\n  \n  \n  \n  \n  \n
+ 
+\n  
+\n\n  \n  
+\n
+\n  \n      \n  \n  
+\n    
+\xa0
+  
+\n\n  \n  
+\n
+\n  \n      \n  \n  
+\n    
+  
+\n\n  \n  
+\n
+\n  \n      \n  \n  
+\n    
+iStock
+  
+\n\n  \n  
+\n
+\n  \n      \n  \n  
+\n    
+\n
+\n    
+\n    googletag.cmd.push(function() {\n      googletag.display("dfp-ad-story_level_pages");\n    });\n  
+\n
+\n
+  
+\n\n  \n  
+\n
+\n  \n      \n  \n  
+\n    
+Women shoulder a disproportionately large workload at home in ways that might 
+disadvantage them professionally
+. But are female professors also \u201ctaking care of the academic family\u201d via disproportionate service loads? A new study says yes and adds to a growing body of research suggesting the same.
+\n\n
+\u201cWe find strong evidence that, on average, women faculty perform more service than male faculty in academia, and that the service differential is driven particularly by participation in internal rather than external service,\u201d the study says. \u201cWhen we look within departments -- controlling for any type of organizational or cultural factor that is department specific -- we still find large, significant differences in the service loads of women versus men.\u201d
+\n\n
+All that matters because service loads \u201clikely have an impact on productivity in other areas of faculty effort such as research and teaching, and these latter activities can lead directly to salary differentials and overall success in academia,\u201d the paper says. \u201cIn the urgency to redress not only differences in time use but compensation imbalances, as well, the service imbalance is one that deserves to rise to the forefront of the discussion.\u201d
+\n\n
+\u201cFaculty Service Loads and Gender: Are Women Taking Care of the Academic Family?\u201d
+ published in 
+Research in Higher Education
+, was written by Cassandra M. Guarino, professor of education and public policy at the University of California, Riverside, and Victor M.\xa0H. Borden, professor of educational leadership and policy studies at Indiana University at Bloomington. The authors considered data from the 2014 Faculty Survey of Student Engagement, a web-based national survey related to the National Survey of Student Engagement. The faculty survey included responses from nearly 19,000 faculty members at 143\xa0colleges and universities, and asked about how faculty members spend their time (in addition to professors\u2019 views on student engagement).
+\n\n
+Guarino and Borden limited their analysis of the national survey to responses from tenured or tenure-track faculty members at four-year colleges and universities, or about 40\xa0percent of the sample. The national survey asked only how many hours a week faculty members spent on service, not which kinds of service they did or how departments were run. So the authors supplemented that data with those from much more detailed yearly faculty activity reports from two research-intensive campuses (one flagship and one \u201curban\u201d) of an unnamed\xa0Midwestern university. The latter data set, from 2012, pertained to about 1,400 tenured or tenure-track faculty members. They reported whether their service was \u201cinternal,\u201d performed on campus, or the \xa0more visible \u201cexternal\u201d kinds of service performed off campus for professional associations and other groups or communities.
+\n\n
+Women Do More
+\n\n
+In a first, basic crack at the data, the authors determined that women in the national sample performed 30\xa0more minutes per week of service than men and 1.5\xa0more service activities per year than men in the local sample, and that the difference was statistically significant in both cases.
+\n\n
+To glean more meaningful results and control for a number of factors,\xa0they proceeded with a multiple regression analysis. In the national sample, women reported 0.6\xa0hours more service per week than men, controlling for rank, race and discipline. Female full professors, in particular, reported significantly more time spent on service than male full professors -- though full professors of both genders spent the most time on service over all. Faculty members in business and some sciences appeared to spend less time on service than those in the arts and humanities.
+\n\n
+Results for the local data mirrored those for the national set. Controlling for rank, race, department and campus, female professors reported performing, on average, 1.4\xa0more service activities per year than their male counterparts.
+\n\n
+The difference was driven largely by internal service, the study says, with women performing approximately one more\xa0internal service activity annually than men.
+\n\n
+Associate professors in the Midwest university sample reported performing more internal service than other ranks, but full professors exceeded them in terms of external service. \u201cThere was some evidence to suggest that that Asian female faculty performed more service than Asian male faculty, and that women in various fields performed differently than their male counterparts,\u201d the paper notes. \u201cWomen in the public policy faculty performed significantly more service than men on that faculty, and women in law and, to a lesser degree, education performed less.\u201d
+\n\n
+Regarding external service, women reportedly perform more service than men in the categories of community service and national service.
+\n\n
+Why Does It Happen?
+\n\n
+The authors had some specific hypotheses as to why gender differentials in service exist, so they looked at the STEM, social science and liberal arts fields (their categories) separately. One hypothesis related to \u201cproportionality,\u201d or whether women are called on to do more service when there are fewer of them in an academic unit. They also considered the importance of gender in departmental leadership, to see if women with male supervisors do more service.
+\n\n
+They found some evidence for both the proportionality and leadership hypotheses, varying by discipline. In STEM, having a female department chair was strongly correlated with female faculty members\u2019 external service, which, the authors say, is driven by service to professional organizations and the international community. Within the social sciences, having a male department chair correlated with women doing more department-based service. Interestingly, in the liberal arts, having female chairs correlated with women doing more service, especially within the department -- \u201ca finding that would go against the hypothesis that women are asked to do more service or less likely to refuse requests by male chairs,\u201d the study says.
+\n\n
+Guarino and Borden also explored whether women might have a heightened perception of the presence of an \u2018\u2018internal\u2019\u2019 track into paid administrative roles via internal service. But there was little evidence to suggest that, at least in the limited local data, since women tended to be proportionately or underrepresented in such roles. One final explanation -- a gender difference in self-report bias -- proved difficult to assess.
+\n\n
+Over all, the study says that the data sets \u201ccorroborate\u201d each other, leaving \u201clittle doubt as to the existence of a gender imbalance in faculty service loads,\u201d both in number of activities and amount of time spent on service.
+\n\n
+Achieving Balance
+\n\n
+Yet in the effort to achieve greater gender equity in academe, it continues, \u201cservice has often been overlooked as a factor in the quest for parity,\u201d and \u201cmerits close attention.\u201d
+\n\n
+The authors assert that service is\xa0an area of inequity that can be addressed relatively easily, via careful monitoring of service requests and allocations. Female\xa0faculty members, it says, \u201ccould be mentored to show more selectivity in their service-related choices and cultivate their ability to say no to requests.\u201d Department chairs and deans, meanwhile, \u201ccould be made to be more fully aware of how service assignments are being meted out. A simple increase in overall awareness of this issue may improve overall attitudes toward service loads, remove traces of gender bias from service expectations and enable both women and men to accept or decline service requests with equal ease and impunity.\u201d
+\n\n
+Guarino in an interview underscored the concept of awareness, saying that women don\u2019t necessarily know they\u2019re doing or -- as the case may be -- being asked to do more until they see objective proof\xa0of service imbalances between male and female faculty members.
+\n\n
+\u201cThere\u2019s no woman who loves this stuff more than men,\u201d she said of service. \u201cBut until we see evidence and we can really help women say no, it\u2019s just going to keep happening.\u201d
+\n\n
+Guarino also emphasized institutional accountability for fixing gender service imbalances, saying it\u2019s now virtually nonexistent. \u201cThere needs to be more internal monitoring of this,\u201d from the department level to the provost\u2019s office, she said.
+\n\n
+Joya Misra, a professor of sociology and public policy at the University of Massachusetts at Amherst (and an 
+Inside Higher Ed
+ columnist) who has 
+studied the gendered nature of faculty work
+, said she\u2019s found \u201cdramatic service differentials between men and women,\u201d particularly among associate professors.
+\n\n
+Despite the fact that women\u2019s service work \u201cis necessary for the institutions to survive,\u201d she added, the \u201cdaily grind of service and leadership rarely carries the respect and reputational benefits of disciplinary service, while it actively limits women's research time.\u201d
+\n\n
+As to righting the imbalance, Misra said that it may seem like \u201cwomen simply need to become more protective of their research time, as men are.\u201d Yet they face \u201cgrave consequences if they are not perceived as team players,\u201d she said, while men usually don\u2019t.
+\n\n
+Laura Perna, James S. Riepe Professor and executive director of the Alliance for Higher Education and Democracy at the University of Pennsylvania, said the new study sheds critical light on faculty workloads, especially with the suspension of the federally-funded\xa0National Study of Postsecondary Faculty in 2004.
+\n\n
+More broadly, the study\xa0raises important questions about \u201cwhat it is we are valuing in our reward system,\u201d she said. Service, not always rewarded like other kinds of faculty work, \u201cis really oriented toward advancing [an institution\u2019s] collective mission.\u201d
+\n
+  
+\n\n  \n  
+\n
+\n  \n        
+Read more by
+\n    \n  \n  
+\n    
+Colleen Flaherty
+  
+\n\n  \n  
+\n
+\n  \n      \n  \n  
+\n    
+jump to comments
+\n  
+\n\n  \n  
+\n
+\n  \n      \n  \n  
+\n    
+\n\n
+\n
+\n
+Be the first to know.
+Get our 
+free
+ daily newsletter.
+\n
+\n
+\n
+\n
+\xa0
+\n\n
+.sumome-popup-embed-overlay{z-index:-999 !important;}
+  
+\n\n  \n  
+\n
+\n    
+\n\n    
+\n      
+\n  \n        
+Topics
+\n    \n  \n  
+\n    
+\n    \n     \n  \n  \n  \n      
+\n      
+    
+          
+  \n  
+        
+Adjuncts
+  
+\n          
+  \n  
+        
+Admissions
+  
+\n          
+  \n  
+        
+Assessment and Accountability
+  
+\n          
+  \n  
+        
+Books and Publishing
+  
+\n          
+  \n  
+        
+Community Colleges
+  
+\n          
+  \n  
+        
+Diversity
+  
+\n          
+  \n  
+        
+For-Profit Higher Ed
+  
+\n          
+  \n  
+        
+Global
+  
+\n          
+  \n  
+        
+Health Professions
+  
+\n          
+  \n  
+        
+Religious Colleges
+  
+\n          
+  \n  
+        
+Retirement Issues
+  
+\n          
+  \n  
+        
+Student Aid and Loans
+  
+\n          
+  \n  
+        
+Students and Violence
+  
+\n          
+  \n  
+        
+Teaching and Learning
+  
+\n          
+  \n  
+        
+Technology
+  
+\n      
+    
+\n  \n  \n  \n  \n      
+\n      
+\n
+    
+\n  \n
+ 
+\n  
+\n\n  \n  
+\n
+\n  \n      \n  \n  
+\n    
+\n
+\n    
+\n    googletag.cmd.push(function() {\n      googletag.display("dfp-ad-clone_of_story_level_pages");\n    });\n  
+\n
+\n
+  
+\n\n  \n  
+\n
+\n  \n      \n  \n  
+\n    
+\n\t
+Want to advertise? Click here
+\n  
+\n\n  \n  
+\n
+\n  \n      \n  \n  
+\n    
+\n\n
+Browse Jobs by Category
+\n
+\n  
+\n\n  \n  
+\n
+\n  \n      \n  \n  
+\n    
+\n
+\n    
+\n    googletag.cmd.push(function() {\n      googletag.display("dfp-ad-all_other_pages");\n    });\n  
+\n
+\n
+  
+\n\n  \n  
+\n
+\n  \n      \n  \n  
+\n    
+Subscribe for free today
+\n  
+\n\n  \n  
+\n
+\n    
+\n  
+\n  
+\n    
+\n  
+\n  
+\n    
+\n      
+\n  \n      \n  \n  
+\n    \n        
+\n        
+Related Jobs from Inside Higher Ed Careers
+\n                              
+\n                
+Arts & Humanities jobs
+\n                
+Professor of Animation
+\n                              
+SCAD - Atlanta
+                             \n                            
+\n                              
+\n                
+Arts & Humanities jobs
+\n                
+Chairperson of Foundation (1781)
+\n                              
+Pratt Institute - New York
+                             \n                            
+\n                              
+\n                
+Arts & Humanities jobs
+\n                
+Chair of Graphic Design
+\n                              
+SCAD - Savannah
+                             \n                            
+\n        
+\n        
+Search Jobs
+\n        
+Hiring? Post Your Job
+\n        
+\n        
+  
+\n\n  \n  
+\n
+\n  \n      \n  \n  
+\n    
+\xa0
+\n\n
++
+ 
+-
+\n\n
+Expand 
+comments
+Hide
+ comments
+\xa0\xa0
+\u2014\xa0\xa0 Join the conversation!
+\n
+\n  
+\n\n  \n  
+\n
+\n  \n      \n  \n  
+\n    
+&lt;p&gt;&lt;a href="http://insidehighered.disqus.com/?url=https%3A%2F%2Fwww.insidehighered.com%2Fnews%2F2017%2F04%2F12%2Fstudy-finds-female-professors-outperform-men-service-their-possible-professional"&gt;View the discussion thread.&lt;/a&gt;&lt;/p&gt;
+  
+\n\n  \n  
+\n
+\n  \n      \n  \n  
+\n    
+  
+\n\n  \n  
+\n
+\n  \n        
+Inside Higher Ed\u2019s Quick Takes
+\n    \n  \n  
+\n    
+\n    \n     \n  \n  \n  \n  \n  \n  \n  \n  \n
+ 
+\n  
+\n\n  \n  
+\n
+\n    
+\n\n    
+\n      
+\n  \n        
+What Others Are Reading
+\n    \n  \n  
+\n    
+\n    \n  
+Viewed
+\n
+  
+Past:
+\n
+Day
+\n
+Week
+\n
+Month
+\n
+Year
+\n
+  \n  
+\n
+  
+\n\n  \n  
+\n
+\n    
+\n  
+\n  
+\n    
+\n  
+\n
+\n  
+\n\n
+ 
+\n
+ 
+\n\t      \t    
+\n\t    \t    \t    
+\n    
+\n\t\n\t\n
+\n
+\n
+\n    
+Back to Top
+\n
+\n
+\n    
+\n    \t
+\n\t    \t
+Inside Higher Ed
+\n\t    \t
+1015 18th Street NW
+\n\t    \t
+Suite 1100
+\n\t    \t
+Washington, DC 20036
+\n    \t
+\n    \t
+Ph: 1-202-659-9208
+\n    \t
+Fax: 1-202-659-9381
+\n\t    
+\n\t\t      \t
+\n\t\t      \t
+\n\t\t      \t\t
+\n\t\t      \t
+\n\t\t      \t
+\n\t\t      \t\t
+\n\t\t      \t
+\n\t\t      \t
+\n\t\t      \t\t
+\n\t\t      \t
+\n\t\t
+\n\t
+\n    
+\n    \t
+\t\t      \t\n\t\t      \t
+\n\t\t      \t\t
+\n\t\t      \t
+\n\t\t      \t
+\n\t\t      \t\t
+\n\t\t      \t
+\n\t\t      \t
+\n\t\t      \t\t
+\n\t\t      \t
+\n\t\t    
+\n    \t\t
+\n\t    \t1015 18th Street NW, Suite 1100
+ | PH: 1-202-659-9208
+\n\t    \t
+Copyright \xa9 2017
+\n\t
+\n    
+\n\t\t
+Secondary menu
+Contact Us
+\n
+About Us
+\n
+For Employers
+\n
+Advertise
+\n
+Work For Us
+\n
+Testimonials
+\n
+Rights and Permissions
+\n
+Privacy
+\n
+Share our content
+\n
+\t\t \t
+Get our Daily News Update
+\n\t\t\t
+\n\t\t\t\t
+\xa0\n\t\t\t\t
+\n\t\t\t
+\n\t\t
+Copyright \xa9 2017
+\n    
+\n\t
+\n
+\n
+\njQuery(document).ready(function($) {\n  $('.backtotopbtn').click(function(e) {\n    e.preventDefault();\n    $("html, body").animate({ scrollTop: 0 }, "slow");\n  });\n  $('#link1').click(function(e) {\n    e.preventDefault();\n      $( "#webinarscoming" ).slideDown( "slow", function() {\n\t  });\n      $( "#webinars" ).slideDown( 2000, function() {\n\t  });\n      $( "#pane-commerce-cart-block" ).slideDown( "slow", function() {\n\t  });\n  });\n  $('#link2').click(function(e) {\n    e.preventDefault();\n      $( "#surveycoming" ).slideDown( "slow", function() {\n\t  });\n      $( "#surveypast" ).slideDown( 2000, function() {\n\t  });\n  });\n  $('#link3').click(function(e) {\n    e.preventDefault();\n      $( "#bookletcoming" ).slideDown( "slow", function() {\n\t  });\n      $( "#bookletpast" ).slideDown( 2000, function() {\n\t  });\n  });\n  $('#link4').click(function(e) {\n    e.preventDefault();\n      $( "#exhibithallc" ).slideDown( "slow", function() {\n\t  });\n      $( "#exhibithallp" ).slideDown( 2000, function() {\n\t  });\n  });\n\n  $('#link1b').click(function(e) {\n    e.preventDefault();\n      $( "#webinarscoming" ).slideDown( "slow", function() {\n\t  });\n      $( "#webinars" ).slideDown( 2000, function() {\n\t  });\n      $( "#pane-commerce-cart-block" ).slideDown( "slow", function() {\n\t  });\n  });\n  $('#link2b').click(function(e) {\n    e.preventDefault();\n      $( "#surveycoming" ).slideDown( "slow", function() {\n\t  });\n      $( "#surveypast" ).slideDown( 2000, function() {\n\t  });\n  });\n  $('#link3b').click(function(e) {\n    e.preventDefault();\n      $( "#bookletcoming" ).slideDown( "slow", function() {\n\t  });\n      $( "#bookletpast" ).slideDown( 2000, function() {\n\t  });\n  });\n  $('#link4b').click(function(e) {\n    e.preventDefault();\n      $( "#exhibithallc" ).slideDown( "slow", function() {\n\t  });\n      $( "#exhibithallp" ).slideDown( 2000, function() {\n\t  });\n  });\n});\n
+\n
+\n  
+ 
+\n
+\n  var _sf_async_config={};\n  _sf_async_config.uid = 24021;\n  _sf_async_config.domain = "www.insidehighered.com";\n  _sf_async_config.useCanonical = true;\n  (function(){\n    function loadChartbeat() {\n      window._sf_endpt=(new Date()).getTime();\n      var e = document.createElement("script");\n      e.setAttribute("language", "javascript");\n      e.setAttribute("type", "text/javascript");\n      e.setAttribute('src', (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") + "js/chartbeat.js");\n      document.body.appendChild(e);\n    }\n    var oldonload = window.onload;\n    window.onload = (typeof window.onload != "function") ?\n       loadChartbeat : function() { try { oldonload(); } catch (e) { loadChartbeat(); throw e} loadChartbeat(); };\n\n  })();\n
+\n\n\n>

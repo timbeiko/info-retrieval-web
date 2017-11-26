@@ -1,0 +1,1757 @@
+\n\n    \n    \n    \n    \n    \n    \n    \n    
+\n    \n    
+&lt;meta http-equiv="refresh" content="0; URL=https://mobile.twitter.com/i/nojs_router?path=%2Fi%2Fmoments"&gt;
+\n      
+\n    \n    \n  \n  
+\n    if (window.top != window) {\n  window.top.postMessage({'bouncer': true, 'event': 'complete'}, '*');\n}\n  
+\n  
+\n    !function(){function e(e){if(e||(e=window.event),!e)return!1;if(e.timestamp=(new Date).getTime(),!e.target&&e.srcElement&&(e.target=e.srcElement),document.documentElement.getAttribute("data-scribe-reduced-action-queue"))for(var t=e.target;t&&t!=document.body;){if("A"==t.tagName)return;t=t.parentNode}return i("all",o(e)),a(e)?(document.addEventListener||(e=o(e)),e.preventDefault=e.stopPropagation=e.stopImmediatePropagation=function(){},y?(v.push(e),i("captured",e)):i("ignored",e),!1):(i("direct",e),!0)}function t(e){n();for(var t,r=0;t=v[r];r++){var a=e(t.target),i=a.closest("a")[0];if("click"==t.type&&i){var o=e.data(i,"events"),u=o&&o.click,c=!i.hostname.match(g)||!i.href.match(/#$/);if(!u&&c){window.location=i.href;continue}}a.trigger(e.event.fix(t))}window.swiftActionQueue.wasFlushed=!0}function r(){for(var e in b)if("all"!=e)for(var t=b[e],r=0;r<t.length;r++)console.log("actionQueue",c(t[r]))}function n(){clearTimeout(w);for(var e,t=0;e=h[t];t++)document["on"+e]=null}function a(e){if(!e.target)return!1;var t=e.target,r=(t.tagName||"").toLowerCase();if(e.metaKey)return!1;if(e.shiftKey&&"a"==r)return!1;if(t.hostname&&!t.hostname.match(g))return!1;if(e.type.match(p)&&s(t))return!1;if("label"==r){var n=t.getAttribute("for");if(n){var a=document.getElementById(n);if(a&&f(a))return!1}else for(var i,o=0;i=t.childNodes[o];o++)if(f(i))return!1}return!0}function i(e,t){t.bucket=e,b[e].push(t)}function o(e){var t={};for(var r in e)t[r]=e[r];return t}function u(e){for(;e&&e!=document.body;){if("A"==e.tagName)return e;e=e.parentNode}}function c(e){var t=[];e.bucket&&t.push("["+e.bucket+"]"),t.push(e.type);var r,n,a=e.target,i=u(a),o="",c=e.timestamp&&e.timestamp-d;return"click"===e.type&&i?(r=i.className.trim().replace(/\\s+/g,"."),n=i.id.trim(),o=/[^#]$/.test(i.href)?" ("+i.href+")":"",a='"'+i.innerText.replace(/\\n+/g," ").trim()+'"'):(r=a.className.trim().replace(/\\s+/g,"."),n=a.id.trim(),a=a.tagName.toLowerCase(),e.keyCode&&(a=String.fromCharCode(e.keyCode)+" : "+a)),t.push(a+o+(n&&"#"+n)+(!n&&r?"."+r:"")),c&&t.push(c),t.join(" ")}function f(e){var t=(e.tagName||"").toLowerCase();return"input"==t&&"checkbox"==e.getAttribute("type")}function s(e){var t=(e.tagName||"").toLowerCase();return"textarea"==t||"input"==t&&"text"==e.getAttribute("type")||"true"==e.getAttribute("contenteditable")}for(var m,d=(new Date).getTime(),l=1e4,g=/^([^\\.]+\\.)*twitter\\.com$/,p=/^key/,h=["click","keydown","keypress","keyup"],v=[],w=null,y=!0,b={captured:[],ignored:[],direct:[],all:[]},k=0;m=h[k];k++)document["on"+m]=e;w=setTimeout(function(){y=!1},l),window.swiftActionQueue={buckets:b,flush:t,logActions:r,wasFlushed:!1}}();\n  
+\n  
+\n    !function(){function t(t){t.target.setAttribute("data-in-composition","true")}function n(t){t.target.removeAttribute("data-in-composition")}document.addEventListener&&(document.addEventListener("compositionstart",t,!1),document.addEventListener("compositionend",n,!1))}();\n  
+\n\n    
+\n  
+\n  
+\n\n    
+\n    
+\n      
+\n      
+\n      
+\n\n      
+Today - Twitter Moments
+\n      
+\n  
+\n\n\n\n
+\n
+\n\n\n\n
+\n\n
+\n
+\n\n
+\n\n\n  
+\n  
+\n\n    
+\n  
+\n  
+\n\n  \n\n  
+\n\n\n
+\n\n    
+\n\n        
+\n    
+\n    
+\n    
+\n    
+\n    
+\n    
+\n    
+\n    
+\n    
+\n\n  \n  \n      
+\n        document.body.className=document.body.className+" "+document.body.getAttribute("data-fouc-class-names");\n      
+\n\n    
+Skip to content
+\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    
+\n          
+\n    \n\n\n    
+\n      
+\n        
+\n\n          \n
+\n  
+\n    
+\n      
+\n      
+Home
+\n      
+Home
+\n      
+Home, current page.
+\n    
+\n  
+\n    
+\n      
+\n        
+\n        
+\n        
+Moments
+\n        
+Moments
+\n        
+Moments, current page.
+\n      
+\n    
+\n
+\n
+\n    
+\n  
+\n    
+Search query
+\n    
+\n    
+\n      
+\n        
+Search Twitter
+\n      
+\n    
+\n      \n\n\n
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    
+\n  
+Saved searches
+\n  
+\n    \n    
+\n      
+Remove
+\n      
+\n    
+\n  
+\n
+\n\n    
+\n  \n  
+\n    
+\n  
+\n
+\n    
+\n  \n  
+\n    \n    
+\n      
+\n        
+\n        
+In this conversation
+\n      
+\n      
+\n      
+\n        
+Verified account
+Protected Tweets
+\xa0
+@
+\n      
+\n      
+\n    
+\n  
+\n  
+\n
+\n\n    
+\n  \n  
+\n
+\n    \n
+\n  
+\n    Suggested users\n  
+\n  
+\n    \n    
+\n      \n      
+\n        
+\n        
+\n          
+\n          
+\n          
+Verified account
+Protected Tweets
+\xa0
+@
+\n        
+\n      
+\n    
+\n    
+\n  
+\n\n  
+\n    \n    
+\n      \n      
+\n        
+\n        
+\n          
+\n          
+\n          
+Verified account
+Protected Tweets
+\xa0
+@
+\n        
+\n      
+\n    
+\n    
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n    
+\n  
+\n
+\n  
+\n
+\n\n  
+\n
+\n\n\n  
+\n    
+\n      
+\n        
+Language:
+ 
+English
+ 
+\n      
+\n      
+\n        
+\n          
+ 
+\n          
+\n        
+\n        
+\n            
+Bahasa Indonesia
+\n            
+Bahasa Melayu
+\n            
+Catal\xe0
+\n            
+\u010ce\u0161tina
+\n            
+Dansk
+\n            
+Deutsch
+\n            
+English UK
+\n            
+Espa\xf1ol
+\n            
+Filipino
+\n            
+Fran\xe7ais
+\n            
+Hrvatski
+\n            
+Italiano
+\n            
+Magyar
+\n            
+Nederlands
+\n            
+Norsk
+\n            
+Polski
+\n            
+Portugu\xeas
+\n            
+Rom\xe2n\u0103
+\n            
+Sloven\u010dina
+\n            
+Suomi
+\n            
+Svenska
+\n            
+Ti\u1ebfng Vi\u1ec7t
+\n            
+T\xfcrk\xe7e
+\n            
+\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac
+\n            
+\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 \u0435\u0437\u0438\u043a
+\n            
+\u0420\u0443\u0441\u0441\u043a\u0438\u0439
+\n            
+\u0421\u0440\u043f\u0441\u043a\u0438
+\n            
+\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043c\u043e\u0432\u0430
+\n            
+\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea
+\n            
+\u0627\u0644\u0639\u0631\u0628\u064a\u0629
+\n            
+\u0641\u0627\u0631\u0633\u06cc
+\n            
+\u092e\u0930\u093e\u0920\u0940
+\n            
+\u0939\u093f\u0928\u094d\u0926\u0940
+\n            
+\u09ac\u09be\u0982\u09b2\u09be
+\n            
+\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0
+\n            
+\u0ba4\u0bae\u0bbf\u0bb4\u0bcd
+\n            
+\u0c95\u0ca8\u0ccd\u0ca8\u0ca1
+\n            
+\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22
+\n            
+\ud55c\uad6d\uc5b4
+\n            
+\u65e5\u672c\u8a9e
+\n            
+\u7b80\u4f53\u4e2d\u6587
+\n            
+\u7e41\u9ad4\u4e2d\u6587
+\n        
+\n      
+\n      
+\n        
+\n          
+ 
+\n          
+\n        
+\n      
+\n    
+\n  
+\n\n    
+\n      
+\n          
+\n            
+Have an account?
+ 
+ Log in
+\n          
+\n          
+\n            
+ 
+ 
+ 
+\n            
+\n              
+Have an account?
+\n
+\n  
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Remember me
+\n    
+\n    
+\xb7
+\n    
+Forgot password?
+\n  
+\n\n  
+\n\n    
+\n\n  
+\n  
+\n  
+\n      
+\n      
+\n
+\n              
+\n              
+\n                
+New to Twitter?
+\n                
+Sign up\n                
+\n              
+\n            
+\n          
+\n      
+\n    
+\n
+\n\n        
+\n      
+\n    
+\n
+\n\n\n          
+\n            
+\n                \n                
+\n  
+\n      
+\n
+\n            
+\n              Today\n            
+\n          
+\n            
+\n              News\n            
+\n          
+\n            
+\n              Sports\n            
+\n          
+\n            
+\n              Entertainment\n            
+\n          
+\n            
+\n              Fun\n            
+\n          
+      
+\n        
+\n          
+\n            More
+\n          
+\n          
+\n            
+\n              \n            
+\n          
+\n        
+\n      
+\n\n  
+\n
+\n\n\n  
+\n    
+\n        
+\n    
+\n
+\n  
+\n        \n        
+\n\n    
+\n\n\n
+\n  
+\n\n  
+\n    \n\n      
+\n          The Nazi sympathizer profile that's receiving backlash\n\n      
+\n\n    \n
+\n  \n\n  \n    \n      
+\n        US news\n      
+\n\n    \n        
+\n    \n    3 hours ago\n  
+\n\n
+\n\n      
+\n        The New York Times ran a profile of a Nazi sympathizer from Ohio, which is gaining criticism for its treatment of the subject and the fact that it was written at all. \n      
+\n\n\n    
+\n      \n      \n          
+\n        \n  928 Likes\n\n  
+\n\n    
+\n  
+\n
+\n    
+\n  
+\n
+\n  
+\n        \n
+\n  
+\n
+\n  
+\n\n  
+\n    \n\n      
+\n          It's five years since Lenny Kravitz wore this iconic scarf\n\n      
+\n\n    \n
+\n  \n\n  \n    \n      
+\n        Haha\n      
+\n\n    \n        
+\n    \n    5 hours ago\n  
+\n\n
+\n\n      
+\n        This weekend marked five years since the musician sported a massive scarf on the streets of New York, and it's clear people haven't forgotten. \n      
+\n\n      \n\n    
+\n      \n      \n          
+\n        \n  1K Likes\n\n  
+\n\n    
+\n  
+\n
+\n
+\n  
+\n        \n
+\n  
+\n
+\n  
+\n\n  
+\n    \n\n      
+\n          Ivana Trump had a cutting one-liner when asked about Melania\n\n      
+\n\n    \n
+\n  \n\n  \n    \n      
+\n        US news\n      
+\n\n    \n        
+\n    \n    Last night\n  
+\n\n
+\n\n      
+\n        President Trump's first wife Ivana was on Ireland's Ray D'Arcy Show when she was asked about her life with Donald and her frosty relationship with First Lady Melania. \n      
+\n\n      \n\n    
+\n      \n      \n          
+\n        \n  1.2K Likes\n\n  
+\n\n    
+\n  
+\n
+\n
+\n  
+\n        \n
+\n  
+\n
+\n  
+\n\n  
+\n    \n\n      
+\n          Colton Haynes is using tacos to cure his insomnia 
+\n\n      
+\n\n    \n
+\n  \n\n  \n    \n      
+\n        Celebrity\n      
+\n\n    \n        
+\n    \n    5 hours ago\n  
+\n\n
+\n\n      
+\n        Sometimes when you can't sleep you just need tacos. \n      
+\n\n      \n\n    
+\n      \n      \n          
+\n        \n  542 Likes\n\n  
+\n\n    
+\n  
+\n
+\n  
+\n
+\n        
+\n  
+\n
+\n  
+\n        \n
+\n  
+\n
+\n  
+\n\n  
+\n    \n\n      
+\n          This dad's 21st birthday message for his daughter is heartbreaking\n\n      
+\n\n    \n
+\n  \n\n  \n    \n      
+\n        Trending\n      
+\n\n    \n        
+\n    \n    This morning\n  
+\n\n
+\n\n      
+\n        Bailey Seller's dad passed away when she was 16. Every year on her birthday she received flowers from him. Now she is 21 and this is her last birthday message from her father.  \n      
+\n\n      \n\n    
+\n      \n      \n          
+\n        \n  5.3K Likes\n\n  
+\n\n    
+\n  
+\n
+\n
+\n  
+\n        \n
+\n  
+\n
+\n  
+\n\n  
+\n    \n\n      
+\n          Naya Rivera arrested for alleged domestic battery on husband\n\n      
+\n\n    \n
+\n  \n\n  \n    \n      
+\n        Celebrity\n      
+\n\n    \n        
+\n    \n    Last night\n  
+\n\n
+\n\n      
+\n        The former Glee star has been arrested and charged with domestic battery after allegedly attacking her husband Ryan Dorsey in their home in West Virginia.\n      
+\n\n      \n\n    
+\n      \n      \n          
+\n        \n  1.7K Likes\n\n  
+\n\n    
+\n  
+\n
+\n
+\n  
+\n        \n
+\n  
+\n
+\n  
+\n\n  
+\n    \n\n      
+\n          12 relatable Tweets of the week \n\n      
+\n\n    \n
+\n  \n\n  \n    \n      
+\n        Haha\n      
+\n\n    \n        
+\n    \n    4 hours ago\n  
+\n\n
+\n\n      
+\n        It's amazing when people tweet exactly what you are feeling. \n      
+\n\n      \n\n    
+\n      \n      \n          
+\n        \n  513 Likes\n\n  
+\n\n    
+\n  
+\n
+\n
+\n  
+\n        \n
+\n  
+\n
+\n  
+\n\n  
+\n    \n\n      
+\n          Little Mix say 'we're not perfect and we know that'\n\n      
+\n\n    \n
+\n  \n\n  \n    \n      
+\n        Celebrity\n      
+\n\n    \n        
+\n    \n    3 hours ago\n  
+\n\n
+\n\n      
+\n        In an interview with The Observer, the girls opened up about body confidence, their friendship and what it's really like being in the public eye.\n      
+\n\n      \n\n    
+\n      \n      \n          
+\n        \n  672 Likes\n\n  
+\n\n    
+\n  
+\n
+\n  
+\n
+\n        
+\n    
+\n
+\n  
+\n        \n        
+\n\n    
+\n\n\n
+\n  
+\n\n  
+\n    \n\n      
+\n          These are all the women killed by men in the UK this year\n\n      
+\n\n    \n
+\n  \n\n  \n    \n      
+\n        Social Action\n      
+\n\n    \n        
+\n    \n    Last night\n  
+\n\n
+\n\n      
+\n        To mark the International Day for the Elimination of Violence Against Women, Karen Ingala Smith who runs @CountDeadWomen posted the names and details of all 128 women killed by a man (or where the main suspect was a man) in the UK in the last 12 months. \n      
+\n\n\n    
+\n      \n      \n          
+\n        \n  1.7K Likes\n\n  
+\n\n    
+\n  
+\n
+\n    
+\n  
+\n
+\n  
+\n        \n
+\n  
+\n
+\n  
+\n\n  
+\n    \n\n      
+\n          Happy birthday Rita Ora!\n\n      
+\n\n    \n
+\n  \n\n  \n    \n      
+\n        Celebrity\n      
+\n\n    \n        
+\n    \n    1 hour ago\n  
+\n\n
+\n\n      
+\n        The British pop-star, actress and presenter is 27 today and has kicked off her birthday with a message from one of her bezzies \u2013 Miley Cyrus. \n      
+\n\n      \n\n    
+\n      \n      \n          
+\n        \n  451 Likes\n\n  
+\n\n    
+\n  
+\n
+\n
+\n  
+\n        \n
+\n  
+\n
+\n  
+\n\n  
+\n    \n\n      
+\n          Chrissy Teigen has had it with Animal Crossing: Pocket Camp\n\n      
+\n\n    \n
+\n  \n\n  \n    \n      
+\n        Gaming\n      
+\n\n    \n        
+\n    \n    This morning\n  
+\n\n
+\n\n      
+\n        All the couch demands have become too much. \n      
+\n\n      \n\n    
+\n      \n      \n          
+\n        \n  1.7K Likes\n\n  
+\n\n    
+\n  
+\n
+\n
+\n  
+\n        \n
+\n  
+\n
+\n  
+\n\n  
+\n    \n\n      
+\n          There is no justice for these fake Batman facts\n\n      
+\n\n    \n
+\n  \n\n  \n    \n      
+\n        
+\n      
+\n    
+Hashtag Roundup - Awesome # Games!
+Verified account
+ 
+@
+HashtagRoundup
+\n
+\n\n      
+\n\n    \n        
+\n    \n    1 hour ago\n  
+\n\n
+\n\n      
+\n        A new Batman in our future? Bat rumors abound. Share your #FakeBatmanFacts w/@hashfakefacts on @HashtagRoundup.\n      
+\n\n      \n\n    
+\n      \n      \n          
+\n        \n  44 Likes\n\n  
+\n\n    
+\n  
+\n
+\n  
+\n
+\n        
+\n  
+\n
+\n  
+\n        \n
+\n  
+\n
+\n  
+\n\n  
+\n    \n\n      
+\n          This week in church signs\n\n      
+\n\n    \n
+\n  \n\n  \n    \n      
+\n        Today\n      
+\n\n    \n        
+\n    \n    3 hours ago\n  
+\n\n
+\n\n      
+\n        Whether they are meant to inspire, amuse or make a statement, the messages outside places of worship often get people's attention.\n      
+\n\n      \n\n    
+\n      \n      \n          
+\n        \n  338 Likes\n\n  
+\n\n    
+\n  
+\n
+\n
+\n  
+\n        \n
+\n  
+\n
+\n  
+\n\n  
+\n    \n\n      
+\n          Stars are wishing DJ Khaled a happy birthday 
+\n\n      
+\n\n    \n
+\n  \n\n  \n    \n      
+\n        Celebrity\n      
+\n\n    \n        
+\n    \n    40 minutes ago\n  
+\n\n
+\n\n      
+\n        Celebrities and fans are sending birthday wishes to the record producer.\n      
+\n\n      \n\n    
+\n      \n      \n          
+\n        \n  48 Likes\n\n  
+\n\n    
+\n  
+\n
+\n
+\n  
+\n        \n
+\n  
+\n
+\n  
+\n\n  
+\n    \n\n      
+\n          New F1 logo is not impressing racing fans\n\n      
+\n\n    \n
+\n  \n\n  \n    \n      
+\n        Formula 1\n      
+\n\n    \n        
+\n    \n    4 hours ago\n  
+\n\n
+\n\n      
+\n        As the 2017 season ends, F1 has shown off its new logo for the 2018 season and fans are getting creative with alternate suggestions. \n      
+\n\n      \n\n    
+\n      \n      \n          
+\n        \n  256 Likes\n\n  
+\n\n    
+\n  
+\n
+\n
+\n  
+\n        \n
+\n  
+\n
+\n  
+\n\n  
+\n    \n\n      
+\n          Jamal Adams isn't a fan of the SuperCam celebration\n\n      
+\n\n    \n
+\n  \n\n  \n    \n      
+\n        NFL\n      
+\n\n    \n        
+\n    \n    35 minutes ago\n  
+\n\n
+\n\n      
+\n        Things got heated between the Jets and Panthers as Adams took exception to Newton's prolonged touchdown celebration. \n      
+\n\n        
+\n    
+\n        
+\n    
+\n        
+\n    
+\n    
+Panthers
+\n    
+12
+\n  
+\n  
+\n    
+\n        
+\n    
+\n    
+Jets
+\n    
+17
+\n  
+\n\n
+\n  
+\n\n    2:32 - 3rd\n  
+\n
+\n    
+\n  
+\n\n\n    
+\n      \n      \n          
+\n        \n  16 Likes\n\n  
+\n\n    
+\n  
+\n
+\n  
+\n
+\n        
+\n    
+\n
+\n  
+\n        \n        
+\n\n    
+\n\n\n
+\n  
+\n\n  
+\n    \n\n      
+\n          People are calling for justice for Manchester attack victims\n\n      
+\n\n    \n
+\n  \n\n  \n    \n      
+\n        UK news\n      
+\n\n    \n        
+\n    \n    This morning\n  
+\n\n
+\n\n      
+\n        Theresa May's offer to reimburse Manchester \xa312m as a result of May's terror attack was deemed "not good enough" by Mayor Andy Burnham, as the city had requested \xa317m. Now people of Manchester are calling for the return of a locally-run fundraiser shop to make up for uncovered costs.\n      
+\n\n\n    
+\n      \n      \n          
+\n        \n  685 Likes\n\n  
+\n\n    
+\n  
+\n
+\n    
+\n  
+\n
+\n  
+\n        \n
+\n  
+\n
+\n  
+\n\n  
+\n    \n\n      
+\n          22 injured after nightclub floor collapses in Tenerife\n\n      
+\n\n    \n
+\n  \n\n  \n    \n      
+\n        World news\n      
+\n\n    \n        
+\n    \n    This morning\n  
+\n\n
+\n\n      
+\n        A British man is among the 22 clubbers who fell through the floor to the basement of Tenerife's Butterfly Disco Pub on the Spanish island.\n      
+\n\n      \n\n    
+\n      \n      \n          
+\n        \n  87 Likes\n\n  
+\n\n    
+\n  
+\n
+\n
+\n  
+\n        \n
+\n  
+\n
+\n  
+\n\n  
+\n    \n\n      
+\n          Trump says CNN represents the US poorly to the world\n\n      
+\n\n    \n
+\n  \n\n  \n    \n      
+\n        US news\n      
+\n\n    \n        
+\n    \n    This morning\n  
+\n\n
+\n\n      
+\n        The president tweeted that CNN's international coverage is spreading fake news. This comes at the same time Vladimir Putin has signed a law requiring international news outlets to register as foreign agents.\n      
+\n\n      \n\n    
+\n      \n      \n          
+\n        \n  387 Likes\n\n  
+\n\n    
+\n  
+\n
+\n
+\n  
+\n        \n
+\n  
+\n
+\n  
+\n\n  
+\n    \n\n      
+\n          Tiffany Haddish says she taught Barbra Streisand about Cardi B\n\n      
+\n\n    \n
+\n  \n\n  \n    \n      
+\n        Celebrity\n      
+\n\n    \n        
+\n    \n    This morning\n  
+\n\n
+\n\n      
+\n        Now people are dreaming up future collaborations.\n      
+\n\n      \n\n    
+\n      \n      \n          
+\n        \n  630 Likes\n\n  
+\n\n    
+\n  
+\n
+\n  
+\n
+\n    
+\n\n    
+\n  
+\n    
+\n      
+\n        
+\xa9 2017 Twitter
+\n        
+About
+\n        
+Help Center
+\n        
+Terms
+\n        
+Privacy policy
+\n        
+Cookies
+\n        
+Ads info
+\n      
+\n    
+\n  
+\n\n
+\n  
+\n\n            
+\n          
+\n    
+\n    
+\n    
+\n  
+\n    
+\n      
+\n        
+Dismiss
+\n      
+\n  
+\n
+\n
+\n\n    \n\n\n
+\n
+\n  
+\n  
+\n  
+\n    
+\n  
+\n    
+Close
+\n  
+\n
+\n\n    
+\n    
+\n      
+\n        
+\n          
+\n            Previous\n          
+\n        
+\n      
+\n    
+\n    
+\n      
+\n        
+\n          
+\n            Next\n          
+\n        
+\n      
+\n    
+\n    
+\n  
+\n
+\n\n\n\n
+\n\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n\n      
+\n        
+Go to a person's profile
+\n      
+\n\n      
+\n        
+\n          
+\n            
+\n            \n\n\n
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    
+\n  
+Saved searches
+\n  
+\n    \n    
+\n      
+Remove
+\n      
+\n    
+\n  
+\n
+\n\n    
+\n  \n  
+\n    
+\n  
+\n
+\n    
+\n  \n  
+\n    \n    
+\n      
+\n        
+\n        
+In this conversation
+\n      
+\n      
+\n      
+\n        
+Verified account
+Protected Tweets
+\xa0
+@
+\n      
+\n      
+\n    
+\n  
+\n  
+\n
+\n\n    
+\n  \n  
+\n
+\n    \n
+\n  
+\n    Suggested users\n  
+\n  
+\n    \n    
+\n      \n      
+\n        
+\n        
+\n          
+\n          
+\n          
+Verified account
+Protected Tweets
+\xa0
+@
+\n        
+\n      
+\n    
+\n    
+\n  
+\n\n  
+\n    \n    
+\n      \n      
+\n        
+\n        
+\n          
+\n          
+\n          
+Verified account
+Protected Tweets
+\xa0
+@
+\n        
+\n      
+\n    
+\n    
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n    
+\n  
+\n
+\n  
+\n
+\n\n          
+\n        
+\n      
+\n\n    
+\n  
+\n
+\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Promote this Tweet
+\n      
+\n      
+\n        
+\n          
+\n            
+\n            
+\n          
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n\n      
+\n        
+Block
+\n      
+\n\n      
+\n  
+\n
+\n\n      
+\n\n      
+\n        
+Cancel
+\n        
+Block
+\n      
+\n    
+\n  
+\n
+\n\n\n\n\n\n\n   
+\n    
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    
+\n      
+Tweet with a location
+\n      
+\n        You can add location information to your Tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your Tweet location history.\n        
+Learn more
+\n      
+\n      
+\n        
+Turn on
+\n        
+Not now
+\n      
+\n    
+\n  
+\n
+\n\n  
+\n\n
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    
+\n      
+\n      
+\n    
+\n    
+\n    
+\n  
+\n
+\n\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Share Location
+\n      
+\n      
+\n        
+\n          
+\n          
+\n        
+\n      
+\n\n      
+\n        
+\n          
+\n          
+\n\n          
+\n            
+\n          
+\n\n          
+\n            
+Results from 
+\n            
+\n          
+\n        
+\n        
+Send
+\n      
+\n    
+\n  
+\n
+\n\n\n  
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Your lists
+\n      
+\n      
+\n        
+\n        
+\n      
+\n    
+\n  
+\n
+\n  
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Create a new list
+\n      
+\n      
+\n        
+\n  
+\n    
+List name
+\n    
+\n  
+\n  
+\n\n  
+\n    
+Description
+\n    
+\n    
+Under 100 characters, optional
+\n  
+\n  
+\n\n  
+\n    
+Privacy
+\n    
+\n      
+\n        
+\n        
+Public
+ \xb7 Anyone can follow this list\n      
+\n      
+\n        
+\n        
+Private
+ \xb7 Only you can access this list\n      
+\n    
+\n  
+\n  
+\n\n  
+\n    
+Save list
+\n  
+\n
+\n\n      
+\n    
+\n  
+\n
+\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n\n      
+\n        
+\n      
+\n\n      
+\n        
+\n  
+\n
+\n\n        
+\n        
+\n          
+\n        
+\n        
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+\n          
+\n            
+Here's the URL for this Tweet. Copy it to easily share with friends.
+\n            
+\n          
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Embed this Tweet
+\n        
+Embed this Video
+\n      
+\n      
+\n        
+\n  
+Add this Tweet to your website by copying the code below. 
+Learn more
+\n  
+Add this video to your website by copying the code below. 
+Learn more
+\n  
+\n\n    
+\n      
+\n      
+\n        
+Hmm, there was a problem reaching the server. 
+Try again?
+\n      
+\n      
+\n      
+\n        
+\n          
+\n            
+\n            Include parent Tweet\n          
+\n        
+\n        
+\n          
+\n            
+\n            Include media\n          
+\n        
+\n      
+\n    
+\n  
+\n  
+By embedding Twitter content in your website or app, you are agreeing to the Twitter 
+Developer Agreement
+ and 
+Developer Policy
+.
+\n  
+Preview
+\n  
+\n  
+\n
+\n\n      
+\n    
+\n  
+\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Why you're seeing this ad
+\n      
+\n      
+\n        
+\n          
+\n        
+\n        
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n\n  
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Log in to Twitter
+\n      
+\n      
+\n        
+\n          
+\n        
+\n        
+\n
+\n  
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Remember me
+\n    
+\n    
+\xb7
+\n    
+Forgot password?
+\n  
+\n\n  
+\n\n    
+\n\n  
+\n  
+\n  
+\n      
+\n      
+\n
+\n        
+\n      
+\n      
+\n        Don't have an account? 
+Sign up \xbb
+\n      
+\n    
+\n  
+\n
+\n\n  
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Sign up for Twitter
+\n      
+\n      
+\n        
+\n          
+\n        
+\n        
+Not on Twitter? Sign up, tune into the things you care about, and get updates as they happen.
+\n        
+\n
+\n  
+Sign up
+\n
+\n        
+\n      
+\n      
+\n        Have an account? 
+Log in \xbb
+\n      
+\n    
+\n  
+\n
+\n\n  
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Two-way (sending and receiving) short codes:
+\n      
+\n      
+\n        \n\n  \n    \n      \n      \n      \n    \n  \n  \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n    \n  \n  \n    \n      \n    \n  \n
+Country
+Code
+For customers of
+United States
+40404
+(any)
+Canada
+21212
+(any)
+United Kingdom
+86444
+Vodafone, Orange, 3, O2
+Brazil
+40404
+Nextel, TIM
+Haiti
+40404
+Digicel, Voila
+Ireland
+51210
+Vodafone, O2
+India
+53000
+Bharti Airtel, Videocon, Reliance
+Indonesia
+89887
+AXIS, 3, Telkomsel, Indosat, XL Axiata
+Italy
+4880804
+Wind
+3424486444
+Vodafone
+\n        \xbb 
+See SMS short codes for other countries
+\n      
+\n      
+\n    
+\n  
+\n
+\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Confirmation
+\n      
+\n      
+\n        
+\n          
+\n            
+\n            
+\n          
+\n        
+\n        
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+\xa0
+\n      
+\n      
+\n        
+\n          
+\n            
+\n            
+\n          
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n\n
+\n  
+\n    \n    
+\n      
+\n        
+Close
+\n      
+\n    
+\n    
+\n  
+\n
+\n\n\n
+\n  
+\n  
+\n    
+\n    
+\n      
+\n        
+\n          
+\n          
+\n            Skip all\n          
+\n        
+\n        \n\n\n\n
+\n  
+\n    
+\n    Welcome home!\n  
+\n  
+This timeline is where you\u2019ll spend most of your time, getting instant updates about what matters to you.
+\n
+\n\n\n\n
+\n  
+\n    
+\n    Tweets not working for you?\n  
+\n  
+\n    Hover over the profile pic and click the Following button to unfollow any account.\n  
+\n
+\n\n
+\n\n  
+\n    
+\n    Say a lot with a little\n  
+\n  
+\n    When you see a Tweet you love, tap the heart \u2014 it lets  the person who wrote it know you shared the love.\n  
+\n
+\n\n
+\n  
+\n    
+\n    Spread the word\n  
+\n  
+\n    The fastest way to share someone else\u2019s Tweet with your followers is with a Retweet. Tap the icon to send it instantly.\n  
+\n
+\n\n
+\n  
+\n    
+\n    Join the conversation\n  
+\n  
+\n    Add your thoughts about any Tweet with a Reply. Find a topic you\u2019re passionate about, and jump right in.\n  
+\n
+\n\n\n\n
+\n  
+\n    
+\n    Learn the latest\n  
+\n  
+\n    Get instant insight into what people are talking about now.\n  
+\n
+\n\n
+\n  
+\n    
+\n    Get more of what you love\n  
+\n  
+\n    Follow more accounts to get instant updates about topics you care about.\n  
+\n
+\n\n
+\n  
+\n    
+\n    Find what's happening\n  
+\n  
+\n    See the latest conversations about any topic instantly.\n  
+\n
+\n\n
+\n  
+\n    
+\n    Never miss a Moment\n  
+\n  
+\n    Catch up instantly on the best stories happening as they unfold.\n  
+\n
+\n      
+\n\n      
+\n        
+Back
+\n        
+Next
+\n      
+\n    
+\n  
+\n
+\n\n\n\n\n\n
+\n
+\n
+\n
+\n\n\n      
+\n  
+\n    
+\n  
+\n  
+\n    
+\n    
+Next Tweet from user
+\n  
+\n  
+\n    
+\n      
+\n    
+\n    
+\n      
+\n      
+\n    
+\n  
+\n
+\n\n    
+\n  
+\n  
+\n\n
+\n\n    \n    \n      
+\n\n  \n\n    
+\n  
+\n\n  \n    
+\n\n  \n\n>

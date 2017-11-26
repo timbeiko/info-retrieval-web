@@ -1,1926 +1,388 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Vimeo | The high-quality home for video hosting and watching
-
-
-
-
-
-
-
-
-
-        var ablincoln_config = ablincoln_config || {};
-        ablincoln_config.tests = {"DFPAdCohorts":{"id":69,"name":"DFPAdCohorts","buckets":1000,"input":"vuid","url":null,"experiments":[]},"Explore":{"id":64,"name":"Explore","buckets":1000,"input":"vuid","url":"\/","experiments":[]},"TopNavAB":{"id":67,"name":"TopNavAB","buckets":1000,"input":"vuid","url":"\/","experiments":[]},"TopNavCopyTest":{"id":77,"name":"TopNavCopyTest","buckets":1000,"input":"vuid","url":"\/about","experiments":[]},"OnboardingFlow":{"id":132,"name":"OnboardingFlow","buckets":1000,"input":"cuid","url":null,"experiments":[]},"Auth.ToggleModal":{"id":139,"name":"Auth.ToggleModal","buckets":1000,"input":"vuid","url":null,"experiments":[]}};
-    
-
-
-
-        var googletag = googletag || {},
-            gptadslots = [],
-            language,
-            has_uploaded,
-            cohort;
-        googletag.cmd = googletag.cmd || [];
-
-        (function() {
-            var gads = document.createElement('script'),
-                useSSL = 'https:' == document.location.protocol,
-                node;
-            gads.async = true;
-            gads.type = 'text/javascript';
-            gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
-            node = document.getElementsByTagName('script')[0];
-            node.parentNode.insertBefore(gads, node);
-        })();
-
-        googletag.cmd.push(function() {
-            
-                            language = document.cookie.replace(/(?:(?:^|.*;\s*)language\s*\=\s*([^;]*).*$)|^.*$/, "$1");
-                has_uploaded = (document.cookie.replace(/(?:(?:^|.*;\s*)has_uploaded\s*\=\s*([^;]*).*$)|^.*$/, "$1")) ? 'Y' : 'N';
-            
-            cohort = (window.ABLincoln) ? window.ABLincoln.getTest('DFPAdCohorts').get('cohort', 'A') : 'A';
-
-            googletag.pubads().setTargeting('language', [language]);
-            googletag.pubads().setTargeting('is_uploader', [has_uploaded]);
-            googletag.pubads().setTargeting('cohort', [cohort]);
-            googletag.pubads().setTargeting('cohort_a', [(cohort === 'A') ? 'Y' : 'N']);
-            googletag.pubads().setTargeting('cohort_b', [(cohort === 'B') ? 'Y' : 'N']);
-            googletag.pubads().setTargeting('product', ['']);
-            googletag.pubads().setTargeting('storage', ['N']);
-
-                        googletag.pubads().setTargeting('sec', ['false']);
-
-            googletag.pubads().setTargeting('logged_in', ['false']);
-
-                        googletag.pubads().setTargeting('rpv', (Math.floor(Math.random()*100)+1).toString());
-
-            googletag.pubads().enableAsyncRendering();
-            googletag.enableServices();
-        });
-    
-
-
-
-!function(){var e="undefined"!=typeof window?window:exports,r=[];if(e.performance||(e.performance={}),e.performance.now||(e.performance.now=performance.now||performance.webkitNow||performance.msNow||performance.mozNow),!e.performance.now){var n=Date.now?Date.now():+new Date;performance.timing&&performance.timing&&(n=performance.timing.navigationStart),e.performance.now=function(){var e=Date.now?Date.now():+new Date;return e-n}}e.performance.mark||(e.performance.mark=e.performance.webkitMark?e.performance.webkitMark:function(n){r.forEach(function(e,r,a){e.name===n&&a.splice(r,1)}),r.push({name:n,entryType:"mark",startTime:e.performance.now(),duration:0})}),e.performance.getEntriesByType||(e.performance.getEntriesByType=e.performance.webkitGetEntriesByType?e.performance.webkitGetEntriesByType:function(e){var n=function(r){return r.entryType===e};return-1!==["mark","measure"].indexOf(e)?r.filter(n):void 0}),e.performance.getEntriesByName||(e.performance.getEntriesByName=e.performance.webkitGetEntriesByName?e.performance.webkitGetEntriesByName:function(e){return r.filter(function(r){return r.name===e})}),e.performance.clearMeasures||(e.performance.clearMeasures=e.performance.webkitClearMeasures?e.performance.webkitClearMeasures:function(){r.forEach(function(e,r,n){"measure"===e.entryType&&n.splice(r,1)}),r=[]}),e.performance.clearMarks||(e.performance.clearMarks=e.performance.webkitClearMarks?e.performance.webkitClearMarks:function(){r.forEach(function(e,r,n){"mark"===e.entryType&&n.splice(r,1)}),r=[]}),e.performance.measure||(e.performance.measure=e.performance.webkitMeasure?e.performance.webkitMeasure:function(e,n,a){var t=function(e){return function(r){return r.name===e&&"mark"===r.entryType}},o=r.filter(t(n))[0],m=r.filter(t(a))[0],i=m.startTime-o.startTime;r.push({name:e,entryType:"measure",startTime:o.startTime,duration:i})})}(),window.markUserTime=function(e){var r=window.requestAnimationFrame||function(e){setTimeout(e,0)};r(function(){window.performance.mark(e),window.console&&console.timeStamp&&console.timeStamp(e)})};
-
-(function() {
-    window.markUserTime = function(label) {
-        window._gtm = window._gtm || [];
-
-        // Exit early if the browser can't handle new things
-        if (typeof performance === 'undefined' || typeof performance.mark !== 'function' || typeof performance.getEntriesByName !== 'function' || typeof performance.clearMarks !== 'function') {
-            return;
-        }
-
-        var uid = parseInt(Math.random().toString().split('0.')[1]) + new Date().getTime(),
-            mark_name = label + '_' + uid,
-            parts = label.split('|'),
-            category = parts[0],
-            variable = parts[1],
-            label = parts[2],
-            mark_time,
-            mark_entries;
-
-        performance.mark(mark_name);
-        mark_entries = performance.getEntriesByName(mark_name);
-
-        if (mark_entries.length) {
-            mark_time = mark_entries[0].startTime;
-            window._gtm.push({
-                'event': 'performance_timing',
-                'performance_timing.category': category,
-                'performance_timing.variable': variable,
-                'performance_timing.time': mark_time / 1000,
-                'performance_timing.label': label
-            });
-        }
-    };
-}());
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    window.vimeo = window.vimeo || {};
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                Join                            
-
-
-
-
-
-
-
-                                Log in                            
-
-
-
-
-
-
-
-                                Host videos                            
-
-
-
-
-
-
-Compare plans
-
-
-
-
-
-
-Professionals
-
-
-
-
-
-
-Businesses
-
-
-
-
-
-
-Live streaming
-
-
-
-
-
-
-Video School
-
-
-
-
-
-
-
-
-
-
-
-                                Sell                            
-
-
-
-
-
-
-Sell your videos
-
-
-
-
-
-
-Launch a subscription service
-
-
-
-
-
-
-
-
-
-
-
-                                Watch                            
-
-
-
-
-
-
-Staff Picks
-
-
-
-
-
-
-On Demand
-
-
-
-
-
-
-Explore
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Upload
-
-
-
-
-
-
-
-
-
-        // DO NOT REMOVE. This is a callback for the login & join buttons in TopNavBuilder.
-        function completeUserLogin(response) {
-            if (response && !response.signup) {
-                window.location.reload();
-            }
-        }
-    
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
- 
-
-
- 
-
-
-
-
-
-
-
-
-
-                        Watch                    
-
-
-
-
-
-
-
-                        Upload                    
-
-
-
-
-
-
-
-                        Host videos                    
-
-
-
-
-
-
-
-                        Live                    
-
-
-
-
-
-
-
-
-Join or log in
- 
-
-
-
-
-
-
-
-                        Help                    
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-More stuff
-
-
-
-
-
-
-
-
-
-                            Terms of Service                        
-
-
-
-
-
-
-
-                            Privacy Policy                        
-
-
-
-
-
-
-
-                            Copyright                        
-
-
-
-
-
-
-
-                            Cookies                        
-
-
-
-
-
-
-
-                            Desktop site                        
-
-
-
-
-
-
-
-                            Language                        
-
-
-
-
-
-                                    English                                
-
-
-
-                                    Español                                
-
-
-
-                                    Deutsch                                
-
-
-
-                                    Français                                
-
-
-
-                                    日本語                                
-
-
-
-                                    Português                                
-
-
-
-                                    한국어                                
-
-
-
-
-
-
-
-
-
-                            FAQ                        
-
-
-
-
-
-
-TM + © 2017 Vimeo, Inc.
-
-
-
-
-
-
-
-(function(window, document){
-
-    // Global values
-    window.vimeo = window.vimeo || {};
-    vimeo.mobile = vimeo.mobile || {};
-    Vimeo = vimeo.mobile || {};
-    Vimeo.desktop_shared = Vimeo.desktop_shared || {};
-
-    // DESKTOP HANDLERS
-
-    var desktop = document.getElementById('topnav_desktop');
-
-    // Prevent touch device to higtlight the area tapped
-    desktop.addEventListener('touchstart', function(e){
-        // Take into consideration avatar img
-        var target = (e.target.tagName.toLowerCase() === 'img') ? e.target.parentNode : e.target;
-
-        if (target.classList.contains('topnav_has_dropdown')) {
-            e.preventDefault();
-            e.stopPropagation();
-        }
-    }, false);
-
-    // Add last_page cookie
-    var listen = 'ontouchstart' in window ? 'touchstart' : window.PointerEvent ? 'pointerdown' : window.MSPointerEvent ? 'MSPointerDown' : 'click';
-    desktop.addEventListener(listen, function(e){
-        if (e.target.classList.contains('js-topnav_menu_auth')) {
-            document.cookie = 'last_page=' + encodeURIComponent(window.location.pathname) + ';path=\'/\';max-age=1800;';
-        }
-    }, false);
-
-    // MOBILE HANDLERS
-
-    // Trigger iOS Upload flow
-    Vimeo.desktop_shared._upload = function(e) {
-        // show iTunes only if we are in iOS world
-        if (/iPad|iPhone|iPod/.test(navigator.userAgent)){
-            var deeplink = 'vimeo://app.vimeo.com/upload?ref=mobileweb',
-                fallback = '/upload',
-                webkitHiddenCallback,
-                hitCallback;
-
-            // Callbacks
-            webkitHiddenCallback = function() {
-                // If the user is still here open the url page.
-                if (!document.webkitHidden) {
-                    window.location = fallback;
-                }
-            };
-
-            // Try to open the Vimeo App
-            hitCallback = function() {
-                window.location = deeplink;
-                setTimeout(webkitHiddenCallback, 25);
-            };
-
-            hitCallback();
-
-            return false;
-        }
-
-        window.location = e.href;
-
-    }
-
-    // Switch to desktop site
-    Vimeo.desktop_shared._s2ds = function() {
-        document.cookie='opt_out_mobile=1;expires=Fri, 31 Dec 9999 23:59:59 GMT;domain=' + vimeo.domain;
-        window.location.reload();
-    };
-
-    // Switch to language
-    Vimeo.desktop_shared._s2l = function(sel) {
-        var lang = sel.value,
-            xhr = new XMLHttpRequest();
-
-        xhr.open('POST', '/settings/locale');
-        xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
-        xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
-        xhr.send('locale=' + lang + '&token=' + vimeo.xsrft);
-        xhr.onload = function post() {
-            if (xhr.status === 200) {
-                window.location.reload();
-            }
-        };
-    };
-
-    var mobile_logo = document.querySelector('.js-topnav_mobile_header_logo');
-
-    if (mobile_logo) {
-        mobile_logo.addEventListener('click', function(e) {
-            e.stopPropagation();
-            e.preventDefault();
-
-            var mobile_menu_main = document.querySelector('.js-topnav_mobile_menu_main');
-            mobile_menu_main.style.display = 'block';
-
-            // Close
-            var mobile_header_close = document.querySelector('.js-topnav_mobile_header_close');
-            mobile_header_close.addEventListener('click', function(e) {
-                e.stopPropagation();
-                e.preventDefault();
-                mobile_menu_main.style.display = 'none';
-            });
-
-            // Toggle Settings
-            var mobile_menu_settings = document.querySelector('.js-topnav_mobile_menu_settings');
-
-            var topnav2015_mobile_header_settings = document.querySelector('.js-topnav_mobile_header_settings');
-            topnav2015_mobile_header_settings.addEventListener('click', function(e) {
-                e.stopPropagation();
-                e.preventDefault();
-                mobile_menu_settings.style.display = 'block';
-                mobile_menu_main.style.display = 'none';
-
-
-                var topnav2015_mobile_header_settins_close = document.querySelector('.js-topnav_mobile_header_settins_close');
-                topnav2015_mobile_header_settins_close.addEventListener('click', function(e) {
-                    e.stopPropagation();
-                    e.preventDefault();
-                    mobile_menu_settings.style.display = 'none';
-                    mobile_menu_main.style.display = 'block';
-                });
-            });
-        }, false);
-    };
-
-
-    // USER MESSAGE
-
-    // Show notification if it is the case
-    // We wrap this in a setTimeout since the notifications should
-    // have a lower priority in terms of visual compared to other
-    // items on the page.
-    setTimeout(function(){
-         // DOM Elements
-        var avatar = document.getElementById('topnav_menu_avatar');
-        // If there is no avatar then stop it
-        if (!avatar) {
-            return;
-        }
-
-        var bubble = avatar.querySelector('.topnav_menu_avatar_bubble');
-        var dropdown = avatar.querySelector('#topnav_user_dropdown');
-        //var message = avatar.querySelector('.topnav_user_menu_message');
-        //var close = avatar.querySelector('.topnav_user_menu_message_close');
-        var on_hover = false;
-
-        // If there is no bubble then stop it
-        if (bubble) {
-            bubble.classList.add('on');
-        }
-
-        // And we attach hide the bubble
-        avatar.addEventListener('mouseover', function() {
-            if (on_hover) return;
-
-            on_hover = true;
-
-            if (bubble) {
-                bubble.classList.remove('on');
-            }
-
-            // Save removed state [1 means the user open the dropdown]
-            store_user_message_settings(1);
-
-        }, false);
-
-        // Store status of user nav message (bubble closed [1], message hidden [2])
-        function store_user_message_settings(value) {
-            var xhr = new XMLHttpRequest();
-
-            xhr.open('POST', '/settings/nav');
-            xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
-            xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
-            xhr.send('message_state=' + value + '&token=' + vimeo.xsrft);
-
-            // Nothing to handle. We hope for the best in this case
-            xhr.onload = function () {};
-        };
-
-    }, 1000);
-})(window, document);
-
-
-
-
-
-
-
-
-
-
-                    Private            
-
-
-.player{width:100%;height:100%;}.player>video{display:none !important}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Where videos come first
-
-
-
-
-Find a plan
-
-
-Join free
-
-
-
-
-
-        The Infinite Now
-
-        from 
-Armand Dijcks
- 
-
-
-
-
-
-
-The high-quality home to make, share, and watch videos
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Watch Tower of Turkey
-
-
-
-
-
-
-from 
- 
-Leonardo Dalessandri
-
-
-
-
-
-
-
-
-
-
-
-
-Host videos in the highest quality possible
-
-
-Start uploading and enjoy 4K Ultra HD quality, video management tools, no ads before, during, or after your videos, and professional live streaming plans.
-
-
-Upload
-
-
-
-
-
-
-
-
-
-
-Host videos in the highest quality possible
-
-
-Start uploading and enjoy 4K Ultra HD quality, video management tools, no ads before, during, or after your videos, and professional live streaming plans.
-
-
-Upload
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Discover today’s best videos
-
-
-Explore incredible shorts, films, and series on Staff Picks, hand-selected each day for endless inspiration.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Watch
-
-
-
-
-
-
-
-
-
-
-Get powerful video tools, made for creators and brands
-
-
-
-
-Review videos with collaborators
-
-
-Drive engagement and embed anywhere
-
-
-Easily see how your videos are performing
-
-
-
-
-
-
-
-                    Private            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-We’ve got tons more features to help your videos go further. See our plans for hosting, live streaming, and selling your videos.
-
-
-Learn more
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-“Almost every aspect of my execution is inspired by the work I see on Vimeo.”
-
-
-
-
-
-
-
-                    Brian Curtin 
-Plus
-
-
-
-
-Director, editor, and designer
-
-
-
-
-
-
-
-
-“Vimeo is a vital part of my filmmaking process.”
-
-
-
-
-
-
-
-                    Kate Herron 
-Plus
-
-
-
-
-Writer-director
-
-
-
-
-
-
-
-
-“Vimeo is my storefront, my business card, my website, and my #1 tool besides a camera.”
-
-
-
-
-
-
-
-                    Cy Kuckenbaker 
-PRO
-
-
-
-
-Experimental photo and video maker
-
-
-
-
-
-
-
-
-“The way the staff and community have nurtured me is truly one of the greatest things that’s happened in my life.”
-
-
-
-
-
-
-
-                    Matty Brown 
-PRO
-
-
-
-
-Visual storyteller
-
-
-
-
-
-
-
-
-“Vimeo is a valuable enterprise platform for businesses to share their high-quality, visual stories.”
-
-
-
-
-
-
-
-                    Terrence Morash, Shutterstock 
-Business
-
-
-
-
-Creative Director
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Get powerful video tools, made for creators and brands
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Review videos with collaborators
-
-
-Drive engagement and embed anywhere
-
-
-Easily see how your videos are performing
-
-
-
-
-
-
-
-
-
-
-
-
-Welcome to the world’s best community of video creators
-
-
-
-
-Find a plan
-
-
-Join free
-
-
-
-
-
-        Wilderness
-
-        from 
-Studiocanoe
- 
-
-
-
-
-
-
-
-
-It’s here: professional live streaming for your next event. 
-
-
-
-
-Learn more
-
-             
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    var banner = document.querySelector('#live_banner');
-    var remove = document.body.remove ? 'remove' : 'removeNode';
-    
-    // Remove the hidden banner from placeholder spot
-    if (banner) {
-        banner[remove](true);
-    }
-    
-    // Reveal live banner if not previously dismissed
-    if (banner && document.cookie.indexOf('dismiss_live_banner=1') === -1) {
-        var ribbon = document.querySelector('.VimeoBrand_ColorRibbon');
-
-        if (ribbon) {
-            ribbon.parentNode.insertBefore(banner, ribbon);
-
-            var dismissers = banner.querySelectorAll('.js-live_banner_dismiss');
-            for (var i = 0; i < dismissers.length; i++) {
-                var dismiss = dismissers[i];
-                dismiss.addEventListener('click', function(e) {
-                    banner[remove](true);
-                    document.cookie = 'dismiss_live_banner=1; path=/';
-                });
-            }
-
-            // Show the banner!
-            banner.classList.remove('hidden');
-        }
-    }
-
-
-
-
-    vimeo.config = vimeo.config || {};
-    vimeo.config.staff_picks = [{"clip_id":228236677,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/664856302_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/664856302_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/664856302_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/664856302_3120x1756.jpg","alt":"SEATREKKING -Trekking the Ocean - seatrekking"},"uploaded_on":"3 months ago","duration":{"raw":255,"formatted":"04:15"},"quickstats":{"total_comments":{"raw":12,"formatted":"12"},"total_likes":{"raw":174,"formatted":"174"},"total_plays":{"raw":4240,"formatted":"4240"}},"title":"SEATREKKING -Trekking the Ocean","url":"\/228236677","user":{"id":4425783,"name":"Cedric Schanze","url":"\/cedricschanze","account_type":"pro","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/20470848_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/20470848_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/20470848_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/20470848_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":244171658,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/668507986_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/668507986_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/668507986_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/668507986_3120x1756.jpg","alt":"Delphi - short film"},"uploaded_on":"1 day ago","duration":{"raw":1560,"formatted":"26:00"},"quickstats":{"total_comments":{"raw":17,"formatted":"17"},"total_likes":{"raw":148,"formatted":"148"},"total_plays":null},"title":"Delphi","url":"\/244171658","user":{"id":16692790,"name":"S\u00f8ren Peter Langkj\u00e6r Bojsen","url":"\/user16692790","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/22221253_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/22221253_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/22221253_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/22221253_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":243867727,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/668114758_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/668114758_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/668114758_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/668114758_3120x1756.jpg","alt":"The Internet is under attack. This is the Battle for the Net. - battle for the net"},"uploaded_on":"3 days ago","duration":{"raw":177,"formatted":"02:57"},"quickstats":{"total_comments":{"raw":28,"formatted":"28"},"total_likes":{"raw":674,"formatted":"674"},"total_plays":{"raw":7029,"formatted":"7029"}},"title":"The Internet is under attack. This is the Battle for the Net.","url":"\/243867727","user":{"id":27044913,"name":"Louis Wesolowsky","url":"\/louiswes","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/18332079_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/18332079_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/18332079_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/18332079_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":239159367,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/668311650_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/668311650_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/668311650_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/668311650_3120x1756.jpg","alt":"9 Quarter Circle - Victory Journal"},"uploaded_on":"1 month ago","duration":{"raw":533,"formatted":"08:53"},"quickstats":{"total_comments":{"raw":15,"formatted":"15"},"total_likes":{"raw":396,"formatted":"396"},"total_plays":null},"title":"9 Quarter Circle","url":"\/239159367","user":{"id":22958540,"name":"Victory Journal","url":"\/victoryjournal","account_type":"business","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/9991559_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/9991559_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/9991559_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/9991559_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":243940584,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/668208019_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/668208019_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/668208019_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/668208019_3120x1756.jpg","alt":"Liu Sha"},"uploaded_on":"3 days ago","duration":{"raw":290,"formatted":"04:50"},"quickstats":{"total_comments":{"raw":20,"formatted":"20"},"total_likes":{"raw":326,"formatted":"326"},"total_plays":null},"title":"It Is My Fault","url":"\/243940584","user":{"id":4193662,"name":"Liu Sha","url":"\/liusha","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/15634458_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/15634458_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/15634458_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/15634458_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":243128756,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/667183226_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/667183226_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/667183226_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/667183226_3120x1756.jpg","alt":"Stunning MTB masterclass: Matt Jones | Frames Of Mind - red bull"},"uploaded_on":"1 week ago","duration":{"raw":214,"formatted":"03:34"},"quickstats":{"total_comments":{"raw":15,"formatted":"15"},"total_likes":{"raw":847,"formatted":"847"},"total_plays":{"raw":21686,"formatted":"21.7K"}},"title":"Stunning MTB masterclass: Matt Jones | Frames Of Mind","url":"\/243128756","user":{"id":565183,"name":"Red Bull","url":"\/redbull","account_type":"business","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/14118392_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/14118392_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/14118392_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/14118392_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":170818311,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/668500040_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/668500040_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/668500040_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/668500040_3120x1756.jpg","alt":"Martinus Klemet"},"uploaded_on":"1 year ago","duration":{"raw":544,"formatted":"09:04"},"quickstats":{"total_comments":{"raw":24,"formatted":"24"},"total_likes":{"raw":260,"formatted":"260"},"total_plays":{"raw":24103,"formatted":"24.1K"}},"title":"Fatcula","url":"\/170818311","user":{"id":5861583,"name":"Martinus Klemet","url":"\/martinusklemet","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/10228721_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/10228721_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/10228721_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/10228721_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":243668441,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/667879628_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/667879628_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/667879628_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/667879628_3120x1756.jpg","alt":"Andy Mineo & Wordsplayed - DANCE (You See It) - andy mineo"},"uploaded_on":"4 days ago","duration":{"raw":230,"formatted":"03:50"},"quickstats":{"total_comments":{"raw":28,"formatted":"28"},"total_likes":{"raw":540,"formatted":"540"},"total_plays":{"raw":14929,"formatted":"14.9K"}},"title":"Andy Mineo & Wordsplayed - DANCE (You See It)","url":"\/243668441","user":{"id":3656839,"name":"Voyager","url":"\/voyagercreative","account_type":"pro","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/10260167_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/10260167_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/10260167_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/10260167_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":241958004,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/665715143_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/665715143_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/665715143_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/665715143_3120x1756.jpg","alt":"Salazar"},"uploaded_on":"2 weeks ago","duration":{"raw":717,"formatted":"11:57"},"quickstats":{"total_comments":{"raw":9,"formatted":"9"},"total_likes":{"raw":197,"formatted":"197"},"total_plays":{"raw":7969,"formatted":"7969"}},"title":"Handsome and Majestic","url":"\/241958004","user":{"id":625139,"name":"Salazar","url":"\/salazarfilm","account_type":"pro","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/7486203_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/7486203_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/7486203_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/7486203_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":242719187,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/666669193_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/666669193_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/666669193_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/666669193_3120x1756.jpg","alt":"DAN CROLL - TOKYO - animation"},"uploaded_on":"1 week ago","duration":{"raw":293,"formatted":"04:53"},"quickstats":{"total_comments":{"raw":17,"formatted":"17"},"total_likes":{"raw":795,"formatted":"795"},"total_plays":{"raw":12406,"formatted":"12.4K"}},"title":"DAN CROLL - TOKYO","url":"\/242719187","user":{"id":503441,"name":"simon landrein","url":"\/user503441","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/6777117_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/6777117_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/6777117_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/6777117_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":243556536,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/667734745_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/667734745_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/667734745_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/667734745_3120x1756.jpg","alt":"IMMERSION - 2D Animation"},"uploaded_on":"5 days ago","duration":{"raw":197,"formatted":"03:17"},"quickstats":{"total_comments":{"raw":20,"formatted":"20"},"total_likes":{"raw":725,"formatted":"725"},"total_plays":{"raw":33267,"formatted":"33.3K"}},"title":"IMMERSION","url":"\/243556536","user":{"id":32111277,"name":"Lalita Lupina","url":"\/lalitalupina","account_type":"basic","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/21702578_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/21702578_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/21702578_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/21702578_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":243605444,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/667793183_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/667793183_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/667793183_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/667793183_3120x1756.jpg","alt":"Pregnant Pause - comedy"},"uploaded_on":"4 days ago","duration":{"raw":786,"formatted":"13:06"},"quickstats":{"total_comments":{"raw":20,"formatted":"20"},"total_likes":{"raw":304,"formatted":"304"},"total_plays":{"raw":18165,"formatted":"18.2K"}},"title":"Pregnant Pause","url":"\/243605444","user":{"id":12288923,"name":"Alice Seabright","url":"\/aliceseabright","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/14750838_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/14750838_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/14750838_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/14750838_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":243579287,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/668346022_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/668346022_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/668346022_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/668346022_3120x1756.jpg","alt":"Ethan Brooks"},"uploaded_on":"4 days ago","duration":{"raw":379,"formatted":"06:19"},"quickstats":{"total_comments":{"raw":38,"formatted":"38"},"total_likes":{"raw":537,"formatted":"537"},"total_plays":{"raw":13936,"formatted":"13.9K"}},"title":"Ghost Bikes","url":"\/243579287","user":{"id":40280113,"name":"Ethan Brooks","url":"\/user40280113","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/21811119_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/21811119_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/21811119_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/21811119_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":242763018,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/666719542_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/666719542_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/666719542_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/666719542_3120x1756.jpg","alt":"Jungle - surf movie"},"uploaded_on":"1 week ago","duration":{"raw":1040,"formatted":"17:20"},"quickstats":{"total_comments":{"raw":33,"formatted":"33"},"total_likes":{"raw":1109,"formatted":"1109"},"total_plays":{"raw":60012,"formatted":"60K"}},"title":"Jungle","url":"\/242763018","user":{"id":362093,"name":"Morgan Maassen","url":"\/morganmaassen","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/15302222_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/15302222_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/15302222_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/15302222_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false},{"clip_id":242858238,"is_staffpick":true,"is_featured":false,"vod_id":null,"thumbnail":{"src":"https:\/\/i.vimeocdn.com\/video\/666839924_390x220.jpg","src_2x":"https:\/\/i.vimeocdn.com\/video\/666839924_780x439.jpg","src_4x":"https:\/\/i.vimeocdn.com\/video\/666839924_1560x878.jpg","src_8x":"https:\/\/i.vimeocdn.com\/video\/666839924_3120x1756.jpg","alt":"\u84ee\u82b1\u71c8 Lotus Lantern - Animation"},"uploaded_on":"1 week ago","duration":{"raw":390,"formatted":"06:30"},"quickstats":{"total_comments":{"raw":21,"formatted":"21"},"total_likes":{"raw":376,"formatted":"376"},"total_plays":{"raw":24757,"formatted":"24.8K"}},"title":"\u84ee\u82b1\u71c8 Lotus Lantern","url":"\/242858238","user":{"id":25161588,"name":"Calvin Xingpei Shen","url":"\/calvinshen","account_type":"plus","thumbnail":{"src":"https:\/\/i.vimeocdn.com\/portrait\/20009043_16x16.jpg","src_2x":"https:\/\/i.vimeocdn.com\/portrait\/20009043_32x32.jpg","src_4x":"https:\/\/i.vimeocdn.com\/portrait\/20009043_64x64.jpg","src_8x":"https:\/\/i.vimeocdn.com\/portrait\/20009043_128x128.jpg"}},"autoplay":false,"seektime":false,"watch_later":false,"is_spatial":false}];
-
-    window.handleJoinButton = function(e) {
-        var shouldToggle = window.ABLincoln.getTest('Auth.ToggleModal').get('modal_toggle', 'off') === 'on';
-        if (shouldToggle) {
-            e.preventDefault();
-            vimeo.Modal.create({
-                size: 'xsmall',
-                content: '/join?modal=new',
-            }).then(function(response) {
-                // This callback is defined in topnav/desktop.phtml.
-                // I don't like having to do it this way.
-                if (window.completeUserLogin) {
-                    window.completeUserLogin(response);
-                }
-                else {
-                    window.location.reload();
-                }
-            });
-        }
-    }
-
-
-
-
-
-
-
-
-/* <![CDATA[ */
-
-var google_conversion_id       =  993702637;
-
-
-var google_custom_params    = window.google_tag_params;
-
-var google_conversion_format   = '3';
-var google_conversion_language = 'en';
-var google_conversion_color    = 'ffffff';
-var google_conversion_value    = '0';
-var google_remarketing_only    =  true;
-/* ]]> */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Vimeo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        About Vimeo                    
-
-
-
-
-
-
-
-                        Vimeo Blog                    
-
-
-
-
-
-
-
-                        Vimeo Guidelines                    
-
-
-
-
-
-
-
-                        Partners                    
-
-
-
-
-
-
-
-                        Developers                    
-
-
-
-
-
-
-
-                        Jobs                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Help
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        Help Center                    
-
-
-
-
-
-
-
-                        Video School                    
-
-
-
-
-
-
-
-                        FAQ                    
-
-
-
-
-
-
-
-                        Forums                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-More
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        On Demand                    
-
-
-
-
-
-
-
-                        Upload                    
-
-
-
-
-
-
-
-                        Site Map                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Upgrade
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        Vimeo Plus                    
-
-
-
-
-
-
-
-                        Vimeo PRO                    
-
-
-
-
-
-
-
-                        Vimeo Business                    
-
-
-
-
-
-
-
-                        Vimeo Live                    
-
-
-
-
-
-
-
-                        Vimeo OTT                    
-
-
-
-
-
-
-
-                        Refer a friend                    
-
-
-
-
-
-
-
-
-
-
-
-
-Did you know?
-
-
-All your burning filmmaking questions have answers. Find them in 
-Vimeo Video School
-.
-
-
-
-
-
-
-
-
-
-
-
-
-TM + © 2017 Vimeo, Inc. All rights reserved.
-
-
-
-
-
-
-
-
-
-                    Terms                
-
-
-
-
-
-
-
-                    Privacy                
-
-
-
-
-
-
-
-                    Copyright                
-
-
-
-
-
-
-
-                    Cookies                
-
-
-
-
-
-
-
-            Made with 
- in NYC.        
-
-
-
-
-
-
-
-            Language:
-            
+\n\n\t
+\n
+\n<!--//--><![CDATA[//><!--\nwindow.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\\x3C/script>")\n//--><!]]>\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n<!--//--><![CDATA[//><!--\n(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-67381822-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");\n//--><!]]>\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n<!--//--><![CDATA[//><!--\njQuery.extend(Drupal.settings, {"basePath":"\\/","pathPrefix":"","ajaxPageState":{"theme":"specialone","theme_token":"vDUuxDy75qKTyIbj5B3A1cvXubxPpBg9id90jqkfK-g","js":{"\\/\\/code.jquery.com\\/jquery-1.10.2.min.js":1,"0":1,"misc\\/jquery.once.js":1,"misc\\/drupal.js":1,"sites\\/all\\/modules\\/mobile_navigation\\/js\\/mobile_menu.js":1,"sites\\/all\\/modules\\/mobile_navigation\\/mobile_navigation.js":1,"sites\\/all\\/modules\\/google_analytics\\/googleanalytics.js":1,"1":1,"sites\\/all\\/modules\\/nivo_slider\\/js\\/nivo_slider.js":1,"sites\\/all\\/libraries\\/nivo-slider\\/jquery.nivo.slider.pack.js":1,"http:\\/\\/maps.google.com\\/maps\\/api\\/js?sensor=false":1,"sites\\/all\\/themes\\/specialone\\/js\\/bootstrap.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.isotope.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.flexslider-min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jflickrfeed.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.fitvids.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.easy-pie-chart.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.eislideshow.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.easing.1.3.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.sequence-min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/app.js":1},"css":{"modules\\/system\\/system.base.css":1,"modules\\/system\\/system.menus.css":1,"modules\\/system\\/system.messages.css":1,"modules\\/system\\/system.theme.css":1,"sites\\/all\\/modules\\/ldap\\/ldap_user\\/ldap_user.css":1,"modules\\/book\\/book.css":1,"sites\\/all\\/modules\\/calendar\\/css\\/calendar_multiday.css":1,"modules\\/comment\\/comment.css":1,"sites\\/all\\/modules\\/date\\/date_api\\/date.css":1,"sites\\/all\\/modules\\/date\\/date_popup\\/themes\\/datepicker.1.7.css":1,"modules\\/field\\/theme\\/field.css":1,"modules\\/node\\/node.css":1,"modules\\/poll\\/poll.css":1,"modules\\/search\\/search.css":1,"modules\\/user\\/user.css":1,"sites\\/all\\/modules\\/workflow\\/workflow_admin_ui\\/workflow_admin_ui.css":1,"sites\\/all\\/modules\\/views\\/css\\/views.css":1,"sites\\/all\\/modules\\/ckeditor\\/css\\/ckeditor.css":1,"sites\\/all\\/modules\\/ctools\\/css\\/ctools.css":1,"sites\\/all\\/modules\\/facebook_pull\\/facebook_pull.css":1,"sites\\/all\\/modules\\/ldap\\/ldap_servers\\/ldap_servers.admin.css":1,"sites\\/all\\/modules\\/panels\\/css\\/panels.css":1,"modules\\/locale\\/locale.css":1,"sites\\/all\\/modules\\/mobile_navigation\\/mobile_navigation.css":1,"sites\\/all\\/libraries\\/nivo-slider\\/themes\\/default\\/default.css":1,"sites\\/all\\/libraries\\/nivo-slider\\/nivo-slider.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/bootstrap.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/style.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/bootstrap-responsive.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/font-awesome.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/flexslider.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/colors\\/custom.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/style-responsive.css":1,"public:\\/\\/css_injector\\/css_injector_2.css":1,"public:\\/\\/css_injector\\/css_injector_3.css":1,"public:\\/\\/css_injector\\/css_injector_11.css":1,"public:\\/\\/css_injector\\/css_injector_13.css":1}},"inEffects":["bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn"],"outEffects":["bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut"],"mobile_navigation":{"breakpoint":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","menuSelector":"#main-menu-links","menuPlugin":"slideMenu","showEffect":"expand_down","showItems":"all","tabHandler":1,"menuWidth":"65","specialClasses":0,"mainPageSelector":"#page","useMask":1,"menuLabel":"Menu","expandActive":0},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"nivo_slider":{"effect":"fade","slices":1,"boxCols":8,"boxRows":4,"animSpeed":200,"pauseTime":10000,"startSlide":1,"directionNav":false,"controlNav":true,"controlNavThumbs":false,"pauseOnHover":true,"manualAdvance":false,"prevText":"Prev","nextText":"Next","randomStart":false},"settings":{"layout_version":"wide","theme_color":"custom","boxed_bColor":"bg-color-grayLight2","use_bPattern":"0","boxed_bPattern":"bg-pattern-wavegrid","header_bColor":"bg-color-grayDark2","header_tColor":"text-color-grayLight1","header_tiColor":"text-color-grayLight2","header_lColor":"text-color-grayLight2","top_content_bColor":"bg-color-grayLight2","top_content_tColor":"text-color-grayDark2","top_content_tiColor":"text-color-grayDark1","top_content_lColor":"text-color-theme","featured_bColor":"bg-color-white","featured_tColor":"text-color-grayDark2","featured_tiColor":"text-color-grayDark1","featured_lColor":"text-color-theme","wide1_bColor":"bg-color-midnightBlue","wide1_tColor":"text-color-white","wide1_tiColor":"text-color-white","wide1_lColor":"text-color-theme","wide1_use_bImg":"0","wide1_bImg":"bg-image-eighteen","wide2_bColor":"bg-color-white","wide2_tColor":"text-color-grayDark2","wide2_tiColor":"text-color-grayDark1","wide2_lColor":"text-color-theme","wide3_bColor":"bg-color-grayLight1","wide3_tColor":"text-color-grayDark2","wide3_tiColor":"text-color-grayDark1","wide3_lColor":"text-color-theme","wide3_use_bImg":"0","wide3_bImg":"bg-image-one","wide4_bColor":"bg-color-white","wide4_tColor":"text-color-grayDark2","wide4_tiColor":"text-color-grayDark1","wide4_lColor":"text-color-theme","before_footer_bColor":"bg-color-theme","before_footer_tColor":"text-color-grayLight2","before_footer_tiColor":"text-color-grayLight1","before_footer_lColor":"text-color-grayLight3","footer_four_bColor":"bg-color-grayDark1","footer_four_tColor":"text-color-grayDark2","footer_four_tiColor":"text-color-grayLight2","footer_four_lColor":"text-color-grayLight2","footer_bColor":"bg-color-grayDark2","footer_tColor":"text-color-grayDark2","footer_tiColor":"text-color-grayLight2","footer_lColor":"text-color-grayLight2","slider_color":"bg-color-belizeHole","slider_use_bImg":"1","slider_bImg":"bg-image-one","google_latitude":"45.497038","google_longitude":"-73.578633","google_zoom":"7","google_title":"Concordia Student Union","google_description":"","flickr_id":"12913238@N03","flickr_limit":"6","base_url":"https:\\/\\/csu.qc.ca"}});\n//--><!]]>\n
+\n\t
+\n\t
+\n
+\n
+\n
+\n
+\n\t
+Bursaries at the CSU | Concordia Student Union | csu.qc.ca
+\n\t
+\n\t
+\n@import url("https://csu.qc.ca/modules/system/system.base.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/system/system.menus.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/system/system.messages.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/system/system.theme.css?ok8zbn");\n
+\n
+\n@import url("https://csu.qc.ca/sites/all/modules/ldap/ldap_user/ldap_user.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/book/book.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/calendar/css/calendar_multiday.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/comment/comment.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/date/date_api/date.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/field/theme/field.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/node/node.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/poll/poll.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/search/search.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/user/user.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/workflow/workflow_admin_ui/workflow_admin_ui.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/views/css/views.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/ckeditor/css/ckeditor.css?ok8zbn");\n
+\n
+\n@import url("https://csu.qc.ca/sites/all/modules/ctools/css/ctools.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/facebook_pull/facebook_pull.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/ldap/ldap_servers/ldap_servers.admin.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/panels/css/panels.css?ok8zbn");\n@import url("https://csu.qc.ca/modules/locale/locale.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/modules/mobile_navigation/mobile_navigation.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/libraries/nivo-slider/themes/default/default.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/libraries/nivo-slider/nivo-slider.css?ok8zbn");\n
+\n
+\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/bootstrap.min.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/style.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/bootstrap-responsive.min.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/font-awesome.min.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/flexslider.css?ok8zbn");\n
+\n
+\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/colors/custom.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/all/themes/specialone/css/style-responsive.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/default/files/css_injector/css_injector_2.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/default/files/css_injector/css_injector_3.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/default/files/css_injector/css_injector_11.css?ok8zbn");\n@import url("https://csu.qc.ca/sites/default/files/css_injector/css_injector_13.css?ok8zbn");\n
+\n\t
+\n\n\n\n\t\t\n
+\n   \n  
+\n\n      
+\n      
+\n        
+\n                  
+\n        
+\n            
+\n    \n
+\n\n      \n  
+\n    
 English
-
-
-
-
-Mature content filter: 
-None
-
-
-
-
-
-
-
-
-
-
-
-        [{"name":"Vimeo","url":"https://vimeo.com","sameAs":["https://twitter.com/vimeo","http://vimeo.tumblr.com/","https://www.facebook.com/Vimeo","https://plus.google.com/+vimeo","https://instagram.com/vimeo","https://www.linkedin.com/company/vimeo"],"potentialAction":[{"@type":"SearchAction","target":"/search?q={qs}","query-input":"required name=qs"},{"@type":"ViewAction","target":"vimeo://app.vimeo.com/"}],"@type":"WebSite","@context":"http://schema.org"}]    
-
-
-
-    var _gtm = _gtm || [],
-        _initial_gtm_state = {"page_type":"LOHP","language":"en","user_status":"logged_out","user_type":"none","ga_universal_id":"UA-76641-8","comscore_site_id":10348289};
-
-    _initial_gtm_state['vuid'] = document.cookie.replace(/(?:(?:^|.*;\s*)vuid\s*\=\s*([^;]*).*$)|^.*$/, "$1");
-    _initial_gtm_state['gtm.start'] = new Date().getTime();
-    _initial_gtm_state['event'] = 'gtm.js';
-    _gtm.push(_initial_gtm_state);
-
-
-
-
-    var __fa = __fa || [];
-    __fa.push(['trackPageview']);
-
-    /**
-     * If the current request was bucketed in an ABLincoln experiment,
-     * send the selected treatment back from the client, to filter ab test
-     * data down to non-robot users that run JavaScript.
-     */
-     if ("ABLincoln" in window) {
-        (function () {
-                                })();
-    }
-
-        var _extend = function(){for(var r=arguments[0],n=1,e=arguments.length;e>n;n++){var t=arguments[n];for(var a in t)t.hasOwnProperty(a)&&(r[a]=t[a])}return r};
-
-        var CSS_DIR = 'https://f.vimeocdn.com/styles/css_opt/',
-        JS_DIR = 'https://f.vimeocdn.com/js_opt/',
-        IMAGE_DIR = 'https://f.vimeocdn.com/images_v6/',
-        SVG_DIR = 'https://f.vimeocdn.com/svg/',
-                BUILD_HASH = '72454';
-
-    
-        var vimeo = _extend((window.vimeo || {}), {"app_version":"v6","domain":"vimeo.com","url":"vimeo.com","cur_user":false,"origin_user_id":null,"is_mobile":false});
-    vimeo.config = _extend((vimeo.config || {}), {"sticky_topnav":{"excluded_pages":["Vimeo\\Controller\\MarketingABTestController:upgrade","Vimeo\\Controller\\MarketingABTestController:business","Vimeo\\Controller\\AboutController:main","Vimeo\\Controller\\AboutController:professionals","Vimeo\\Controller\\AboutController:create","Vimeo\\Controller\\AboutController:everyone","Vimeo\\Controller\\StoreController:main","Vimeo\\Controller\\User\\Settings2Controller:main","Vimeo\\Controller\\User\\Settings2Controller:team_members","Vimeo\\Controller\\User\\Settings2Controller:password","Vimeo\\Controller\\VideoManagerController:main","Vimeo\\Controller\\UserController:main","Vimeo\\Controller\\ClipStatsController:main","Vimeo\\Controller\\Clip\\Settings\\EmbedController:embed","Vimeo\\Controller\\VideoReviewController","Vimeo\\Controller\\MessagesController","Vimeo\\Controller\\StatsController","Vimeo\\Controller\\UploadController","Vimeo\\Controller\\BlogController","Vimeo\\Controller\\OnDemand\\SettingsController","Vimeo\\Controller\\Clip\\SettingsController"],"topnav_wrap_selector":"#topnav_outer_wrap","content_wrap_selector":".wrap_content"},"locale":"en"});
-
-        var localeConfig = {
-        lang: 'en',
-        'Date': {
-            months: ["January","February","March","April","May","June","July","August","September","October","November","December"],
-            months_abbr: ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
-            days: ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
-            days_abbr: ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],
-
-            // Culture's date order: MM/DD/YYYY
-            dateOrder: ['date', 'month', 'year'],
-            shortDate: '%d/%m/%Y',
-            shortTime: '%I:%M%p',
-            AM: 'AM',
-            PM: 'PM',
-            firstDayOfWeek: 0,
-
-            // Date.Extras
-            ordinal: function(dayOfMonth){
-                return dayOfMonth;
-            }
-        },
-        'DatePicker': {
-            select_a_time: "Select a time",
-            use_mouse_wheel: "Use the mouse wheel to quickly change value",
-            time_confirm_button: "OK",
-            apply_range: "Apply",
-            cancel: "Cancel",
-            week: "Wk"        },
-                'Number': {
-            decimal: '.',
-            group: ',',
-            currency: {
-                prefix: 'CA$'
-            }
-        },
-        'FormValidator': {"required":"This field is required.","requiredChk":"This field is required."}    };
-
-    var fullLocale = '';
-
-    
-        var Copy = {translate:function(t,i,u){var e='object'!=typeof this.dict[t]?this.dict[t]:i?this.dict[t].plural:this.dict[t].singular;return'object'==typeof u&&(e=this.substitute(e,u)),e},substitute:function(t,i){return void 0!==t.substitute?t.substitute(i):t.replace(/\\?\{([^{}]+)\}/g,function(t,u){return'\\'==t.charAt(0)?t.slice(1):null!=i[u]?i[u]:''})},dict:{}};
-    Copy.dict = {"did_you_mean_email":"Did you mean <em>{SUGGEST}<\/em>?","email_password_mismatch":"Email and password do not match","just_now":"just now","seconds_ago":{"singular":"{COUNT} second ago","plural":"{COUNT} seconds ago"},"minutes_ago":{"singular":"{COUNT} minute ago","plural":"{COUNT} minutes ago"},"hours_ago":{"singular":"{COUNT} hour ago","plural":"{COUNT} hours ago"},"open_comment_box":"Add new comment instead &raquo;","url_unavailable":"Sorry, this url is unavailable.","unsaved_changes_generic":"You have unsaved changes, are you sure you wish to leave?","add":"Add","remove":"Remove","select":"Select","no_followers_for_letter":"You don&rsquo;t follow anyone that begin with the letter &ldquo;{PAGE_LETTER}&rdquo;","share_limit_reached":"You have reached the maximum number of users to share with.","at_least_one":"There must be at least one user.","available":"Available","unavailable":"Unavailable","browse_error_generic":"Sorry, there was an error","browse_error_no_videos":"Sorry, no videos found","follow":"Follow","following":"Following","unfollow":"Unfollow","unfollowing":"Unfollowing","count_comments":{"singular":"{COUNT} comment","plural":"{COUNT} comments"},"first_comment":"Be the first to comment\u2026","no_comments_for_you":"Forbidden. You cannot post comments on this page.","oops":"Oops!","player_try_again":"That wasn't supposed to happen. Please try again in a few minutes.","duration_input_min_duration":"The duration cannot be less than {MIN_DURATION}.","duration_input_max_duration":"The duration cannot be greater than {MAX_DURATION}.","duration_input_invalid_characters":"0-9 and : are the only acceptable inputs.","close":"Close","expand":"Expand","loading":"Loading...","top":"top","advanced_search":"Advanced Search","no_suggestions":"No suggestions","recent_searches":"Recent Searches","search_all":"Search All of Vimeo","email_and_password":"Please enter your email and password","email_address":"Please enter a valid email address","name_email_and_password":"Please enter your name, email, and password"};
-
-
-
-
-
-
-        if (typeof playerAssetUrls !== 'undefined') {
-                            PlayerManager.run(playerAssetUrls);
-                    }
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-        function onVimeoDomReady(e) {
-                                                
-            var parts = ('; ' + document.cookie).split('; vuid='),
-                vuid_from_cookie = (parts.length == 2) ? parts.pop().split(';').shift() : '',
-                _session_id = vuid_from_cookie,
-                _sift = window._sift = window._sift || [];
-
-            _sift.push(['_setAccount', '9fc40762c3']);
-            
-            _sift.push(['_setSessionId', _session_id]);
-            _sift.push(['_trackPageview']);
-            (function() {
-
-                function ls() {
-                    var e = document.createElement('script');
-                    e.type = 'text/javascript';
-                    e.async = true;
-                    e.src = 'https://f.vimeocdn.com/js_opt/vendor/siftscience/siftscience.1.0.min.js?DEV';
-                    var s = document.getElementsByTagName('script')[0];
-                    s.parentNode.insertBefore(e, s);
-                }
-
-                if (window.attachEvent) {
-                    window.attachEvent('onload', ls);
-                }
-                else {
-                    window.addEventListener('load', ls, false);
-                }
-
-            })();
-                                    
-                                                if (!vimeo.bypass_player_responsive_delegates) {
-                        vimeo.player_responsive_delegates = vimeo.player_responsive_delegates || {};
-                        vimeo.player_responsive_delegates.willOpenShareOverlay = vimeo.player_responsive_delegates.willOpenShareOverlay || function(id) {
-                                PlayerManager.pauseAllPlayers();
-                                vimeo.share.Popup(id);
-                                return false;
-                            };
-
-                        vimeo.player_responsive_delegates.willOpenLoginForm = vimeo.player_responsive_delegates.willOpenLoginForm || function(id, context) {
-                            if (typeof vimeo.Modal !== 'undefined') {
-                                PlayerManager.pauseAllPlayers();
-
-                                if (context) {
-                                    vimeo.Session.create({ player: 1, clip_id: id, context: context });
-                                }
-                                else {
-                                    vimeo.Session.create();
-                                }
-
-                                return false;
-                            }
-                        };
-
-                        if (PlayerManager) {
-                            PlayerManager.setDefaultDelegate(vimeo.player_responsive_delegates);
-                        }
-                    }
-                
-                if (PlayerManager) {
-                    PlayerManager.dispatchReadySignals();
-                }
-            
-                    }
-
-                    $(document).ready(onVimeoDomReady);
-            
-
-
-
-
-
->
+\n
+Fran\xe7ais
+\n
+  
+\n
+  
+\n        
+\n      
+\n    
+\n     \n  
+\n   \n\t
+\n    
+\n  \n    
+\n  \n  \t  
+\n  \t\t          \t
+\n          \t  
+\n  \n  \t
+\n  \n  \t
+\n  \n  \t  
+\n  \t\t  
+\n  \t\t\t  
+\n  \t\t\t\t  
+\n  \t\t\t\t\t  
+Menu
+\n  \n  \t\t\t\t\t  
+\n  \t\t\t\t\t    
+About Us
+Our Mission
+Council of Representatives
+Executive Team
+Judicial Board
+Funding and Fees
+Directory
+University Bodies
+Senate
+Board of Governors
+Jobs @ CSU
+Services
+Advocacy Centre
+Legal Information Clinic
+Housing and Job Bank (HOJO)
+Classifieds
+Health and Dental Plan
+Hive Loyola Free Lunch
+Emergency Food Vouchers
+Bookings
+General Booking Terms and Conditions
+CSU Mezzanine Information Tables Terms and Usage Policies
+CSU Live Newsletter
+Projects
+Reggie's Bar Renovations
+Daycare Service
+Hive Caf\xe9 Solidarity Co-op
+Cooperative Student Housing
+Cooperative Housing Committee
+Cooperative Housing Focus Group
+Concordia Student Congress
+Survey
+Campaigns
+Campaigns
+Unpaid Internships
+Climate Justice & Divestment
+Anti-Consumerism
+Past Campaigns
+#BringBissanHome
+Austerity
+International Tuition Hike
+Tribunals
+Student Life
+Fee Levy Groups
+Student Groups & Associations
+Bursaries at the CSU
+Sustainability
+Food Systems Reform
+Sustainability Resources on Campus
+Food System Special Project Funding Policy
+Clubs
+Active Clubs
+Starting a New Club
+How to Manage your Club
+Resources
+Apply for Funding
+Apply for Funding
+Special Project Funding
+CSU Special Clubs Funding
+CSU Community Action Fund
+Food Systems Special Project Funding
+CSU Committee Funding
+Other Sources of Funding
+  \t\t\t\t\t  
+\n  \t\t\t\t  
+\n  \t\t\t  
+\n  \t\t  
+\n  \t  
+\n  \n  \t
+\n  \n    
+\n  
+\n  \n  
+\n\n  
+\n  \t\t\n\t\t
+\n      
+\n        \n        
+\n        \n        
+\n          
+Home
+\u203a
+Student Life
+                  
+\n        
+\n\n      
+\n    
+\n\t\n\t
+\n\t  \n  
+\n\n  
+\n   \n      
+\n      
+\n        
+\n            
+\n    \n
+\n\n      \n  
+\n      
+\n
+  
+\n        
+\n      
+\n    
+\n     \n  
+\n\t\n\t
+\n  \n  \n  
+\n\t\n\t
+\n  \n    \n  
+\n\t\n\t
+\n  \n  
+\n  \n    
+\n      
+\n\n                  
+Bursaries at the CSU
+\n                \n        
+\n\t\t    \t\t      \n\t\t    
+\n\t\t    \t\t      \t\t    \n      
+\n    
+\n    \n    
+\n  \n      
+\n  \n        \n      
+\n\t   \n      
+\n      \n      
+\n         \n        
+\n        
+\n  \n      
+\n      \n            \n            \n      
+\n        
+\n          
+\n
+Bursary Profiles
+\n\n
+Every year, the CSU awards a minimum of 30 bursaries of $500 to current Concordia undergraduate students in good standing, with demonstrated financial need. To be eligible, students must have completed at least three credits at the university. Additional eligibility requirements may apply for certain bursaries, as outlined below.\u2028\u2028
+\n\n
+In awarding its bursaries, the CSU takes a holistic approach and considers equally the applicant\u2019s academic achievement, extra-curricular activites, curriculum vitae (CV), financial need, and statement of merit (1 page)\xa0written by the applicant. Contributions to Concordia's student life will also be considered as an asset in the applications reviewed. \u2028Every reasonable attempt will be made to award bursaries on the basis of gender equity. Applicants may submit their documentation at the CSU office in a sealed envelop addressed to the Academic Affairs and Advocacy Coordinator, the documents may be submitted in English or French.\xa0
+\n\n
+Ineligible Members\u2028
+\n\n
+Councilors, CSU Executives, members of the CSU's Judicial Board, employees of the CSU, and the chair and secretary of the CSU Council of Representatives are ineligible to receive these bursaries.
+\n\n
+Bursaries for the 2016-17\xa0Academic Year
+\n\n
+For the 2016-17\xa0academic year, the CSU will be awarding 
+30
+\xa0bursaries
+ in the\xa0categories\xa0listed below. Students may choose to apply for more than one bursary, but no one will receive more than a single award. Students applying for more than one bursary must include a letter of merit for each bursary that they are applying to receive. All bursaries are of $500.
+\n\n
+Faculty Based Bursaries
+\n\n
+The CSU will be awarding 30 bursaries to students in financial need\xa0allocated proportionately to Concordia's four Faculty's. Thirteen (13) bursaries to Arts and Science students, five (5) bursaries to students in the John Molson School of Business, five\xa0(5) bursaries to students in Engineering and Computer Science, four\xa0(4) bursaries to students in Fine Arts, and three (3) bursaries to Independent students.\xa0
+\n\n
+These bursaries have the following titles: the Arts and Science Student Bursary, the Engineering and Computer Science Student Bursary, the Fine Arts Student Bursary, the John Molson School of Business Student Bursary, and the Independent Student Bursary.
+\n\n
+Concordia Student Athlete Bursary
+\n\n
+\u2028These bursaries are intended to support students who are combining athletic accomplishments and competitions with their regular undergraduate schooling. Both Concordia's undergraduate varsity athletes and undergraduate students competing at a provincial or national level in their respective sports are eligible for these bursaries. Two (2) of these bursaries are specifically reserved for Concordia undergraduate Varsity Athletes, and two\xa0(2) others can be awarded to any student athlete.
+\n\n
+Outstanding Contribution to Student Life\u2028
+\n\n
+The Student Life bursary seeks to recognize students, from any faculty, who have dedicated substantial extra-curricular time to enriching student life at Concordia. The CSU seeks to recognize and award those who commit time to causes and organizations that seek to implicate Concordia students, divert them, or otherwise enrich their time at this University. This year we will be awarding five\xa0(5) bursaries in this category.
+\n\n
+Outstanding Female Leadership Award\u2028
+\n\n
+This bursary is meant to support female students who have shown outstanding leadership throughout their undergraduate career. This leadership could have been as part of the Concordia community, or outside in the local communities around Montreal. This bursary was created in January 2010 by the CSU's Women's Caucus to recognize female leadership throughout campus. Three\xa0(3) bursaries will be awarded in this category.
+\n\n
+Outstanding Contribution to an External Community\u2028
+\n\n
+Involvement on campus isn't everything, and this bursary is meant to support undergraduate students who have demonstrated an important implication off-campus as well. Individuals who have taken on leadership roles, or otherwise put time into helping to make their communities anywhere in Canada or around the world a better place are eligible for this award. Four\xa0(4) bursaries will be awarded in this category.
+\n\n
+Outstanding Academic Achievement
+\n\n
+The CSU also wants to support students for their academic achievements on campus, particularly when the University has failed to do so. Academic achievement can also serve to enrich campus life, as well as serving to help advance the important academic mission of the University. This bursary will be given out to five\xa0(5) students with a GPA of 3.6 or higher, enrolled in any Concordia program, and who are not receiving any scholarships from the university.\u200b
+To submit your application form for CSU Bursaries, please email all necessary documentation as outlined
+\xa0
+here
+ to\xa0academic@csu.qc.ca or submit in person at the CSU Office (H-711 downtown and CC-426 at Loyola) by March 15th, 2017.\xa0
+\n
+\n\n
+\xa0
+\n
+        
+\n      
+\n      \n          \n    
+\n  \n
+\n          \n        
+\n              
+\n      \n      
+\n    \n      
+\n      \n            \n      
+\n\n    
+\n  
+\n\n\t
+\n\t\n\t
+\n\t\n\t\t\n\t
+\n\t\n  
+\n  \n    \n  
+\n  \n  
+\n  \n    \n  
+\n  \n  
+\n  \n    \n  
+\n\t\n  
+\n\t\n  \t  
+\n\t    
+\n\t      
+\n\t\t        
+\n    \n
+\n\n      \n  
+\n    
+\n
+\n
+\n
+\n
+\u200b  
+\n
+  
+\n\t\t    
+\n\t    
+\n\t  
+\n\t\t\n\t
+\n\t   \n  
+\n\t \n\t\t  
+\n\t  \n\t    
+\n\n\t      \t\t      
+\n\t\t          
+\n    \n
+\n\n        
+Quick Links
+\n    \n  
+\n    
+Login
+\n
+Resources
+\n
+Jobs
+\n
+  
+\n
+  
+\n\t\t      
+\n\t      \t      \n\t\t            \n\t\t    \t      \n\t      \t\t      
+\n\t\t          
+\n    \n
+\n\n        
+Contact Information
+\n    \n  
+\n    
+Downtown:\xa01455 de Maisonneuve Blvd West,\xa0H-711\xa0Montr\xe9al, QC H3G 1M8
+\n\t
+Loyola:\xa07141 Sherbrooke Street West, CC-426\xa0Montr\xe9al,\xa0QC\xa0H4B 1R6
+\n\t
+Phone -\xa0514 848-7474 | Fax: 514 848-7450
+\n\t
+Email -\xa0
+contactus@csu.qc.ca
+\n
+  
+\n
+  
+\n\t\t      
+\n\t      \t      \n\t    
+\n\t\n\t  
+\n\t\t\n\t
+\n\t\t\n\t
+\n\t\t\n\t
+\n\t\t\n      
+\n      \n                  
+\n              
+\n    \n
+\n\n      \n  
+\n    
+Concordia Student Union | Copyright 2016\xa0|\xa0All Rights Reserved
+\n  
+\n
+  
+\n          
+\n                  \n          \n      
+\n\n\t
+\n\t\n\t
+\n  \n  
+\n    
+\n\n
+\n\n
+\n\t  
+\n
+\n<!--//--><![CDATA[//><!--\nwindow.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\\x3C/script>")\n//--><!]]>\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n<!--//--><![CDATA[//><!--\n(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-67381822-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");\n//--><!]]>\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n<!--//--><![CDATA[//><!--\njQuery.extend(Drupal.settings, {"basePath":"\\/","pathPrefix":"","ajaxPageState":{"theme":"specialone","theme_token":"vDUuxDy75qKTyIbj5B3A1cvXubxPpBg9id90jqkfK-g","js":{"\\/\\/code.jquery.com\\/jquery-1.10.2.min.js":1,"0":1,"misc\\/jquery.once.js":1,"misc\\/drupal.js":1,"sites\\/all\\/modules\\/mobile_navigation\\/js\\/mobile_menu.js":1,"sites\\/all\\/modules\\/mobile_navigation\\/mobile_navigation.js":1,"sites\\/all\\/modules\\/google_analytics\\/googleanalytics.js":1,"1":1,"sites\\/all\\/modules\\/nivo_slider\\/js\\/nivo_slider.js":1,"sites\\/all\\/libraries\\/nivo-slider\\/jquery.nivo.slider.pack.js":1,"http:\\/\\/maps.google.com\\/maps\\/api\\/js?sensor=false":1,"sites\\/all\\/themes\\/specialone\\/js\\/bootstrap.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.isotope.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.flexslider-min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jflickrfeed.min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.fitvids.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.easy-pie-chart.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.eislideshow.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.easing.1.3.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/jquery.sequence-min.js":1,"sites\\/all\\/themes\\/specialone\\/js\\/app.js":1},"css":{"modules\\/system\\/system.base.css":1,"modules\\/system\\/system.menus.css":1,"modules\\/system\\/system.messages.css":1,"modules\\/system\\/system.theme.css":1,"sites\\/all\\/modules\\/ldap\\/ldap_user\\/ldap_user.css":1,"modules\\/book\\/book.css":1,"sites\\/all\\/modules\\/calendar\\/css\\/calendar_multiday.css":1,"modules\\/comment\\/comment.css":1,"sites\\/all\\/modules\\/date\\/date_api\\/date.css":1,"sites\\/all\\/modules\\/date\\/date_popup\\/themes\\/datepicker.1.7.css":1,"modules\\/field\\/theme\\/field.css":1,"modules\\/node\\/node.css":1,"modules\\/poll\\/poll.css":1,"modules\\/search\\/search.css":1,"modules\\/user\\/user.css":1,"sites\\/all\\/modules\\/workflow\\/workflow_admin_ui\\/workflow_admin_ui.css":1,"sites\\/all\\/modules\\/views\\/css\\/views.css":1,"sites\\/all\\/modules\\/ckeditor\\/css\\/ckeditor.css":1,"sites\\/all\\/modules\\/ctools\\/css\\/ctools.css":1,"sites\\/all\\/modules\\/facebook_pull\\/facebook_pull.css":1,"sites\\/all\\/modules\\/ldap\\/ldap_servers\\/ldap_servers.admin.css":1,"sites\\/all\\/modules\\/panels\\/css\\/panels.css":1,"modules\\/locale\\/locale.css":1,"sites\\/all\\/modules\\/mobile_navigation\\/mobile_navigation.css":1,"sites\\/all\\/libraries\\/nivo-slider\\/themes\\/default\\/default.css":1,"sites\\/all\\/libraries\\/nivo-slider\\/nivo-slider.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/bootstrap.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/style.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/bootstrap-responsive.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/font-awesome.min.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/flexslider.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/colors\\/custom.css":1,"sites\\/all\\/themes\\/specialone\\/css\\/style-responsive.css":1,"public:\\/\\/css_injector\\/css_injector_2.css":1,"public:\\/\\/css_injector\\/css_injector_3.css":1,"public:\\/\\/css_injector\\/css_injector_11.css":1,"public:\\/\\/css_injector\\/css_injector_13.css":1}},"inEffects":["bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn"],"outEffects":["bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut"],"mobile_navigation":{"breakpoint":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","menuSelector":"#main-menu-links","menuPlugin":"slideMenu","showEffect":"expand_down","showItems":"all","tabHandler":1,"menuWidth":"65","specialClasses":0,"mainPageSelector":"#page","useMask":1,"menuLabel":"Menu","expandActive":0},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"nivo_slider":{"effect":"fade","slices":1,"boxCols":8,"boxRows":4,"animSpeed":200,"pauseTime":10000,"startSlide":1,"directionNav":false,"controlNav":true,"controlNavThumbs":false,"pauseOnHover":true,"manualAdvance":false,"prevText":"Prev","nextText":"Next","randomStart":false},"settings":{"layout_version":"wide","theme_color":"custom","boxed_bColor":"bg-color-grayLight2","use_bPattern":"0","boxed_bPattern":"bg-pattern-wavegrid","header_bColor":"bg-color-grayDark2","header_tColor":"text-color-grayLight1","header_tiColor":"text-color-grayLight2","header_lColor":"text-color-grayLight2","top_content_bColor":"bg-color-grayLight2","top_content_tColor":"text-color-grayDark2","top_content_tiColor":"text-color-grayDark1","top_content_lColor":"text-color-theme","featured_bColor":"bg-color-white","featured_tColor":"text-color-grayDark2","featured_tiColor":"text-color-grayDark1","featured_lColor":"text-color-theme","wide1_bColor":"bg-color-midnightBlue","wide1_tColor":"text-color-white","wide1_tiColor":"text-color-white","wide1_lColor":"text-color-theme","wide1_use_bImg":"0","wide1_bImg":"bg-image-eighteen","wide2_bColor":"bg-color-white","wide2_tColor":"text-color-grayDark2","wide2_tiColor":"text-color-grayDark1","wide2_lColor":"text-color-theme","wide3_bColor":"bg-color-grayLight1","wide3_tColor":"text-color-grayDark2","wide3_tiColor":"text-color-grayDark1","wide3_lColor":"text-color-theme","wide3_use_bImg":"0","wide3_bImg":"bg-image-one","wide4_bColor":"bg-color-white","wide4_tColor":"text-color-grayDark2","wide4_tiColor":"text-color-grayDark1","wide4_lColor":"text-color-theme","before_footer_bColor":"bg-color-theme","before_footer_tColor":"text-color-grayLight2","before_footer_tiColor":"text-color-grayLight1","before_footer_lColor":"text-color-grayLight3","footer_four_bColor":"bg-color-grayDark1","footer_four_tColor":"text-color-grayDark2","footer_four_tiColor":"text-color-grayLight2","footer_four_lColor":"text-color-grayLight2","footer_bColor":"bg-color-grayDark2","footer_tColor":"text-color-grayDark2","footer_tiColor":"text-color-grayLight2","footer_lColor":"text-color-grayLight2","slider_color":"bg-color-belizeHole","slider_use_bImg":"1","slider_bImg":"bg-image-one","google_latitude":"45.497038","google_longitude":"-73.578633","google_zoom":"7","google_title":"Concordia Student Union","google_description":"","flickr_id":"12913238@N03","flickr_limit":"6","base_url":"https:\\/\\/csu.qc.ca"}});\n//--><!]]>\n
+\n\n\n\n>

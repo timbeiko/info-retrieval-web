@@ -18,7 +18,7 @@ STARTING_WEBPAGES = ["https://csu.qc.ca/content/student-groups-associations",
                      "http://www.cupfa.org", 
                      "http://cufa.net"]
 
-NUMBER_OF_PAGES_TO_CRAWL = 100 # This is an upper bound, the crawler may stop before
+NUMBER_OF_PAGES_TO_CRAWL = 500 # This is an upper bound, the crawler may stop before
 CRAWLS_PER_START_PAGE = NUMBER_OF_PAGES_TO_CRAWL/len(STARTING_WEBPAGES)
 RAW_WEBPAGE_OUTPUT_DIR = '/raw_webpages'
 total_crawled_pages = 0 # Total for all pages

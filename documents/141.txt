@@ -1,0 +1,510 @@
+\n\n        
+\n\n\n            
+\n    \n
+\n
+\n
+\n
+\n\n                        
+\n                                
+\n                                
+\n                                
+\n                                
+\n                                
+\n                                
+\n                                
+\n                                
+\n                                
+\n                                
+\n                                
+\n                                
+\n                                
+\n                                
+\n                                
+\n                                
+\n                                
+\n                                
+\n                                
+\n                                
+\n                                
+\n                                
+\n                                
+\n                                
+\n                                
+\n                                
+\n                                
+\n            \n        
+\n        
+\n        
+\n        
+\n        
+\n        
+\n        
+\n        
+\n        
+\n        
+\n        
+\n        
+\n        
+\n        
+\n        
+\n        
+\n        
+\n        
+\n        
+\n\n\n\n\n                    
+\n                
+\n                
+\n                
+\n        
+\n\n
+\n\n    
+\n\n
+\n
+\n\n
+\n
+\n        
+Lucinda, Camille and Daniel on Vimeo
+\n                            
+\n\n    
+\n\n\n\n        
+\n\n\n        \n    
+\n        var ablincoln_config = ablincoln_config || {};\n        ablincoln_config.tests = {"DFPAdCohorts":{"id":69,"name":"DFPAdCohorts","buckets":1000,"input":"vuid","url":null,"experiments":[]},"Explore":{"id":64,"name":"Explore","buckets":1000,"input":"vuid","url":"\\/","experiments":[]},"TopNavAB":{"id":67,"name":"TopNavAB","buckets":1000,"input":"vuid","url":"\\/","experiments":[]},"TopNavCopyTest":{"id":77,"name":"TopNavCopyTest","buckets":1000,"input":"vuid","url":"\\/about","experiments":[]},"OnboardingFlow":{"id":132,"name":"OnboardingFlow","buckets":1000,"input":"cuid","url":null,"experiments":[]},"Auth.ToggleModal":{"id":139,"name":"Auth.ToggleModal","buckets":1000,"input":"vuid","url":null,"experiments":[]},"DesktopOutro":{"id":84,"name":"DesktopOutro","buckets":1000,"input":"vuid","url":null,"experiments":[]},"GlobalClipAutoplay":{"id":106,"name":"GlobalClipAutoplay","buckets":1000,"input":"vuid","url":null,"experiments":[{"id":287,"name":"Autoplay 100%","buckets":1000,"state":1,"published_on":"2017-05-16 16:42:43","paused_on":"0000-00-00 00:00:00","stopped_on":"0000-00-00 00:00:00","parameters":[{"id":491,"name":"global_autoplay","choice":"on","weight":1}],"segments":[{"id":120,"type":"is_mobile","include":0,"values":["1"]}]}]},"VideoPage.ViewerSegmentationSurvey":{"id":92,"name":"VideoPage.ViewerSegmentationSurvey","buckets":1000,"input":"vuid","url":null,"experiments":[]},"Clip.CommentsAndSidebarRedesignRound2":{"id":143,"name":"Clip.CommentsAndSidebarRedesignRound2","buckets":1000,"input":"vuid","url":null,"experiments":[{"id":377,"name":"Clip.CommentsAndSidebarRedesignRound2","buckets":100,"state":1,"published_on":"2017-11-09 10:21:33","paused_on":"0000-00-00 00:00:00","stopped_on":"0000-00-00 00:00:00","parameters":[{"id":643,"name":"clipDesignVersion","choice":"control","weight":1},{"id":644,"name":"clipDesignVersion","choice":"new","weight":1}],"segments":[]}]}};\n    
+\n\n\n    \n    
+\n        var googletag = googletag || {},\n            gptadslots = [],\n            language,\n            has_uploaded,\n            cohort;\n        googletag.cmd = googletag.cmd || [];\n\n        (function() {\n            var gads = document.createElement('script'),\n                useSSL = 'https:' == document.location.protocol,\n                node;\n            gads.async = true;\n            gads.type = 'text/javascript';\n            gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';\n            node = document.getElementsByTagName('script')[0];\n            node.parentNode.insertBefore(gads, node);\n        })();\n\n        googletag.cmd.push(function() {\n            \n                            language = document.cookie.replace(/(?:(?:^|.*;\\s*)language\\s*\\=\\s*([^;]*).*$)|^.*$/, "$1");\n                has_uploaded = (document.cookie.replace(/(?:(?:^|.*;\\s*)has_uploaded\\s*\\=\\s*([^;]*).*$)|^.*$/, "$1")) ? 'Y' : 'N';\n            \n            cohort = (window.ABLincoln) ? window.ABLincoln.getTest('DFPAdCohorts').get('cohort', 'A') : 'A';\n\n            googletag.pubads().setTargeting('language', [language]);\n            googletag.pubads().setTargeting('is_uploader', [has_uploaded]);\n            googletag.pubads().setTargeting('cohort', [cohort]);\n            googletag.pubads().setTargeting('cohort_a', [(cohort === 'A') ? 'Y' : 'N']);\n            googletag.pubads().setTargeting('cohort_b', [(cohort === 'B') ? 'Y' : 'N']);\n            googletag.pubads().setTargeting('product', ['']);\n            googletag.pubads().setTargeting('storage', ['N']);\n\n                        googletag.pubads().setTargeting('sec', ['false']);\n\n            googletag.pubads().setTargeting('logged_in', ['false']);\n\n                        googletag.pubads().setTargeting('rpv', (Math.floor(Math.random()*100)+1).toString());\n\n            googletag.pubads().enableAsyncRendering();\n            googletag.enableServices();\n        });\n    
+\n\n
+\n!function(){var e="undefined"!=typeof window?window:exports,r=[];if(e.performance||(e.performance={}),e.performance.now||(e.performance.now=performance.now||performance.webkitNow||performance.msNow||performance.mozNow),!e.performance.now){var n=Date.now?Date.now():+new Date;performance.timing&&performance.timing&&(n=performance.timing.navigationStart),e.performance.now=function(){var e=Date.now?Date.now():+new Date;return e-n}}e.performance.mark||(e.performance.mark=e.performance.webkitMark?e.performance.webkitMark:function(n){r.forEach(function(e,r,a){e.name===n&&a.splice(r,1)}),r.push({name:n,entryType:"mark",startTime:e.performance.now(),duration:0})}),e.performance.getEntriesByType||(e.performance.getEntriesByType=e.performance.webkitGetEntriesByType?e.performance.webkitGetEntriesByType:function(e){var n=function(r){return r.entryType===e};return-1!==["mark","measure"].indexOf(e)?r.filter(n):void 0}),e.performance.getEntriesByName||(e.performance.getEntriesByName=e.performance.webkitGetEntriesByName?e.performance.webkitGetEntriesByName:function(e){return r.filter(function(r){return r.name===e})}),e.performance.clearMeasures||(e.performance.clearMeasures=e.performance.webkitClearMeasures?e.performance.webkitClearMeasures:function(){r.forEach(function(e,r,n){"measure"===e.entryType&&n.splice(r,1)}),r=[]}),e.performance.clearMarks||(e.performance.clearMarks=e.performance.webkitClearMarks?e.performance.webkitClearMarks:function(){r.forEach(function(e,r,n){"mark"===e.entryType&&n.splice(r,1)}),r=[]}),e.performance.measure||(e.performance.measure=e.performance.webkitMeasure?e.performance.webkitMeasure:function(e,n,a){var t=function(e){return function(r){return r.name===e&&"mark"===r.entryType}},o=r.filter(t(n))[0],m=r.filter(t(a))[0],i=m.startTime-o.startTime;r.push({name:e,entryType:"measure",startTime:o.startTime,duration:i})})}(),window.markUserTime=function(e){var r=window.requestAnimationFrame||function(e){setTimeout(e,0)};r(function(){window.performance.mark(e),window.console&&console.timeStamp&&console.timeStamp(e)})};\n\n(function() {\n    window.markUserTime = function(label) {\n        window._gtm = window._gtm || [];\n\n        // Exit early if the browser can't handle new things\n        if (typeof performance === 'undefined' || typeof performance.mark !== 'function' || typeof performance.getEntriesByName !== 'function' || typeof performance.clearMarks !== 'function') {\n            return;\n        }\n\n        var uid = parseInt(Math.random().toString().split('0.')[1]) + new Date().getTime(),\n            mark_name = label + '_' + uid,\n            parts = label.split('|'),\n            category = parts[0],\n            variable = parts[1],\n            label = parts[2],\n            mark_time,\n            mark_entries;\n\n        performance.mark(mark_name);\n        mark_entries = performance.getEntriesByName(mark_name);\n\n        if (mark_entries.length) {\n            mark_time = mark_entries[0].startTime;\n            window._gtm.push({\n                'event': 'performance_timing',\n                'performance_timing.category': category,\n                'performance_timing.variable': variable,\n                'performance_timing.time': mark_time / 1000,\n                'performance_timing.label': label\n            });\n        }\n    };\n}());\n
+\n\n    
+\n\n\n\n    \n    \n        
+\n            
+\n                \n                
+\n\n                \n                \n\n
+\n    window.vimeo = window.vimeo || {};\n
+\n
+\n    
+\n\n                                                        
+\n                    
+\n                
+\n                    \n                            
+\n                                    
+\n                            
+\n        \n                            
+\n                
+\n\n                                        \n                        \n                        
+\n                            
+\n                                Join                            
+\n\n                                                                                
+\n                    \n                        \n                        
+\n                            
+\n                                Log in                            
+\n\n                                                                                
+\n                    \n                        \n                        
+\n                            
+\n                                Host videos                            
+\n\n                                                                                        
+\n                                                                            \n                                                                                    
+\n                                                
+Compare plans
+\n                                            
+\n                                                                                                                    \n                                                                                    
+\n                                                
+Professionals
+\n                                            
+\n                                                                                                                    \n                                                                                    
+\n                                                
+Businesses
+\n                                            
+\n                                                                                                                    \n                                                                                    
+\n                                                
+Live streaming
+\n                                            
+\n                                                                                                                    \n                                                                                    
+\n                                                
+Video School
+\n                                            
+\n                                                                                                            
+\n                                                    
+\n                    \n                        \n                        
+\n                            
+\n                                Sell                            
+\n\n                                                                                        
+\n                                                                            \n                                                                                    
+\n                                                
+Sell your videos
+\n                                            
+\n                                                                                                                    \n                                                                                    
+\n                                                
+Launch a subscription service
+\n                                            
+\n                                                                                                            
+\n                                                    
+\n                    \n                        \n                        
+\n                            
+\n                                Watch                            
+\n\n                                                                                        
+\n                                                                            \n                                                                                    
+\n                                                
+Staff Picks
+\n                                            
+\n                                                                                                                    \n                                                                                    
+\n                                                
+On Demand
+\n                                            
+\n                                                                                                                    \n                                                                                    
+\n                                                
+Explore
+\n                                            
+\n                                                                                                            
+\n                                                    
+\n                    \n                
+\n            
+\n        \n                            
+\n                                \n                                \n                                                    
+Upload
+\n                \n            
+\n            
+\n
+\n\n    
+\n        // DO NOT REMOVE. This is a callback for the login & join buttons in TopNavBuilder.\n        function completeUserLogin(response) {\n            if (response && !response.signup) {\n                window.location.reload();\n            }\n        }\n    
+\n\n    
+\n\n    
+\n                
+\n                    
+\n        
+ 
+\n        
+\n    
+\n\n        
+\n        
+\n            
+ 
+\n            
+ 
+\n        
+\n\n        
+\n                                            
+\n                    
+\n                        Watch                    
+\n                
+\n                                            
+\n                    
+\n                        Upload                    
+\n                
+\n                                            
+\n                    
+\n                        Host videos                    
+\n                
+\n                                            
+\n                    
+\n                        Live                    
+\n                
+\n                                            
+\n                    
+\n                        
+Join or log in
+                    
+\n                
+\n                                            
+\n                    
+\n                        Help                    
+\n                
+\n                    
+\n    
+\n\n        
+\n        
+\n            
+ 
+\n            
+More stuff
+\n        
+\n\n        
+\n                            
+\n                                            
+\n                            Terms of Service                        
+\n                                                        
+\n                            
+\n                                            
+\n                            Privacy Policy                        
+\n                                                        
+\n                            
+\n                                            
+\n                            Copyright                        
+\n                                                        
+\n                            
+\n                                            
+\n                            Cookies                        
+\n                                                        
+\n                            
+\n                                            
+\n                            Desktop site                        
+\n                                                        
+\n                            
+\n                                            
+\n                            Language                        
+\n                                                                
+\n                                                                                        
+\n                                    English                                
+\n                                                            
+\n                                    Espa\xf1ol                                
+\n                                                            
+\n                                    Deutsch                                
+\n                                                            
+\n                                    Fran\xe7ais                                
+\n                                                            
+\n                                    \u65e5\u672c\u8a9e                                
+\n                                                            
+\n                                    Portugu\xeas                                
+\n                                                            
+\n                                    \ud55c\uad6d\uc5b4                                
+\n                                                    
+\n                                    
+\n                            
+\n                                            
+\n                            FAQ                        
+\n                                                        
+\n                    
+\n\n        
+TM + \xa9 2017 Vimeo, Inc.
+\n    
+\n
+\n\n
+\n(function(window, document){\n\n    // Global values\n    window.vimeo = window.vimeo || {};\n    vimeo.mobile = vimeo.mobile || {};\n    Vimeo = vimeo.mobile || {};\n    Vimeo.desktop_shared = Vimeo.desktop_shared || {};\n\n    // DESKTOP HANDLERS\n\n    var desktop = document.getElementById('topnav_desktop');\n\n    // Prevent touch device to higtlight the area tapped\n    desktop.addEventListener('touchstart', function(e){\n        // Take into consideration avatar img\n        var target = (e.target.tagName.toLowerCase() === 'img') ? e.target.parentNode : e.target;\n\n        if (target.classList.contains('topnav_has_dropdown')) {\n            e.preventDefault();\n            e.stopPropagation();\n        }\n    }, false);\n\n    // Add last_page cookie\n    var listen = 'ontouchstart' in window ? 'touchstart' : window.PointerEvent ? 'pointerdown' : window.MSPointerEvent ? 'MSPointerDown' : 'click';\n    desktop.addEventListener(listen, function(e){\n        if (e.target.classList.contains('js-topnav_menu_auth')) {\n            document.cookie = 'last_page=' + encodeURIComponent(window.location.pathname) + ';path=\\'/\\';max-age=1800;';\n        }\n    }, false);\n\n    // MOBILE HANDLERS\n\n    // Trigger iOS Upload flow\n    Vimeo.desktop_shared._upload = function(e) {\n        // show iTunes only if we are in iOS world\n        if (/iPad|iPhone|iPod/.test(navigator.userAgent)){\n            var deeplink = 'vimeo://app.vimeo.com/upload?ref=mobileweb',\n                fallback = '/upload',\n                webkitHiddenCallback,\n                hitCallback;\n\n            // Callbacks\n            webkitHiddenCallback = function() {\n                // If the user is still here open the url page.\n                if (!document.webkitHidden) {\n                    window.location = fallback;\n                }\n            };\n\n            // Try to open the Vimeo App\n            hitCallback = function() {\n                window.location = deeplink;\n                setTimeout(webkitHiddenCallback, 25);\n            };\n\n            hitCallback();\n\n            return false;\n        }\n\n        window.location = e.href;\n\n    }\n\n    // Switch to desktop site\n    Vimeo.desktop_shared._s2ds = function() {\n        document.cookie='opt_out_mobile=1;expires=Fri, 31 Dec 9999 23:59:59 GMT;domain=' + vimeo.domain;\n        window.location.reload();\n    };\n\n    // Switch to language\n    Vimeo.desktop_shared._s2l = function(sel) {\n        var lang = sel.value,\n            xhr = new XMLHttpRequest();\n\n        xhr.open('POST', '/settings/locale');\n        xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');\n        xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');\n        xhr.send('locale=' + lang + '&token=' + vimeo.xsrft);\n        xhr.onload = function post() {\n            if (xhr.status === 200) {\n                window.location.reload();\n            }\n        };\n    };\n\n    var mobile_logo = document.querySelector('.js-topnav_mobile_header_logo');\n\n    if (mobile_logo) {\n        mobile_logo.addEventListener('click', function(e) {\n            e.stopPropagation();\n            e.preventDefault();\n\n            var mobile_menu_main = document.querySelector('.js-topnav_mobile_menu_main');\n            mobile_menu_main.style.display = 'block';\n\n            // Close\n            var mobile_header_close = document.querySelector('.js-topnav_mobile_header_close');\n            mobile_header_close.addEventListener('click', function(e) {\n                e.stopPropagation();\n                e.preventDefault();\n                mobile_menu_main.style.display = 'none';\n            });\n\n            // Toggle Settings\n            var mobile_menu_settings = document.querySelector('.js-topnav_mobile_menu_settings');\n\n            var topnav2015_mobile_header_settings = document.querySelector('.js-topnav_mobile_header_settings');\n            topnav2015_mobile_header_settings.addEventListener('click', function(e) {\n                e.stopPropagation();\n                e.preventDefault();\n                mobile_menu_settings.style.display = 'block';\n                mobile_menu_main.style.display = 'none';\n\n\n                var topnav2015_mobile_header_settins_close = document.querySelector('.js-topnav_mobile_header_settins_close');\n                topnav2015_mobile_header_settins_close.addEventListener('click', function(e) {\n                    e.stopPropagation();\n                    e.preventDefault();\n                    mobile_menu_settings.style.display = 'none';\n                    mobile_menu_main.style.display = 'block';\n                });\n            });\n        }, false);\n    };\n\n\n    // USER MESSAGE\n\n    // Show notification if it is the case\n    // We wrap this in a setTimeout since the notifications should\n    // have a lower priority in terms of visual compared to other\n    // items on the page.\n    setTimeout(function(){\n         // DOM Elements\n        var avatar = document.getElementById('topnav_menu_avatar');\n        // If there is no avatar then stop it\n        if (!avatar) {\n            return;\n        }\n\n        var bubble = avatar.querySelector('.topnav_menu_avatar_bubble');\n        var dropdown = avatar.querySelector('#topnav_user_dropdown');\n        //var message = avatar.querySelector('.topnav_user_menu_message');\n        //var close = avatar.querySelector('.topnav_user_menu_message_close');\n        var on_hover = false;\n\n        // If there is no bubble then stop it\n        if (bubble) {\n            bubble.classList.add('on');\n        }\n\n        // And we attach hide the bubble\n        avatar.addEventListener('mouseover', function() {\n            if (on_hover) return;\n\n            on_hover = true;\n\n            if (bubble) {\n                bubble.classList.remove('on');\n            }\n\n            // Save removed state [1 means the user open the dropdown]\n            store_user_message_settings(1);\n\n        }, false);\n\n        // Store status of user nav message (bubble closed [1], message hidden [2])\n        function store_user_message_settings(value) {\n            var xhr = new XMLHttpRequest();\n\n            xhr.open('POST', '/settings/nav');\n            xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');\n            xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');\n            xhr.send('message_state=' + value + '&token=' + vimeo.xsrft);\n\n            // Nothing to handle. We hope for the best in this case\n            xhr.onload = function () {};\n        };\n\n    }, 1000);\n})(window, document);\n
+\n            
+\n\n            
+\n                \n    
+\n\n    
+\n\n       
+\xd7
+\n\n       
+\n           
+\n       
+\n\n       
+\n           Watch in our app       
+\n\n       
+\n           
+Open in app
+\n       
+\n\n    
+\n\n
+\n\n\n\n
+\n    window.vimeo = window.vimeo || {};\n\n    \n    window.vimeo.clip_page_config = {"clip":{"id":239160854,"title":"Lucinda, Camille and Daniel","description":null,"uploaded_on":"2017-10-20 14:48:37","uploaded_on_relative":"1 month ago","uploaded_on_full":"Friday, October 20, 2017 at 2:48 PM EST","is_spatial":false,"is_hdr":false,"privacy":{"is_public":true,"type":"anybody","description":"Public"},"duration":{"raw":160,"formatted":"02:40"},"is_liked":false,"is_unavailable":false,"likes_url":"\\/239160854\\/likes","is_live":false},"owner":{"id":44835383,"display_name":"CUPFA","has_advanced_stats":true,"can_post_commercial_content":false,"is_pro_lapsed":false,"is_paid":true,"badge":{"type":"plus","alt_text":"Learn more about Vimeo Plus","url":"\\/plus","text":"Plus","primary_tag":"span","className":"iris_badge iris_badge--plus badge badge--plus badge_plus","gtm_click_event":"badge_plus_click","fatal_attraction_event":"container:badge|component:upgrade_link|keyword:plus"},"portrait":{"src":"https:\\/\\/i.vimeocdn.com\\/portrait\\/16114358_75x75","src_2x":"https:\\/\\/i.vimeocdn.com\\/portrait\\/16114358_150x150"},"is_mod":false,"url":"\\/cupfa","verified":true,"is_following":false},"ondemand":null,"brand_channel":null,"api_url":"api.vimeo.com","cur_user":null,"status":{"state":"ready"},"copyright_status":{"is_blocked":false},"content_block_status":{"is_blocked":false,"message":null,"continuous_play_enabled":false},"player":{"config_url":"https:\\/\\/player.vimeo.com\\/video\\/239160854\\/config?autopause=1&byline=0&collections=1&context=Vimeo%5CController%5CClipController.main&default_to_hd=1&outro=nothing&portrait=0&share=1&title=0&watch_trailer=0&s=ffd67c2e960dcbe012579c0a7f6148c9082e4a37_1511828454","player_url":"player.vimeo.com","dimensions":{"height":540,"width":960},"poster":{"url":"https:\\/\\/i.vimeocdn.com\\/video\\/662056757.jpg?mw=2000&mh=1080&q=70"}},"share_enabled":true,"continuous_play_enabled":true,"send_to_wipster_enabled":false,"thumbnail":{"src":"https:\\/\\/i.vimeocdn.com\\/video\\/662056757_190x107.jpg","src_2x":"https:\\/\\/i.vimeocdn.com\\/video\\/662056757_380x214.jpg","width":190,"height":107,"id":662056757},"ads":{"afc_text_ad":{"pub_id":"ca-pub-2459242199048700"},"display_ad":{"network_id":"54549544","unit_name":"clip","sizes":[300,250],"custom_targeting":{"content_rating":{}}}},"content_rating":null,"notifications":[],"categories_config":{"categories":[],"total_categories":0},"music_track":null,"cc_license":null,"credits":{"total_credits":{"raw":0,"formatted":0}},"stream":{"id":null,"pos":0},"collection_adder":{"enabled":true},"clip_stats":{"enabled":false},"download_config":[],"survey_url":"https:\\/\\/www.marketingresearchresources.com\\/images\\/ovm00516\\/mrr.asp?I.User1=O&user=loggedout&clip=239160854&vuid=","data_layer":{"clip_id":239160854,"page_path":"\\/239160854","creator_id":44835383,"creator_user_type":"plus","category":"","privacy":"anybody","staff_pick":"no","user_id":null,"page_type":"Video"}};\n\n    function autoplayOnsiteReferrals() {\n        var clip = window.vimeo.clip_page_config;\n        var isOwner = clip.cur_user ? clip.cur_user.id === clip.owner.id : false;\n        var hasAutoplayParam = /(\\?|&)autoplay=1(&|$)/.test(window.location.href);\n        var hasOnsiteReferrer = window.vimeo_esi.config.onsite_referrer;\n\n        // We don't want to autoplay refreshes and history traversals\n        var isNewPage = window.performance.navigation.type === 0;\n\n        // Bucket only if we pass all the conditions\n        if (isNewPage && hasOnsiteReferrer && !hasAutoplayParam && !isOwner) {\n            var autoplay = window.ABLincoln.getTest('GlobalClipAutoplay').get('global_autoplay', 'off');\n\n            // Override player config with new one including autoplay param\n            if (autoplay === 'on') {\n                window.vimeo.clip_page_config.player = {"config_url":"https:\\/\\/player.vimeo.com\\/video\\/239160854\\/config?autopause=1&autoplay=1&byline=0&collections=1&context=Vimeo%5CController%5CClipController.main&default_to_hd=1&outro=nothing&portrait=0&share=1&title=0&watch_trailer=0&s=0b4e19e615a8b7e89f2c68c83abef89490921569_1511828454","player_url":"player.vimeo.com","dimensions":{"height":540,"width":960},"poster":{"url":"https:\\/\\/i.vimeocdn.com\\/video\\/662056757.jpg?mw=2000&mh=1080&q=70"}};\n            }\n        }\n    }\n\n    // Autoplay test for onsite referrals to clip page\n    if (window.ABLincoln) {\n        autoplayOnsiteReferrals();\n    }\n
+\n\n    
+\n        if (typeof window.vimeo === 'undefined' || typeof window.vimeo.clips === 'undefined') {\n            window.vimeo = window.vimeo || {};\n            window.vimeo.clips = window.vimeo.clips || {};\n            var xhr = new XMLHttpRequest();\n            xhr.open('GET', window.vimeo.clip_page_config.player.config_url , true);\n            xhr.onload = function() {\n                window.vimeo.clips['239160854'] = JSON.parse(xhr.responseText);\n            };\n            xhr.withCredentials = true;\n            xhr.send();\n        }\n    
+\n\n\n
+\n\n
+\n\n
+\n    
+\n        
+\n            
+\n                
+\n                    &lt;img src="https://i.vimeocdn.com/video/662056757.jpg?mw=1920&amp;amp;mh=1080&amp;amp;q=70" alt="" style="display: block; margin: 0 auto; max-height: 540px;" /&gt;\n                
+\n            
+\n\n            
+\n                &lt;div class="clip_main-content iris_grid-wrapper--content"&gt;\n                    &lt;div class="iris_grid-content"&gt;\n                        &lt;div class="row u-collapse clip-notification" style="margin-top: 1em; margin-bottom: 1.5em;"&gt;\n                            &lt;div class="iris_notification iris_notification-clip iris_notification-clip--caution iris_notification--no-close clearfix" style="margin-bottom: 0;"&gt;\n                                &lt;p&gt;Please enable JavaScript to experience Vimeo in all of its glory.&lt;/p&gt;\n                            &lt;/div&gt;\n                        &lt;/div&gt;\n\n                        &lt;div class="iris_grid-content"&gt;\n                            &lt;div class="clip_info-wrapper"&gt;\n                                &lt;div class="clip_info"&gt;\n                                    &lt;h1 class="clip_info-header"&gt;Lucinda, Camille and Daniel&lt;/h1&gt;\n                                &lt;/div&gt;\n                                &lt;div class="clip_info-subline--watch clip_info-subline--inline"&gt;\n                                    &lt;p class="userbyline-subline userbyline-subline--lg"&gt;\n                                        &lt;span&gt;from&lt;/span&gt;\n                                        &lt;span class="userlink userlink--md"&gt;\n                                            &lt;a href="/cupfa"&gt;CUPFA&lt;/a&gt;\n                                            &lt;span style="display: inline-block"&gt;\n                                                    &lt;a tabindex="-1" href="/plus" title="Learn more about Vimeo Plus" data-gtm-click="badge_plus_click" data-fatal-attraction="container:badge|component:upgrade_link|keyword:plus"&gt;\n    &lt;span class="iris_badge iris_badge--plus badge badge--plus badge_plus"&gt;\n        Plus    &lt;/span&gt;\n    &lt;/a&gt;\n                                            &lt;/span&gt;\n                                        &lt;/span&gt;\n                                    &lt;/p&gt;\n                                    &lt;span class="clip_info-time"&gt;&lt;time datetime="2017-10-20T14:48:37-04:00" title="Friday, October 20, 2017 at 2:48 PM"&gt;1 month ago&lt;/time&gt;&lt;/span&gt;\n                                &lt;/div&gt;\n                            &lt;/div&gt;\n                        &lt;/div&gt;\n                    &lt;/div&gt;\n\n                    &lt;div class="clip_details iris_divider--dark iris_divider-top iris_divider-top--m iris_divider-bot iris_divider-bot--m u-collapse clearfix"&gt;\n                        &lt;div class="iris_grid-content"&gt;\n                            &lt;div class="clip_details-description description-wrapper iris_desc"&gt;\n                                &lt;p class="first"&gt;&lt;/p&gt;                            &lt;/div&gt;\n                        &lt;/div&gt;\n                    &lt;/div&gt;\n                &lt;/div&gt;\n            
+\n        
+\n    
+\n
+\n\n
+\n    window.can_preload = true;\n\n    
+\n\n    
+\n        
+\n\n    
+\n\n
+\nconsole.log('%c \\n\\\n\u239c       @@@&       @@@@@@\\n\\\n\u239c    #@@@@@@@    &@@@@@@@@       Built using:\\n\\\n\u239c  #@@@@@@@@@.  %%&@@@@@@@        \u2022 React + Flux\\n\\\n\u239c      &@@@@@%     (@@@@@(       \u2022 ES6\\n\\\n\u239c       @@@@@@     @@@@@@        \u2022 Fetch API\\n\\\n\u239c       %@@@@@(  .@@@@@(         \u2022 Flexbox\\n\\\n\u239c        @@@@@@(@@@@@@\\n\\\n\u239c        /@@@@@@@@@@%            Like playing with new technology, too?\\n\\\n\u239c         &@@@@@@@%              https://vimeo.com/jobs\\n\\\n\u239c          @@@@@#\\n\\\n\\n\\\n', 'color: #00adef;');\n
+\n            
+\n\n                                                \n
+\n                    
+\n    
+\n\n        
+\n            
+\n            
+\n                
+Vimeo
+\n                
+\n                    
+\n                
+\n            
+\n            
+\n                
+\n                    
+\n                        About Vimeo                    
+\n                
+\n                
+\n                    
+\n                        Vimeo Blog                    
+\n                
+\n                
+\n                    
+\n                        Vimeo Guidelines                    
+\n                
+\n                
+\n                    
+\n                        Partners                    
+\n                
+\n                
+\n                    
+\n                        Developers                    
+\n                
+\n                
+\n                    
+\n                        Jobs                    
+\n                
+\n            
+\n        
+\n\n        
+\n            
+\n            
+\n                
+Help
+\n                
+\n                    
+\n                
+\n            
+\n            
+\n                
+\n                    
+\n                        Help Center                    
+\n                
+\n                
+\n                    
+\n                        Video School                    
+\n                
+\n                
+\n                    
+\n                        FAQ                    
+\n                
+\n                
+\n                    
+\n                        Forums                    
+\n                
+\n            
+\n        
+\n\n        
+\n            
+\n            
+\n                
+More
+\n                
+\n                    
+\n                
+\n            
+\n            
+\n                
+\n                    
+\n                        On Demand                    
+\n                
+\n                
+\n                    
+\n                        Upload                    
+\n                
+\n                
+\n                    
+\n                        Site Map                    
+\n                
+\n            
+\n        
+\n\n        
+\n            
+\n            
+\n                
+Upgrade
+\n                
+\n                    
+\n                
+\n            
+\n            
+\n                
+\n                    
+\n                        Vimeo Plus                    
+\n                
+\n                
+\n                    
+\n                        Vimeo PRO                    
+\n                
+\n                
+\n                    
+\n                        Vimeo Business                    
+\n                
+\n                
+\n                    
+\n                        Vimeo Live                    
+\n                
+\n                
+\n                    
+\n                        Vimeo OTT                    
+\n                
+\n                
+\n                    
+\n                        Refer a friend                    
+\n                
+\n            
+\n        
+\n    
+\n\n                
+\n            
+Did you know?
+\n            
+Update a video without losing your URL or stats. How? 
+Replace your video file
+ quickly and easily.
+\n        
+\n    
+\n    \n        
+\n\n    
+\n        
+\n            
+TM + \xa9 2017 Vimeo, Inc. All rights reserved.
+\n        
+\n        
+\n            
+\n                
+\n                    Terms                
+\n            
+\n            
+\n                
+\n                    Privacy                
+\n            
+\n            
+\n                
+\n                    Copyright                
+\n            
+\n            
+\n                
+\n                    Cookies                
+\n            
+\n        
+\n        
+\n            Made with 
+ in NYC.        
+\n    
+\n\n    
+\n        
+\n            Language:\n            
+English
+\n        
+\n\n                    
+Mature content filter: 
+None
+\n            
+\n\n
+\n
+\n                                    
+\n\n        \n        \n        \n            
+\n        [{"url":"https://vimeo.com/239160854","thumbnailUrl":"https://i.vimeocdn.com/video/662056757_1280x720.jpg","embedUrl":"https://player.vimeo.com/video/239160854","name":"Lucinda, Camille and Daniel","description":"This is &quot;Lucinda, Camille and Daniel&quot; by CUPFA on Vimeo, the home for high quality videos and the people who love them.","height":1080,"width":1920,"playerType":"HTML5 Flash","videoQuality":"HD","duration":"PT00H02M40S","uploadDate":"2017-10-20T14:48:37-04:00","thumbnail":{"@type":"ImageObject","url":"https://i.vimeocdn.com/video/662056757_1280x720.jpg","width":1280,"height":720},"author":{"@type":"Person","name":"CUPFA","url":"https://vimeo.com/cupfa"},"potentialAction":{"@type":"ViewAction","target":"vimeo://app.vimeo.com/videos/239160854"},"interactionCount":22,"@type":"VideoObject","@context":"http://schema.org"},{"itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://vimeo.com/cupfa","name":"CUPFA"}},{"@type":"ListItem","position":2,"item":{"@id":"https://vimeo.com/cupfa/videos","name":"Videos"}}],"@type":"BreadcrumbList","@context":"http://schema.org"}]    
+\n\n    
+\n    var _gtm = _gtm || [],\n        _initial_gtm_state = {"clip_id":239160854,"page_path":"\\/239160854","creator_id":44835383,"creator_user_type":"plus","category":"","privacy":"anybody","staff_pick":"no","user_id":null,"page_type":"Video","language":"en","user_status":"logged_out","user_type":"none","ga_universal_id":"UA-76641-8","comscore_site_id":10348289};\n\n    _initial_gtm_state['vuid'] = document.cookie.replace(/(?:(?:^|.*;\\s*)vuid\\s*\\=\\s*([^;]*).*$)|^.*$/, "$1");\n    _initial_gtm_state['gtm.start'] = new Date().getTime();\n    _initial_gtm_state['event'] = 'gtm.js';\n    _gtm.push(_initial_gtm_state);\n
+\n
+\n    var __fa = __fa || [];\n    __fa.push(['trackPageview']);\n\n    /**\n     * If the current request was bucketed in an ABLincoln experiment,\n     * send the selected treatment back from the client, to filter ab test\n     * data down to non-robot users that run JavaScript.\n     */\n     if ("ABLincoln" in window) {\n        (function () {\n                                })();\n    }\n\n        var _extend = function(){for(var r=arguments[0],n=1,e=arguments.length;e>n;n++){var t=arguments[n];for(var a in t)t.hasOwnProperty(a)&&(r[a]=t[a])}return r};\n\n        var CSS_DIR = 'https://f.vimeocdn.com/styles/css_opt/',\n        JS_DIR = 'https://f.vimeocdn.com/js_opt/',\n        IMAGE_DIR = 'https://f.vimeocdn.com/images_v6/',\n        SVG_DIR = 'https://f.vimeocdn.com/svg/',\n                BUILD_HASH = '72454';\n\n    \n        var vimeo = _extend((window.vimeo || {}), {"app_version":"v6","domain":"vimeo.com","url":"vimeo.com","cur_user":false,"origin_user_id":null,"is_mobile":false});\n    vimeo.config = _extend((vimeo.config || {}), {"sticky_topnav":{"excluded_pages":["Vimeo\\\\Controller\\\\MarketingABTestController:upgrade","Vimeo\\\\Controller\\\\MarketingABTestController:business","Vimeo\\\\Controller\\\\AboutController:main","Vimeo\\\\Controller\\\\AboutController:professionals","Vimeo\\\\Controller\\\\AboutController:create","Vimeo\\\\Controller\\\\AboutController:everyone","Vimeo\\\\Controller\\\\StoreController:main","Vimeo\\\\Controller\\\\User\\\\Settings2Controller:main","Vimeo\\\\Controller\\\\User\\\\Settings2Controller:team_members","Vimeo\\\\Controller\\\\User\\\\Settings2Controller:password","Vimeo\\\\Controller\\\\VideoManagerController:main","Vimeo\\\\Controller\\\\UserController:main","Vimeo\\\\Controller\\\\ClipStatsController:main","Vimeo\\\\Controller\\\\Clip\\\\Settings\\\\EmbedController:embed","Vimeo\\\\Controller\\\\VideoReviewController","Vimeo\\\\Controller\\\\MessagesController","Vimeo\\\\Controller\\\\StatsController","Vimeo\\\\Controller\\\\UploadController","Vimeo\\\\Controller\\\\BlogController","Vimeo\\\\Controller\\\\OnDemand\\\\SettingsController","Vimeo\\\\Controller\\\\Clip\\\\SettingsController"],"topnav_wrap_selector":"#topnav_outer_wrap","content_wrap_selector":".wrap_content"},"locale":"en"});\n\n        var localeConfig = {\n        lang: 'en',\n        'Date': {\n            months: ["January","February","March","April","May","June","July","August","September","October","November","December"],\n            months_abbr: ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],\n            days: ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],\n            days_abbr: ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],\n\n            // Culture's date order: MM/DD/YYYY\n            dateOrder: ['date', 'month', 'year'],\n            shortDate: '%d/%m/%Y',\n            shortTime: '%I:%M%p',\n            AM: 'AM',\n            PM: 'PM',\n            firstDayOfWeek: 0,\n\n            // Date.Extras\n            ordinal: function(dayOfMonth){\n                return dayOfMonth;\n            }\n        },\n        'DatePicker': {\n            select_a_time: "Select a time",\n            use_mouse_wheel: "Use the mouse wheel to quickly change value",\n            time_confirm_button: "OK",\n            apply_range: "Apply",\n            cancel: "Cancel",\n            week: "Wk"        },\n                'Number': {\n            decimal: '.',\n            group: ',',\n            currency: {\n                prefix: '$'\n            }\n        },\n        'FormValidator': {"required":"This field is required.","requiredChk":"This field is required."}    };\n\n    var fullLocale = '';\n\n    \n        var Copy = {translate:function(t,i,u){var e='object'!=typeof this.dict[t]?this.dict[t]:i?this.dict[t].plural:this.dict[t].singular;return'object'==typeof u&&(e=this.substitute(e,u)),e},substitute:function(t,i){return void 0!==t.substitute?t.substitute(i):t.replace(/\\\\?\\{([^{}]+)\\}/g,function(t,u){return'\\\\'==t.charAt(0)?t.slice(1):null!=i[u]?i[u]:''})},dict:{}};\n    Copy.dict = {"did_you_mean_email":"Did you mean <em>{SUGGEST}<\\/em>?","email_password_mismatch":"Email and password do not match","just_now":"just now","seconds_ago":{"singular":"{COUNT} second ago","plural":"{COUNT} seconds ago"},"minutes_ago":{"singular":"{COUNT} minute ago","plural":"{COUNT} minutes ago"},"hours_ago":{"singular":"{COUNT} hour ago","plural":"{COUNT} hours ago"},"open_comment_box":"Add new comment instead &raquo;","url_unavailable":"Sorry, this url is unavailable.","unsaved_changes_generic":"You have unsaved changes, are you sure you wish to leave?","add":"Add","remove":"Remove","select":"Select","no_followers_for_letter":"You don&rsquo;t follow anyone that begin with the letter &ldquo;{PAGE_LETTER}&rdquo;","share_limit_reached":"You have reached the maximum number of users to share with.","at_least_one":"There must be at least one user.","available":"Available","unavailable":"Unavailable","browse_error_generic":"Sorry, there was an error","browse_error_no_videos":"Sorry, no videos found","follow":"Follow","following":"Following","unfollow":"Unfollow","unfollowing":"Unfollowing","count_comments":{"singular":"{COUNT} comment","plural":"{COUNT} comments"},"first_comment":"Be the first to comment\\u2026","no_comments_for_you":"Forbidden. You cannot post comments on this page.","oops":"Oops!","player_try_again":"That wasn't supposed to happen. Please try again in a few minutes.","duration_input_min_duration":"The duration cannot be less than {MIN_DURATION}.","duration_input_max_duration":"The duration cannot be greater than {MAX_DURATION}.","duration_input_invalid_characters":"0-9 and : are the only acceptable inputs.","close":"Close","expand":"Expand","loading":"Loading...","top":"top","advanced_search":"Advanced Search","no_suggestions":"No suggestions","recent_searches":"Recent Searches","search_all":"Search All of Vimeo","email_and_password":"Please enter your email and password","email_address":"Please enter a valid email address","name_email_and_password":"Please enter your name, email, and password","Are you sure you want to block this user? They will still be able to send\\n      messages but the messages will not show up to other viewers. You will be\\n      able to unblock them.":"Are you sure you want to block this user? They will still be able to send\\n      messages but the messages will not show up to other viewers. You will be\\n      able to unblock them.","Are you sure you want to delete this message? This action can not be\\n      undone.":"Are you sure you want to delete this message? This action can not be\\n      undone.","Block User":"Block User","Block":"Block","Cancel":"Cancel","Chat as guest":"Chat as guest","Chat":"Chat","Close":"Close","Delete Message":"Delete Message","Delete":"Delete","Disable chat":"Disable chat","Enable chat":"Enable chat","I agree to the {A}terms and conditions{\\/A}":"I agree to the {A}terms and conditions{\\/A}","Join the chat":"Join the chat","Log in to Vimeo":"Log in to Vimeo","Log in with Facebook":"Log in with Facebook","Name":"Name","New messages":"New messages","No messages yet":"No messages yet","Pop in":"Pop in","Pop out":"Pop out","Remember to be cool and play nice!":"Remember to be cool and play nice!","This event has ended{SMALL}You can no longer send messages{\\/SMALL}":"This event has ended{SMALL}You can no longer send messages{\\/SMALL}","This event has started":"This event has started","Type a message":"Type a message","Unblock":"Unblock","You are currently viewing chat in a popup window":"You are currently viewing chat in a popup window","{ACTIVE_USERS} members":{"singular":"{ACTIVE_USERS} member","plural":"{ACTIVE_USERS} members"},"{DISPLAY_NAME} was blocked":"{DISPLAY_NAME} was blocked","1 Track":"1 Track","A Vimeo Original":"A Vimeo Original","About":"About","Accept":"Accept","Add a comment":"Add a comment","Add a new comment":"Add a new comment","Add comment":"Add comment","Add reply":"Add reply","Add to collections":"Add to collections","Add to Watch Later":"Add to Watch Later","Add":"Add","Albums":"Albums","Approximate Time Remaining":"Approximate Time Remaining","Are you sure you want delete this comment permanently?":"Are you sure you want delete this comment permanently?","Autoplay next video":"Autoplay next video","Back":"Back","Buy {DISPLAY_PRICE}":"Buy {DISPLAY_PRICE}","by {ARTIST_NAME}":"by {ARTIST_NAME}","Change settings.":"Change settings.","Change your content filter preference":"Change your content filter preference","Channels":"Channels","Choose at least one.":"Choose at least one.","Choose file":"Choose file","Click to share this comment on {SOCIAL_APP}":"Click to share this comment on {SOCIAL_APP}","Collection name":"Collection name","Coming soon to Vimeo":"Coming soon to Vimeo","Comments are disabled.":"Comments are disabled.","comments":"comments","Comments":"Comments","Creative Commons License:":"Creative Commons License:","Dimensions":"Dimensions","Discover new videos daily with help from the Vimeo community.":"Discover new videos daily with help from the Vimeo community.","Don\\u2019t worry! Only you (the creator) can download this video.":"Don\\u2019t worry! Only you (the creator) can download this video.","Download captions and subtitles":"Download captions and subtitles","Download Link":"Download Link","Download":"Download","Due to your privacy settings, this video cannot be added to channels or groups.":"Due to your privacy settings, this video cannot be added to channels or groups.","Edit Settings":"Edit Settings","Edit":"Edit","Exit fullscreen":"Exit fullscreen","Featured":"Featured","Fetch":"Fetch","File Size":"File Size","File":"File","Finish":"Finish","Finishes":"Finishes","Follow amazing creators":"Follow amazing creators","Follow popular channels":"Follow popular channels","Follow":"Follow","Following":"Following","Former Vimeo staff member":"Former Vimeo staff member","from {USER_NAME}":"from {USER_NAME}","from {USERNAME}":"from {USERNAME}","from {VOD_TITLE}":"from {VOD_TITLE}","from":"from","Get inspired by the world's most talented filmmakers.":"Get inspired by the world's most talented filmmakers.","Get me out of here!":"Get me out of here!","Get started":"Get started","Got it":"Got it","Groups":"Groups","How was your viewing experience? ":"How was your viewing experience? ","Incorrect rating":"Incorrect rating","Just check your inbox for a message from us and verify your email address. Then you can do all kinds of cool stuff on Vimeo! ({A}Help{\\/A})":"Just check your inbox for a message from us and verify your email address. Then you can do all kinds of cool stuff on Vimeo! ({A}Help{\\/A})","Learn about other violations":"Learn about other violations","Learn about Stats":"Learn about Stats","Learn more":"Learn more","Leave the first comment:":"Leave the first comment:","Let us know.":"Let us know.","Let's go":"Let's go","Like what you saw? See the full title.":"Like what you saw? See the full title.","Like":"Like","Liked":"Liked","Likes":"Likes","likes":"like","Live at {DATETIME}":"Live at {DATETIME}","Load {COUNT} previous comment":{"singular":"Load {COUNT} previous comment","plural":"Load {COUNT} previous comments"},"Loading":"Loading","Manage collections":"Manage collections","Maybe later":"Maybe later","Message":"Message","Moneymaker":"Moneymaker","More":"More","Next video":"Next video","Next":"Next","Not playing nice":"Not playing nice","Only on Vimeo":"Only on Vimeo","Only visible to you":"Only visible to you","Original file is in the archive":"Original file is in the archive","Pending submission":"Pending submission","Permalink to this comment":"Permalink to this comment","Personalize your feed":"Personalize your feed","Play":"Play","plays":"plays","Plays":"Plays","please let us know":"please let us know","Presented by {BRAND_NAME}\\u2019s {CAMPAIGN_TITLE}":"Presented by {BRAND_NAME}\\u2019s {CAMPAIGN_TITLE}","President of the United States":"President of the United States","Prev":"Prev","Previous video":"Previous video","Promoted":"Promoted","Public Domain Dedication":"Public Domain Dedication","Read more\\u2026":"Read more\\u2026","Receive Updates":"Receive Updates","Reject":"Reject","Remove credit":"Remove credit","Remove from Watch Later":"Remove from Watch Later","Rent {DISPLAY_PRICE}":"Rent {DISPLAY_PRICE}","Reply to this comment":"Reply to this comment","Reply":"Reply","Report this video":"Report this video","Report this video?":"Report this video?","Retry upload":"Retry upload","Review page":"Review page","Save":"Save","Saving...":"Saving...","Search":"Search","See full statistics":"See full statistics","See video stats":"See video stats","Select a logo":"Select a logo","Settings":"Settings","Share":"Share","Show all":"Show all","Show me the video":"Show me the video","Show more\\u2026":"Show more\\u2026","Source files not accessed for 30 days are automatically stored in our secret underground storage archive. As such, it may take a few hours to retrieve the file. Still want the original source file?":"Source files not accessed for 30 days are automatically stored in our secret underground storage archive. As such, it may take a few hours to retrieve the file. Still want the original source file?","Spam":"Spam","Sponsored by":"Sponsored by","Stats":"Stats","Subscribe {DISPLAY_PRICE}\\/{BILLING_PERIOD}":"Subscribe {DISPLAY_PRICE}\\/{BILLING_PERIOD}","Take a second to follow categories, creators, and channels. Then we can fill your feed with video goodness perfect for Y-O-U.":"Take a second to follow categories, creators, and channels. Then we can fill your feed with video goodness perfect for Y-O-U.","The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.":"The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.","The person who uploaded this video obviously didn\\u2019t make it (it\\u2019s a TV show, movie trailer, or ripped from elsewhere the web.)":"The person who uploaded this video obviously didn\\u2019t make it (it\\u2019s a TV show, movie trailer, or ripped from elsewhere the web.)","This comment will be shared on {SOCIAL_APP}":"This comment will be shared on {SOCIAL_APP}","This event ended at {TIME} on {DATE}":"This event ended at {TIME} on {DATE}","This event hasn\\u2018t started yet":"This event hasn\\u2018t started yet","This event is scheduled for {DATE} at {TIME}":"This event is scheduled for {DATE} at {TIME}","This license allows for redistribution, commercial and non-commercial, as long as it is passed along unchanged and in whole, with credit to you.":"This license allows for redistribution, commercial and non-commercial, as long as it is passed along unchanged and in whole, with credit to you.","This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can\\u2019t change them in any way or use them commercially.":"This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can\\u2019t change them in any way or use them commercially.","This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.":"This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.","This license lets others remix, tweak, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. This license is often compared to &ldquo;copyleft&rdquo; free and open source software licenses. All new works based on yours will carry the same license, so any derivatives will also allow commercial use. This is the license used by Wikipedia, and is recommended for materials that would benefit from incorporating content from Wikipedia and similarly licensed projects.":"This license lets others remix, tweak, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. This license is often compared to &ldquo;copyleft&rdquo; free and open source software licenses. All new works based on yours will carry the same license, so any derivatives will also allow commercial use. This is the license used by Wikipedia, and is recommended for materials that would benefit from incorporating content from Wikipedia and similarly licensed projects.","This license lets others remix, tweak, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they don\\u2019t have to license their derivative works on the same terms.":"This license lets others remix, tweak, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they don\\u2019t have to license their derivative works on the same terms.","This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.":"This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.","This source file has been lovingly stored in our archive.":"This source file has been lovingly stored in our archive.","This video contains harassment, incites hatred, or depicts extreme or real-life violence.":"This video contains harassment, incites hatred, or depicts extreme or real-life violence.","This video contains pornography, advertises a product or service of an erotic nature, or seems primarily focused on sexual stimulation.":"This video contains pornography, advertises a product or service of an erotic nature, or seems primarily focused on sexual stimulation.","This video is also in {COUNT} other collection.":{"singular":"This video is also in {COUNT} other collection.","plural":"This video is also in {COUNT} other collections."},"This video is an advertisement, commercial, or is a video that actively sells a product or service.":"This video is an advertisement, commercial, or is a video that actively sells a product or service.","This video is hidden from vimeo.com. It cannot be added to {TITLE}":"This video is hidden from vimeo.com. It cannot be added to {TITLE}","This video is primarily designed to drive traffic to third party sites, use Search Engine Optimization (SEO) to manipulate search rankings, or otherwise deceive or mislead the audience.":"This video is primarily designed to drive traffic to third party sites, use Search Engine Optimization (SEO) to manipulate search rankings, or otherwise deceive or mislead the audience.","This video should be marked as \\u201cMature\\u201d due to nudity, profanity, violence, or drug\\/alcohol use.":"This video should be marked as \\u201cMature\\u201d due to nudity, profanity, violence, or drug\\/alcohol use.","Toggle visibility of stats graph":"Toggle visibility of stats graph","too much":"too much","Try again":"Try again","Uh oh. Something went wrong.":"Uh oh. Something went wrong.","Unfollow":"Unfollow","Unlike":"Unlike","Up next":"Up next","update your content rating preferences":"update your content rating preferences","Upgrade and we\\u2019ll hold on to your original video files.":"Upgrade and we\\u2019ll hold on to your original video files.","Upload quota":"Upload quota","Uploaded by {USER}":"Uploaded by {USER}","Uploader did not make this":"Uploader did not make this","User verification":"User verification","Verify your acount":"Verify your acount","Verify":"Verify","via {APP_NAME}":"via {APP_NAME}","via {CAMEO}":"via {CAMEO}","Video flagging form":"Video flagging form","View all categories associated with this video":"View all categories associated with this video","View all users credited by this video":"View all users credited by this video","View all":"View all","View channel":"View channel","View more information about this video":"View more information about this video","View title":"View title","Vimeo Business user":"Vimeo Business user","Vimeo curation team member":"Vimeo curation team member","Vimeo partner":"Vimeo partner","Vimeo Plus user":"Vimeo Plus user","Vimeo Pro user":"Vimeo Pro user","Vimeo sponsor":"Vimeo sponsor","Vimeo staff member":"Vimeo staff member","Vimeo support specialist":"Vimeo support specialist","Want to leave a comment? First you\\u2019ll need to verify your Vimeo account.":"Want to leave a comment? First you\\u2019ll need to verify your Vimeo account.","Want to leave a comment?":"Want to leave a comment?","Watch it again":"Watch it again","Watch now":"Watch now","We\\u2019re on it! Please check back later, as it could take a few hours.":"We\\u2019re on it! Please check back later, as it could take a few hours.","What video genres float your boat?":"What video genres float your boat?","When you add this private video to a collection, the video will be viewable within that album, group, etc.":"When you add this private video to a collection, the video will be viewable within that album, group, etc.","Why are you reporting this video?":"Why are you reporting this video?","Would you like to include this video submitted by {USER_NAME} in the {GROUP_NAME} group?":"Would you like to include this video submitted by {USER_NAME} in the {GROUP_NAME} group?","XXX-rated":"XXX-rated","Yes, fetch original file":"Yes, fetch original file","You can {UPDATE_YOUR_PREFERENCES_LINK} at any time.":"You can {UPDATE_YOUR_PREFERENCES_LINK} at any time.","You cannot create {TITLE} while in Private Mode. If you think it was flagged in error, {PLEASE_LET_US_KNOW_LINK}":"You cannot create {TITLE} while in Private Mode. If you think it was flagged in error, {PLEASE_LET_US_KNOW_LINK}","You need a 360 player to watch this download. {A}See our recommendations{\\/A}.":"You need a 360 player to watch this download. {A}See our recommendations{\\/A}.","You own this":"You own this","Your account has been flagged for spam. If you think it was flagged in error, {PLEASE_LET_US_KNOW_LINK}.":"Your account has been flagged for spam. If you think it was flagged in error, {PLEASE_LET_US_KNOW_LINK}.","Your weekly limit will reset on {MONTH} {DAY} at {TIME}":"Your weekly limit will reset on {MONTH} {DAY} at {TIME}","{A}Upgrade{\\/A} for up to {SIZE} of total storage.":"{A}Upgrade{\\/A} for up to {SIZE} of total storage.","{A}Upgrade{\\/A} for up to {SIZE} with no weekly limits.":"{A}Upgrade{\\/A} for up to {SIZE} with no weekly limits.","{COUNT} Category":{"singular":"{COUNT} Category","plural":"{COUNT} Categories"},"{COUNT} Collection":{"singular":"{COUNT} Collection","plural":"{COUNT} Collections"},"{COUNT} Comment":{"singular":"{COUNT} Comment","plural":"{COUNT} Comments"},"{COUNT} Credit":{"singular":"{COUNT} Credit","plural":"{COUNT} Credits"},"{COUNT} Like":{"singular":"{COUNT} Like","plural":"{COUNT} Likes"},"{COUNT} Photo":{"singular":"{COUNT} Photo","plural":"{COUNT} Photos"},"{COUNT} Play":{"singular":"{COUNT} Play","plural":"{COUNT} Plays"},"{COUNT} Watching now":"{COUNT} Watching now","{USED} of {LIMIT} used":"{USED} of {LIMIT} used"};\n
+\n\n    
+\n    
+\n        if (typeof playerAssetUrls !== 'undefined') {\n                            PlayerManager.run(playerAssetUrls);\n                    }\n    
+\n\n    
+\n    
+\n    
+\n    
+\n\n    
+\n    
+\n    
+\n        function onVimeoDomReady(e) {\n            \n                                                if (!vimeo.bypass_player_responsive_delegates) {\n                        vimeo.player_responsive_delegates = vimeo.player_responsive_delegates || {};\n                        vimeo.player_responsive_delegates.willOpenShareOverlay = vimeo.player_responsive_delegates.willOpenShareOverlay || function(id) {\n                                PlayerManager.pauseAllPlayers();\n                                vimeo.share.Popup(id);\n                                return false;\n                            };\n\n                        vimeo.player_responsive_delegates.willOpenLoginForm = vimeo.player_responsive_delegates.willOpenLoginForm || function(id, context) {\n                            if (typeof vimeo.Modal !== 'undefined') {\n                                PlayerManager.pauseAllPlayers();\n\n                                if (context) {\n                                    vimeo.Session.create({ player: 1, clip_id: id, context: context });\n                                }\n                                else {\n                                    vimeo.Session.create();\n                                }\n\n                                return false;\n                            }\n                        };\n\n                        if (PlayerManager) {\n                            PlayerManager.setDefaultDelegate(vimeo.player_responsive_delegates);\n                        }\n                    }\n                \n                if (PlayerManager) {\n                    PlayerManager.dispatchReadySignals();\n                }\n            \n                    }\n\n                    $(document).ready(onVimeoDomReady);\n            
+\n\n            
+\n        var google_ad_client = 'ca-iwon-vimeo',\n            google_ad_output = 'js',\n            google_max_num_ads = '3',\n            google_ad_type = 'text',\n            google_encoding = 'utf8',\n            google_feedback = 'on',\n            google_kw_type = 'broad',\n            google_kw = '';\n\n        document.write('<scr'+'ipt src="//pagead2.googlesyndication.com/pagead/show_ads.js"></scr'+'ipt>');\n    
+    \n    \n\n>

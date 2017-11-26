@@ -1,0 +1,2880 @@
+\n
+if (document.fonts && document.fonts.load) {document.fonts.load("400 10pt Roboto", "E");document.fonts.load("500 10pt Roboto", "E");}
+var ytcsi = {gt: function(n) {n = (n || '') + 'data_';return ytcsi[n] || (ytcsi[n] = {tick: {},info: {}});},now: window.performance && window.performance.timing &&window.performance.now ? function() {return window.performance.timing.navigationStart + window.performance.now();} : function() {return (new Date()).getTime();},tick: function(l, t, n) {ticks = ytcsi.gt(n).tick;var v = t || ytcsi.now();if (ticks[l]) {ticks['_' + l] = (ticks['_' + l] || [ticks[l]]);ticks['_' + l].push(v);}ticks[l] = v;},info: function(k, v, n) {ytcsi.gt(n).info[k] = v;},setStart: function(s, t, n) {ytcsi.info('yt_sts', s, n);ytcsi.tick('_start', t, n);}};(function(w, d) {ytcsi.setStart('dhs', w.performance ? w.performance.timing.responseStart : null);var isPrerender = (d.visibilityState || d.webkitVisibilityState) == 'prerender';var vName = d.webkitVisibilityState ? 'webkitvisibilitychange' : 'visibilitychange';if (isPrerender) {ytcsi.info('prerender', 1);var startTick = function() {ytcsi.setStart('dhs');d.removeEventListener(vName, startTick);};d.addEventListener(vName, startTick, false);}if (d.addEventListener) {d.addEventListener(vName, function() {ytcsi.tick('vc');}, false);}var slt = function(el, t) {setTimeout(function() {var n = ytcsi.now();el.loadTime = n;if (el.slt) {el.slt();}}, t);};w.__ytRIL = function(el) {if (!el.getAttribute('data-thumb')) {if (w.requestAnimationFrame) {w.requestAnimationFrame(function() {slt(el, 0);});} else {slt(el, 16);}}};})(window, document);
+var ytcfg = {d: function() {return (window.yt && yt.config_) || ytcfg.data_ || (ytcfg.data_ = {});},get: function(k, o) {return (k in ytcfg.d()) ? ytcfg.d()[k] : o;},set: function() {var a = arguments;if (a.length > 1) {ytcfg.d()[a[0]] = a[1];} else {for (var k in a[0]) {ytcfg.d()[k] = a[0][k];}}}};
+  
+ytcfg.set("ROOT_VE_TYPE", 3611);ytcfg.set("EVENT_ID", "wCIbWvanEIa2D_OdrNgG");
+\n  \n  \n\n\n\n\n  
+\n        (function(){var b={a:"content-snap-width-1",b:"content-snap-width-2",c:"content-snap-width-3"};function f(){var a=[],c;for(c in b)a.push(b[c]);return a}\nfunction h(a){var c=f().concat(["guide-pinned","show-guide"]),e=c.length,g=[];a.replace(/\\S+/g,function(a){for(var d=0;d<e;d++)if(a==c[d])return;g.push(a)});\nreturn g}\n;function k(a,c,e){var g=document.getElementsByTagName("html")[0],d=h(g.className);a&&1251<=(window.innerWidth||document.documentElement.clientWidth)&&(d.push("guide-pinned"),c&&d.push("show-guide"));e&&(e=(window.innerWidth||document.documentElement.clientWidth)-21-50,1251<=(window.innerWidth||document.documentElement.clientWidth)&&a&&c&&(e-=230),d.push(1262<=e?"content-snap-width-3":1056<=e?"content-snap-width-2":"content-snap-width-1"));g.className=d.join(" ")}\nvar l=["yt","www","masthead","sizing","runBeforeBodyIsReady"],m=this;l[0]in m||!m.execScript||m.execScript("var "+l[0]);for(var n;l.length&&(n=l.shift());)l.length||void 0===k?m[n]&&m[n]!==Object.prototype[n]?m=m[n]:m=m[n]={}:m[n]=k;}).call(this);\n\n      try {window.ytbuffer = {};ytbuffer.handleClick = function(e) {var element = e.target || e.srcElement;while (element.parentElement) {if (/(^| )yt-can-buffer( |$)/.test(element.className)) {window.ytbuffer = {bufferedClick: e};element.className += ' yt-is-buffered';break;}element = element.parentElement;}};if (document.addEventListener) {document.addEventListener('click', ytbuffer.handleClick);} else {document.attachEvent('onclick', ytbuffer.handleClick);}} catch(e) {}\n\n    yt.www.masthead.sizing.runBeforeBodyIsReady(true,true,true);\n  
+\n\n      
+\n\n\n  \n  
+\n      
+\n\n  
+\n  
+\n\n    \n
+  La Fabrique culturelle\n - YouTube
+      
+\n\n      
+\n\n  
+\n
+     
+        
+\n    
+\n        
+\n      
+\n    
+\n    
+\n\n      
+\n\n    
+\n    
+\n      
+\n\n      
+\n    
+\n    
+\n    
+\n\n    
+\n\n        
+\n        
+\n        
+\n        
+\n        
+\n\n    
+\n      
+\n\n      
+\n    
+\n    
+\n    
+\n    
+\n    
+\n    
+\n    
+\n    
+\n    
+\n      
+\n      
+\n    
+\n    
+\n    
+\n\n      
+\n    
+\n    
+\n    
+\n\n      
+\n\n\n        
+\n          
+\n        
+\n        
+\n          
+\n        
+\n\n\n    
+\n    
+\n      
+\n      
+\n      
+\n    
+\n\n\n      
+\n      
+\n\n\n  
+\n        
+\n    
+\n    
+\n    
+\n\n      
+\n\n\n        
+\n          
+\n        
+\n        
+\n          
+\n        
+\n\n\n    
+\n    
+\n      
+\n      
+\n      
+\n    
+\n\n\n      
+\n      
+\n\n\n  
+\n      
+\n    
+\n\n\n\n    
+\n\n
+.exp-invert-logo .hats-logo {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_mini_gray-vflfanGkh.png);width: 65px;height: 15px;}.exp-invert-logo #header:before,.exp-invert-logo .ypc-join-family-header .logo,.exp-invert-logo #footer-logo .footer-logo-icon,.exp-invert-logo #yt-masthead #logo-container .logo,.exp-invert-logo #masthead #logo-container,.exp-invert-logo .admin-masthead-logo a,.exp-invert-logo #yt-sidebar-styleguide-logo #logo {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_small-vflHpzGZm.png);width: 100px;height: 30px;}.exp-invert-logo.inverted-hdpi #header:before,.exp-invert-logo.inverted-hdpi .ypc-join-family-header .logo,.exp-invert-logo.inverted-hdpi #footer-logo .footer-logo-icon,.exp-invert-logo.inverted-hdpi #yt-masthead #logo-container .logo,.exp-invert-logo.inverted-hdpi #masthead #logo-container,.exp-invert-logo.inverted-hdpi .admin-masthead-logo a,.exp-invert-logo.inverted-hdpi #yt-sidebar-styleguide-logo #logo {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_small_2x-vfl4_cFqn.png);background-size: 100px 30px;width: 100px;height: 30px;}.exp-invert-logo.exp-fusion-nav-redesign .masthead-logo-renderer-logo {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo-vflLfk4yD.png);width: 40px;height: 28px;}.exp-invert-logo.inverted-hdpi.exp-fusion-nav-redesign .masthead-logo-renderer-logo {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo_2x-vflXx5Pg3.png);width: 40px;height: 28px;}@media screen and (max-width: 656px) {.exp-invert-logo #yt-masthead #logo-container .logo {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo-vflLfk4yD.png);width: 40px;height: 28px;}.exp-invert-logo.inverted-hdpi #yt-masthead #logo-container .logo {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo_2x-vflXx5Pg3.png);background-size: 40px 28px;width: 40px;height: 28px;}}@media only screen and (min-width: 0px) and (max-width: 498px),only screen and (min-width: 499px) and (max-width: 704px) {.exp-invert-logo.exp-responsive #yt-masthead #logo-container {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo-vflLfk4yD.png);width: 40px;height: 28px;}.exp-invert-logo.inverted-hdpi.exp-responsive #yt-masthead #logo-container {background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo_2x-vflXx5Pg3.png);background-size: 40px 28px;width: 40px;height: 28px;}}.exp-invert-logo #yt-masthead #logo-container .logo-red {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_youtube_red-vflZxcSR1.png);width: 132px;height: 30px;}.exp-invert-logo.inverted-hdpi #yt-masthead #logo-container .logo-red {background: no-repeat url(/yts/img/ringo/hitchhiker/logo_youtube_red_2x-vflOSHA_n.png);background-size: 132px 30px;width: 132px;height: 30px;}.exp-invert-logo .guide-item .guide-video-youtube-red-icon {background: no-repeat url(/yts/img/ringo/hitchhiker/video_youtube_red-vflovGTdz.png);width: 20px;height: 20px;}.exp-invert-logo.inverted-hdpi .guide-item .guide-video-youtube-red-icon {background: no-repeat url(/yts/img/ringo/hitchhiker/video_youtube_red_2x-vflqMdgEM.png);background-size: 20px 20px;width: 20px;height: 20px;}.exp-invert-logo .guide-item:hover .guide-video-youtube-red-icon,.exp-invert-logo .guide-item.guide-item-selected .guide-video-youtube-red-icon {background: no-repeat url(/yts/img/ringo/hitchhiker/video_youtube_red_hover-vflgV4Gv0.png);width: 20px;height: 20px;}.exp-invert-logo.inverted-hdpi .guide-item:hover .guide-video-youtube-red-icon,.exp-invert-logo.inverted-hdpi .guide-item.guide-item-selected .guide-video-youtube-red-icon {background: no-repeat url(/yts/img/ringo/hitchhiker/video_youtube_red_hover_2x-vflYjZHvf.png);background-size: 20px 20px;width: 20px;height: 20px;}.exp-invert-logo li.guide-section h3,.exp-invert-logo li.guide-section h3 a {color: #f00;}.exp-invert-logo a.yt-uix-button-epic-nav-item:hover,.exp-invert-logo a.yt-uix-button-epic-nav-item.selected,.exp-invert-logo a.yt-uix-button-epic-nav-item.yt-uix-button-toggled,.exp-invert-logo a.yt-uix-button-epic-nav-item.partially-selected,.exp-invert-logo a.yt-uix-button-epic-nav-item.partially-selected:hover,.exp-invert-logo button.yt-uix-button-epic-nav-item:hover,.exp-invert-logo button.yt-uix-button-epic-nav-item.selected,.exp-invert-logo button.yt-uix-button-epic-nav-item.yt-uix-button-toggled,.exp-invert-logo .epic-nav-item:hover,.exp-invert-logo .epic-nav-item.selected,.exp-invert-logo .epic-nav-item.yt-uix-button-toggled,.exp-invert-logo .epic-nav-item-heading,.exp-invert-logo .yt-gb-shelf-item-thumbtab.yt-gb-selected-shelf-tab::before {border-color: #f00;}.exp-invert-logo .resume-playback-progress-bar,.exp-invert-logo .yt-uix-button-subscribe-branded,.exp-invert-logo .yt-uix-button-subscribe-branded[disabled],.exp-invert-logo .yt-uix-button-subscribe-branded[disabled]:hover,.exp-invert-logo .yt-uix-button-subscribe-branded[disabled]:active,.exp-invert-logo .yt-uix-button-subscribe-branded[disabled]:focus,.exp-invert-logo .sb-notif-on .yt-uix-button-content,.exp-invert-logo .guide-item.guide-item-selected,.exp-invert-logo .guide-item.guide-item-selected:hover,.exp-invert-logo .guide-item.guide-item-selected .yt-deemphasized-text,.exp-invert-logo .guide-item.guide-item-selected:hover .yt-deemphasized-text {background-color: #f00;}.exp-invert-logo .yt-uix-button-subscribe-branded:hover {background-color: #d90a17;}.exp-invert-logo .yt-uix-button-subscribe-branded.yt-is-buffered,.exp-invert-logo .yt-uix-button-subscribe-branded:active,.exp-invert-logo .yt-uix-button-subscribe-branded.yt-uix-button-toggled,.exp-invert-logo .yt-uix-button-subscribe-branded.yt-uix-button-active,.exp-invert-logo .yt-uix-button-subscribed-branded.external,.exp-invert-logo .yt-uix-button-subscribed-branded.external[disabled],.exp-invert-logo .yt-uix-button-subscribed-branded.external:active,.exp-invert-logo .yt-uix-button-subscribed-branded.external.yt-uix-button-toggled,.exp-invert-logo .yt-uix-button-subscribed-branded.external.yt-uix-button-active {background-color: #a60812;}
+.exp-invert-logo #header:before, .exp-invert-logo .ypc-join-family-header .logo, .exp-invert-logo #footer-logo .footer-logo-icon, .exp-invert-logo #yt-masthead #logo-container .logo, .exp-invert-logo #masthead #logo-container, .exp-invert-logo .admin-masthead-logo a, .exp-invert-logo #yt-sidebar-styleguide-logo #logo { background: no-repeat url(/yts/img/ringo/hitchhiker/logo_small_2x-vfl4_cFqn.png); background-size: 100px 30px; } .exp-invert-logo #yt-masthead #logo-container .logo-red { background: no-repeat url(/yts/img/ringo/hitchhiker/logo_youtube_red_2x-vflOSHA_n.png); background-size: 132px 30px; } @media only screen and (min-width: 0px) and (max-width: 498px), only screen and (min-width: 499px) and (max-width: 704px) { .exp-invert-logo.exp-responsive #yt-masthead #logo-container { background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo_2x-vflXx5Pg3.png); background-size: 40px 28px; } } .guide-sort-container {display: none}
+\n\n      \n\n  
+\n  
+  
+\n        \n\n  
+\n  
+  
+\nSkip navigation\n  
+\n
+  
+\n  
+\n
+  
+\n
+CA
+Sign in
+Search
+\n    
+      
+\n  
+\n    
+\n  
+\n
+    
+\n      La Fabrique culturelle\n    
+\n
+    
+Videos
+\n
+    
+Playlists
+\n
+    
+Channels
+\n
+    
+Discussion
+\n
+    
+About
+\n
+  
+\n\n
+\n\n
+      
+\n    
+\n        
+\n    
+\n            
+\n    
+\n      \n      
+\n            \n  
+\n      \n  
+\n    
+\n        
+\n        
+\n          
+\n            Home\n          
+\n        
+\n    
+\n  
+\n\n  
+\n\n            \n  
+\n      \n  
+\n    
+\n        
+\n        
+\n          
+\n            Trending\n          
+\n        
+\n    
+\n  
+\n\n  
+\n\n            \n  
+\n      \n  
+\n    
+\n        
+\n        
+\n          
+\n            History\n          
+\n        
+\n    
+\n  
+\n\n  
+\n\n      
+\n    
+\n      
+\n  
+\n\n            
+\n    
+\n          
+\n      Best of YouTube\n    
+\n\n      
+\n            \n  
+\n      \n  
+\n    
+\n        
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+\n        
+\n          
+\n            Music\n          
+\n        
+\n    
+\n  
+\n\n  
+\n\n            \n  
+\n      \n  
+\n    
+\n        
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+\n        
+\n          
+\n            Sports\n          
+\n        
+\n    
+\n  
+\n\n  
+\n\n            \n  
+\n      \n  
+\n    
+\n        
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+\n        
+\n          
+\n            Gaming\n          
+\n        
+\n    
+\n  
+\n\n  
+\n\n            \n  
+\n      \n  
+\n    
+\n        
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+\n        
+\n          
+\n            Movies\n          
+\n        
+\n    
+\n  
+\n\n  
+\n\n            \n  
+\n      \n  
+\n    
+\n        
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+\n        
+\n          
+\n            TV Shows\n          
+\n        
+\n    
+\n  
+\n\n  
+\n\n            \n  
+\n      \n  
+\n    
+\n        
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+\n        
+\n          
+\n            News\n          
+\n        
+\n    
+\n  
+\n\n  
+\n\n            \n  
+\n      \n  
+\n    
+\n        
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+\n        
+\n          
+\n            Live\n          
+\n        
+\n    
+\n  
+\n\n  
+\n\n            \n  
+\n      \n  
+\n    
+\n        
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+\n        
+\n          
+\n            360\xb0 Video\n          
+\n        
+\n    
+\n  
+\n\n  
+\n\n      
+\n    
+\n      
+\n  
+\n\n            
+\n    
+\n      \n      
+\n            \n  
+\n      \n  
+\n    
+\n        
+\n        
+\n          
+\n            Browse channels\n          
+\n        
+\n    
+\n  
+\n\n  
+\n\n      
+\n    
+\n      
+\n  
+\n\n            
+\n    
+\n      Sign in now to see your channels and recommendations!\n    
+\n    
+\n      
+Sign in
+\n    
+\n  
+\n\n    
+\n  
+\n\n    
+\n  
+\n  
+\n        
+\n    
+\n  
+\n\n\n    
+\n    
+\n  
+\n\n\n    
+\n    
+\n  
+\n\n\n    
+\n    
+\n  
+\n\n\n    
+\n    
+\n  
+\n\n\n    
+\n    
+\n  
+\n\n\n    
+\n    
+\n  
+\n\n\n    
+\n    
+\n  
+\n\n\n    
+\n    
+\n  
+\n\n\n    
+\n    
+\n  
+\n\n\n    
+\n    
+\n  
+\n\n\n    
+\n    
+\n  
+\n\n\n  
+\n  
+\n        
+\n      
+\n    
+\n    
+\n      
+\n    
+\n    
+\n      
+\n    
+\n\n  
+\n\n
+  \n
+  
+\n    
+\n      \n    
+\n\n    
+\n        
+if (window.ytcsi) {window.ytcsi.tick("cfg", null, '');}
+\n    
+var ytplayer = ytplayer || {};ytplayer.config = {"html5":true,"url":"","sts":17494,"assets":{"js":"\\/yts\\/jsbin\\/player-vflJtN5rw\\/en_US\\/base.js","css":"\\/yts\\/cssbin\\/player-vflF9Ww8I\\/www-player.css"},"params":{"allowscriptaccess":"always","allowfullscreen":"true","bgcolor":"#000000"},"attrs":{"id":"movie_player"},"min_version":"8.0.0","args":{"player_error_log_fraction":"1.0","apiary_host":"","innertube_api_version":"v1","c":"WEB","external_play_video":"1","fexp":"23702322,23702700,23704248,23705485,23705739,23706129,23708904,23708906,23708910,23709525,23711500,23711646,23712874,23712997,23713711,23714154,23714227,23714452,23715027,9422596,9431754,9449243,9456192,9466591,9471235,9476327,9479479,9480475,9481057,9484237,9484345,9485000,9488038","enablejsapi":"1","autoplay":"0","fflags":"desktop_cleanup_companion_on_instream_begin=true\\u0026html5_pipeline_ultra_low_latency=true\\u0026html5_variability_no_discount_thresh=1.0\\u0026ad_duration_threshold_for_showing_endcap_seconds=15\\u0026player_external_control_on_classic_desktop=true\\u0026report_promotes_terrorism_desktop=true\\u0026spacecast_uniplayer_decorate_manifest=true\\u0026allow_live_autoplay=true\\u0026disable_mweb_iphone_ad_click_handling_functionality=true\\u0026html5_enable_mesh_projection=true\\u0026html5_request_size_min_secs=0.0\\u0026html5_disable_move_pssh_to_moov=true\\u0026king_crimson_player=false\\u0026html5_new_peg_to_live_v2=true\\u0026html5_no_shadow_env_data_redux=true\\u0026vss_dni_delayping=0\\u0026king_crimson_player_redux=true\\u0026html5_break_deadlocks=true\\u0026embed_show_watchlater_login=true\\u0026html5_sticky_reduces_discount_by=0.0\\u0026stop_using_ima_sdk_gpt_request_activity=true\\u0026disable_client_side_midroll_freq_capping=true\\u0026www_for_videostats=true\\u0026use_forced_linebreak_preskip_text=true\\u0026forced_brand_precap_duration_ms=2000\\u0026html5_live_pin_to_tail=true\\u0026html5_aux_pctile=true\\u0026html5_max_av_sync_drift=50\\u0026playready_on_borg=true\\u0026kids_enable_post_onboarding_red_flow=true\\u0026html5_pipeline_manifestless=true\\u0026html5_msi_error_fallback=true\\u0026disable_max_adsense_channel_limit=true\\u0026chrome_promo_enabled=true\\u0026exclude_pyv_overlays_on_desktop_watch=true\\u0026website_actions_cta_redesign=true\\u0026html5_disable_non_contiguous=true\\u0026enable_finished_broadcast_reactr_sharing=false\\u0026midroll_notify_time_seconds=5\\u0026player_destroy_old_version=true\\u0026html5_enable_ms_playready_hd=true\\u0026html5_reselect_bandwidth_factor=3.0\\u0026html5_subsegment_readahead_timeout_secs=2.0\\u0026enable_afv_div_reset_in_kevlar=true\\u0026html5_spherical_bicubic_mode=0\\u0026html5_connect_timeout_secs=7.0\\u0026enable_red_carpet_p13n_shelves=true\\u0026kids_eliminate_playlists_in_channels=true\\u0026html5_minimum_readahead_seconds=0.0\\u0026disable_indisplay_adunit_on_embedded=true\\u0026show_countdown_on_bumper=true\\u0026html5_composite_stall=true\\u0026enable_prefetch_for_postrolls=true\\u0026html5_observe_live_start_seconds=true\\u0026web_player_disable_flash_playerproxy=true\\u0026html5_suspended_state=true\\u0026player_unified_fullscreen_transitions=true\\u0026html5_preload_size_excludes_metadata=true\\u0026html5_live_abr_head_miss_fraction=0.0\\u0026polymer_report_missing_web_navigation_endpoint=false\\u0026mysubs_highlight_shelf_counterfactual=false\\u0026html5_add_manifest_url_params=true\\u0026html5_adjust_effective_request_size=true\\u0026html5_local_max_byterate_lookahead=15\\u0026html5_env_data_update_app_only=true\\u0026live_readahead_seconds_multiplier=0.8\\u0026yto_enable_ytr_promo_refresh_assets=true\\u0026live_chat_v1_turndown=true\\u0026kevlar_allow_multistep_video_init=true\\u0026html5_mobile_perf_cap_240=true\\u0026signed_out_notification_settings=true\\u0026html5_maximum_readahead_seconds=0.0\\u0026lightweight_watch_video_swf=true\\u0026html5_tight_max_buffer_allowed_bandwidth_stddevs=0.0\\u0026html5_enable_embedded_player_visibility_signals=true\\u0026ios_disable_notification_preprompt=true\\u0026segment_volume_reporting=true\\u0026html5_always_enable_timeouts=true\\u0026html5_serverside_biscotti_id_wait_ms=1000\\u0026html5_restrict_streaming_xhr_on_sqless_requests=true\\u0026playready_first_play_expiration=-1\\u0026send_html5_api_stats_ads_abandon=true\\u0026use_new_skip_icon=true\\u0026kids_asset_theme=server_side_assets\\u0026html5_live_4k_more_buffer=true\\u0026html5_error_reload_cooldown_ms=30000\\u0026sidebar_renderers=true\\u0026html5_variability_discount=0.5\\u0026html5_dispose_on_clear_killswitch=true\\u0026html5_get_video_info_promiseajax=true\\u0026android_buy_bucket_buy_flows=true\\u0026dynamic_ad_break_seek_threshold_sec=0\\u0026html5_subsegment_readahead_progress_timeout_fraction=0.8\\u0026html5_stop_video_in_cancel_playback=true\\u0026lugash_header_by_service=true\\u0026mweb_playsinline_webview=true\\u0026website_actions_throttle_percentage=1.0\\u0026android_enable_thumbnail_overlay_side_panel=false\\u0026use_html5_player_event_timeout=true\\u0026disable_new_pause_state3=true\\u0026html5_new_e2e_latency_tracking=true\\u0026html5_new_fallback=true\\u0026html5_live_disable_dg_pacing=true\\u0026html5_disable_audio_slicing=true\\u0026disable_search_mpu=true\\u0026mweb_muted_autoplay=true\\u0026live_chat_use_new_default_filter_mode=true\\u0026html5_min_upgrade_health=0\\u0026channel_about_page_gadgets=true\\u0026html5_sticky_disables_variability=true\\u0026disable_captions_redirects=true\\u0026variable_load_timeout_ms=0\\u0026html5_ad_stats_bearer=true\\u0026html5_max_buffer_health_for_downgrade=15\\u0026html5_min_startup_smooth_target=10.0\\u0026html5_elbow_tracking_tweaks=true\\u0026legacy_autoplay_flag=true\\u0026enable_ccs_buy_flow_for_chirp=true\\u0026html5_variability_full_discount_thresh=3.0\\u0026html5_subsegment_readahead_target_buffer_health_secs=0.5\\u0026html5_deadzone_multiplier=1.0\\u0026mweb_blacklist_progressive_chrome_mobile=true\\u0026live_chunk_readahead=3\\u0026mweb_autonav_paddles=true\\u0026yt_unlimited_pts_skip_ads_promo_desktop_always=true\\u0026info_box_for_promotes_terrorism_reporting=true\\u0026kids_enable_privacy_notice=true\\u0026report_promotes_terrorism_ios=true\\u0026use_fast_fade_in_0s=true\\u0026html5_player_autonav_logging=true\\u0026disable_set_awesome_html5=true\\u0026enable_plus_page_pts=true\\u0026autoplay_time=8000\\u0026html5_manifestless_no_redundant_seek_to_head=true\\u0026enable_gaming_new_logo=true\\u0026html5_platform_minimum_readahead_seconds=0.0\\u0026yto_feature_hub_channel=false\\u0026html5_ultra_low_latency_streaming_responses=true\\u0026mweb_cougar_big_controls=true\\u0026html5_allowable_liveness_drift_chunks=2\\u0026ios_notifications_disabled_subs_tab_promoted_item_promo=true\\u0026mweb_cougar=true\\u0026uniplayer_dbp=true\\u0026sdk_ad_prefetch_time_seconds=-1\\u0026html5_stall_pctile=true\\u0026html5_serverside_call_server_on_biscotti_timeout=true\\u0026html5_disable_webgl_antialias=true\\u0026enable_bulleit_lidar_integration=true\\u0026html5_sticky_ignore_capped=true\\u0026kids_enable_existing_marketing_rebrand=true\\u0026flex_theater_mode=true\\u0026web_player_api_logging_fraction=0.01\\u0026html5_aspect_from_adaptive_format=true\\u0026enable_live_state_auth=true\\u0026html5_clearance_fix=true\\u0026mweb_pu_android_chrome_54_above=true\\u0026html5_nnr_downgrade_count=4\\u0026html5_min_secs_between_format_selections=8.0\\u0026limit_of_rebuffering_event_on_html5=1000\\u0026html5_background_quality_cap=360\\u0026html5_request_sizing_multiplier=0.8\\u0026deprecate_get_video_metadata=true\\u0026html5_suspend_manifest_on_pause=true\\u0026html5_bandwidth_window_size=0\\u0026fixed_padding_skip_button=true\\u0026persist_text_on_preview_button=true\\u0026mweb_playsinline=true\\u0026kids_show_rebrand=true\\u0026max_resolution_for_white_noise=360\\u0026html5_max_readahead_bandwidth_cap=0\\u0026html5_max_headm_for_streaming_xhr=0\\u0026kids_enable_terms_servlet=true\\u0026mobile_disable_ad_mob_on_home=true\\u0026html5_serverside_call_server_on_biscotti_error=true\\u0026yto_enable_watch_offer_module=true\\u0026html5_min_buffer_to_resume=6\\u0026use_push_for_desktop_live_chat=true\\u0026web_embedded_player_service=true\\u0026html5_background_cap_idle_secs=60\\u0026lock_fullscreen=false\\u0026html5_report_conn=true\\u0026html5_live_abr_repredict_fraction=0.0\\u0026interaction_log_delayed_event_batch_size=200\\u0026html5_timeupdate_readystate_check=true\\u0026live_fresca_v2=true\\u0026html5_post_interrupt_readahead=20\\u0026html5_max_buffer_duration=0\\u0026html5_stale_dash_manifest_retry_factor=1.0\\u0026html5_throttle_burst_secs=15.0\\u0026html5_repredict_interval_secs=0.0\\u0026embed_snippet_includes_version=true\\u0026sponsors_disable=true\\u0026html5_quality_cap_min_age_secs=0\\u0026html5_min_readbehind_secs=0\\u0026tvhtml5_background_su=true\\u0026ios_enable_mixin_accessibility_custom_actions=true\\u0026enable_offer_restricts_for_watch_page_offers=true\\u0026html5_ad_loudness_penalty_db=0\\u0026mweb_autonav=true\\u0026html5_min_secs_over_max_bytes=true\\u0026show_thumbnail_on_standard=true\\u0026mweb_muted_autoplay_animation=shrink\\u0026signed_out_notifications_inbox=true\\u0026html5_no_shadow_env_data=false\\u0026kids_enable_block_servlet=true\\u0026lugash_header_warmup=true\\u0026show_thumbnail_behind_ypc_offer_module=true\\u0026disable_trusted_ad_domains_player_check=true\\u0026disable_reporting_html5_no_vast_ads_as_error=true\\u0026sponsors_whitelist_creator=true\\u0026youtubei_for_web=true\\u0026html5_throttle_rate=0.0\\u0026report_promotes_terrorism_polymer=true\\u0026web_player_edge_autohide_killswitch2=true\\u0026html5_strip_emsg=true\\u0026html5_desktop_serverside_get_biscotti_id_from_client=true\\u0026unplugged_web_location_accuracy=true\\u0026new_promo_page=true\\u0026html5_progressive_signature_reload=true\\u0026kids_mqb_use_confirmed_safe_videos_only=false\\u0026enable_local_channel=true\\u0026fix_gpt_pos_params=true\\u0026html5_el_migration=true\\u0026html5_min_readbehind_cap_secs=0\\u0026disable_set_awesome_mweb=true\\u0026html5_dom_pause=true\\u0026html5_deferred_source_buffer_creation=true\\u0026dynamic_ad_break_pause_threshold_sec=0\\u0026use_new_style=true\\u0026html5_subsegment_readahead_tail_margin_secs=0.2\\u0026html5_request_size_max_secs=31\\u0026html5_get_video_info_timeout_ms=0\\u0026web_player_tabindex_killswitch=true\\u0026mpu_visible_threshold_count=2\\u0026html5_ad_no_buffer_abort_after_skippable=true\\u0026html5_use_adaptive_live_readahead=true\\u0026report_promotes_terrorism_mobile_web=true\\u0026enable_responsive_embed_snippet=true\\u0026mweb_enable_skippables_on_iphone=true\\u0026ad_video_end_renderer_duration_milliseconds=7000\\u0026report_promotes_terrorism_android=true\\u0026html5_license_constraint_delay=5000\\u0026doubleclick_gpt_retagging=true\\u0026html5_tight_max_buffer_allowed_impaired_time=0.0\\u0026yto_enable_unlimited_landing_page_yto_features=true\\u0026html5_default_quality_cap=0\\u0026html5_pause_video_fix=true\\u0026sdk_wrapper_levels_allowed=0\\u0026html5_video_tbd_min_kb=0\\u0026html5_disable_urgent_upgrade_for_quality=true\\u0026android_native_live_enablement=true\\u0026postroll_notify_time_seconds=5\\u0026html5_manifestless_accurate_sliceinfo=true\\u0026enable_playlist_multi_season=true\\u0026dash_manifest_version=5\\u0026enable_spherical_ps4=true\\u0026html5_hopeless_mode_request_size_secs=15","innertube_api_key":"AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8","hl":"en_US","xhr_apiary_host":"youtubei.youtube.com","gapi_hint_params":"m;\\/_\\/scs\\/abc-static\\/_\\/js\\/k=gapi.gapi.en.xyDspFFbPYQ.O\\/m=__features__\\/am=AAI\\/rt=j\\/d=1\\/rs=AHpOoo9vuiyYzl-xmAxJd0moShp71zG1mw","cr":"CA","cver":"1.20171121","is_html5_mobile_device":false,"host_language":"en","ssl":"1","innertube_context_client_version":"1.20171121","apiary_host_firstparty":""}};ytplayer.load = function() {yt.player.Application.create("player-api", ytplayer.config);ytplayer.config.loaded = true;};
+\n\n\n    
+Watch Queue
+Queue
+Watch Queue
+Queue
+  
+\n    \n    \n    
+Remove all
+Disconnect
+\n  
+\n  
+\n    
+\n\n    
+\n\n    
+\n\n    
+\n  
+\n
+The next video is starting
+stop
+  
+\n        
+\n\n    
+\nLoading...\n    
+\n  
+\n
+  
+\n    
+\n    
+\n  
+\n
+  
+\n    
+\nWatch Queue\n    
+\n\n    
+Queue
+\n\n    
+\n__count__/__total__\n    
+\n\n    
+\n      
+\n    
+\n  
+\n
+\n\n    
+\n      \n    
+\n\n  
+\n\n  
+\n
+\n\n\n  
+\n      
+\n                  
+\n    
+\n          
+\n      #c4-header-bg-container {\n      background-image: url(//yt3.ggpht.com/EXob5GlBxDJCfQXNDl8RNjw5SxducQtpi54VyCOdWMkVuZb8OQ_cd4tJRcXKrfl6NfzeEycGohg=w1060-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no);\n  }\n\n\n  @media screen and (-webkit-min-device-pixel-ratio: 1.5),\n         screen and (min-resolution: 1.5dppx) {\n#c4-header-bg-container {\n        background-image: url(//yt3.ggpht.com/EXob5GlBxDJCfQXNDl8RNjw5SxducQtpi54VyCOdWMkVuZb8OQ_cd4tJRcXKrfl6NfzeEycGohg=w2120-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no);\n    }\n  }\n\n#c4-header-bg-container .hd-banner-image {\n      background-image: url(//yt3.ggpht.com/EXob5GlBxDJCfQXNDl8RNjw5SxducQtpi54VyCOdWMkVuZb8OQ_cd4tJRcXKrfl6NfzeEycGohg=w2120-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no);\n  }\n\n    
+\n  
+\n    
+\n      
+\n    
+\n          
+\n      
+\n            
+\n    
+\n        
+\n    
+\n  
+\n\n            
+\n    
+\n        
+\n    
+\n  
+\n\n            
+\n    
+\n        
+\n    
+\n  
+\n\n            
+\n    
+\n        
+\n    
+\n  
+\n\n      
+\n\n      
+\n            
+\n    
+\n        
+\n        
+\n          Visiter La Fabrique culturelle\n        
+\n    
+\n  
+\n\n      
+\n  
+\n\n\n          
+\n      
+\n    
+\n\n  
+\n\n    
+\n          
+\n    
+\n        
+\n    
+\n      
+\n        
+La Fabrique culturelle
+\n      
+\n    
+\n    
+\n      
+\n                  
+Subscribe
+Subscribed
+Unsubscribe
+299
+  
+\n  
+\n    \n  
+\n    \n        
+\n    
+\n      
+\n      
+\n        
+\n          
+\n              
+\n      
+\n        
+\n\n    
+\nLoading...\n    
+\n  
+\n\n  
+\n\n          
+\n          
+\n              
+\n    
+\n        
+\n        
+\n\n    
+\nLoading...\n    
+\n  
+\n\n    
+\n    
+\n    
+\n  
+\n\n          
+\n          
+\n              
+\n  
+\n    
+\n        
+\n        
+\n\n    
+\n        Working...\n    
+\n  
+\n\n      
+\n  
+\n\n          
+\n        
+\n        
+\n      
+\n    
+\n  
+\n\n\n  
+\n\n  
+\n
+\n\n\n      
+\n    
+\n  
+\n\n    
+\n    \n  
+\n\n      
+\n    
+\n        
+\n          
+Home
+\n        
+\n        
+\n          
+Videos
+\n        
+\n        
+\n          
+Playlists
+\n        
+\n        
+\n          
+Channels
+\n        
+\n        
+\n          
+Discussion
+\n        
+\n        
+\n          
+About
+\n        
+\n        
+\n          
+\n        
+\n    
+\n  
+\n\n\n  
+\n\n\n\n      
+\n\n    
+\n      
+\n        
+\n          
+\n              
+\n    \n    
+\n      \n      \n      \n          
+\n      {"itemListElement":[{"position":1,"@type":"ListItem","item":{"itemListElement":[{"position":1,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=q_QtTWsb7tU"},{"position":2,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=_t7qM2yus6Y"},{"position":3,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=NUNofJUJCS0"},{"position":4,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=IzW0MHHYYFk"},{"position":5,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=9_BAE-5Kz6o"},{"position":6,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=8-Pq0P25nMc"},{"position":7,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=2BIzyROJjTk"},{"position":8,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=Yn-xvjEjeq4"},{"position":9,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=ZMPWLJ-tkao"},{"position":10,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=zGg1QOku_18"},{"position":11,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=qbQ3BbTyGpo"},{"position":12,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=Ukk9hmAUp6g"}],"@type":"ItemList","url":"https:\\/\\/www.youtube.com\\/channel\\/UC9kKfv6m0Vf6meX5pjb35hg"}},{"position":2,"@type":"ListItem","item":{"itemListElement":[{"position":1,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=VrkwujzWs64"},{"position":2,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=qdFq4OI9xbM"},{"position":3,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=IqL0pB9_bC0"},{"position":4,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=oQjobGeayu8"},{"position":5,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=wZsKEv9vSdg"},{"position":6,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=nmrYbdQs6Ew"},{"position":7,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=vswA6WJYhHQ"},{"position":8,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=_8L8xEBoceM"},{"position":9,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=6xFy09xwp14"},{"position":10,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=y6XOHXodqfE"},{"position":11,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=LzkVPUhLY1Y"},{"position":12,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=pbEJhFnA3Tg"}],"@type":"ItemList","url":"https:\\/\\/www.youtube.com\\/channel\\/UC9kKfv6m0Vf6meX5pjb35hg"}},{"position":3,"@type":"ListItem","item":{"itemListElement":[{"position":1,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=q_QtTWsb7tU"},{"position":2,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=NUNofJUJCS0"},{"position":3,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=9_BAE-5Kz6o"},{"position":4,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=IzW0MHHYYFk"},{"position":5,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=r4IgV8UJ9uE"}],"@type":"ItemList","url":"https:\\/\\/www.youtube.com\\/channel\\/UC9kKfv6m0Vf6meX5pjb35hg"}},{"position":4,"@type":"ListItem","item":{"itemListElement":[{"position":1,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=x2yu7sUhlOo"},{"position":2,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=T59PN5Q3PNM"},{"position":3,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=WvDWLaExJIg"},{"position":4,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=_hedL4_-VNk"},{"position":5,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=14nzvBqrfn0"},{"position":6,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=7f_UVv_NWwc"},{"position":7,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=d8f_aPUpEHM"},{"position":8,"@type":"ListItem","url":"http:\\/\\/www.youtube.com\\/watch?v=kCJNoqUkeZM"}],"@type":"ItemList","url":"https:\\/\\/www.youtube.com\\/channel\\/UC9kKfv6m0Vf6meX5pjb35hg"}}],"@context":"http:\\/\\/schema.org","@type":"ItemList","url":"https:\\/\\/www.youtube.com\\/channel\\/UC9kKfv6m0Vf6meX5pjb35hg"}\n    
+\n      
+\n          
+\n    
+\n        
+\n      
+\n      
+\n  
+\n\n  
+\n\n        
+\n      
+\n        
+Webs\xe9rie - Sur la route du fjord
+\n      
+\n      
+\n        
+\n          876 views\n        
+\n          
+\n            1 year ago\n          
+\n      
+\n      
+\n        
+\n          De Chicoutimi \xe0 Rivi\xe8re-\xc9ternit\xe9, en passant par la Baie, on parcourt la  magnifique route du fjord \xe0 la d\xe9couverte de personnages et d\u2019\u0153uvres qui ont marqu\xe9 la vie culturelle. On parle de musique, de cin\xe9ma et de sculpture en compagnie de  l\u2019historien \xc9ric Tremblay.\n          
+\nShow less\n          
+\n        
+\n        
+\nRead more\n        
+\n      
+\n  
+\n\n      
+\n      
+\n    
+\n  
+\n\n      
+\n            
+\n    
+\n      
+\n        
+\n                    
+\n          
+\n            
+\n      
+\n            
+\n      
+\xc0 d\xe9couvrir sur #LaFab
+\n    
+\n\n      
+\n        
+Play all
+\n\n  
+\n\n\n    \n\n    
+\n        
+\n    
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:31
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Les incontournables: Surprise dans la classe de madame Sophie avec Alexandre Poulin
+ - Duration: 31 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+1,519 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:31
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Les incontournables: Bobby Bazini | Down On My Knees | Les Sessions #LaFab
+ - Duration: 31 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+6,320 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:31
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Les incontournables: Alex Nevsky | Loin | Les Sessions #LaFab
+ - Duration: 31 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+513 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:31
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Les incontournables: L'\u0153il de Mathieu Dupuis
+ - Duration: 31 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+138 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:31
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Les incontournables: Coup de coeur de l'Estrie-Mont\xe9r\xe9gie | Ra\xf4ul Duguay
+ - Duration: 31 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+111 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:31
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Guido Nincheri : Ma\xeetre nord-am\xe9ricain de l\u2019art religieux
+ - Duration: 31 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+117 views
+3 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:31
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Il \xe9tait une fois \xab La fun\xe9raille des beaux jours \xbb
+ - Duration: 31 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+823 views
+3 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:31
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Femme centaure
+ - Duration: 31 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+216 views
+3 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:31
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Martha Wainwright et l\u2019organiste Jean-Willy Kunz | Les Sessions #LaFab
+ - Duration: 31 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+138 views
+3 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:31
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+R\xe9\xe9critures | Incursion dans l\u2019univers de Fr\xe9d\xe9ric Lavoie
+ - Duration: 31 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+32 views
+3 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:31
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Les cantates de Bach \xe0 la salle Bourgie - Nagano et l\u2019OSM
+ - Duration: 31 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+223 views
+3 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:31
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Les F\xe9es ont soif : La m\xe8re, la putain et la Vierge
+ - Duration: 31 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+1,000 views
+3 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n          
+\n    
+\n      
+\n        
+View 15 more
+\n      
+\n    
+\n  
+\n\n    
+\n  
+\n\n\n      
+  
+\n
+\n      
+  
+\n
+\n    
+\n\n    \n  
+\n\n  
+\n      \n  
+\n  \n\n  
+\n\n\n\n        
+\n      
+\n    
+\n      
+This item has been hidden
+\n  
+\n\n\n            
+\n    
+\n      
+\n        
+\n                    
+\n          
+\n            
+\n      
+\n            
+\n      
+Uploads
+\n    
+\n\n      
+\n        
+Play all
+\n\n  
+\n\n\n    \n\n    
+\n        
+\n    
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+4:53
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Vid\xe9o 360 \xb0 | Hommage au \xabD\xf4me\xbb avec Karim Ouellet, La Bronze, Loco Locass et Safia Nolin
+ - Duration: 4 minutes, 53 seconds.
+\n\n\n\n  
+\n
+1,139 views
+4 months ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+4:56
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Vid\xe9o 360 \xb0  | Medley country avec Paul Dara\xeeche, Ren\xe9e Martel et Laurence Jalbert
+ - Duration: 4 minutes, 56 seconds.
+\n\n\n\n  
+\n
+2,214 views
+4 months ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:12
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Anticosti 360\xb0
+ - Duration: 12 seconds.
+\n\n\n\n  
+\n
+782 views
+1 year ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:31
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Atelier Pierre Thibault saison 2
+ - Duration: 31 seconds.
+\n\n\n\n  
+\n
+104 views
+1 year ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+2:12
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+La webs\xe9rie FONKi World  bient\xf4t sur La Fabrique culturelle
+ - Duration: 2 minutes, 12 seconds.
+\n\n\n\n  
+\n
+147 views
+1 year ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:20
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Webs\xe9rie - Sur la route du fjord
+ - Duration: 20 seconds.
+\n\n\n\n  
+\n
+876 views
+1 year ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:31
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+La cage de La Corriveau | Retour \xe0 la lumi\xe8re
+ - Duration: 31 seconds.
+\n\n\n\n  
+\n
+181 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:32
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Bient\xf4t sur \u202a#\u200eLafab\u202c - Saratoga
+ - Duration: 32 seconds.
+\n\n\n\n  
+\n
+57 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:33
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Jean Leloup sur #LaFab
+ - Duration: 33 seconds.
+\n\n\n\n  
+\n
+156 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:36
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Francis Faubert sur #Lafab
+ - Duration: 36 seconds.
+\n\n\n\n  
+\n
+103 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:16
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Nouvelles capsules des \xceles-de-la-Madeleine bient\xf4t en ligne
+ - Duration: 16 seconds.
+\n\n\n\n  
+\n
+207 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:26
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Performance au Parc national d'Aiguebelle. Saltarello
+ - Duration: 26 seconds.
+\n\n\n\n  
+\n
+49 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n          
+\n    
+\n      
+\n        
+View all
+\n      
+\n    
+\n  
+\n\n    
+\n  
+\n\n\n      
+  
+\n
+\n      
+  
+\n
+\n    
+\n\n    \n  
+\n\n  
+\n      \n  
+\n  \n\n  
+\n\n\n\n        
+\n      
+\n    
+\n      
+This item has been hidden
+\n  
+\n\n\n            
+\n    
+\n      
+\n        
+\n                    
+\n          
+\n            
+\n      
+\n            
+\n      
+Les incontournables #LaFab
+\n    
+\n\n      
+\n        
+Play all
+\n\n  
+\n\n\n    \n\n    
+\n        
+\n    
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:31
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Les incontournables: Surprise dans la classe de madame Sophie avec Alexandre Poulin
+ - Duration: 31 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+1,519 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:31
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Les incontournables: Alex Nevsky | Loin | Les Sessions #LaFab
+ - Duration: 31 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+513 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:31
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Les incontournables: Coup de coeur de l'Estrie-Mont\xe9r\xe9gie | Ra\xf4ul Duguay
+ - Duration: 31 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+111 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:31
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Les incontournables: L'\u0153il de Mathieu Dupuis
+ - Duration: 31 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+138 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:31
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Les incontournables: S\xe9bastien et les W\xf6lfe
+ - Duration: 31 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+144 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n    
+\n  
+\n\n\n      
+  
+\n
+\n      
+  
+\n
+\n    
+\n\n    \n  
+\n\n  
+\n      \n  
+\n  \n\n  
+\n\n\n\n        
+\n      
+\n    
+\n      
+This item has been hidden
+\n  
+\n\n\n            
+\n    
+\n      
+\n        
+\n                    
+\n          
+\n            
+\n      
+\n            
+\n      
+Teaser #LaFab
+\n    
+\n\n      
+\n        
+Play all
+\n\n  
+\n\n\n    \n\n    
+\n        
+\n    
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:38
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Z\xe9bulon
+ - Duration: 38 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+163 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:23
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+ArtDanse 2015
+ - Duration: 23 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+52 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:17
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Bient\xf4t sur #LaFab - Alain Lef\xe8vre
+ - Duration: 17 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+157 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:24
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+5 jeunes artistes en arts visuels, 5 propositions distinctes, un seul lieu
+ - Duration: 24 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+60 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+1:07
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Le Festival international des arts de la marionnette - Bient\xf4t sur #LaFab
+ - Duration: 67 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+38 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:18
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+L'arriv\xe9e de Juliette Greco
+ - Duration: 18 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+104 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:21
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+Marie-Jo Th\xe9rio et \xc9mile
+ - Duration: 21 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+51 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+    
+0:20
+\n  
+\n    
+Play next
+Play now
+\n  
+\n\n\n  
+\n  
+\n
+\n\n  
+\n  
+\n        
+S\xe9cession, et si la Gasp\xe9sie devenait un pays libre?
+ - Duration: 20 seconds.
+\n\n    
+La Fabrique culturelle
+\n\n\n  
+\n
+51 views
+2 years ago
+  
+\n  \n  \n  \n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n    
+\n  
+\n\n\n      
+  
+\n
+\n      
+  
+\n
+\n    
+\n\n    \n  
+\n\n  
+\n      \n  
+\n  \n\n  
+\n\n\n\n        
+\n      
+\n    
+\n      
+This item has been hidden
+\n  
+\n\n\n            
+\n    
+\n      
+\n        
+\n                    
+\n          
+\n            
+\n      
+\n            
+\n      
+Created playlists
+\n    
+\n\n      
+\n  
+\n\n\n    \n\n    
+\n        
+\n    
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n          
+\n      
+\n      \n    
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n\n\n    
+\n      
+\n        
+\n            
+\n      
+8
+ videos\n  
+\n\n            
+\n        
+\n      
+\n    
+\n\n      
+\n        
+\n          
+\n          
+\nPlay all\n          
+\n        
+\n      
+\n\n        
+\n      
+\n    
+Play now
+\n  
+\n\n      
+\n\n  
+\n\n  
+\n\n  
+\n\n\n  
+\n  
+\n      
+Teaser #LaFab
+ - Playlist
+\n  
+\n
+  
+\n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n          
+\n      
+\n      \n    
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n\n\n    
+\n      
+\n        
+\n            
+\n      
+27
+ videos\n  
+\n\n            
+\n        
+\n      
+\n    
+\n\n      
+\n        
+\n          
+\n          
+\nPlay all\n          
+\n        
+\n      
+\n\n        
+\n      
+\n    
+Play now
+\n  
+\n\n      
+\n\n  
+\n\n  
+\n\n  
+\n\n\n  
+\n  
+\n      
+\xc0 d\xe9couvrir sur #LaFab
+ - Playlist
+\n  
+\n
+  
+\n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n        
+\n            \n\n\n\n    
+\n      
+\n          
+\n          
+\n      
+\n      \n    
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n\n\n    
+\n      
+\n        
+\n            
+\n      
+7
+ videos\n  
+\n\n            
+\n        
+\n      
+\n    
+\n\n      
+\n        
+\n          
+\n          
+\nPlay all\n          
+\n        
+\n      
+\n\n        
+\n      
+\n    
+Play now
+\n  
+\n\n      
+\n\n  
+\n\n  
+\n\n  
+\n\n\n  
+\n  
+\n      
+Les incontournables #LaFab
+ - Playlist
+\n  
+\n
+  
+\n\n  
+\n\n      
+\n      
+\n    \n  
+\n\n\n\n        
+\n    
+\n  
+\n\n\n      
+  
+\n
+\n      
+  
+\n
+\n    
+\n\n    \n  
+\n\n  
+\n      \n  
+\n  \n\n  
+\n\n\n\n        
+\n      
+\n    
+\n      
+This item has been hidden
+\n  
+\n\n\n\n    
+\n\n\n      \n\n\n\n  
+\n\n          
+\n        
+\n          
+\n                          
+\n            
+\n        Popular channels\n    
+\n\n          
+\n          
+\n    \n\n\n\n\n    
+\n        
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+\n\n  
+\n  
+\n        
+RiceGum
+ - Channel
+\n\n\n  
+\n      
+Subscribe
+Subscribed
+Unsubscribe
+  
+\n
+\n  
+\n\n  
+\n\n    \n  
+\n\n\n  
+\n\n          
+\n    \n\n\n\n\n    
+\n        
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+\n\n  
+\n  
+\n        
+EminemVEVO
+ - Channel
+\n\n\n  
+\n      
+Subscribe
+Subscribed
+Unsubscribe
+  
+\n
+\n  
+\n\n  
+\n\n    \n  
+\n\n\n  
+\n\n          
+\n    \n\n\n\n\n    
+\n        
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+\n\n  
+\n  
+\n        
+jacksfilms
+ - Channel
+\n\n\n  
+\n      
+Subscribe
+Subscribed
+Unsubscribe
+  
+\n
+\n  
+\n\n  
+\n\n    \n  
+\n\n\n  
+\n\n          
+\n    \n\n\n\n\n    
+\n        
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+\n\n  
+\n  
+\n        
+Ed Sheeran
+ - Channel
+\n\n\n  
+\n      
+Subscribe
+Subscribed
+Unsubscribe
+  
+\n
+\n  
+\n\n  
+\n\n    \n  
+\n\n\n  
+\n\n          
+\n    \n\n\n\n\n    
+\n        
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+\n\n  
+\n  
+\n        
+WORLDSTARHIPHOP
+ - Channel
+\n\n\n  
+\n      
+Subscribe
+Subscribed
+Unsubscribe
+  
+\n
+\n  
+\n\n  
+\n\n    \n  
+\n\n\n  
+\n\n          
+\n    \n\n\n\n\n    
+\n        
+\n      
+  
+\n    
+\n      
+\n        \n  
+\n\n        
+\n      
+\n    
+\n  
+\n
+\n\n  
+\n  
+\n        
+Complex News
+ - Channel
+\n\n\n  
+\n      
+Subscribe
+Subscribed
+Unsubscribe
+  
+\n
+\n  
+\n\n  
+\n\n    \n  
+\n\n\n  
+\n\n    
+\n\n    
+\n\n\n          
+\n      
+\n    
+\n  
+\n
+  
+  
+\n      
+\n            
+  
+\nLanguage:\n  
+\n  English\n
+\n\n\n      
+\n      
+\n            
+  
+\nLocation:\n  
+\n  Canada\n
+\n\n\n      
+\n      
+\n            
+  
+\nRestricted Mode:\n  
+\nOff\n
+\n\n\n      
+\n  
+\n
+History
+    
+Help\n
+\n      
+\n      
+\n        
+\n\n    
+\nLoading...\n    
+\n  
+\n\n  
+\n\n      
+\n      
+\n        
+\n\n    
+\nLoading...\n    
+\n  
+\n\n  
+\n\n      
+\n      
+\n        
+\n\n    
+\nLoading...\n    
+\n  
+\n\n  
+\n\n
+  
+About
+\n  
+Press
+\n  
+Copyright
+\n  
+Creators
+\n  
+Advertise
+\n  
+Developers
+\n  
++YouTube
+\n
+  
+Terms
+\n  
+Privacy
+\n  
+\nPolicy & Safety\n  
+\n  
+Send feedback
+\n  
+\n    
+Test new features
+\n  
+\n  
+\n
+\n\n\n      
+\n    
+\n      
+\n      
+\n        
+\n          
+\n              
+\n      
+\n        
+\n\n    
+\nLoading...\n    
+\n  
+\n\n  
+\n\n          
+\n          
+\n              
+\n  
+\n\n          
+\n          
+\n              
+\n  
+\n    
+\n        
+\n        
+\n\n    
+\n        Working...\n    
+\n  
+\n\n      
+\n  
+\n\n          
+\n        
+\n        
+\n      
+\n    
+\n  
+\n\n\n
+    
+\n      
+Sign in
+ to add this to Watch Later\n\n    
+\n
+  
+\n    
+\nAdd to\n    
+\n  
+\n  
+\n      
+\n        
+\n\n    
+\n        Loading playlists...\n    
+\n  
+\n\n  
+\n
+    
+var ytspf = ytspf || {};ytspf.enabled = true;ytspf.config = {'reload-identifier': 'spfreload'};ytspf.config['request-headers'] = {'X-YouTube-Identity-Token': null};ytspf.config['experimental-request-headers'] = ytspf.config['request-headers'];ytspf.config['cache-max'] = 50;ytspf.config['navigate-limit'] = 50;ytspf.config['navigate-lifetime'] = 64800000;
+\n  
+\n  
+\n
+spf.script.path({'www/': '/yts/jsbin/www-en_US-vfls-TnvZ/'});var ytdepmap = {"www/base": null, "www/common": "www/base", "www/angular_base": "www/common", "www/channels_accountupload": "www/common", "www/channels": "www/common", "www/dashboard": "www/common", "www/downloadreports": "www/common", "www/experiments": "www/common", "www/feed": "www/common", "www/instant": "www/common", "www/legomap": "www/common", "www/promo_join_network": "www/common", "www/results_harlemshake": "www/common", "www/results": "www/common", "www/results_starwars": "www/common", "www/subscriptionmanager": "www/common", "www/unlimited": "www/common", "www/watch": "www/common", "www/ypc_bootstrap": "www/common", "www/ypc_core": "www/common", "www/channels_edit": "www/channels", "www/live_dashboard": "www/angular_base", "www/videomanager": "www/angular_base", "www/watch_autoplayrenderer": "www/watch", "www/watch_edit": "www/watch", "www/watch_editor": "www/watch", "www/watch_live": "www/watch", "www/watch_promos": "www/watch", "www/watch_speedyg": "www/watch", "www/watch_transcript": "www/watch", "www/watch_videoshelf": "www/watch", "www/ct_advancedsearch": "www/videomanager", "www/my_videos": "www/videomanager"};spf.script.declare(ytdepmap);
+if (window.ytcsi) {window.ytcsi.tick("je", null, '');}
+  \n\n  
+\n      yt.setConfig('ANGULAR_JS', "\\/yts\\/jslib\\/angular.min-vfl8oYsy-.js");\n  yt.setConfig('TRANSLATIONEDITOR_JS', "\\/yts\\/jsbin\\/www-translationeditor-vflMjlNKl\\/www-translationeditor.js");\n  yt.setMsg('UNSAVED_CHANGES_WARNING', "Some of the changes you have made to channel settings have not been saved and will be lost if you navigate away from this page.");\n\n\n    yt.setConfig('JS_PAGE_MODULES', ["www\\/channels","www\\/ypc_bootstrap"]);\n\n\n\n\n    yt.setConfig('CHANNEL_ID', "UC9kKfv6m0Vf6meX5pjb35hg");\n\n\n    yt.setConfig('CHANNEL_TAB', "featured");\n\n\n  yt.setConfig('DISMISS_THROUGH_IT', true);\n\n\n      yt.setConfig({\n        'GUIDE_SELECTED_ITEM': "0qDduQEoEhhVQzlrS2Z2Nm0wVmY2bWVYNXBqYjM1aGcaDE9BRmdBV29BdUFFQQ%3D%3D"\n      });\n\n      yt.setConfig({\n    'GUIDED_HELP_LOCALE': "en_US",\n    'GUIDED_HELP_ENVIRONMENT': "prod"\n  });\n\n  
+\n          
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga('set', 'page', window.location.pathname);ga.l=+new Date;ga('set', 'forceSSL', true);ga('create', "YT-48304425-1", 'auto');ga('send', 'pageview');
+\n\n\n\n
+yt.setConfig({APIARY_HOST: "",INNERTUBE_API_VERSION: "v1",INNERTUBE_CONTEXT_CLIENT_NAME: 1,INNERTUBE_API_KEY: "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",APIARY_HOST_FIRSTPARTY: "",XHR_APIARY_HOST: "youtubei.youtube.com",GAPI_HINT_PARAMS: "m;\\/_\\/scs\\/abc-static\\/_\\/js\\/k=gapi.gapi.en.xyDspFFbPYQ.O\\/m=__features__\\/am=AAI\\/rt=j\\/d=1\\/rs=AHpOoo9vuiyYzl-xmAxJd0moShp71zG1mw",INNERTUBE_CONTEXT_CLIENT_VERSION: "1.20171121",'VISITOR_DATA': "CgtVeHVSQS1xdTRHaw%3D%3D",'GAPI_HOST': "https:\\/\\/apis.google.com",'GAPI_LOCALE': "en_US",'INNERTUBE_CONTEXT_HL': "en",'INNERTUBE_CONTEXT_GL': "CA",'XHR_APIARY_HOST': "youtubei.youtube.com"});yt.setConfig({'ROOT_VE_CHILDREN': ["CAEQ7VAiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CAIQpmEiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CFoQ7S0iEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CFsQ1zQiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CFwQwy0iEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CF0QmysiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CF4Q3ksiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CF8QsDUYACITCPaHifiI3dcCFQbbAwod8w4LayibHA","CGAQ9BwYACITCPaHifiI3dcCFQbbAwod8w4LayibHA","CGAQ9BwYACITCPaHifiI3dcCFQbbAwod8w4LayibHA","CGEQmysiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CGAQ9BwYACITCPaHifiI3dcCFQbbAwod8w4LayibHA","CGIQ9BwYASITCPaHifiI3dcCFQbbAwod8w4LayibHA","CGIQ9BwYASITCPaHifiI3dcCFQbbAwod8w4LayibHA","CGMQmysiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CGIQ9BwYASITCPaHifiI3dcCFQbbAwod8w4LayibHA","CGQQ9BwYAiITCPaHifiI3dcCFQbbAwod8w4LayibHA","CGQQ9BwYAiITCPaHifiI3dcCFQbbAwod8w4LayibHA","CGUQmysiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CGQQ9BwYAiITCPaHifiI3dcCFQbbAwod8w4LayibHA","CGYQ9BwYAyITCPaHifiI3dcCFQbbAwod8w4LayibHA","CGYQ9BwYAyITCPaHifiI3dcCFQbbAwod8w4LayibHA","CGcQmysiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CGYQ9BwYAyITCPaHifiI3dcCFQbbAwod8w4LayibHA","CGgQ9BwYBCITCPaHifiI3dcCFQbbAwod8w4LayibHA","CGgQ9BwYBCITCPaHifiI3dcCFQbbAwod8w4LayibHA","CGkQmysiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CGgQ9BwYBCITCPaHifiI3dcCFQbbAwod8w4LayibHA","CGoQ9BwYBSITCPaHifiI3dcCFQbbAwod8w4LayibHA","CGoQ9BwYBSITCPaHifiI3dcCFQbbAwod8w4LayibHA","CGsQmysiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CGoQ9BwYBSITCPaHifiI3dcCFQbbAwod8w4LayibHA","CGwQySgiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CG0Qlx4iEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CG4QmCQYACITCPaHifiI3dcCFQbbAwod8w4LayibHA","CG8Q3BwYASITCPaHifiI3dcCFQbbAwod8w4LayibHA","CHAQ-SUYACITCPaHifiI3dcCFQbbAwod8w4LayibHA","CHAQ-SUYACITCPaHifiI3dcCFQbbAwod8w4LayibHA","CHEQwRsiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CHAQ-SUYACITCPaHifiI3dcCFQbbAwod8w4LayibHA","CHIQ-SUYASITCPaHifiI3dcCFQbbAwod8w4LayibHA","CHIQ-SUYASITCPaHifiI3dcCFQbbAwod8w4LayibHA","CHMQwRsiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CHIQ-SUYASITCPaHifiI3dcCFQbbAwod8w4LayibHA","CHQQ-SUYAiITCPaHifiI3dcCFQbbAwod8w4LayibHA","CHQQ-SUYAiITCPaHifiI3dcCFQbbAwod8w4LayibHA","CHUQwRsiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CHQQ-SUYAiITCPaHifiI3dcCFQbbAwod8w4LayibHA","CHYQ-SUYAyITCPaHifiI3dcCFQbbAwod8w4LayibHA","CHYQ-SUYAyITCPaHifiI3dcCFQbbAwod8w4LayibHA","CHcQwRsiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CHYQ-SUYAyITCPaHifiI3dcCFQbbAwod8w4LayibHA","CHgQ-SUYBCITCPaHifiI3dcCFQbbAwod8w4LayibHA","CHgQ-SUYBCITCPaHifiI3dcCFQbbAwod8w4LayibHA","CHkQwRsiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CHgQ-SUYBCITCPaHifiI3dcCFQbbAwod8w4LayibHA","CHoQ-SUYBSITCPaHifiI3dcCFQbbAwod8w4LayibHA","CHoQ-SUYBSITCPaHifiI3dcCFQbbAwod8w4LayibHA","CHsQwRsiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CHoQ-SUYBSITCPaHifiI3dcCFQbbAwod8w4LayibHA","CHwQ-SUYBiITCPaHifiI3dcCFQbbAwod8w4LayibHA","CHwQ-SUYBiITCPaHifiI3dcCFQbbAwod8w4LayibHA","CH0QwRsiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CHwQ-SUYBiITCPaHifiI3dcCFQbbAwod8w4LayibHA","CH4Q-SUYByITCPaHifiI3dcCFQbbAwod8w4LayibHA","CH4Q-SUYByITCPaHifiI3dcCFQbbAwod8w4LayibHA","CH8QwRsiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CH4Q-SUYByITCPaHifiI3dcCFQbbAwod8w4LayibHA","CIABEPklGAgiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CIABEPklGAgiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CIEBEMEbIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CIABEPklGAgiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CIIBEPklGAkiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CIIBEPklGAkiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CIMBEMEbIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CIIBEPklGAkiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CIQBEPklGAoiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CIQBEPklGAoiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CIUBEMEbIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CIQBEPklGAoiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CIYBEPklGAsiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CIYBEPklGAsiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CIcBEMEbIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CIYBEPklGAsiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CIgBEM4eIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CIkBENwcGAIiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CIoBEPklGAAiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CIoBEPklGAAiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CIoBEPklGAAiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CIsBEPklGAEiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CIsBEPklGAEiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CIsBEPklGAEiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CIwBEPklGAIiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CIwBEPklGAIiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CIwBEPklGAIiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CI0BEPklGAMiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CI0BEPklGAMiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CI0BEPklGAMiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CI4BEPklGAQiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CI4BEPklGAQiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CI4BEPklGAQiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CI8BEPklGAUiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CI8BEPklGAUiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CI8BEPklGAUiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJABEPklGAYiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJABEPklGAYiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJABEPklGAYiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJEBEPklGAciEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJEBEPklGAciEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJEBEPklGAciEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJIBEPklGAgiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJIBEPklGAgiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJIBEPklGAgiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJMBEPklGAkiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJMBEPklGAkiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJMBEPklGAkiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJQBEPklGAoiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJQBEPklGAoiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJQBEPklGAoiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJUBEPklGAsiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJUBEPklGAsiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJUBEPklGAsiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJYBEM4eIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CJcBENwcGAMiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJgBEPklGAAiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJgBEPklGAAiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJkBEMEbIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CJgBEPklGAAiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJoBEPklGAEiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJoBEPklGAEiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJsBEMEbIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CJoBEPklGAEiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJwBEPklGAIiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJwBEPklGAIiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJ0BEMEbIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CJwBEPklGAIiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJ4BEPklGAMiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJ4BEPklGAMiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CJ8BEMEbIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CJ4BEPklGAMiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CKABEPklGAQiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CKABEPklGAQiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CKEBEMEbIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CKABEPklGAQiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CKIBEM4eIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CKMBENwcGAQiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CKQBEPklGAAiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CKQBEPklGAAiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CKUBEMEbIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CKQBEPklGAAiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CKYBEPklGAEiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CKYBEPklGAEiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CKcBEMEbIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CKYBEPklGAEiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CKgBEPklGAIiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CKgBEPklGAIiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CKkBEMEbIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CKgBEPklGAIiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CKoBEPklGAMiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CKoBEPklGAMiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CKsBEMEbIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CKoBEPklGAMiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CKwBEPklGAQiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CKwBEPklGAQiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CK0BEMEbIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CKwBEPklGAQiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CK4BEPklGAUiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CK4BEPklGAUiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CK8BEMEbIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CK4BEPklGAUiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CLABEPklGAYiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CLABEPklGAYiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CLEBEMEbIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CLABEPklGAYiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CLIBEPklGAciEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CLIBEPklGAciEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CLMBEMEbIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CLIBEPklGAciEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CLQBEM4eIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CLUBENwcGAUiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CLYBENsqGAAiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CLYBENsqGAAiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CLYBENsqGAAiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CLcBENsqGAEiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CLcBENsqGAEiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CLcBENsqGAEiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CLgBENsqGAIiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CLgBENsqGAIiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CLgBENsqGAIiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CLkBEM4eIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CLoBEP4eIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CLsBEOYrGAAiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CLwBELUsGAAiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CL0BELUsGAEiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CL4BELUsGAIiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CL8BEOYrGAEiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CMABELUsGAAiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CMEBELUsGAEiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CMIBELUsGAIiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CMMBELUsGAMiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CMQBELUsGAQiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CMUBELUsGAUiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CMYBELUsGAYiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CMcBELUsGAciEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CMgBEOYrGAIiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CMkBELUsGAAiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CMoBENguGAMiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CMsBEMcxIhMI9oeJ-Ijd1wIVBtsDCh3zDgtrKJsc","CMwBEMMtGAAiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CM0BEMMtGAEiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CM4BEMMtGAIiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CM8BEMMtGAMiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CNABEMMtGAQiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw","CNEBEMMtGAUiEwj2h4n4iN3XAhUG2wMKHfMOC2somxw"],});yt.setConfig({'PAGE_NAME': "channel",'LOGGED_IN': false,'SESSION_INDEX': null,'VALID_SESSION_TEMPDATA_DOMAINS': ["www.youtube.com","gaming.youtube.com"],'PARENT_TRACKING_PARAMS': "",'FORMATS_FILE_SIZE_JS': ["%s B","%s KB","%s MB","%s GB","%s TB"],'DELEGATED_SESSION_ID': null,'ONE_PICK_URL': "",'GOOGLEPLUS_HOST': "https:\\/\\/plus.google.com",'PAGEFRAME_JS': "\\/yts\\/jsbin\\/www-pageframe-vflgs8gHq\\/www-pageframe.js",'GAPI_LOADER_URL': "\\/yts\\/jsbin\\/www-gapi-loader-vfllQ0UzP\\/www-gapi-loader.js",'JS_COMMON_MODULE': "\\/yts\\/jsbin\\/www-en_US-vfls-TnvZ\\/common.js",'PAGE_FRAME_DELAYLOADED_CSS': "\\/yts\\/cssbin\\/www-pageframedelayloaded-vfl__0Hac.css",'EXPERIMENT_FLAGS': {"live_chat_message_sampling_rate":1.0,"service_worker_push_home_page_prompt":true,"log_web_screen_end":true,"player_external_control_on_classic_desktop":true,"desktop_notification_high_priority_ignore_push":true,"desktop_pyv_on_watch_via_valor":true,"watch_next_pause_autoplay_lact_sec":0,"autoplay_pause_sampling_fraction":0.0,"enable_gaming_new_logo":true,"live_chat_top_chat_entry_threshold":2.1,"cold_load_nav_start_web":true,"optimistically_create_transport_client":true,"live_chat_inline_moderation":true,"desktop_notification_set_title_bar":true,"block_spf_search_ads_impressions":true,"custom_emoji_legacy":true,"live_chat_top_chat_window_length_sec":5,"youtubei_for_web":true,"service_worker_push_enabled":true,"desktop_pyv_on_watch_missing_params":true,"interaction_logging_on_gel_web":true,"gfeedback_for_signed_out_users_enabled":true,"enable_youtubei_innertube":true,"desktop_polymer":true,"app_settings_snapshot_is_logging_enabled":true,"clear_web_implicit_clicktracking":true,"player_swfcfg_cleanup":true,"enable_server_side_search_pyv":true,"web_system_health_fraction":0.01,"enable_more_related_ve_logging":true,"web_logging_max_batch":100,"botguard_periodic_refresh":true,"consent_url_override":"","live_chat_busyness_sampling_ceil":4.0,"use_watch_fragments2":true,"chat_smoothing_animations":84,"custom_emoji_main_app":true,"custom_emoji_creator":true,"service_worker_enabled":true,"desktop_pyv_on_watch_override_lact":true,"autoplay_pause_by_lact_sampling_fraction":0.0,"service_worker_push_prompt_cap":-1,"same_domain_static_resources_desktop":true,"warm_load_nav_start_web":true,"cancel_pending_navs":true,"live_chat_busyness_sampling_floor":2.0,"custom_emoji_desktop":true,"autoplay_pause_by_lact_sec":0,"service_worker_scope":"\\/","web_always_load_chat_support":true,"log_web_meta_interval_ms":0,"live_chat_use_new_default_filter_mode":true,"service_worker_push_logged_out_prompt_watches":-1,"debug_forced_promo_id":"","use_push_for_desktop_live_chat":true,"live_chat_busyness_enabled":true,"web_gel_lact":true,"enable_afv_div_reset_in_kevlar":true,"enable_logging_directives_desktop":true,"live_chat_replay_milliqps_threshold":5000,"autoescape_tempdata_url":true,"comment_deep_link":true,"app_settings_snapshot_min_time_between_snapshots_hours":24,"live_chat_busyness_sampling_center":14.0,"sponsors_whitelist_creator":true,"live_chat_flagging_reasons":true,"custom_emoji_super_chat":true,"enable_firefox_push_notifications":true,"player_unified_fullscreen_transitions":true,"live_chat_message_sampling_method":"","remove_web_visibility_batching":true,"live_chat_busyness_sampling_steepness":1.0,"live_chat_top_chat_split":0.5,"log_window_onerror_fraction":0.1,"service_worker_push_prompt_delay_ms":3888000000,"enable_playlist_visibility":true,"service_worker_push_home_only":true,"service_worker_push_force_notification_prompt_tag":"1"},'HIGH_CONTRAST_MODE_CSS': "\\/yts\\/cssbin\\/www-highcontrastmode-vflSQKM7C.css",'PREFETCH_CSS_RESOURCES' : ["\\/yts\\/cssbin\\/player-vflF9Ww8I\\/www-player.css"],'PREFETCH_JS_RESOURCES': ["\\/yts\\/jsbin\\/www-pagead-id-vfljpac1X\\/www-pagead-id.js","\\/yts\\/jsbin\\/player-vflJtN5rw\\/en_US\\/base.js"],'PREFETCH_LINKS': false,'PREFETCH_LINKS_MAX': 1,'PREFETCH_AUTOPLAY': false,'PREFETCH_AUTOPLAY_TIME': 0,'PREFETCH_AUTONAV': false,'PREBUFFER_MAX': 1,'PREBUFFER_LINKS': false,'PREBUFFER_AUTOPLAY': false,'PREBUFFER_AUTONAV': false,'WATCH_LATER_BUTTON': "\\n\\n  \\u003cbutton class=\\"yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip\\" type=\\"button\\" onclick=\\";return false;\\" role=\\"button\\" title=\\"Watch later\\" data-button-menu-id=\\"shared-addto-watch-later-login\\" data-video-ids=\\"__VIDEO_ID__\\"\\u003e\\u003cspan class=\\"yt-uix-button-arrow yt-sprite\\"\\u003e\\u003c\\/span\\u003e\\u003c\\/button\\u003e\\n",'WATCH_QUEUE_BUTTON': "  \\u003cbutton class=\\"yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip\\" type=\\"button\\" onclick=\\";return false;\\" title=\\"Queue\\" data-style=\\"tv-queue\\" data-video-ids=\\"__VIDEO_ID__\\"\\u003e\\u003c\\/button\\u003e\\n",'WATCH_QUEUE_MENU': "  \\u003cspan class=\\"thumb-menu dark-overflow-action-menu video-actions\\"\\u003e\\n    \\u003cbutton class=\\"yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty\\" onclick=\\";return false;\\" aria-haspopup=\\"true\\" aria-expanded=\\"false\\" type=\\"button\\" \\u003e\\u003cspan class=\\"yt-uix-button-arrow yt-sprite\\"\\u003e\\u003c\\/span\\u003e\\u003cul class=\\"watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid\\"\\u003e\\u003cli role=\\"menuitem\\" class=\\"overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item\\" data-action=\\"play-next\\" onclick=\\";return false;\\"  data-video-ids=\\"__VIDEO_ID__\\"\\u003e\\u003cspan class=\\"addto-watch-queue-menu-text\\"\\u003ePlay next\\u003c\\/span\\u003e\\u003c\\/li\\u003e\\u003cli role=\\"menuitem\\" class=\\"overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item\\" data-action=\\"play-now\\" onclick=\\";return false;\\"  data-video-ids=\\"__VIDEO_ID__\\"\\u003e\\u003cspan class=\\"addto-watch-queue-menu-text\\"\\u003ePlay now\\u003c\\/span\\u003e\\u003c\\/li\\u003e\\u003c\\/ul\\u003e\\u003c\\/button\\u003e\\n  \\u003c\\/span\\u003e\\n",'SAFETY_MODE_PENDING': false,'ZWIEBACK_PING_URLS': ["https:\\/\\/www.google.ca\\/pagead\\/lvz?evtid=AB6THpz1sI-BbID9PQ2O2xkQjG3wVu-XmtmrwR0d2jximiajG7zUsYl9d5Qnz-Ijhy2Dd5swrxEX48yhyNfR8sFMGhW3ZG33NA\\u0026req_ts=1511727808\\u0026pg=channel\\u0026sigh=AHChWSmUdaJTnaCaXO4pm8c2Cbw1tZfvCA"],'LOCAL_DATE_TIME_CONFIG': {"firstWeekCutoffDay":3,"shortMonths":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"firstDayOfWeek":0,"formatLongDate":"MMMM d, yyyy h:mm a","formatShortTime":"h:mm a","formatWeekdayShortTime":"EE h:mm a","weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dateFormats":["MMMM d, yyyy h:mm a","MMMM d, yyyy","MMM d, yyyy","MMM d, yyyy"],"formatShortDate":"MMM d, yyyy","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"shortWeekdays":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"formatLongDateOnly":"MMMM d, yyyy","weekendRange":[6,5],"amPms":["AM","PM"]},'PAGE_CL': 176817050,'PAGE_BUILD_LABEL': "youtube.ytfe.desktop_20171121_0_RC4",'VARIANTS_CHECKSUM': "88bac4640bb1df580c8c1a947c7958d2",'CLIENT_PROTOCOL': "HTTP\\/1.1",'CLIENT_TRANSPORT': "tcp",'MDX_ENABLE_CASTV2': true,'MDX_ENABLE_QUEUE': true,'FEEDBACK_BUCKET_ID': "Other",'FEEDBACK_LOCALE_LANGUAGE': "en",'FEEDBACK_LOCALE_EXTRAS': {"logged_in":false,"experiments":"23700014,23700266,23700361,23700732,23701221,23701297,23701476,23701664,23701698,23701882,23702018,23702077,23702138,23702262,23702322,23702433,23702459,23702700,23702945,23703090,23703213,23703645,23703820,23703975,23704248,23704317,23704466,23704540,23704792,23705057,23705141,23705192,23705240,23705485,23705715,23705739,23705778,23705866,23706001,23706129,23706319,23706594,23706596,23706734,23706844,23706846,23707100,23707258,23707494,23707879,23708904,23708906,23708910,23708950,23709090,23709328,23709425,23709439,23709443,23709487,23709525,23709532,23709548,23709594,23709611,23709766,23709896,23709898,23709902,23709985,23710037,23710313,23710560,23710566,23710625,23710642,23710863,23711010,23711027,23711202,23711347,23711500,23711646,23711893,23711918,23711975,23712147,23712266,23712303,23712658,23712746,23712874,23712882,23712997,23713095,23713315,23713428,23713532,23713597,23713711,23713713,23713828,23713965,23714082,23714154,23714227,23714285,23714338,23714452,23714471,23715027,23715029,9415398,9419979,9420289,9422596,9431754,9432939,9438309,9440054,9441194,9442387,9442746,9448302,9449243,9451814,9453167,9453409,9456192,9456445,9457114,9457169,9459793,9459794,9460350,9460554,9460829,9460959,9461880,9463460,9463594,9463936,9463963,9464887,9465513,9466591,9466835,9467471,9467508,9467510,9467512,9467795,9467806,9467820,9467822,9467848,9468195,9469934,9470791,9471103,9471235,9471264,9471536,9471555,9471955,9472157,9472191,9473373,9473387,9473397,9473475,9473977,9474396,9475218,9475460,9476077,9476327,9476739,9477419,9478787,9479162,9479200,9479354,9479456,9479479,9479749,9480071,9480312,9480317,9480371,9480475,9480550,9481057,9481220,9481501,9482972,9482998,9483190,9483245,9483308,9483512,9483583,9483692,9483865,9484088,9484237,9484345,9485000,9486160,9486390,9486443,9487037,9487329,9487434,9487454,9487458,9487532,9487622,9487777,9488038,9488215,9488257,9488272,9488552,9488978,9488991,9488995,9489074,9489224,9489266,9489277,9489300,9489331,9489336,9489571,9489700","accept_language":null}});   yt.setConfig({\n    'GUIDED_HELP_LOCALE': "en_US",\n    'GUIDED_HELP_ENVIRONMENT': "prod"\n  });\nyt.setConfig('SPF_SEARCH_BOX', true);yt.setMsg({'ADDTO_CREATE_NEW_PLAYLIST': "Create new playlist\\n",'ADDTO_CREATE_PLAYLIST_DYNAMIC_TITLE': "  $dynamic_title_placeholder (create new)\\n",'ADDTO_WATCH_LATER': "Watch later",'ADDTO_WATCH_LATER_ADDED': "Added",'ADDTO_WATCH_LATER_ERROR': "Error",'ADDTO_WATCH_QUEUE': "Watch Queue",'ADDTO_WATCH_QUEUE_ADDED': "Added",'ADDTO_WATCH_QUEUE_ERROR': "Error",'ADDTO_TV_QUEUE': "Queue",'ADS_INSTREAM_FIRST_PLAY': "A video ad is playing.",'ADS_INSTREAM_SKIPPABLE': "Video ad can be skipped.",'ADS_OVERLAY_IMPRESSION': "Ad displayed.",'MASTHEAD_NOTIFICATIONS_LABEL': {"case0": "0 unread notifications.", "case1": "1 unread notification.", "other": "# unread notifications."},'MASTHEAD_NOTIFICATIONS_COUNT_99PLUS': "99+",'MDX_AUTOPLAY_OFF': 'Autoplay is off','MDX_AUTOPLAY_ON': 'Autoplay is on'});  yt.setConfig('FEED_PRIVACY_CSS_URL', "\\/yts\\/cssbin\\/www-feedprivacydialog-vfldZIU65.css");\n  yt.setConfig('FEED_PRIVACY_LIGHTBOX_ENABLED', true);\nyt.setConfig({'SBOX_JS_URL': "\\/yts\\/jsbin\\/www-searchbox-legacy-vfl1CFmce\\/www-searchbox-legacy.js",'SBOX_SETTINGS': {"HAS_ON_SCREEN_KEYBOARD":false,"REQUEST_LANGUAGE":"en","PQ":"","REQUEST_DOMAIN":"ca","SUGG_EXP_ID":"ytfce2,ewf=1,fdw=1,fcw=0.3","SESSION_INDEX":null,"PSUGGEST_TOKEN":null,"IS_FUSION":false},'SBOX_LABELS': {"SUGGESTION_DISMISSED_LABEL":"Suggestion dismissed","SUGGESTION_DISMISS_LABEL":"Remove"}});  yt.setConfig({\n    'YPC_LOADER_JS': "\\/yts\\/jsbin\\/www-ypc-vfl9XcfdF\\/www-ypc.js",\n    'YPC_LOADER_CSS': "\\/yts\\/cssbin\\/www-ypc-vflfxWI5C.css",\n    'YPC_SIGNIN_URL': "https:\\/\\/accounts.google.com\\/ServiceLogin?uilel=3\\u0026passive=true\\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26next%3D%252F%26action_handle_signin%3Dtrue%26hl%3Den\\u0026hl=en\\u0026service=youtube",\n    'DBLCLK_ADVERTISER_ID': "2542116",\n    'DBLCLK_YPC_ACTIVITY_GROUP': "youtu444",\n    'SUBSCRIPTION_URL': "\\/subscription_ajax",\n    'YPC_SWITCH_URL': "\\/signin?next=%2F\\u0026feature=purchases\\u0026skip_identity_prompt=True\\u0026action_handle_signin=true",\n    'YPC_GB_LANGUAGE': "en_US",\n    'YPC_MB_URL': "https:\\/\\/payments.youtube.com\\/payments\\/v4\\/js\\/integrator.js?ss=md",\n    'YPC_TRANSACTION_URL': "\\/transaction_handler",\n    'YPC_SUBSCRIPTION_URL': "\\/ypc_subscription_ajax",\n    'YPC_POST_PURCHASE_URL': "\\/ypc_post_purchase_ajax",\n    'YTR_FAMILY_CREATION_URL': "https:\\/\\/families.google.com\\/webcreation?usegapi=1",\n    'YTO_GTM_DATA': {'event': 'purchased', 'purchaseStatus': 'success'},\n    'YTO_GTM_1_BUTTON_CLICK_DATA': {'event': 'landingButtonClick', 'buttonPosition': '1'},\n    'YTO_GTM_2_BUTTON_CLICK_DATA': {'event': 'landingButtonClick', 'buttonPosition': '2'}\n  });\n  yt.setMsg({\n    'YPC_OFFER_OVERLAY': "  \\n",\n    'YPC_UNSUBSCRIBE_OVERLAY': "  \\n"\n  });\n  yt.setConfig('GOOGLE_HELP_CONTEXT', "channel_creator");\nytcsi.info('st', 1065);ytcfg.set({"TIMING_INFO":{"GetPlayer_rid":"0x2daa0bbc427ddfcb","yt_li":"0","GetBrowse_rid":"0x2daa0bbc427ddfcb","yt_lt":"cold","cver":"1.20171121","c":"WEB"},"CSI_SERVICE_NAME":"youtube"});;ytcfg.set({"TIMING_AFT_KEYS":["vpl"],"TIMING_ACTION":"channels","CSI_VIEWPORT":true});;  yt.setConfig({\n      'XSRF_TOKEN': "QUFFLUhqbUhjSkY0NnJ3dmhNZmQ2VHNCempvb3dEOFNhZ3xBQ3Jtc0ttOVlzMWYyMlQxZ3piR0pLMmlqZ3dNNVZyOW1ITGtoVTJnbS1PcVhldWNaTkw1SnBDTThla0FrenkwR2drVHh5NWU5MXA5TTZha3hzUGVhaDdwSVlGTDlOZ2dhS2VBVldpSTZLc2d4WnhaUDdveUVhN1VzOTNGN0RUTHIxSWFrVldTV2EwQWs2TGcwSjR0YzdDaWxfVEJxNm4yd0E=",\n      'XSRF_FIELD_NAME': "session_token",\n\n      'XSRF_REDIRECT_TOKEN': "_BnBgU6Cf9sJzB1_XquW2_005vl8MTUxMTgxNDIwOUAxNTExNzI3ODA5"  });\nyt.setConfig('ID_TOKEN', null);window.ytcfg.set('SERVICE_WORKER_KILLSWITCH', false);  yt.setConfig('THUMB_DELAY_LOAD_BUFFER', 0);\nif (window.ytcsi) {window.ytcsi.tick("jl", null, '');}
+\n\n\n\n>

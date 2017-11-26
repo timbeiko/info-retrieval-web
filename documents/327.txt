@@ -1,0 +1,6723 @@
+\n\n    \n    \n    \n    \n    \n    \n    \n    
+\n    \n    
+&lt;meta http-equiv="refresh" content="0; URL=https://mobile.twitter.com/i/nojs_router?path=%2Ftrentfaculty"&gt;
+\n      
+\n    \n    \n  \n  
+\n    if (window.top != window) {\n  window.top.postMessage({'bouncer': true, 'event': 'complete'}, '*');\n}\n  
+\n  
+\n    !function(){function e(e){if(e||(e=window.event),!e)return!1;if(e.timestamp=(new Date).getTime(),!e.target&&e.srcElement&&(e.target=e.srcElement),document.documentElement.getAttribute("data-scribe-reduced-action-queue"))for(var t=e.target;t&&t!=document.body;){if("A"==t.tagName)return;t=t.parentNode}return i("all",o(e)),a(e)?(document.addEventListener||(e=o(e)),e.preventDefault=e.stopPropagation=e.stopImmediatePropagation=function(){},y?(v.push(e),i("captured",e)):i("ignored",e),!1):(i("direct",e),!0)}function t(e){n();for(var t,r=0;t=v[r];r++){var a=e(t.target),i=a.closest("a")[0];if("click"==t.type&&i){var o=e.data(i,"events"),u=o&&o.click,c=!i.hostname.match(g)||!i.href.match(/#$/);if(!u&&c){window.location=i.href;continue}}a.trigger(e.event.fix(t))}window.swiftActionQueue.wasFlushed=!0}function r(){for(var e in b)if("all"!=e)for(var t=b[e],r=0;r<t.length;r++)console.log("actionQueue",c(t[r]))}function n(){clearTimeout(w);for(var e,t=0;e=h[t];t++)document["on"+e]=null}function a(e){if(!e.target)return!1;var t=e.target,r=(t.tagName||"").toLowerCase();if(e.metaKey)return!1;if(e.shiftKey&&"a"==r)return!1;if(t.hostname&&!t.hostname.match(g))return!1;if(e.type.match(p)&&s(t))return!1;if("label"==r){var n=t.getAttribute("for");if(n){var a=document.getElementById(n);if(a&&f(a))return!1}else for(var i,o=0;i=t.childNodes[o];o++)if(f(i))return!1}return!0}function i(e,t){t.bucket=e,b[e].push(t)}function o(e){var t={};for(var r in e)t[r]=e[r];return t}function u(e){for(;e&&e!=document.body;){if("A"==e.tagName)return e;e=e.parentNode}}function c(e){var t=[];e.bucket&&t.push("["+e.bucket+"]"),t.push(e.type);var r,n,a=e.target,i=u(a),o="",c=e.timestamp&&e.timestamp-d;return"click"===e.type&&i?(r=i.className.trim().replace(/\\s+/g,"."),n=i.id.trim(),o=/[^#]$/.test(i.href)?" ("+i.href+")":"",a='"'+i.innerText.replace(/\\n+/g," ").trim()+'"'):(r=a.className.trim().replace(/\\s+/g,"."),n=a.id.trim(),a=a.tagName.toLowerCase(),e.keyCode&&(a=String.fromCharCode(e.keyCode)+" : "+a)),t.push(a+o+(n&&"#"+n)+(!n&&r?"."+r:"")),c&&t.push(c),t.join(" ")}function f(e){var t=(e.tagName||"").toLowerCase();return"input"==t&&"checkbox"==e.getAttribute("type")}function s(e){var t=(e.tagName||"").toLowerCase();return"textarea"==t||"input"==t&&"text"==e.getAttribute("type")||"true"==e.getAttribute("contenteditable")}for(var m,d=(new Date).getTime(),l=1e4,g=/^([^\\.]+\\.)*twitter\\.com$/,p=/^key/,h=["click","keydown","keypress","keyup"],v=[],w=null,y=!0,b={captured:[],ignored:[],direct:[],all:[]},k=0;m=h[k];k++)document["on"+m]=e;w=setTimeout(function(){y=!1},l),window.swiftActionQueue={buckets:b,flush:t,logActions:r,wasFlushed:!1}}();\n  
+\n  
+\n    !function(){function t(t){t.target.setAttribute("data-in-composition","true")}function n(t){t.target.removeAttribute("data-in-composition")}document.addEventListener&&(document.addEventListener("compositionstart",t,!1),document.addEventListener("compositionend",n,!1))}();\n  
+\n\n    
+\n  
+\n  
+\n\n    
+\n    
+\n      
+\n      
+\n      
+\n\n      
+TUFA (@trentfaculty) | Twitter
+\n      
+\n  
+\n\n\n\n
+\n
+\n\n\n\n
+\n\n
+\n
+\n\n
+\n\n\n  
+\n  
+\n\n    
+\n  
+\n  
+\n\n    
+\n\n\n  
+\n\n      
+\n\n
+\n\n    
+\n\n        
+\n    
+\n    
+\n    
+\n    
+\n    
+\n\n  \n  \n      
+\n        document.body.className=document.body.className+" "+document.body.getAttribute("data-fouc-class-names");\n      
+\n\n    
+Skip to content
+\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    
+\n          
+\n    \n\n\n    
+\n      
+\n        
+\n\n          \n
+\n  
+\n    
+\n      
+\n      
+Home
+\n      
+Home
+\n      
+Home, current page.
+\n    
+\n  
+\n    
+\n      
+\n        
+\n        
+\n        
+Moments
+\n        
+Moments
+\n        
+Moments, current page.
+\n      
+\n    
+\n
+\n
+\n    
+\n  
+\n    
+Search query
+\n    
+\n    
+\n      
+\n        
+Search Twitter
+\n      
+\n    
+\n      \n\n\n
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    
+\n  
+Saved searches
+\n  
+\n    \n    
+\n      
+Remove
+\n      
+\n    
+\n  
+\n
+\n\n    
+\n  \n  
+\n    
+\n  
+\n
+\n    
+\n  \n  
+\n    \n    
+\n      
+\n        
+\n        
+In this conversation
+\n      
+\n      
+\n      
+\n        
+Verified account
+Protected Tweets
+\xa0
+@
+\n      
+\n      
+\n    
+\n  
+\n  
+\n
+\n\n    
+\n  \n  
+\n
+\n    \n
+\n  
+\n    Suggested users\n  
+\n  
+\n    \n    
+\n      \n      
+\n        
+\n        
+\n          
+\n          
+\n          
+Verified account
+Protected Tweets
+\xa0
+@
+\n        
+\n      
+\n    
+\n    
+\n  
+\n\n  
+\n    \n    
+\n      \n      
+\n        
+\n        
+\n          
+\n          
+\n          
+Verified account
+Protected Tweets
+\xa0
+@
+\n        
+\n      
+\n    
+\n    
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n    
+\n  
+\n
+\n  
+\n
+\n\n  
+\n
+\n\n\n  
+\n    
+\n      
+\n        
+Language:
+ 
+English
+ 
+\n      
+\n      
+\n        
+\n          
+ 
+\n          
+\n        
+\n        
+\n            
+Bahasa Indonesia
+\n            
+Bahasa Melayu
+\n            
+Catal\xe0
+\n            
+\u010ce\u0161tina
+\n            
+Dansk
+\n            
+Deutsch
+\n            
+English UK
+\n            
+Espa\xf1ol
+\n            
+Filipino
+\n            
+Fran\xe7ais
+\n            
+Hrvatski
+\n            
+Italiano
+\n            
+Magyar
+\n            
+Nederlands
+\n            
+Norsk
+\n            
+Polski
+\n            
+Portugu\xeas
+\n            
+Rom\xe2n\u0103
+\n            
+Sloven\u010dina
+\n            
+Suomi
+\n            
+Svenska
+\n            
+Ti\u1ebfng Vi\u1ec7t
+\n            
+T\xfcrk\xe7e
+\n            
+\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac
+\n            
+\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 \u0435\u0437\u0438\u043a
+\n            
+\u0420\u0443\u0441\u0441\u043a\u0438\u0439
+\n            
+\u0421\u0440\u043f\u0441\u043a\u0438
+\n            
+\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043c\u043e\u0432\u0430
+\n            
+\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea
+\n            
+\u0627\u0644\u0639\u0631\u0628\u064a\u0629
+\n            
+\u0641\u0627\u0631\u0633\u06cc
+\n            
+\u092e\u0930\u093e\u0920\u0940
+\n            
+\u0939\u093f\u0928\u094d\u0926\u0940
+\n            
+\u09ac\u09be\u0982\u09b2\u09be
+\n            
+\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0
+\n            
+\u0ba4\u0bae\u0bbf\u0bb4\u0bcd
+\n            
+\u0c95\u0ca8\u0ccd\u0ca8\u0ca1
+\n            
+\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22
+\n            
+\ud55c\uad6d\uc5b4
+\n            
+\u65e5\u672c\u8a9e
+\n            
+\u7b80\u4f53\u4e2d\u6587
+\n            
+\u7e41\u9ad4\u4e2d\u6587
+\n        
+\n      
+\n      
+\n        
+\n          
+ 
+\n          
+\n        
+\n      
+\n    
+\n  
+\n\n    
+\n      
+\n          
+\n            
+Have an account?
+ 
+ Log in
+\n          
+\n          
+\n            
+ 
+ 
+ 
+\n            
+\n              
+Have an account?
+\n
+\n  
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Remember me
+\n    
+\n    
+\xb7
+\n    
+Forgot password?
+\n  
+\n\n  
+\n\n    
+\n\n  
+\n  
+\n  
+\n      
+\n      
+\n
+\n              
+\n              
+\n                
+New to Twitter?
+\n                
+Sign up\n                
+\n              
+\n            
+\n          
+\n      
+\n    
+\n
+\n\n        
+\n      
+\n    
+\n
+\n\n\n          
+\n            
+\n                \n              \n  \n\n  \n        \n
+\n\n\n\n\n\n\n  a,\n  a:hover,\n  a:focus,\n  a:active {\n    color: #0084B4;\n  }\n\n  .u-textUserColor,\n  .u-textUserColorHover:hover,\n  .u-textUserColorHover:hover .ProfileTweet-actionCount,\n  .u-textUserColorHover:focus {\n    color: #0084B4 !important;\n  }\n\n  .u-borderUserColor,\n  .u-borderUserColorHover:hover,\n  .u-borderUserColorHover:focus {\n    border-color: #0084B4 !important;\n  }\n\n  .u-bgUserColor,\n  .u-bgUserColorHover:hover,\n  .u-bgUserColorHover:focus {\n    background-color: #0084B4 !important;\n  }\n\n  .u-dropdownUserColor > li:hover,\n  .u-dropdownUserColor > li:focus,\n  .u-dropdownUserColor > li > button:hover,\n  .u-dropdownUserColor > li > button:focus,\n  .u-dropdownUserColor > li > a:focus,\n  .u-dropdownUserColor > li > a:hover {\n    color: #fff !important;\n    background-color: #0084B4 !important;\n  }\n\n  .u-boxShadowInsetUserColorHover:hover,\n  .u-boxShadowInsetUserColorHover:focus {\n    box-shadow: inset 0 0 0 5px #0084B4 !important;\n  }\n\n  .u-dropdownOpenUserColor.dropdown.open .dropdown-toggle {\n    color: #0084B4;\n  }\n\n\n  .u-textUserColorLight {\n    color: #99CDE1 !important;\n  }\n\n  .u-borderUserColorLight,\n  .u-borderUserColorLightFocus:focus,\n  .u-borderUserColorLightHover:hover,\n  .u-borderUserColorLightHover:focus {\n    border-color: #99CDE1 !important;\n  }\n\n  .u-bgUserColorLight {\n    background-color: #99CDE1 !important;\n  }\n\n\n  .u-boxShadowUserColorLighterFocus:focus {\n    box-shadow: 0 0 8px rgba(0, 0, 0, 0.05), inset 0 1px 2px rgba(0,132,180,0.25) !important;\n  }\n\n\n  .u-textUserColorLightest {\n    color: #E5F2F7 !important;\n  }\n\n  .u-borderUserColorLightest {\n    border-color: #E5F2F7 !important;\n  }\n\n  .u-bgUserColorLightest {\n    background-color: #E5F2F7 !important;\n  }\n\n\n  .u-textUserColorLighter {\n    color: #BFE0EC !important;\n  }\n\n  .u-borderUserColorLighter {\n    border-color: #BFE0EC !important;\n  }\n\n  .u-bgUserColorLighter {\n    background-color: #BFE0EC !important;\n  }\n\n\n  .u-bgUserColorDarkHover:hover {\n    background-color: #05719A !important;\n  }\n\n  .u-borderUserColorDark {\n    border-color: #05719A !important;\n  }\n\n\n  .u-bgUserColorDarkerActive:active {\n    background-color: #0A5F81 !important;\n  }\n\n\n\n\n\n\n\n\n\n\n\n\n\na,\n.btn-link,\n.btn-link:focus,\n.icon-btn,\n\n\n\n.pretty-link b,\n.pretty-link:hover s,\n.pretty-link:hover b,\n.pretty-link:focus s,\n.pretty-link:focus b,\n\n.metadata a:hover,\n.metadata a:focus,\n\na.account-group:hover .fullname,\na.account-group:focus .fullname,\n.account-summary:focus .fullname,\n\n.message .message-text a,\n.message .message-text button,\n.stats a strong,\n.plain-btn:hover,\n.plain-btn:focus,\n.dropdown.open .user-dropdown.plain-btn,\n.open > .plain-btn,\n#global-actions .new:before,\n.module .list-link:hover,\n.module .list-link:focus,\n\n.stats a:hover,\n.stats a:hover strong,\n.stats a:focus,\n.stats a:focus strong,\n\n.find-friends-sources li:hover .source,\n\n\n\n\n\n.stream-item a:hover .fullname,\n.stream-item a:focus .fullname,\n\n.stream-item .view-all-supplements:hover,\n.stream-item .view-all-supplements:focus,\n\n.tweet .time a:hover,\n.tweet .time a:focus,\n.tweet .details.with-icn b,\n.tweet .details.with-icn .Icon,\n\n.stream-item:hover .original-tweet .details b,\n.stream-item .original-tweet.focus .details b,\n.stream-item.open .original-tweet .details b,\n\n.client-and-actions a:hover,\n.client-and-actions a:focus,\n\n.dismiss-btn:hover b,\n\n.tweet .context .pretty-link:hover s,\n.tweet .context .pretty-link:hover b,\n.tweet .context .pretty-link:focus s,\n.tweet .context .pretty-link:focus b,\n\n.list .username a:hover,\n.list .username a:focus,\n.list-membership-container .create-a-list,\n.list-membership-container .create-a-list:hover,\n.new-tweets-bar,\n\n\n\n.card .list-details a:hover,\n.card .list-details a:focus,\n.card .card-body:hover .attribution,\n.card .card-body .attribution:focus {\n  color: #0084B4;\n}\n\n\n\n\n  \n  .FoundMediaSearch--keyboard .FoundMediaSearch-focusable.is-focused {\n    border-color: #0084B4;\n  }\n\n  \n  .photo-selector:hover .btn,\n  .icon-btn:hover,\n  .icon-btn:active,\n  .icon-btn.active,\n  .icon-btn.enabled {\n    border-color: #0084B4;\n    border-color: rgba(0,132,180,0.4);\n    color: #0084B4;\n  }\n\n  \n  .photo-selector:hover .btn,\n  .icon-btn:hover {\n    background-image: linear-gradient(rgba(255,255,255,0), rgba(0,132,180,0.1));\n  }\n\n  .icon-btn.disabled,\n  .icon-btn.disabled:hover,\n  .icon-btn[disabled],\n  .icon-btn[aria-disabled=true] {\n    color: #0084B4;\n  }\n\n  \n  \n\n  .EdgeButton--primary,\n  .EdgeButton--primary:focus {\n    background-color: #329CC3;\n    border-color: transparent;\n  }\n\n  .EdgeButton--primary:hover,\n  .EdgeButton--primary:active {\n    background-color: #0084B4;\n    border-color: #0084B4;\n  }\n\n  .EdgeButton--primary:focus {\n    box-shadow:\n      0 0 0 2px #FFFFFF,\n      0 0 0 4px #99CDE1;\n  }\n\n  .EdgeButton--primary:active {\n    box-shadow:\n      0 0 0 2px #FFFFFF,\n      0 0 0 4px #329CC3;\n  }\n\n  \n  \n\n  .EdgeButton--secondary,\n  .EdgeButton--secondary:hover,\n  .EdgeButton--secondary:focus,\n  .EdgeButton--secondary:active {\n    border-color: #0084B4;\n    color: #0084B4;\n  }\n\n  .EdgeButton--secondary:hover,\n  .EdgeButton--secondary:active {\n    background-color: #E5F2F7;\n  }\n\n  .EdgeButton--secondary:focus {\n    box-shadow:\n      0 0 0 2px #FFFFFF,\n      0 0 0 4px rgba(0,132,180,0.4);\n  }\n\n  .EdgeButton--secondary:active {\n    box-shadow:\n      0 0 0 2px #FFFFFF,\n      0 0 0 4px #0084B4;\n  }\n\n  \n  \n\n  .EdgeButton--invertedPrimary {\n    color: #0084B4 !important;\n  }\n\n  .EdgeButton--invertedPrimary:focus {\n    box-shadow:\n      0 0 0 2px #0084B4,\n      0 0 0 4px #99CDE1;\n  }\n\n  .EdgeButton--invertedPrimary:active {\n    box-shadow:\n      0 0 0 2px #0084B4,\n      0 0 0 4px #FFFFFF;\n  }\n\n  \n  \n\n  .EdgeButton--invertedSecondary {\n    background-color: #0084B4;\n  }\n\n  .EdgeButton--invertedSecondary:hover {\n    background-color: #329CC3;\n  }\n\n  .EdgeButton--invertedSecondary:focus {\n    box-shadow:\n      0 0 0 2px #0084B4,\n      0 0 0 4px #99CDE1;\n  }\n\n  .EdgeButton--invertedSecondary:active {\n    box-shadow:\n      0 0 0 2px #0084B4,\n      0 0 0 4px #FFFFFF;\n  }\n\n  \n\n  .btn:focus,\n  .btn.focus,\n  .Button:focus,\n  .EmojiPicker-item.is-focused,\n  .EmojiPicker .EmojiCategoryIcon:focus,\n  .EmojiPicker-skinTone:focus + .EmojiPicker-skinToneSwatch,\n  a:focus > img:first-child:last-child,\n  button:focus {\n    box-shadow:\n      0 0 0 2px #FFFFFF,\n      0 0 2px 4px rgba(0,132,180,0.4);\n  }\n\n  .selected-stream-item:focus {\n    box-shadow: 0 0 0 3px rgba(0,132,180,0.4);\n  }\n\n  \n  .js-navigable-stream.stream-table-view .selected-stream-item[tabindex="-1"]:focus {\n    outline: 3px solid rgba(0,132,180,0.4) !important;\n  }\n\n  \n  .js-navigable-stream.stream-table-view .selected-stream-item:focus {\n    box-shadow: none;\n  }\n\n  \n\n  .global-dm-nav.new.with-count .dm-new .count-inner {\n    background: #0084B4;\n  }\n\n  .global-nav .people .count .count-inner {\n    background: #0084B4;\n  }\n\n  .dropdown-menu li > a:hover,\n  .dropdown-menu li > a:focus,\n  .dropdown-menu .dropdown-link:hover,\n  .dropdown-menu .dropdown-link:focus,\n  .dropdown-menu .dropdown-link.is-focused,\n  .dropdown-menu li:hover .dropdown-link,\n  .dropdown-menu li:focus .dropdown-link,\n  .dropdown-menu .selected a,\n  .dropdown-menu .dropdown-link.selected {\n    background-color: #0084B4 !important;\n  }\n\n  /* for items in typeahead dropdown menu on logged in pages */\n  .dropdown-menu .typeahead-items li > a:focus,\n  .dropdown-menu .typeahead-items li > a:hover,\n  .dropdown-menu .typeahead-items .selected,\n  .dropdown-menu .typeahead-items .selected a {\n    background-color: #E5F2F7 !important;\n    color: #0084B4 !important;\n  }\n\n  .typeahead a:hover,\n  .typeahead a:hover strong,\n  .typeahead a:hover .fullname,\n  .typeahead .selected a,\n  .typeahead .selected strong,\n  .typeahead .selected .fullname,\n  .typeahead .selected .Icon--close {\n    color: #0084B4 !important;\n  }\n\n\n.home-tweet-box,\n.LiveVideo-tweetBox,\n.RetweetDialog-commentBox {\n  background-color: #E5F2F7;\n}\n\n.top-timeline-tweetbox .timeline-tweet-box .tweet-form.condensed .tweet-box {\n  color: #0084B4;\n}\n\n.RichEditor,\n.TweetBoxAttachments {\n  border-color: #BFE0EC;\n}\n\ninput:focus,\ntextarea:focus,\ndiv[contenteditable="true"]:focus,\ndiv[contenteditable="true"].fake-focus,\ndiv[contenteditable="plaintext-only"]:focus,\ndiv[contenteditable="plaintext-only"].fake-focus {\n  border-color: #99CDE1;\n  box-shadow: inset 0 0 0 1px rgba(0,132,180,0.7);\n}\n\n.tweet-box textarea:focus,\n.tweet-box input[type=text],\n.currently-dragging .tweet-form.is-droppable .tweet-drag-help,\n.tweet-box[contenteditable="true"]:focus,\n.RichEditor.is-fakeFocus,\n.RichEditor.is-fakeFocus ~ .TweetBoxAttachments {\n  border-color: #99CDE1;\n  box-shadow: 0 0 0 1px #99CDE1;\n}\n\n.MomentCapsuleItem.selected-stream-item:focus {\n  box-shadow: 0 0 0 3px rgba(0,132,180,0.4);\n}\n\n\n\n\ns,\n.pretty-link:hover s,\n.pretty-link:focus s,\n.stream-item-activity-notification .latest-tweet .tweet-row a:hover s,\n.stream-item-activity-notification .latest-tweet .tweet-row a:focus s {\n    color: #0084B4;\n}\n\n\n\n.vellip,\n.vellip:before,\n.vellip:after,\n.conversation-module > li:after,\n.conversation-module > li:before,\n.ThreadedConversation--loneTweet:after,\n.ThreadedConversation-tweet:not(.is-hiddenAncestor) ~ .ThreadedConversation-tweet:before,\n.ThreadedConversation-tweet:after,\n.ThreadedConversation-moreReplies:before,\n.ThreadedConversation-viewOther:before,\n.ThreadedConversation-unavailableTweet:before,\n.ThreadedConversation-unavailableTweet:after,\n.ThreadedConversation--permalinkTweetWithAncestors:before,\n.mini-avatar-with-thread:before,\n.permalink.self-thread-permalink-with-descendant .permalink-tweet-container:after,\n.permalink.self-thread-permalink-with-descendant .inline-reply-tweetbox-container:after {\n    border-color: #99CDE1;\n}\n\n\n\n\n.tweet .sm-reply,\n.tweet .sm-rt,\n.tweet .sm-fav,\n.tweet .sm-image,\n.tweet .sm-video,\n.tweet .sm-audio,\n.tweet .sm-geo,\n.tweet .sm-in,\n.tweet .sm-trash,\n.tweet .sm-more,\n.tweet .sm-page,\n.tweet .sm-embed,\n.tweet .sm-summary,\n.tweet .sm-chat,\n\n.timelines-navigation .active .profile-nav-icon,\n.timelines-navigation .profile-nav-icon:hover,\n.timelines-navigation .profile-nav-link:focus .profile-nav-icon,\n\n.sm-top-tweet {\n    background-color: #0084B4;\n}\n\n.enhanced-mini-profile .mini-profile .profile-summary {\n  background-image: url(https://pbs.twimg.com/profile_banners/364576164/1441130079/mobile);\n}\n\n  #global-tweet-dialog .modal-header,\n  #Tweetstorm-dialog .modal-header {\n    border-bottom: solid 1px rgba(0,132,180,0.25);\n  }\n\n  #global-tweet-dialog .modal-tweet-form-container,\n  #Tweetstorm-dialog .modal-body {\n    background-color: #0084B4;\n    background: rgba(0,132,180,0.1);\n  }\n\n  .TweetstormDialog-reply-context .tweet-box-avatar:after,\n  .TweetstormDialog-reply-context .tweet-box-avatar:before,\n  .TweetstormDialog-tweet-box .tweet-box-avatar:after,\n  .TweetstormDialog-tweet-box .tweet-box-avatar:before {\n    border-color: #99CDE1;\n  }\n\n  .global-nav .search-input:focus,\n  .global-nav .search-input.focus {\n    border: 2px solid #0084B4;\n  }\n}\n\n  .inline-reply-tweetbox {\n    background-color: #E5F2F7;\n  }\n\n
+\n\n\n    
+\n  
+\n\n    
+\n  
+\n    
+\n  
+\n\n  
+\n\n    
+\n      
+\n    
+\n        
+\n    
+\n
+\n\n    
+\n\n\n    
+\n  
+\n\n
+\n\n\n    
+\n      \n      
+\n        
+\n          
+\n            
+\n              
+\n  
+\n    
+\n  
+\n  
+\n    
+\n  
+\n    
+\n      TUFA
+\n
+\n    
+\n      
+\n        
+@
+trentfaculty
+\n      
+\n    
+\n  
+\n
+\n\n            
+\n          
+\n\n          
+\n            
+\n              \n  
+\n    
+\n
+\n          
+\n            
+Tweets
+\n              
+Tweets, current page.
+\n            
+2,381\n            
+\n          
+\n        
+\n        
+\n          
+Following
+\n            
+Following
+\n          
+642
+\n        
+\n      
+\n        
+\n          
+Followers
+\n            
+Followers
+\n          
+684
+\n        
+\n      
+\n        
+\n          
+Likes
+\n            
+Likes
+\n          
+554
+\n        
+\n      
+\n        
+\n          
+Lists
+\n            
+Lists
+\n          
+1
+\n        
+        
+\n          
+\xa0
+\n          
+More 
+\n        
+\n        
+\n          
+\n            
+\n            
+\n          
+\n          
+\n              
+Likes
+\n              
+Lists
+\n        
+\n      
+\n        
+\n    
+\n      
+\n          
+\n            
+Unmute 
+@
+trentfaculty
+\n          
+\n            
+Mute 
+@
+trentfaculty
+\n          
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+trentfaculty
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+trentfaculty
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+trentfaculty
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+trentfaculty
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+trentfaculty
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+trentfaculty
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+trentfaculty
+\n  
+\n
+\n\n\n    
+\n
+\n\n      
+\n    
+\n  
+\n\n            
+\n          
+\n        
+\n      
+\n    
+\n\n  
+\n
+\n\n\n\n    
+\n      
+\n        
+\n          
+\n            
+\n              
+\n                
+\n  
+\n  
+\n    
+TUFA
+\n  
+\n\n  
+\n    
+\n      
+@
+trentfaculty
+\n    
+\n  
+\n\n    
+Trent University Faculty Association (TUFA) represents full-time faculty & prof librarians. We protect academic standards, principles and by extension students.
+\n\n    
+\n      
+\n      
+\n            Peterborough Ontario\n\n      
+\n    
+\n\n    
+\n      
+\n      
+  
+\n    trentfaculty.ca\n  
+\n\n
+\n    
+\n\n\n\n    
+\n      
+\n      
+Joined August 2011
+\n    
+\n\n    
+\n      
+\n      
+\n
+\n    
+\n\n\n
+\n\n\n\n\n\n      
+\n  
+\n    
+\n    
+\n            
+\n                \n                18 Photos and videos\n            
+\n          
+\n            Photos and videos\n          
+\n    
+\n  
+\n  
+\n    
+\n  
+\n
+\n\n\n\n
+\n\n              
+\n            
+\n          
+\n\n          
+\n            
+\n                
+\n                  
+\n                
+\n\n              
+\n                  \n                    
+\n  
+\n    
+\n      
+Tweets
+\n        
+\n            
+\n                
+Tweets
+\n                
+Tweets, current page.
+\n            
+\n            
+\n                
+\n                  Tweets & replies\n                
+\n            
+\n            
+\n                
+\n                  Media\n                
+\n            
+\n        
+\n    
+\n
+\n\n                  
+\n  
+You blocked 
+@
+trentfaculty
+\n  
+Are you sure you want to view these Tweets? Viewing Tweets won't unblock 
+@
+trentfaculty
+\n  
+Yes, view profile
+\n
+\n                  \n\n\n\n\n  
+\n  
+\n    
+\n\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n\n      
+\n        
+\n            \n            TUFA followed\n        
+\n      
+\n\n      
+\n        
+\n          
+\n        
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n\n\n\n    
+\n        
+\n      
+\n
+\n\n    
+\n        
+\n          \n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+TUFA
+\u200f
+\xa0
+@
+trentfaculty
+\n\n        \n        
+\n  
+Nov 24
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+TUFA Seasonal Celebration, Faculty Social - Wine & Cheese 
+#
+TUFASocial
+\n cash donations to the Kawartha Food Share =raffle tickets to TUFA members who donate at the 
+#
+TUFASocial
+ and win 
+#
+ChasingtheCheese
+ gift certificates,Thurs Dec 14th 3-5pm\nLEC Sr Common Rm  RSVP tufa@trentu.ca
+\n
+\n\n\n      \n\n      \n        \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+0 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+0 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+TUFA
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+UofM Faculty Assoc.
+\u200f
+\xa0
+@
+UMFA_FAUM
+\n\n        \n        
+\n  
+Nov 22
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+UMFA President, Janet Morrill and Cameron Morrill wrote a piece called The Grand Illusion of Tight Fiscal Times for the 
+@
+CAUT_ACPPU
+ Bulletin this month. A great read!
+https://www.
+caut.ca/bulletin/2017/
+11/commentary-grand-illusion-tight-fiscal-times
+\xa0
+\u2026
+\n
+\n\n\n      \n\n      \n        \n\n\n      \n          
+\n    
+\n
+\n\n
+\n\n\n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+16 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+13 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+16
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+16
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+13
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+13
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+TUFA
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+OCUFA
+\u200f
+\xa0
+@
+OCUFA
+\n\n        \n        
+\n  
+Nov 22
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Faculty pleased 
+#
+Bill148
+ passed today. Next task is ensuring newly won rights are implemented effectively. People expect universities to be model employers & pressure is growing to deliver fairness for contract faculty: 
+https://
+ocufa.on.ca/blog-posts/bil
+l-148-passes-bolsters-efforts-address-precarious-work-campus/
+\xa0
+\u2026
+ 
+#
+15andFairness
+ 
+#
+OnPSE
+ 
+#
+PowerON
+pic.twitter.com/jOeC15b1io
+\n
+\n\n\n      \n\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n      
+\n  
+\n
+\n\n\n    
+\n    
+\n      
+\n  
+\n
+\n\n\n    
+\n
+\n\n      
+\n    
+\n  
+\n\n\n\n        
+\n    
+\n    
+CAUT
+,\n    
+$15 & Fairness!
+,\n    
+UWOFA
+ and\n    
+7 others
+\n      
+\n        
+\n            
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+CAUT_ACPPU
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+CAUT_ACPPU
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+CAUT_ACPPU
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+CAUT_ACPPU
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+CAUT_ACPPU
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+CAUT_ACPPU
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+CAUT_ACPPU
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+CAUT
+\xa0
+@
+CAUT_ACPPU
+\n        
+\n      
+\n            
+\n                Trent University Faculty Association (TUFA) represents full-time faculty & prof librarians. We protect academic standards, principles and by extension students.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+fairwagesnow
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+fairwagesnow
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+fairwagesnow
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+fairwagesnow
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+fairwagesnow
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+fairwagesnow
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+fairwagesnow
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+$15 & Fairness!
+\xa0
+@
+fairwagesnow
+\n        
+\n      
+\n            
+\n                Trent University Faculty Association (TUFA) represents full-time faculty & prof librarians. We protect academic standards, principles and by extension students.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+UWOFA
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+UWOFA
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+UWOFA
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+UWOFA
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+UWOFA
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+UWOFA
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+UWOFA
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+UWOFA
+\xa0
+@
+UWOFA
+\n        
+\n      
+\n            
+\n                Trent University Faculty Association (TUFA) represents full-time faculty & prof librarians. We protect academic standards, principles and by extension students.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+WLUFA
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+WLUFA
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+WLUFA
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+WLUFA
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+WLUFA
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+WLUFA
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+WLUFA
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+WLUFA
+\xa0
+@
+WLUFA
+\n        
+\n      
+\n            
+\n                Trent University Faculty Association (TUFA) represents full-time faculty & prof librarians. We protect academic standards, principles and by extension students.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+WindsorFaculty
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+WindsorFaculty
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+WindsorFaculty
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+WindsorFaculty
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+WindsorFaculty
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+WindsorFaculty
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+WindsorFaculty
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+WUFA
+\xa0
+@
+WindsorFaculty
+\n        
+\n      
+\n            
+\n                Trent University Faculty Association (TUFA) represents full-time faculty & prof librarians. We protect academic standards, principles and by extension students.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+trentfaculty
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+trentfaculty
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+trentfaculty
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+trentfaculty
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+trentfaculty
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+trentfaculty
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+trentfaculty
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+TUFA
+\xa0
+@
+trentfaculty
+\n        
+\n      
+\n            
+\n                Trent University Faculty Association (TUFA) represents full-time faculty & prof librarians. We protect academic standards, principles and by extension students.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+YUFAyorku
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+YUFAyorku
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+YUFAyorku
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+YUFAyorku
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+YUFAyorku
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+YUFAyorku
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+YUFAyorku
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+YUFA
+\xa0
+@
+YUFAyorku
+\n        
+\n      
+\n            
+\n                Trent University Faculty Association (TUFA) represents full-time faculty & prof librarians. We protect academic standards, principles and by extension students.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+utfaculty
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+utfaculty
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+utfaculty
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+utfaculty
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+utfaculty
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+utfaculty
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+utfaculty
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+UTFA
+\xa0
+@
+utfaculty
+\n        
+\n      
+\n            
+\n                Trent University Faculty Association (TUFA) represents full-time faculty & prof librarians. We protect academic standards, principles and by extension students.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+FAUWaterloo
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+FAUWaterloo
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+FAUWaterloo
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+FAUWaterloo
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+FAUWaterloo
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+FAUWaterloo
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+FAUWaterloo
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+FAUW
+\xa0
+@
+FAUWaterloo
+\n        
+\n      
+\n            
+\n                Trent University Faculty Association (TUFA) represents full-time faculty & prof librarians. We protect academic standards, principles and by extension students.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+CAATfaculty
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+CAATfaculty
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+CAATfaculty
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+CAATfaculty
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+CAATfaculty
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+CAATfaculty
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+CAATfaculty
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+College Faculty
+\xa0
+@
+CAATfaculty
+\n        
+\n      
+\n            
+\n                Trent University Faculty Association (TUFA) represents full-time faculty & prof librarians. We protect academic standards, principles and by extension students.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n\n        
+\n      
+\n  
+\n\n
+\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+2 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+19 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+19 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+2
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+19
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+19
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+19
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+19
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+TUFA
+\u200f
+\xa0
+@
+trentfaculty
+\n\n        \n        
+\n  
+Nov 22
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Hold the date: 
+#
+TUFASocial
+ Faculty Seasonal Celebration, enjoy Wine and Cheese with your colleagues\n  Thursday December 14th -  3pm to 5pm - Lady Eaton College Senior Common Room
+\n
+\n\n\n      \n\n      \n        \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+1 retweet
+\n      
+\n    
+\n    
+\n      
+\n        
+2 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+1
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+1
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+2
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+2
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+TUFA
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+Dan McKnight
+\u200f
+\xa0
+@
+danmcknight
+\n\n        \n        
+\n  
+Nov 20
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Brother Larry Savage 
+@
+Prof_Savage
+ speaking at the OFL Convention in support of a fully funded post secondary system. 
+#
+POWERON
+ 
+#
+OFLabour
+pic.twitter.com/JX7vHVcFRx
+\n
+\n\n\n      \n\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n\n
+\n      
+\n    
+\n  
+\n\n\n\n        
+\n    
+\n        
+Larry Savage
+\n\n  
+\n\n
+\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+24 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+51 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+24
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+24
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+51
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+51
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+TUFA
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+Kemi Akapo
+\u200f
+\xa0
+@
+kemi_akapo
+\n\n        \n        
+\n  
+Nov 20
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+"Today is Trans Day of Remembrance. If you could please take a moment to note it, it would be very meaningful. With gratitude for so many understanding, loving and compassionate people. May they outnumber those filled with hatred and fear." - 
+@
+emglasspool
+ 
+#
+TDOR
+\n
+\n\n\n      \n\n      \n        \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+6 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+14 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+6
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+6
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+14
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+14
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+TUFA
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+YUFA
+\u200f
+\xa0
+@
+YUFAyorku
+\n\n        \n        
+\n  
+Nov 19
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+#
+YorkU
+ students, staff, faculty condemn back-to-work legislation: "The right to strike is an essential part of freedom of association; in denying it to OPSEU, the gov't is undermining the rights of workers in all sectors." 
+http://
+bit.ly/2zheiH5
+\xa0
+ 
+#
+collegestrike
+ 
+#
+StandWithFaculty
+pic.twitter.com/l4Pwpmvr7t
+\n
+\n\n\n      \n\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n\n
+\n      
+\n    
+\n  
+\n\n\n\n        
+\n    
+\n    
+OPSEU
+,\n    
+College Faculty
+,\n    
+#StandWithFaculty #DisbandTheCEC
+ and\n    
+7 others
+\n      
+\n        
+\n            
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+OPSEU
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+OPSEU
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+OPSEU
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+OPSEU
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+OPSEU
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+OPSEU
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+OPSEU
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+OPSEU
+\xa0
+@
+OPSEU
+\n        
+\n      
+\n            
+\n                Trent University Faculty Association (TUFA) represents full-time faculty & prof librarians. We protect academic standards, principles and by extension students.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+CAATfaculty
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+CAATfaculty
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+CAATfaculty
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+CAATfaculty
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+CAATfaculty
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+CAATfaculty
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+CAATfaculty
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+College Faculty
+\xa0
+@
+CAATfaculty
+\n        
+\n      
+\n            
+\n                Trent University Faculty Association (TUFA) represents full-time faculty & prof librarians. We protect academic standards, principles and by extension students.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+StandWithFac
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+StandWithFac
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+StandWithFac
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+StandWithFac
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+StandWithFac
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+StandWithFac
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+StandWithFac
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+#StandWithFaculty #DisbandTheCEC
+\xa0
+@
+StandWithFac
+\n        
+\n      
+\n            
+\n                Trent University Faculty Association (TUFA) represents full-time faculty & prof librarians. We protect academic standards, principles and by extension students.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+Standwithfacult
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+Standwithfacult
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+Standwithfacult
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+Standwithfacult
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+Standwithfacult
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+Standwithfacult
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+Standwithfacult
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+Stand With Faculty
+\xa0
+@
+Standwithfacult
+\n        
+\n      
+\n            
+\n                Trent University Faculty Association (TUFA) represents full-time faculty & prof librarians. We protect academic standards, principles and by extension students.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+OPSEU560
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+OPSEU560
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+OPSEU560
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+OPSEU560
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+OPSEU560
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+OPSEU560
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+OPSEU560
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+OPSEU Local 560
+\xa0
+@
+OPSEU560
+\n        
+\n      
+\n            
+\n                Trent University Faculty Association (TUFA) represents full-time faculty & prof librarians. We protect academic standards, principles and by extension students.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+opseulocal110
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+opseulocal110
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+opseulocal110
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+opseulocal110
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+opseulocal110
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+opseulocal110
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+opseulocal110
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+OPSEU 110 FanFaculty
+\xa0
+@
+opseulocal110
+\n        
+\n      
+\n            
+\n                Trent University Faculty Association (TUFA) represents full-time faculty & prof librarians. We protect academic standards, principles and by extension students.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+OPSEU_Local_352
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+OPSEU_Local_352
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+OPSEU_Local_352
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+OPSEU_Local_352
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+OPSEU_Local_352
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+OPSEU_Local_352
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+OPSEU_Local_352
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+OPSEU Local 352
+\xa0
+@
+OPSEU_Local_352
+\n        
+\n      
+\n            
+\n                Trent University Faculty Association (TUFA) represents full-time faculty & prof librarians. We protect academic standards, principles and by extension students.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+FlemingFaculty
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+FlemingFaculty
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+FlemingFaculty
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+FlemingFaculty
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+FlemingFaculty
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+FlemingFaculty
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+FlemingFaculty
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+OPSEU Local352
+\xa0
+@
+FlemingFaculty
+\n        
+\n      
+\n            
+\n                Trent University Faculty Association (TUFA) represents full-time faculty & prof librarians. We protect academic standards, principles and by extension students.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+RM_Kennedy
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+RM_Kennedy
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+RM_Kennedy
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+RM_Kennedy
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+RM_Kennedy
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+RM_Kennedy
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+RM_Kennedy
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+RM Kennedy
+\xa0
+@
+RM_Kennedy
+\n        
+\n      
+\n            
+\n                Trent University Faculty Association (TUFA) represents full-time faculty & prof librarians. We protect academic standards, principles and by extension students.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+JPHornick
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+JPHornick
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+JPHornick
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+JPHornick
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+JPHornick
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+JPHornick
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+JPHornick
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+JP Hornick
+\xa0
+@
+JPHornick
+\n        
+\n      
+\n            
+\n                Trent University Faculty Association (TUFA) represents full-time faculty & prof librarians. We protect academic standards, principles and by extension students.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n\n        
+\n      
+\n  
+\n\n
+\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+2 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+31 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+31 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+2
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+31
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+31
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+31
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+31
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+TUFA
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+OPSEU Local352
+\u200f
+\xa0
+@
+FlemingFaculty
+\n\n        \n        
+\n  
+Nov 17
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n          
+OPSEU Local352 Retweeted Ken Wyman
+\n\n\n
+\n  
+We feel the same! 
+@
+Kathleen_Wynne
+ college funding model needs updating. Look at these comparables 
+http://www.
+academica.ca/top-ten/receiv
+es-lowest-student-college-funding
+\xa0
+\u2026
+ 
+#
+collegestrike
+ until 
+#
+abetterplan
+https://
+twitter.com/kenwyman/statu
+s/931384471500099584
+\xa0
+\u2026
+\n
+\n\n\n
+OPSEU Local352 added,
+\n  \n      
+\n  
+\n    
+\n    
+\n    
+\n      
+\n        
+\n            \n  
+\n    
+Ken Wyman
+\xa0
+@
+KenWyman
+\n  
+\n\n          \n          
+The part of the back to work legislation for college faculty that worries me reads "the mediator-arbitrator would be required to take into consideration a number of criteria, including the employers' ability to pay and the economic situation in Ontario".\n
+https://
+news.ontario.ca/mol/en/2017/11
+/colleges-of-applied-arts-and-technology-labour-dispute-resolution-act-2017.html
+\xa0
+\u2026
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n\n      \n\n      \n        \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+17 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+18 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+17
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+17
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+18
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+18
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+TUFA
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+College Faculty
+\u200f
+\xa0
+@
+CAATfaculty
+\n\n        \n        
+\n  
+Nov 16
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Ontario Premier Kathleen Wynne tables legislation to end college dispute
+http://www.
+cbc.ca/news/canada/to
+ronto/college-strike-legislation-1.4406239
+\xa0
+\u2026
+\n
+\n\n\n      \n\n      \n        \n\n\n      \n          
+\n    
+\n
+\n\n
+\n\n\n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+27 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+16 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+27
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+27
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+16
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+16
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+TUFA
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+Stephanie Ross
+\u200f
+\xa0
+@
+stephross_mac
+\n\n        \n        
+\n  
+Nov 16
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+The College Employer Council just got schooled. When you ignore workers' issues, treat them & their union with contempt, expose them to harassment & violence, try to do an end run around the bargaining process, people get mad and get unified 
+#
+COLLEGESTRIKE
+\n
+\n\n\n      \n\n      \n        \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+5 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+59 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+97 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+5
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+59
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+59
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+97
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+97
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+TUFA
+\u200f
+\xa0
+@
+trentfaculty
+\n\n        \n        
+\n  
+Nov 15
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+OCUFA Report - OCUFA\u2019s 153rd Board of Directors meeting:
+http://
+mailchi.mp/ocufa/ocufa-re
+port-ocufas-153rd-board-of-directors-meeting
+\xa0
+\u2026
+\n
+\n\n\n      \n\n      \n        \n\n\n      \n          
+\n    
+\n
+\n\n
+\n\n\n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+1 retweet
+\n      
+\n    
+\n    
+\n      
+\n        
+2 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+1
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+1
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+2
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+2
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+TUFA
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+Michelle MacIntosh
+\u200f
+\xa0
+@
+symmetries
+\n\n        \n        
+\n  
+Nov 13
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n          
+Michelle MacIntosh Retweeted OPSEU Local 242
+\n\n\n
+\n  
+Know both sides. The more I hear from the CEC and the College President, the clearer I am that they are not putting 
+#
+studentsfirst
+. 
+#
+VoteNo
+https://
+twitter.com/opseulocal242/
+status/930132451376103424
+\xa0
+\u2026
+\n
+\n\n\n
+Michelle MacIntosh added,
+\n  \n      
+\n  
+\n    
+\n    
+\n    
+\n      
+\n        
+\n            \n  
+\n    
+OPSEU Local 242
+\xa0
+@
+opseulocal242
+\n  
+\n\n          \n          
+Are you sad that you missed the wildly interactive CEC webinar? You can hear what was read. The whole thing is right here : 
+http://
+collegevote.ca
+/
+\xa0
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n\n      \n\n      \n        \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+12 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+13 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+12
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+12
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+13
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+13
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+TUFA
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+Bolshevik Penpal
+\u200f
+\xa0
+@
+GeorgeFogarasi
+\n\n        \n        
+\n  
+Nov 13
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n          
+Bolshevik Penpal Retweeted Erika Shaker
+\n\n\n
+\n  
+@
+FlemingFaculty
+ Strong statement from 
+@
+kevinmackay777
+ (thanks Kevin and thanks to all the team)
+https://
+twitter.com/ErikaShaker/st
+atus/930259423959879680
+\xa0
+\u2026
+\n
+\n\n\n
+Bolshevik Penpal added,
+\n  \n      
+\n  
+\n    
+\n    
+\n    
+\n      
+\n        
+\n            \n  
+\n    
+Erika Shaker
+\xa0
+@
+ErikaShaker
+\n  
+\n\n          \n          
+'In making false & misleading statements you are interfering in the bargaining process & demonstrating bad faith': important information from 
+@
+kevinmackay777
+ about 
+#
+collegestrike
+ 
+http://
+bit.ly/2yYh04a
+\xa0
+ 
+#
+canlab
+ 
+#
+cdned
+ 
+@
+opseu
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n\n      \n\n      \n        \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+4 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+3 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+4
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+4
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+3
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+3
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+TUFA
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+OPSEU Local 242
+\u200f
+\xa0
+@
+opseulocal242
+\n\n        \n        
+\n  
+Nov 13
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Tomorrow (Tuesday) on CBC Radio's 'Ontario Today' program, Rita Celli will be discussing the strike tomorrow with JP Hornick and Don Sinclair. \n\nIt's a phone-in program on 99.1 FM from 12 noon to 1. Encourage students, allies, & community members to call in\u2014or do it yourselves.
+\n
+\n\n\n      \n\n      \n        \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+69 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+65 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+69
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+69
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+65
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+65
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+TUFA
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+ProfSL
+\u200f
+\xa0
+@
+prof_sl
+\n\n        \n        
+\n  
+Nov 13
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+#
+standwithfaculty
+ 
+#
+solidaritymonday
+pic.twitter.com/mOsbdvgriP
+\n
+\n\n\n      \n\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n\n
+\n      
+\n    
+\n  
+\n\n\n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+11 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+16 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+11
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+11
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+16
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+16
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+TUFA
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+Nora Loreto
+\u200f
+\xa0
+@
+NoLore
+\n\n        \n        
+\n  
+Nov 8
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Why is academic freedom a sticking point in the 
+#
+collegestrike
+? Here you go: what it is, what it means and why it matters 
+https://
+medium.com/@noraloreto/wh
+y-is-academic-freedom-prolonging-the-ontario-college-strike-955cfba53e91
+\xa0
+\u2026
+ 
+#
+canlab
+ 
+#
+OPSEUStrike
+\n
+\n\n\n      \n\n      \n        \n\n\n      \n          
+\n    
+\n
+\n\n
+\n\n\n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+8 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+67 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+60 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+8
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+67
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+67
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+60
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+60
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+TUFA
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+CSA
+\u200f
+\xa0
+@
+CSA_ON
+\n\n        \n        
+\n  
+Nov 10
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Thank you 
+@
+Deb_Matthews
+ & 
+@
+ONAdvancedEd
+ for taking student concerns seriously. Colleges will now be required to establish a dedicated student support fund with all the savings from the strike: 
+http://
+bit.ly/2AAlQ4u
+\xa0
+ 
+#
+StudentsFirst
+\n
+\n\n\n      \n\n      \n        \n\n\n      \n          
+\n    
+\n
+\n\n
+\n\n\n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+21 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+50 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+52 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+21
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+50
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+50
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+52
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+52
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+TUFA
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+UOIT Faculty
+\u200f
+\xa0
+@
+UOITFA
+\n\n        \n        
+\n  
+Nov 10
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Teaching Faculty vote 100% in support of ratifying new collective agreement - 
+#
+UOIT
+ Board vote next week 
+#
+onpse
+\n
+\n\n\n      \n\n      \n        \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+5 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+21 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+5
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+5
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+21
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+21
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+TUFA
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+OPSEU Local 242
+\u200f
+\xa0
+@
+opseulocal242
+\n\n        \n        
+\n  
+Nov 8
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+The folks at Local 558 (Centennial) have started a petition to reimburse  students using the money the college's saved during the strike in  salaries.
+http://
+bit.ly/2iIZpSy
+\xa0
+\n
+\n\n\n      \n\n      \n        \n\n\n      \n          
+\n    
+\n
+\n\n
+\n\n\n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+1 reply
+\n      
+\n    
+\n    
+\n      
+\n        
+28 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+24 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+1
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+28
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+28
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+24
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+24
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+TUFA
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+OPSEU Local352
+\u200f
+\xa0
+@
+FlemingFaculty
+\n\n        \n        
+\n  
+Nov 7
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+\u201cThe damn has burst... it\u2019s going to be messy\u201d 
+#
+COLLEGESTRIKE4
+ 
+#
+abetterplan
+https://
+georgefogarasi.tumblr.com/post/167219791
+998/surfs-up
+\xa0
+\u2026
+\n
+\n\n\n      \n\n      \n        \n\n\n      \n          
+\n    
+\n
+\n\n
+\n\n\n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+5 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+4 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+5
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+5
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+4
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+4
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n        
+\n        
+\n  
+\n      
+\n    
+\n        
+\n\n      
+\n\n          @trentfaculty hasn't Tweeted yet.\n      
+\n\n        
+Back to top \u2191
+\n    
+\n  
+\n\n\n    
+\n  
+\n    
+\n  
+\n
+\n\n  
+\n
+\n
+\n    
+\n  
+\n    
+Loading seems to be taking a while.
+\n    
+\n      Twitter may be over capacity or experiencing a momentary hiccup. 
+Try again
+ or visit 
+Twitter Status
+ for more information.\n    
+\n  
+\n
+\n
+\n\n      
+\n    
+\n  
+\n    
+\n\n\n              
+\n\n                  
+\n                    
+\n                      
+\n                        
+\n                          
+\n                            \n
+\n\n      
+\n  
+\n    
+\n      New to Twitter?\n    
+\n  
+\n  
+\n    Sign up now to get your own personalized timeline!\n  
+\n  
+\n  
+Sign up
+\n
+\n\n
+\n\n\n      
+\n  
+\n    
+You may also like
+\n    \xb7\n    
+Refresh
+\n  
+\n\n  
+\n  
+\n
+\n\n\n\n    
+\n  
+\n    
+\n  
+\n    \n    
+false
+\n  
+\n  
+\n    
+\n    
+\n  
+\n
+\n\n  
+\n
+\n\n\n  
+\n  
+\n    
+\n      
+\n        
+\xa9 2017 Twitter
+\n        
+About
+\n        
+Help Center
+\n        
+Terms
+\n        
+Privacy policy
+\n        
+Cookies
+\n        
+Ads info
+\n      
+\n    
+\n  
+\n\n
+\n
+\n\n                          
+\n                        
+\n                      
+\n                    
+\n                  
+\n\n            
+\n          
+\n\n        
+\n      
+\n    
+\n\n    
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n          
+\n            \n            Choose a trend location\n          
+\n      
+\n\n      
+\n\n\n        
+\n          
+\n        
+\n\n        
+\n          \n          
+\n            
+\n          
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n            
+\n          
+\n    
+\n    
+\n    
+\n  
+\n    
+\n      
+\n        
+Dismiss
+\n      
+\n  
+\n
+\n
+\n\n    \n\n\n
+\n
+\n  
+\n  
+\n  
+\n    
+\n  
+\n    
+Close
+\n  
+\n
+\n\n    
+\n    
+\n      
+\n        
+\n          
+\n            Previous\n          
+\n        
+\n      
+\n    
+\n    
+\n      
+\n        
+\n          
+\n            Next\n          
+\n        
+\n      
+\n    
+\n    
+\n  
+\n
+\n\n\n\n
+\n\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n\n      
+\n        
+Go to a person's profile
+\n      
+\n\n      
+\n        
+\n          
+\n            
+\n            \n\n\n
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    
+\n  
+Saved searches
+\n  
+\n    \n    
+\n      
+Remove
+\n      
+\n    
+\n  
+\n
+\n\n    
+\n  \n  
+\n    
+\n  
+\n
+\n    
+\n  \n  
+\n    \n    
+\n      
+\n        
+\n        
+In this conversation
+\n      
+\n      
+\n      
+\n        
+Verified account
+Protected Tweets
+\xa0
+@
+\n      
+\n      
+\n    
+\n  
+\n  
+\n
+\n\n    
+\n  \n  
+\n
+\n    \n
+\n  
+\n    Suggested users\n  
+\n  
+\n    \n    
+\n      \n      
+\n        
+\n        
+\n          
+\n          
+\n          
+Verified account
+Protected Tweets
+\xa0
+@
+\n        
+\n      
+\n    
+\n    
+\n  
+\n\n  
+\n    \n    
+\n      \n      
+\n        
+\n        
+\n          
+\n          
+\n          
+Verified account
+Protected Tweets
+\xa0
+@
+\n        
+\n      
+\n    
+\n    
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n    
+\n  
+\n
+\n  
+\n
+\n\n          
+\n        
+\n      
+\n\n    
+\n  
+\n
+\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Promote this Tweet
+\n      
+\n      
+\n        
+\n          
+\n            
+\n            
+\n          
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n\n      
+\n        
+Block
+\n      
+\n\n      
+\n  
+\n
+\n\n      
+\n\n      
+\n        
+Cancel
+\n        
+Block
+\n      
+\n    
+\n  
+\n
+\n\n\n\n\n\n\n   
+\n    
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    
+\n      
+Tweet with a location
+\n      
+\n        You can add location information to your Tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your Tweet location history.\n        
+Learn more
+\n      
+\n      
+\n        
+Turn on
+\n        
+Not now
+\n      
+\n    
+\n  
+\n
+\n\n  
+\n\n
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    
+\n      
+\n      
+\n    
+\n    
+\n    
+\n  
+\n
+\n\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Share Location
+\n      
+\n      
+\n        
+\n          
+\n          
+\n        
+\n      
+\n\n      
+\n        
+\n          
+\n          
+\n\n          
+\n            
+\n          
+\n\n          
+\n            
+Results from 
+\n            
+\n          
+\n        
+\n        
+Send
+\n      
+\n    
+\n  
+\n
+\n\n\n  
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Your lists
+\n      
+\n      
+\n        
+\n        
+\n      
+\n    
+\n  
+\n
+\n  
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Create a new list
+\n      
+\n      
+\n        
+\n  
+\n    
+List name
+\n    
+\n  
+\n  
+\n\n  
+\n    
+Description
+\n    
+\n    
+Under 100 characters, optional
+\n  
+\n  
+\n\n  
+\n    
+Privacy
+\n    
+\n      
+\n        
+\n        
+Public
+ \xb7 Anyone can follow this list\n      
+\n      
+\n        
+\n        
+Private
+ \xb7 Only you can access this list\n      
+\n    
+\n  
+\n  
+\n\n  
+\n    
+Save list
+\n  
+\n
+\n\n      
+\n    
+\n  
+\n
+\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n\n      
+\n        
+\n      
+\n\n      
+\n        
+\n  
+\n
+\n\n        
+\n        
+\n          
+\n        
+\n        
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+\n          
+\n            
+Here's the URL for this Tweet. Copy it to easily share with friends.
+\n            
+\n          
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Embed this Tweet
+\n        
+Embed this Video
+\n      
+\n      
+\n        
+\n  
+Add this Tweet to your website by copying the code below. 
+Learn more
+\n  
+Add this video to your website by copying the code below. 
+Learn more
+\n  
+\n\n    
+\n      
+\n      
+\n        
+Hmm, there was a problem reaching the server. 
+Try again?
+\n      
+\n      
+\n      
+\n        
+\n          
+\n            
+\n            Include parent Tweet\n          
+\n        
+\n        
+\n          
+\n            
+\n            Include media\n          
+\n        
+\n      
+\n    
+\n  
+\n  
+By embedding Twitter content in your website or app, you are agreeing to the Twitter 
+Developer Agreement
+ and 
+Developer Policy
+.
+\n  
+Preview
+\n  
+\n  
+\n
+\n\n      
+\n    
+\n  
+\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Why you're seeing this ad
+\n      
+\n      
+\n        
+\n          
+\n        
+\n        
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n\n  
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Log in to Twitter
+\n      
+\n      
+\n        
+\n          
+\n        
+\n        
+\n
+\n  
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Remember me
+\n    
+\n    
+\xb7
+\n    
+Forgot password?
+\n  
+\n\n  
+\n\n    
+\n\n  
+\n  
+\n  
+\n      
+\n      
+\n
+\n        
+\n      
+\n      
+\n        Don't have an account? 
+Sign up \xbb
+\n      
+\n    
+\n  
+\n
+\n\n  
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Sign up for Twitter
+\n      
+\n      
+\n        
+\n          
+\n        
+\n        
+Not on Twitter? Sign up, tune into the things you care about, and get updates as they happen.
+\n        
+\n
+\n  
+Sign up
+\n
+\n        
+\n      
+\n      
+\n        Have an account? 
+Log in \xbb
+\n      
+\n    
+\n  
+\n
+\n\n  
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Two-way (sending and receiving) short codes:
+\n      
+\n      
+\n        \n\n  \n    \n      \n      \n      \n    \n  \n  \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n    \n  \n  \n    \n      \n    \n  \n
+Country
+Code
+For customers of
+United States
+40404
+(any)
+Canada
+21212
+(any)
+United Kingdom
+86444
+Vodafone, Orange, 3, O2
+Brazil
+40404
+Nextel, TIM
+Haiti
+40404
+Digicel, Voila
+Ireland
+51210
+Vodafone, O2
+India
+53000
+Bharti Airtel, Videocon, Reliance
+Indonesia
+89887
+AXIS, 3, Telkomsel, Indosat, XL Axiata
+Italy
+4880804
+Wind
+3424486444
+Vodafone
+\n        \xbb 
+See SMS short codes for other countries
+\n      
+\n      
+\n    
+\n  
+\n
+\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Confirmation
+\n      
+\n      
+\n        
+\n          
+\n            
+\n            
+\n          
+\n        
+\n        
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+\xa0
+\n      
+\n      
+\n        
+\n          
+\n            
+\n            
+\n          
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n\n
+\n  
+\n    \n    
+\n      
+\n        
+Close
+\n      
+\n    
+\n    
+\n  
+\n
+\n\n\n
+\n  
+\n  
+\n    
+\n    
+\n      
+\n        
+\n          
+\n          
+\n            Skip all\n          
+\n        
+\n        \n\n\n\n
+\n  
+\n    
+\n    Welcome home!\n  
+\n  
+This timeline is where you\u2019ll spend most of your time, getting instant updates about what matters to you.
+\n
+\n\n\n\n
+\n  
+\n    
+\n    Tweets not working for you?\n  
+\n  
+\n    Hover over the profile pic and click the Following button to unfollow any account.\n  
+\n
+\n\n
+\n\n  
+\n    
+\n    Say a lot with a little\n  
+\n  
+\n    When you see a Tweet you love, tap the heart \u2014 it lets  the person who wrote it know you shared the love.\n  
+\n
+\n\n
+\n  
+\n    
+\n    Spread the word\n  
+\n  
+\n    The fastest way to share someone else\u2019s Tweet with your followers is with a Retweet. Tap the icon to send it instantly.\n  
+\n
+\n\n
+\n  
+\n    
+\n    Join the conversation\n  
+\n  
+\n    Add your thoughts about any Tweet with a Reply. Find a topic you\u2019re passionate about, and jump right in.\n  
+\n
+\n\n\n\n
+\n  
+\n    
+\n    Learn the latest\n  
+\n  
+\n    Get instant insight into what people are talking about now.\n  
+\n
+\n\n
+\n  
+\n    
+\n    Get more of what you love\n  
+\n  
+\n    Follow more accounts to get instant updates about topics you care about.\n  
+\n
+\n\n
+\n  
+\n    
+\n    Find what's happening\n  
+\n  
+\n    See the latest conversations about any topic instantly.\n  
+\n
+\n\n
+\n  
+\n    
+\n    Never miss a Moment\n  
+\n  
+\n    Catch up instantly on the best stories happening as they unfold.\n  
+\n
+\n      
+\n\n      
+\n        
+Back
+\n        
+Next
+\n      
+\n    
+\n  
+\n
+\n\n\n\n\n\n
+\n
+\n
+\n
+\n\n\n      
+\n  
+\n    
+\n  
+\n  
+\n    
+\n    
+Next Tweet from user
+\n  
+\n  
+\n    
+\n      
+\n    
+\n    
+\n      
+\n      
+\n    
+\n  
+\n
+\n\n    
+\n  
+\n  
+\n\n
+\n\n    \n    \n      
+\n\n  \n\n    
+\n  
+\n\n  \n    
+\n\n  \n\n>

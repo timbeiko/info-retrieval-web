@@ -1,0 +1,5877 @@
+\n\n    \n    \n    \n    \n    \n    \n    \n    
+\n    \n    
+&lt;meta http-equiv="refresh" content="0; URL=https://mobile.twitter.com/i/nojs_router?path=%2FLaurentianU"&gt;
+\n      
+\n    \n    \n  \n  
+\n    if (window.top != window) {\n  window.top.postMessage({'bouncer': true, 'event': 'complete'}, '*');\n}\n  
+\n  
+\n    !function(){function e(e){if(e||(e=window.event),!e)return!1;if(e.timestamp=(new Date).getTime(),!e.target&&e.srcElement&&(e.target=e.srcElement),document.documentElement.getAttribute("data-scribe-reduced-action-queue"))for(var t=e.target;t&&t!=document.body;){if("A"==t.tagName)return;t=t.parentNode}return i("all",o(e)),a(e)?(document.addEventListener||(e=o(e)),e.preventDefault=e.stopPropagation=e.stopImmediatePropagation=function(){},y?(v.push(e),i("captured",e)):i("ignored",e),!1):(i("direct",e),!0)}function t(e){n();for(var t,r=0;t=v[r];r++){var a=e(t.target),i=a.closest("a")[0];if("click"==t.type&&i){var o=e.data(i,"events"),u=o&&o.click,c=!i.hostname.match(g)||!i.href.match(/#$/);if(!u&&c){window.location=i.href;continue}}a.trigger(e.event.fix(t))}window.swiftActionQueue.wasFlushed=!0}function r(){for(var e in b)if("all"!=e)for(var t=b[e],r=0;r<t.length;r++)console.log("actionQueue",c(t[r]))}function n(){clearTimeout(w);for(var e,t=0;e=h[t];t++)document["on"+e]=null}function a(e){if(!e.target)return!1;var t=e.target,r=(t.tagName||"").toLowerCase();if(e.metaKey)return!1;if(e.shiftKey&&"a"==r)return!1;if(t.hostname&&!t.hostname.match(g))return!1;if(e.type.match(p)&&s(t))return!1;if("label"==r){var n=t.getAttribute("for");if(n){var a=document.getElementById(n);if(a&&f(a))return!1}else for(var i,o=0;i=t.childNodes[o];o++)if(f(i))return!1}return!0}function i(e,t){t.bucket=e,b[e].push(t)}function o(e){var t={};for(var r in e)t[r]=e[r];return t}function u(e){for(;e&&e!=document.body;){if("A"==e.tagName)return e;e=e.parentNode}}function c(e){var t=[];e.bucket&&t.push("["+e.bucket+"]"),t.push(e.type);var r,n,a=e.target,i=u(a),o="",c=e.timestamp&&e.timestamp-d;return"click"===e.type&&i?(r=i.className.trim().replace(/\\s+/g,"."),n=i.id.trim(),o=/[^#]$/.test(i.href)?" ("+i.href+")":"",a='"'+i.innerText.replace(/\\n+/g," ").trim()+'"'):(r=a.className.trim().replace(/\\s+/g,"."),n=a.id.trim(),a=a.tagName.toLowerCase(),e.keyCode&&(a=String.fromCharCode(e.keyCode)+" : "+a)),t.push(a+o+(n&&"#"+n)+(!n&&r?"."+r:"")),c&&t.push(c),t.join(" ")}function f(e){var t=(e.tagName||"").toLowerCase();return"input"==t&&"checkbox"==e.getAttribute("type")}function s(e){var t=(e.tagName||"").toLowerCase();return"textarea"==t||"input"==t&&"text"==e.getAttribute("type")||"true"==e.getAttribute("contenteditable")}for(var m,d=(new Date).getTime(),l=1e4,g=/^([^\\.]+\\.)*twitter\\.com$/,p=/^key/,h=["click","keydown","keypress","keyup"],v=[],w=null,y=!0,b={captured:[],ignored:[],direct:[],all:[]},k=0;m=h[k];k++)document["on"+m]=e;w=setTimeout(function(){y=!1},l),window.swiftActionQueue={buckets:b,flush:t,logActions:r,wasFlushed:!1}}();\n  
+\n  
+\n    !function(){function t(t){t.target.setAttribute("data-in-composition","true")}function n(t){t.target.removeAttribute("data-in-composition")}document.addEventListener&&(document.addEventListener("compositionstart",t,!1),document.addEventListener("compositionend",n,!1))}();\n  
+\n\n    
+\n  
+\n  
+\n\n    
+\n    
+\n      
+\n      
+\n      
+\n\n      
+LaurentianUniversity (@LaurentianU) | Twitter
+\n      
+\n  
+\n\n\n\n
+\n
+\n\n\n\n
+\n\n
+\n
+\n\n
+\n\n\n  
+\n  
+\n\n    
+\n  
+\n  
+\n\n    
+\n\n\n  
+\n\n      
+\n\n
+\n\n    
+\n\n        
+\n    
+\n    
+\n    
+\n    
+\n    
+\n\n  \n  \n      
+\n        document.body.className=document.body.className+" "+document.body.getAttribute("data-fouc-class-names");\n      
+\n\n    
+Skip to content
+\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    
+\n          
+\n    \n\n\n    
+\n      
+\n        
+\n\n          \n
+\n  
+\n    
+\n      
+\n      
+Home
+\n      
+Home
+\n      
+Home, current page.
+\n    
+\n  
+\n    
+\n      
+\n        
+\n        
+\n        
+Moments
+\n        
+Moments
+\n        
+Moments, current page.
+\n      
+\n    
+\n
+\n
+\n    
+\n  
+\n    
+Search query
+\n    
+\n    
+\n      
+\n        
+Search Twitter
+\n      
+\n    
+\n      \n\n\n
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    
+\n  
+Saved searches
+\n  
+\n    \n    
+\n      
+Remove
+\n      
+\n    
+\n  
+\n
+\n\n    
+\n  \n  
+\n    
+\n  
+\n
+\n    
+\n  \n  
+\n    \n    
+\n      
+\n        
+\n        
+In this conversation
+\n      
+\n      
+\n      
+\n        
+Verified account
+Protected Tweets
+\xa0
+@
+\n      
+\n      
+\n    
+\n  
+\n  
+\n
+\n\n    
+\n  \n  
+\n
+\n    \n
+\n  
+\n    Suggested users\n  
+\n  
+\n    \n    
+\n      \n      
+\n        
+\n        
+\n          
+\n          
+\n          
+Verified account
+Protected Tweets
+\xa0
+@
+\n        
+\n      
+\n    
+\n    
+\n  
+\n\n  
+\n    \n    
+\n      \n      
+\n        
+\n        
+\n          
+\n          
+\n          
+Verified account
+Protected Tweets
+\xa0
+@
+\n        
+\n      
+\n    
+\n    
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n    
+\n  
+\n
+\n  
+\n
+\n\n  
+\n
+\n\n\n  
+\n    
+\n      
+\n        
+Language:
+ 
+English
+ 
+\n      
+\n      
+\n        
+\n          
+ 
+\n          
+\n        
+\n        
+\n            
+Bahasa Indonesia
+\n            
+Bahasa Melayu
+\n            
+Catal\xe0
+\n            
+\u010ce\u0161tina
+\n            
+Dansk
+\n            
+Deutsch
+\n            
+English UK
+\n            
+Espa\xf1ol
+\n            
+Filipino
+\n            
+Fran\xe7ais
+\n            
+Hrvatski
+\n            
+Italiano
+\n            
+Magyar
+\n            
+Nederlands
+\n            
+Norsk
+\n            
+Polski
+\n            
+Portugu\xeas
+\n            
+Rom\xe2n\u0103
+\n            
+Sloven\u010dina
+\n            
+Suomi
+\n            
+Svenska
+\n            
+Ti\u1ebfng Vi\u1ec7t
+\n            
+T\xfcrk\xe7e
+\n            
+\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac
+\n            
+\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 \u0435\u0437\u0438\u043a
+\n            
+\u0420\u0443\u0441\u0441\u043a\u0438\u0439
+\n            
+\u0421\u0440\u043f\u0441\u043a\u0438
+\n            
+\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043c\u043e\u0432\u0430
+\n            
+\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea
+\n            
+\u0627\u0644\u0639\u0631\u0628\u064a\u0629
+\n            
+\u0641\u0627\u0631\u0633\u06cc
+\n            
+\u092e\u0930\u093e\u0920\u0940
+\n            
+\u0939\u093f\u0928\u094d\u0926\u0940
+\n            
+\u09ac\u09be\u0982\u09b2\u09be
+\n            
+\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0
+\n            
+\u0ba4\u0bae\u0bbf\u0bb4\u0bcd
+\n            
+\u0c95\u0ca8\u0ccd\u0ca8\u0ca1
+\n            
+\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22
+\n            
+\ud55c\uad6d\uc5b4
+\n            
+\u65e5\u672c\u8a9e
+\n            
+\u7b80\u4f53\u4e2d\u6587
+\n            
+\u7e41\u9ad4\u4e2d\u6587
+\n        
+\n      
+\n      
+\n        
+\n          
+ 
+\n          
+\n        
+\n      
+\n    
+\n  
+\n\n    
+\n      
+\n          
+\n            
+Have an account?
+ 
+ Log in
+\n          
+\n          
+\n            
+ 
+ 
+ 
+\n            
+\n              
+Have an account?
+\n
+\n  
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Remember me
+\n    
+\n    
+\xb7
+\n    
+Forgot password?
+\n  
+\n\n  
+\n\n    
+\n\n  
+\n  
+\n  
+\n      
+\n      
+\n
+\n              
+\n              
+\n                
+New to Twitter?
+\n                
+Sign up\n                
+\n              
+\n            
+\n          
+\n      
+\n    
+\n
+\n\n        
+\n      
+\n    
+\n
+\n\n\n          
+\n            
+\n                \n              \n  \n\n  \n        \n
+\n\n\n\n\n\n\n  a,\n  a:hover,\n  a:focus,\n  a:active {\n    color: #045FAA;\n  }\n\n  .u-textUserColor,\n  .u-textUserColorHover:hover,\n  .u-textUserColorHover:hover .ProfileTweet-actionCount,\n  .u-textUserColorHover:focus {\n    color: #045FAA !important;\n  }\n\n  .u-borderUserColor,\n  .u-borderUserColorHover:hover,\n  .u-borderUserColorHover:focus {\n    border-color: #045FAA !important;\n  }\n\n  .u-bgUserColor,\n  .u-bgUserColorHover:hover,\n  .u-bgUserColorHover:focus {\n    background-color: #045FAA !important;\n  }\n\n  .u-dropdownUserColor > li:hover,\n  .u-dropdownUserColor > li:focus,\n  .u-dropdownUserColor > li > button:hover,\n  .u-dropdownUserColor > li > button:focus,\n  .u-dropdownUserColor > li > a:focus,\n  .u-dropdownUserColor > li > a:hover {\n    color: #fff !important;\n    background-color: #045FAA !important;\n  }\n\n  .u-boxShadowInsetUserColorHover:hover,\n  .u-boxShadowInsetUserColorHover:focus {\n    box-shadow: inset 0 0 0 5px #045FAA !important;\n  }\n\n  .u-dropdownOpenUserColor.dropdown.open .dropdown-toggle {\n    color: #045FAA;\n  }\n\n\n  .u-textUserColorLight {\n    color: #9ABFDD !important;\n  }\n\n  .u-borderUserColorLight,\n  .u-borderUserColorLightFocus:focus,\n  .u-borderUserColorLightHover:hover,\n  .u-borderUserColorLightHover:focus {\n    border-color: #9ABFDD !important;\n  }\n\n  .u-bgUserColorLight {\n    background-color: #9ABFDD !important;\n  }\n\n\n  .u-boxShadowUserColorLighterFocus:focus {\n    box-shadow: 0 0 8px rgba(0, 0, 0, 0.05), inset 0 1px 2px rgba(4,95,170,0.25) !important;\n  }\n\n\n  .u-textUserColorLightest {\n    color: #E5EFF6 !important;\n  }\n\n  .u-borderUserColorLightest {\n    border-color: #E5EFF6 !important;\n  }\n\n  .u-bgUserColorLightest {\n    background-color: #E5EFF6 !important;\n  }\n\n\n  .u-textUserColorLighter {\n    color: #C0D7E9 !important;\n  }\n\n  .u-borderUserColorLighter {\n    border-color: #C0D7E9 !important;\n  }\n\n  .u-bgUserColorLighter {\n    background-color: #C0D7E9 !important;\n  }\n\n\n  .u-bgUserColorDarkHover:hover {\n    background-color: #085492 !important;\n  }\n\n  .u-borderUserColorDark {\n    border-color: #085492 !important;\n  }\n\n\n  .u-bgUserColorDarkerActive:active {\n    background-color: #0D497B !important;\n  }\n\n\n\n\n\n\n\n\n\n\n\n\n\na,\n.btn-link,\n.btn-link:focus,\n.icon-btn,\n\n\n\n.pretty-link b,\n.pretty-link:hover s,\n.pretty-link:hover b,\n.pretty-link:focus s,\n.pretty-link:focus b,\n\n.metadata a:hover,\n.metadata a:focus,\n\na.account-group:hover .fullname,\na.account-group:focus .fullname,\n.account-summary:focus .fullname,\n\n.message .message-text a,\n.message .message-text button,\n.stats a strong,\n.plain-btn:hover,\n.plain-btn:focus,\n.dropdown.open .user-dropdown.plain-btn,\n.open > .plain-btn,\n#global-actions .new:before,\n.module .list-link:hover,\n.module .list-link:focus,\n\n.stats a:hover,\n.stats a:hover strong,\n.stats a:focus,\n.stats a:focus strong,\n\n.find-friends-sources li:hover .source,\n\n\n\n\n\n.stream-item a:hover .fullname,\n.stream-item a:focus .fullname,\n\n.stream-item .view-all-supplements:hover,\n.stream-item .view-all-supplements:focus,\n\n.tweet .time a:hover,\n.tweet .time a:focus,\n.tweet .details.with-icn b,\n.tweet .details.with-icn .Icon,\n\n.stream-item:hover .original-tweet .details b,\n.stream-item .original-tweet.focus .details b,\n.stream-item.open .original-tweet .details b,\n\n.client-and-actions a:hover,\n.client-and-actions a:focus,\n\n.dismiss-btn:hover b,\n\n.tweet .context .pretty-link:hover s,\n.tweet .context .pretty-link:hover b,\n.tweet .context .pretty-link:focus s,\n.tweet .context .pretty-link:focus b,\n\n.list .username a:hover,\n.list .username a:focus,\n.list-membership-container .create-a-list,\n.list-membership-container .create-a-list:hover,\n.new-tweets-bar,\n\n\n\n.card .list-details a:hover,\n.card .list-details a:focus,\n.card .card-body:hover .attribution,\n.card .card-body .attribution:focus {\n  color: #045FAA;\n}\n\n\n\n\n  \n  .FoundMediaSearch--keyboard .FoundMediaSearch-focusable.is-focused {\n    border-color: #045FAA;\n  }\n\n  \n  .photo-selector:hover .btn,\n  .icon-btn:hover,\n  .icon-btn:active,\n  .icon-btn.active,\n  .icon-btn.enabled {\n    border-color: #045FAA;\n    border-color: rgba(4,95,170,0.4);\n    color: #045FAA;\n  }\n\n  \n  .photo-selector:hover .btn,\n  .icon-btn:hover {\n    background-image: linear-gradient(rgba(255,255,255,0), rgba(4,95,170,0.1));\n  }\n\n  .icon-btn.disabled,\n  .icon-btn.disabled:hover,\n  .icon-btn[disabled],\n  .icon-btn[aria-disabled=true] {\n    color: #045FAA;\n  }\n\n  \n  \n\n  .EdgeButton--primary,\n  .EdgeButton--primary:focus {\n    background-color: #367EBB;\n    border-color: transparent;\n  }\n\n  .EdgeButton--primary:hover,\n  .EdgeButton--primary:active {\n    background-color: #045FAA;\n    border-color: #045FAA;\n  }\n\n  .EdgeButton--primary:focus {\n    box-shadow:\n      0 0 0 2px #FFFFFF,\n      0 0 0 4px #9ABFDD;\n  }\n\n  .EdgeButton--primary:active {\n    box-shadow:\n      0 0 0 2px #FFFFFF,\n      0 0 0 4px #367EBB;\n  }\n\n  \n  \n\n  .EdgeButton--secondary,\n  .EdgeButton--secondary:hover,\n  .EdgeButton--secondary:focus,\n  .EdgeButton--secondary:active {\n    border-color: #045FAA;\n    color: #045FAA;\n  }\n\n  .EdgeButton--secondary:hover,\n  .EdgeButton--secondary:active {\n    background-color: #E5EFF6;\n  }\n\n  .EdgeButton--secondary:focus {\n    box-shadow:\n      0 0 0 2px #FFFFFF,\n      0 0 0 4px rgba(4,95,170,0.4);\n  }\n\n  .EdgeButton--secondary:active {\n    box-shadow:\n      0 0 0 2px #FFFFFF,\n      0 0 0 4px #045FAA;\n  }\n\n  \n  \n\n  .EdgeButton--invertedPrimary {\n    color: #045FAA !important;\n  }\n\n  .EdgeButton--invertedPrimary:focus {\n    box-shadow:\n      0 0 0 2px #045FAA,\n      0 0 0 4px #9ABFDD;\n  }\n\n  .EdgeButton--invertedPrimary:active {\n    box-shadow:\n      0 0 0 2px #045FAA,\n      0 0 0 4px #FFFFFF;\n  }\n\n  \n  \n\n  .EdgeButton--invertedSecondary {\n    background-color: #045FAA;\n  }\n\n  .EdgeButton--invertedSecondary:hover {\n    background-color: #367EBB;\n  }\n\n  .EdgeButton--invertedSecondary:focus {\n    box-shadow:\n      0 0 0 2px #045FAA,\n      0 0 0 4px #9ABFDD;\n  }\n\n  .EdgeButton--invertedSecondary:active {\n    box-shadow:\n      0 0 0 2px #045FAA,\n      0 0 0 4px #FFFFFF;\n  }\n\n  \n\n  .btn:focus,\n  .btn.focus,\n  .Button:focus,\n  .EmojiPicker-item.is-focused,\n  .EmojiPicker .EmojiCategoryIcon:focus,\n  .EmojiPicker-skinTone:focus + .EmojiPicker-skinToneSwatch,\n  a:focus > img:first-child:last-child,\n  button:focus {\n    box-shadow:\n      0 0 0 2px #FFFFFF,\n      0 0 2px 4px rgba(4,95,170,0.4);\n  }\n\n  .selected-stream-item:focus {\n    box-shadow: 0 0 0 3px rgba(4,95,170,0.4);\n  }\n\n  \n  .js-navigable-stream.stream-table-view .selected-stream-item[tabindex="-1"]:focus {\n    outline: 3px solid rgba(4,95,170,0.4) !important;\n  }\n\n  \n  .js-navigable-stream.stream-table-view .selected-stream-item:focus {\n    box-shadow: none;\n  }\n\n  \n\n  .global-dm-nav.new.with-count .dm-new .count-inner {\n    background: #045FAA;\n  }\n\n  .global-nav .people .count .count-inner {\n    background: #045FAA;\n  }\n\n  .dropdown-menu li > a:hover,\n  .dropdown-menu li > a:focus,\n  .dropdown-menu .dropdown-link:hover,\n  .dropdown-menu .dropdown-link:focus,\n  .dropdown-menu .dropdown-link.is-focused,\n  .dropdown-menu li:hover .dropdown-link,\n  .dropdown-menu li:focus .dropdown-link,\n  .dropdown-menu .selected a,\n  .dropdown-menu .dropdown-link.selected {\n    background-color: #045FAA !important;\n  }\n\n  /* for items in typeahead dropdown menu on logged in pages */\n  .dropdown-menu .typeahead-items li > a:focus,\n  .dropdown-menu .typeahead-items li > a:hover,\n  .dropdown-menu .typeahead-items .selected,\n  .dropdown-menu .typeahead-items .selected a {\n    background-color: #E5EFF6 !important;\n    color: #045FAA !important;\n  }\n\n  .typeahead a:hover,\n  .typeahead a:hover strong,\n  .typeahead a:hover .fullname,\n  .typeahead .selected a,\n  .typeahead .selected strong,\n  .typeahead .selected .fullname,\n  .typeahead .selected .Icon--close {\n    color: #045FAA !important;\n  }\n\n\n.home-tweet-box,\n.LiveVideo-tweetBox,\n.RetweetDialog-commentBox {\n  background-color: #E5EFF6;\n}\n\n.top-timeline-tweetbox .timeline-tweet-box .tweet-form.condensed .tweet-box {\n  color: #045FAA;\n}\n\n.RichEditor,\n.TweetBoxAttachments {\n  border-color: #C0D7E9;\n}\n\ninput:focus,\ntextarea:focus,\ndiv[contenteditable="true"]:focus,\ndiv[contenteditable="true"].fake-focus,\ndiv[contenteditable="plaintext-only"]:focus,\ndiv[contenteditable="plaintext-only"].fake-focus {\n  border-color: #9ABFDD;\n  box-shadow: inset 0 0 0 1px rgba(4,95,170,0.7);\n}\n\n.tweet-box textarea:focus,\n.tweet-box input[type=text],\n.currently-dragging .tweet-form.is-droppable .tweet-drag-help,\n.tweet-box[contenteditable="true"]:focus,\n.RichEditor.is-fakeFocus,\n.RichEditor.is-fakeFocus ~ .TweetBoxAttachments {\n  border-color: #9ABFDD;\n  box-shadow: 0 0 0 1px #9ABFDD;\n}\n\n.MomentCapsuleItem.selected-stream-item:focus {\n  box-shadow: 0 0 0 3px rgba(4,95,170,0.4);\n}\n\n\n\n\ns,\n.pretty-link:hover s,\n.pretty-link:focus s,\n.stream-item-activity-notification .latest-tweet .tweet-row a:hover s,\n.stream-item-activity-notification .latest-tweet .tweet-row a:focus s {\n    color: #045FAA;\n}\n\n\n\n.vellip,\n.vellip:before,\n.vellip:after,\n.conversation-module > li:after,\n.conversation-module > li:before,\n.ThreadedConversation--loneTweet:after,\n.ThreadedConversation-tweet:not(.is-hiddenAncestor) ~ .ThreadedConversation-tweet:before,\n.ThreadedConversation-tweet:after,\n.ThreadedConversation-moreReplies:before,\n.ThreadedConversation-viewOther:before,\n.ThreadedConversation-unavailableTweet:before,\n.ThreadedConversation-unavailableTweet:after,\n.ThreadedConversation--permalinkTweetWithAncestors:before,\n.mini-avatar-with-thread:before,\n.permalink.self-thread-permalink-with-descendant .permalink-tweet-container:after,\n.permalink.self-thread-permalink-with-descendant .inline-reply-tweetbox-container:after {\n    border-color: #9ABFDD;\n}\n\n\n\n\n.tweet .sm-reply,\n.tweet .sm-rt,\n.tweet .sm-fav,\n.tweet .sm-image,\n.tweet .sm-video,\n.tweet .sm-audio,\n.tweet .sm-geo,\n.tweet .sm-in,\n.tweet .sm-trash,\n.tweet .sm-more,\n.tweet .sm-page,\n.tweet .sm-embed,\n.tweet .sm-summary,\n.tweet .sm-chat,\n\n.timelines-navigation .active .profile-nav-icon,\n.timelines-navigation .profile-nav-icon:hover,\n.timelines-navigation .profile-nav-link:focus .profile-nav-icon,\n\n.sm-top-tweet {\n    background-color: #045FAA;\n}\n\n.enhanced-mini-profile .mini-profile .profile-summary {\n  background-image: url(https://pbs.twimg.com/profile_banners/63777448/1501508403/mobile);\n}\n\n  #global-tweet-dialog .modal-header,\n  #Tweetstorm-dialog .modal-header {\n    border-bottom: solid 1px rgba(4,95,170,0.25);\n  }\n\n  #global-tweet-dialog .modal-tweet-form-container,\n  #Tweetstorm-dialog .modal-body {\n    background-color: #045FAA;\n    background: rgba(4,95,170,0.1);\n  }\n\n  .TweetstormDialog-reply-context .tweet-box-avatar:after,\n  .TweetstormDialog-reply-context .tweet-box-avatar:before,\n  .TweetstormDialog-tweet-box .tweet-box-avatar:after,\n  .TweetstormDialog-tweet-box .tweet-box-avatar:before {\n    border-color: #9ABFDD;\n  }\n\n  .global-nav .search-input:focus,\n  .global-nav .search-input.focus {\n    border: 2px solid #045FAA;\n  }\n}\n\n  .inline-reply-tweetbox {\n    background-color: #E5EFF6;\n  }\n\n
+\n\n\n    
+\n  
+\n\n    
+\n  
+\n    
+\n  
+\n\n  
+\n\n    
+\n      
+\n    
+\n        
+\n    
+\n
+\n\n    
+\n\n\n    
+\n  
+\n\n
+\n\n\n    
+\n      \n      
+\n        
+\n          
+\n            
+\n              
+\n  
+\n    
+\n  
+\n  
+\n    
+\n  
+\n    
+\n      LaurentianUniversity
+Verified account
+\n
+\n    
+\n      
+\n        
+@
+LaurentianU
+\n      
+\n    
+\n  
+\n
+\n\n            
+\n          
+\n\n          
+\n            
+\n              \n  
+\n    
+\n
+\n          
+\n            
+Tweets
+\n              
+Tweets, current page.
+\n            
+16.4K\n            
+\n          
+\n        
+\n        
+\n          
+Following
+\n            
+Following
+\n          
+1,932
+\n        
+\n      
+\n        
+\n          
+Followers
+\n            
+Followers
+\n          
+12K
+\n        
+\n      
+\n        
+\n          
+Likes
+\n            
+Likes
+\n          
+13.6K
+\n        
+\n      
+\n        
+\n          
+Lists
+\n            
+Lists
+\n          
+9
+\n        
+        
+\n          
+\xa0
+\n          
+More 
+\n        
+\n        
+\n          
+\n            
+\n            
+\n          
+\n          
+\n              
+Likes
+\n              
+Lists
+\n        
+\n      
+\n        
+\n    
+\n      
+\n          
+\n            
+Unmute 
+@
+LaurentianU
+\n          
+\n            
+Mute 
+@
+LaurentianU
+\n          
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+LaurentianU
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+LaurentianU
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+LaurentianU
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+LaurentianU
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+LaurentianU
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+LaurentianU
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+LaurentianU
+\n  
+\n
+\n\n\n    
+\n
+\n\n      
+\n    
+\n  
+\n\n            
+\n          
+\n        
+\n      
+\n    
+\n\n  
+\n
+\n\n\n\n    
+\n      
+\n        
+\n          
+\n            
+\n              
+\n                
+\n  
+\n  
+\n    
+LaurentianUniversity
+Verified account
+\n  
+\n\n  
+\n    
+\n      
+@
+LaurentianU
+\n    
+\n  
+\n\n    
+Laurentian University / Universit\xe9 Laurentienne. Explore our beautiful campus, it's all here. D\xe9couvrez la Laurentienne, tout y est.
+\n\n    
+\n      
+\n      
+\n            Greater Sudbury /Grand Sudbury\n\n      
+\n    
+\n\n    
+\n      
+\n      
+  
+\n    laurentian.ca\n  
+\n\n
+\n    
+\n\n\n\n    
+\n      
+\n      
+Joined August 2009
+\n    
+\n\n    
+\n      
+\n      
+\n
+\n    
+\n\n\n
+\n\n\n\n\n\n      
+\n  
+\n    
+\n    
+\n            
+\n                \n                1,294 Photos and videos\n            
+\n          
+\n            Photos and videos\n          
+\n    
+\n  
+\n  
+\n    
+\n  
+\n
+\n\n\n\n
+\n\n              
+\n            
+\n          
+\n\n          
+\n            
+\n                
+\n                  
+\n                
+\n\n              
+\n                  \n                    
+\n  
+\n    
+\n      
+Tweets
+\n        
+\n            
+\n                
+Tweets
+\n                
+Tweets, current page.
+\n            
+\n            
+\n                
+\n                  Tweets & replies\n                
+\n            
+\n            
+\n                
+\n                  Media\n                
+\n            
+\n        
+\n    
+\n
+\n\n                  
+\n  
+You blocked 
+@
+LaurentianU
+\n  
+Are you sure you want to view these Tweets? Viewing Tweets won't unblock 
+@
+LaurentianU
+\n  
+Yes, view profile
+\n
+\n                  \n\n\n\n\n  
+\n  
+\n    
+\n\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n\n      
+\n        
+\n            \n            LaurentianUniversity followed\n        
+\n      
+\n\n      
+\n        
+\n          
+\n        
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n\n\n\n    
+\n        
+\n      
+\n
+\n\n    
+\n        
+\n          \n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+LaurentianUniversity
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+LU Philanthropy
+\u200f
+\xa0
+@
+LULPhilanthropy
+\n\n        \n        
+\n  
+Nov 24
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+This 
+@
+GivingTuesdayCa
+ (Nov. 28th), you can make an 
+#
+LULimpact
+ on the education of 
+@
+LaurentianU
+ students by donating to the 
+@
+lu_environment
+! 
+#
+SOTEfieldcourse
+ 
+@
+lu_sotesa
+https://www.
+youtube.com/watch?v=kl7iOS
+l6xrc&list=PLxokWSCgrtBU9VXFJGoRTqtXUkoFn1bfZ&index=3
+\xa0
+\u2026
+\n
+\n\n\n      \n\n      \n        \n\n\n      \n          
+\n    
+\n
+\n\n
+\n\n\n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+5 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+4 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+5
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+5
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+4
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+4
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+LaurentianUniversity
+\u200f
+Verified account
+\xa0
+@
+LaurentianU
+\n\n        \n        
+\n  
+Nov 24
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Did you know we're among the two universities in Canada with their own planetarium? Aujourd'hui le plan\xe9tarium Doran c\xe9l\xe8bre son 50e anniversaire!
+pic.twitter.com/uSUoiSw6xk
+\n
+\n\n\n      \n\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n\n
+\n      
+\n    
+\n  
+\n\n\n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+3 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+17 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+3
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+3
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+17
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+17
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+LaurentianUniversity
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+SPAD @LaurentianU
+\u200f
+\xa0
+@
+LU_SPAD
+\n\n        \n        
+\n  
+Nov 24
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n        
+\n          
+Embed Video
+\n        
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+It\u2019s on! 9th 
+#
+GameDay
+ underway with high energy entrance of 
+#
+SPADbeauties
+ 
+@
+LaurentianU
+pic.twitter.com/ZGjbEucja9
+\n
+\n\n\n      \n\n      \n            
+\n    
+\n      
+\n          
+\n  
+\n      
+\n\n\n  
+\n    
+\n    
+\n\n  
+\n
+\n\n  
+\n
+\n\n      
+\n    
+\n  
+\n\n\n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+1 reply
+\n      
+\n    
+\n    
+\n      
+\n        
+10 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+41 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+1
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+10
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+10
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+41
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+41
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+LaurentianUniversity
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+CTV Northern Ontario
+\u200f
+Verified account
+\xa0
+@
+CTVNorthernNews
+\n\n        \n        
+\n  
+Nov 23
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Northern Ontario\u2019s largest planetarium is celebrating 50 years of recreating the night sky at 
+@
+LaurentianU
+. 
+@
+CTVIsaacCohen
+ reports. 
+#
+doranplanetarium
+ 
+#
+lulmoments
+ 
+#
+scicomm
+http://
+bit.ly/2mWlPp7
+\xa0
+\n
+\n\n\n      \n\n      \n        \n\n\n      \n          
+\n    
+\n
+\n\n
+\n\n\n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+5 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+12 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+5
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+5
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+12
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+12
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+LaurentianUniversity
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+Kristy Rousseau
+\u200f
+\xa0
+@
+KristyRousseau
+\n\n        \n        
+\n  
+Nov 23
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Wowsers! Did you know your gift in support of Laurentian University students and research can be doubled this year on GivingTuesday (Nov 28)?  Check out these great opportunities for matching: 
+https://
+laurentian.ca/give/giving-tu
+esday-2/
+\xa0
+\u2026
+ 
+#
+lulimpact
+pic.twitter.com/9F4XNqLsGF
+\n
+\n\n\n      \n\n      \n            
+\n    
+\n      
+\n          
+\n  
+\n      
+\n\n\n  
+\n    
+\n    
+\n\n  
+\n
+\n\n  
+\n
+\n\n      
+\n    
+\n  
+\n\n\n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+2 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+7 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+19 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+2
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+7
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+7
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+19
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+19
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+LaurentianUniversity
+\u200f
+Verified account
+\xa0
+@
+LaurentianU
+\n\n        \n        
+\n  
+Nov 22
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n          
+LaurentianUniversity Retweeted The Conversation Canada
+\n\n\n
+\n  
+You learn something new every day! Les tortues sont incroyables.
+https://
+twitter.com/ConversationCA
+/status/933354738325835782
+\xa0
+\u2026
+\n
+\n\n\n
+LaurentianUniversity added,
+\n  \n      
+\n  
+\n    
+\n    
+\n    
+\n      
+\n            
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n
+\n\n\n      
+\n  
+\n\n        
+\n            \n  
+\n    
+The Conversation Canada
+\xa0
+@
+ConversationCA
+\n  
+\n\n          \n          
+#
+DidYouKnow
+ that freshwater 
+#
+turtles
+ in 
+#
+hibernation
+ breathe through their butts? Yes, really: 
+http://
+bit.ly/2jM1di0
+\xa0
+ 
+@
+LaurentianU
+ 
+pic.twitter.com/C6KzsofF32
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n\n      \n\n      \n        \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+1 reply
+\n      
+\n    
+\n    
+\n      
+\n        
+6 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+27 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+1
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+6
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+6
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+27
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+27
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+LaurentianUniversity
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+The Conversation Canada
+\u200f
+\xa0
+@
+ConversationCA
+\n\n        \n        
+\n  
+Nov 22
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+#
+DidYouKnow
+ that freshwater 
+#
+turtles
+ in 
+#
+hibernation
+ breathe through their butts? Yes, really: 
+http://
+bit.ly/2jM1di0
+\xa0
+ 
+@
+LaurentianU
+pic.twitter.com/C6KzsofF32
+\n
+\n\n\n      \n\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n\n
+\n      
+\n    
+\n  
+\n\n\n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+4 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+7 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+4
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+4
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+7
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+7
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+LaurentianUniversity
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+Pierre Zundel
+\u200f
+\xa0
+@
+PierreZundel
+\n\n        \n        
+\n  
+Nov 22
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Congratulations to our 
+@
+LUexcellence
+ team for winning the Access Award at 
+@
+eCampusOntario
+ 
+#
+TESS17
+ workshops for the flexible exam options for distance learners 
+@
+LaurentianU
+ .  Beau travail!
+pic.twitter.com/i4iBwKEblk
+\n
+\n\n\n      \n\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n\n
+\n      
+\n    
+\n  
+\n\n\n\n        
+\n    
+\n        
+Shelley
+\n\n  
+\n\n
+\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+7 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+34 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+7
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+7
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+34
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+34
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+LaurentianUniversity
+\u200f
+Verified account
+\xa0
+@
+LaurentianU
+\n\n        \n        
+\n  
+Nov 21
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Our men's basketball team is now the 7th ranked team in Canada! That's their highest ranking since 2000! F\xe9licitations \xe0 notre \xe9quipe de basketball masculin, qui se place au septi\xe8me rang au pays!
+pic.twitter.com/vFDGgUwGO6
+\n
+\n\n\n      \n\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n\n
+\n      
+\n    
+\n  
+\n\n\n\n        
+\n    
+\n        
+LU Men's Basketball
+\n\n  
+\n\n
+\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+1 reply
+\n      
+\n    
+\n    
+\n      
+\n        
+11 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+37 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+1
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+11
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+11
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+37
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+37
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+LaurentianUniversity
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+LU Philanthropy
+\u200f
+\xa0
+@
+LULPhilanthropy
+\n\n        \n        
+\n  
+Nov 21
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+7 days left for the most generous time of the year! 
+@
+GivingTuesdayCa
+ 
+#
+LULimpact
+\n
+\n\n\n      \n\n      \n        \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+3 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+5 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+3
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+3
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+5
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+5
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+LaurentianUniversity
+\u200f
+Verified account
+\xa0
+@
+LaurentianU
+\n\n        \n        
+\n  
+Nov 21
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n          
+LaurentianUniversity Retweeted Dr. Aaron Skellington\u2122
+\n\n\n
+\n  
+https://
+twitter.com/aaron_lucs/sta
+tus/932956149330067456
+\xa0
+\u2026
+\n
+\n\n\n
+LaurentianUniversity added,
+\n  \n      
+\n  
+\n    
+\n    
+\n    
+\n      
+\n            
+\n      
+\n          
+\n    
+\n      
+\n  
+\n
+\n\n    
+\n    
+\n      
+\n  
+\n
+\n\n    
+\n
+\n      
+\n  
+\n\n        
+\n            \n  
+\n    
+Dr. Aaron Skellington\u2122
+\xa0
+@
+aaron_lucs
+\n  
+\n\n          \n          
+Today is off to a lovely start.  
+#
+LaurentianTrail
+ 
+#
+nofilter
+ 
+#
+sudbury
+ 
+pic.twitter.com/PqxpIJkVA4
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n\n      \n\n      \n        \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+1 retweet
+\n      
+\n    
+\n    
+\n      
+\n        
+11 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+1
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+1
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+11
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+11
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+LaurentianUniversity
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+Ernst Gerhardt
+\u200f
+\xa0
+@
+eeseejee
+\n\n        \n        
+\n  
+Nov 14
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Sudbury folks: on Dec. 6, I'll be staging a modernized version of a medieval Shepherds' Play AND 
+@
+eatverdicchio
+ will serve a multi-course medieval feast, complete with suckling pig!\n\nYou can get your tix from me or Verdicchio's.
+pic.twitter.com/lnuPocLkOQ
+\n
+\n\n\n      \n\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n\n
+\n      
+\n    
+\n  
+\n\n\n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+24 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+15 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+24
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+24
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+15
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+15
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+LaurentianUniversity
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+Dr. Aaron Skellington\u2122
+\u200f
+\xa0
+@
+aaron_lucs
+\n\n        \n        
+\n  
+Nov 20
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Stopped by the 
+@
+LaurentianU
+  each today.  I love the way it looks, with snow and grey skies, before it freezes.   
+#
+trailwalk
+ 
+#
+campuslife
+ 
+#
+weliveuphere
+ 
+#
+nofilter
+pic.twitter.com/p8jXRK0skn
+\n
+\n\n\n      \n\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n      
+\n  
+\n
+\n\n\n    
+\n    
+\n      
+\n  
+\n
+\n\n\n    
+\n
+\n\n      
+\n    
+\n  
+\n\n\n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+1 reply
+\n      
+\n    
+\n    
+\n      
+\n        
+1 retweet
+\n      
+\n    
+\n    
+\n      
+\n        
+24 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+1
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+1
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+1
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+24
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+24
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+LaurentianUniversity
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+ISA Laurentian
+\u200f
+\xa0
+@
+IndigenousLU
+\n\n        \n        
+\n  
+Nov 20
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n          
+ISA Laurentian Retweeted Joey-Lynn Wabie
+\n\n\n
+\n  
+Tomorrow in the Indigenous Sharing and Learning Centre 
+@
+LaurentianU
+ ! Come out and have a traditional lunch for just $10 and it's for a vital cause! 
+@
+ISC_Laurentian
+ 
+@
+UofSudbury
+ 
+@
+UofSIndigenous
+ 
+@
+LaurentianISWK
+ 
+@
+ISWK_LU
+https://
+twitter.com/JLWabie/status
+/930282678380912640
+\xa0
+\u2026
+\n
+\n\n\n
+ISA Laurentian added,
+\n  \n      
+\n  
+\n    
+\n    
+\n    
+\n      
+\n            
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n
+\n\n\n      
+\n  
+\n\n        
+\n            \n  
+\n    
+Joey-Lynn Wabie
+\xa0
+@
+JLWabie
+\n  
+\n\n          \n          
+Epic lunch fundraiser Nov 21 for 
+@
+WWOS_Sudbury
+ ! 
+#
+ISWK2315
+ students host lunch, led by 
+@
+MIRprogram1
+ student 
+@
+rowatjulia
+ feat. mooz meat, wild rice, skaan, & berries.  $10/plate.  Silent auction.  Orders 5+ can be delivered off & across campus. Tweet us your order 
+@
+WWOS_Sudbury
+ ! 
+pic.twitter.com/jaCSQWazpS
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n\n      \n\n      \n        \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+6 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+7 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+6
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+6
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+7
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+7
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+LaurentianUniversity
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+CROSH
+\u200f
+\xa0
+@
+CROSH_CRSST
+\n\n        \n        
+\n  
+Nov 19
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Tomorrow 
+@
+LaurentianU
+, 
+@
+LUHumanKinetics
+' MHK Student 
+@
+TooleyAmber
+ proposes 
+#
+research
+ on reliability/validity of 
+#
+wearabletech
+ to measure 
+#
+sleep
+!
+pic.twitter.com/0rXFS855d6
+\n
+\n\n\n      \n\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n\n
+\n      
+\n    
+\n  
+\n\n\n\n        
+\n    
+\n    
+sandra dorman
+,\n    
+Laurentian Research
+,\n    
+SHKSA
+ and\n    
+4 others
+\n      
+\n        
+\n            
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+sandradorman1
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+sandradorman1
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+sandradorman1
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+sandradorman1
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+sandradorman1
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+sandradorman1
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+sandradorman1
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+sandra dorman
+Verified account
+\xa0
+@
+sandradorman1
+\n        
+\n      
+\n            
+\n                Laurentian University / Universit\xe9 Laurentienne. Explore our beautiful campus, it's all here. D\xe9couvrez la Laurentienne, tout y est.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+ResearchLUL
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+ResearchLUL
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+ResearchLUL
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+ResearchLUL
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+ResearchLUL
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+ResearchLUL
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+ResearchLUL
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+Laurentian Research
+Verified account
+\xa0
+@
+ResearchLUL
+\n        
+\n      
+\n            
+\n                Laurentian University / Universit\xe9 Laurentienne. Explore our beautiful campus, it's all here. D\xe9couvrez la Laurentienne, tout y est.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+LUHumanKinetics
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+LUHumanKinetics
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+LUHumanKinetics
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+LUHumanKinetics
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+LUHumanKinetics
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+LUHumanKinetics
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+LUHumanKinetics
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+SHKSA
+Verified account
+\xa0
+@
+LUHumanKinetics
+\n        
+\n      
+\n            
+\n                Laurentian University / Universit\xe9 Laurentienne. Explore our beautiful campus, it's all here. D\xe9couvrez la Laurentienne, tout y est.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+TooleyAmber
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+TooleyAmber
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+TooleyAmber
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+TooleyAmber
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+TooleyAmber
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+TooleyAmber
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+TooleyAmber
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+Amber Tooley
+Verified account
+\xa0
+@
+TooleyAmber
+\n        
+\n      
+\n            
+\n                Laurentian University / Universit\xe9 Laurentienne. Explore our beautiful campus, it's all here. D\xe9couvrez la Laurentienne, tout y est.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+GSAAEES
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+GSAAEES
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+GSAAEES
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+GSAAEES
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+GSAAEES
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+GSAAEES
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+GSAAEES
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+GSA / A\xc9\xc9S
+Verified account
+\xa0
+@
+GSAAEES
+\n        
+\n      
+\n            
+\n                Laurentian University / Universit\xe9 Laurentienne. Explore our beautiful campus, it's all here. D\xe9couvrez la Laurentienne, tout y est.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+mcmatichuk
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+mcmatichuk
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+mcmatichuk
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+mcmatichuk
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+mcmatichuk
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+mcmatichuk
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+mcmatichuk
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+Marianne Matichuk
+Verified account
+\xa0
+@
+mcmatichuk
+\n        
+\n      
+\n            
+\n                Laurentian University / Universit\xe9 Laurentienne. Explore our beautiful campus, it's all here. D\xe9couvrez la Laurentienne, tout y est.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n  
+\n    \n
+\n\n\n\n    \n\n    \n    
+\n      
+\n  
+\n  
+\n      
+Follow
+\n      
+Follow 
+@
+WearableTech
+\n  
+\n  
+\n      
+Following
+\n      
+Following 
+@
+WearableTech
+\n  
+\n  
+\n      
+Unfollow
+\n      
+Unfollow 
+@
+WearableTech
+\n  
+\n  
+\n    
+Blocked
+\n    
+Blocked 
+@
+WearableTech
+\n  
+\n  
+\n    
+Unblock
+\n    
+Unblock 
+@
+WearableTech
+\n  
+\n  
+\n    
+Pending
+\n    
+Pending follow request from 
+@
+WearableTech
+\n  
+\n  
+\n    
+Cancel
+\n    
+Cancel your follow request to 
+@
+WearableTech
+\n  
+\n
+\n\n    \n\n
+\n\n    
+\n\n\n  
+\n    
+\n      
+\n        
+\n          
+\n          
+WearableTechnologies
+Verified account
+\xa0
+@
+WearableTech
+\n        
+\n      
+\n            
+\n                Laurentian University / Universit\xe9 Laurentienne. Explore our beautiful campus, it's all here. D\xe9couvrez la Laurentienne, tout y est.\n            
+\n\n      \n\n    
+\n  
+\n
+\n\n\n
+\n\n\n        
+\n      
+\n  
+\n\n
+\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+4 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+3 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+4
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+4
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+3
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+3
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+LaurentianUniversity
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+K M
+\u200f
+\xa0
+@
+AzhiniienhsKwe
+\n\n        \n        
+\n  
+Nov 17
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Come listen to us talk today as part of 
+#
+Indigenous
+ Education Week 
+@
+LaurentianU
+ ! Starting at 10 am in the ISLC round room.
+pic.twitter.com/0Vzwdg6b97
+\n
+\n\n\n      \n\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n      
+\n  
+\n
+\n\n\n    
+\n    
+\n      
+\n  
+\n
+\n\n\n    
+\n
+\n\n      
+\n    
+\n  
+\n\n\n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+1 retweet
+\n      
+\n    
+\n    
+\n      
+\n        
+7 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+1
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+1
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+7
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+7
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+LaurentianUniversity
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+Pierre Zundel
+\u200f
+\xa0
+@
+PierreZundel
+\n\n        \n        
+\n  
+Nov 17
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Congratulations to 
+@
+LaurentianU
+ Faculty of Education members who won the Learning Disability Association of Sudbury Award for their exemplary engagement with students and teachers. We'll done!
+pic.twitter.com/wFKf6gVBMD
+\n
+\n\n\n      \n\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n\n
+\n      
+\n    
+\n  
+\n\n\n\n        
+\n    
+\n    
+Lace Marie Brogden
+ and\n    
+Greater Sudbury 
+\xa0
+\u2728
+\n  
+\n\n
+\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+6 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+25 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+6
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+6
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+25
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+25
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+LaurentianUniversity
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+Pierre Zundel
+\u200f
+\xa0
+@
+PierreZundel
+\n\n        \n        
+\n  
+Nov 16
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+@
+Niigaanwewidam
+ speaking of debwewin (truth) to a packed Indigenous Sharing and Learning Centre 
+@
+LaurentianU
+pic.twitter.com/a13d4k97df
+\n
+\n\n\n      \n\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n\n
+\n      
+\n    
+\n  
+\n\n\n\n        
+\n    
+\n    
+Pamela Toulouse
+,\n    
+Joey-Lynn Wabie
+,\n    
+\xc9milie_BT
+ and\n    
+Randi Ray
+\n  
+\n\n
+\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+2 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+6 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+21 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+2
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+6
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+6
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+21
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+21
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+LaurentianUniversity
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+CNIE-RCI\xc9
+\u200f
+\xa0
+@
+CNIE_RCIE
+\n\n        \n        
+\n  
+Nov 1
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+The Call for Presentation Proposals for 
+#
+CNIE2018
+  
+@
+LaurentianU
+ is now live!
+http://
+goo.gl/7z8XVi
+\xa0
+\n
+\n\n\n      \n\n      \n        \n\n\n      \n          
+\n    
+\n
+\n\n
+\n\n\n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+5 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+4 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+5
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+5
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+4
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+4
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n      
+\n    \n\n\n\n  
+\n\n    
+\n      \n          
+\n\n      
+\n\n\n\n            
+\n                
+LaurentianUniversity
+ Retweeted\n            
+\n\n\n      \n\n\n    
+\n\n    
+\n\n    
+\n      \n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+Harquail School
+\u200f
+\xa0
+@
+HarquailES
+\n\n        \n        
+\n  
+Nov 16
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+Embed Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Very interesting 
+#
+geology
+ photo gallery with explanations 
+@
+SocietyEconGeol
+ 
+@
+LaurentianU
+ in Michigan, October 2017 
+https://www.
+luseg.ca/michigan-2017-
+pics
+\xa0
+\u2026
+pic.twitter.com/KobK1WrACb
+\n
+\n\n\n      \n\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n      
+\n  
+\n
+\n\n\n    
+\n    
+\n      
+\n  
+\n
+\n\n\n    
+\n
+\n\n      
+\n    
+\n  
+\n\n\n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+3 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+4 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+3
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+3
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+4
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+4
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n\n    \n
+\n  
+\n      
+\n        
+Thanks. Twitter will use this to make your timeline better. 
+Undo
+\n      
+\n  
+\n
+\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n        
+\n        
+\n  
+\n      
+\n    
+\n        
+\n\n      
+\n\n          @LaurentianU hasn't Tweeted yet.\n      
+\n\n        
+Back to top \u2191
+\n    
+\n  
+\n\n\n    
+\n  
+\n    
+\n  
+\n
+\n\n  
+\n
+\n
+\n    
+\n  
+\n    
+Loading seems to be taking a while.
+\n    
+\n      Twitter may be over capacity or experiencing a momentary hiccup. 
+Try again
+ or visit 
+Twitter Status
+ for more information.\n    
+\n  
+\n
+\n
+\n\n      
+\n    
+\n  
+\n    
+\n\n\n              
+\n\n                  
+\n                    
+\n                      
+\n                        
+\n                          
+\n                            \n
+\n\n      
+\n  
+\n    
+\n      New to Twitter?\n    
+\n  
+\n  
+\n    Sign up now to get your own personalized timeline!\n  
+\n  
+\n  
+Sign up
+\n
+\n\n
+\n\n\n      
+\n  
+\n    
+You may also like
+\n    \xb7\n    
+Refresh
+\n  
+\n\n  
+\n  
+\n
+\n\n\n\n    
+\n  
+\n    
+\n  
+\n    \n    
+false
+\n  
+\n  
+\n    
+\n    
+\n  
+\n
+\n\n  
+\n
+\n\n\n  
+\n  
+\n    
+\n      
+\n        
+\xa9 2017 Twitter
+\n        
+About
+\n        
+Help Center
+\n        
+Terms
+\n        
+Privacy policy
+\n        
+Cookies
+\n        
+Ads info
+\n      
+\n    
+\n  
+\n\n
+\n
+\n\n                          
+\n                        
+\n                      
+\n                    
+\n                  
+\n\n            
+\n          
+\n\n        
+\n      
+\n    
+\n\n    
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n          
+\n            \n            Choose a trend location\n          
+\n      
+\n\n      
+\n\n\n        
+\n          
+\n        
+\n\n        
+\n          \n          
+\n            
+\n          
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n            
+\n          
+\n    
+\n    
+\n    
+\n  
+\n    
+\n      
+\n        
+Dismiss
+\n      
+\n  
+\n
+\n
+\n\n    \n\n\n
+\n
+\n  
+\n  
+\n  
+\n    
+\n  
+\n    
+Close
+\n  
+\n
+\n\n    
+\n    
+\n      
+\n        
+\n          
+\n            Previous\n          
+\n        
+\n      
+\n    
+\n    
+\n      
+\n        
+\n          
+\n            Next\n          
+\n        
+\n      
+\n    
+\n    
+\n  
+\n
+\n\n\n\n
+\n\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n\n      
+\n        
+Go to a person's profile
+\n      
+\n\n      
+\n        
+\n          
+\n            
+\n            \n\n\n
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    
+\n  
+Saved searches
+\n  
+\n    \n    
+\n      
+Remove
+\n      
+\n    
+\n  
+\n
+\n\n    
+\n  \n  
+\n    
+\n  
+\n
+\n    
+\n  \n  
+\n    \n    
+\n      
+\n        
+\n        
+In this conversation
+\n      
+\n      
+\n      
+\n        
+Verified account
+Protected Tweets
+\xa0
+@
+\n      
+\n      
+\n    
+\n  
+\n  
+\n
+\n\n    
+\n  \n  
+\n
+\n    \n
+\n  
+\n    Suggested users\n  
+\n  
+\n    \n    
+\n      \n      
+\n        
+\n        
+\n          
+\n          
+\n          
+Verified account
+Protected Tweets
+\xa0
+@
+\n        
+\n      
+\n    
+\n    
+\n  
+\n\n  
+\n    \n    
+\n      \n      
+\n        
+\n        
+\n          
+\n          
+\n          
+Verified account
+Protected Tweets
+\xa0
+@
+\n        
+\n      
+\n    
+\n    
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n    
+\n  
+\n
+\n  
+\n
+\n\n          
+\n        
+\n      
+\n\n    
+\n  
+\n
+\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Promote this Tweet
+\n      
+\n      
+\n        
+\n          
+\n            
+\n            
+\n          
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n\n      
+\n        
+Block
+\n      
+\n\n      
+\n  
+\n
+\n\n      
+\n\n      
+\n        
+Cancel
+\n        
+Block
+\n      
+\n    
+\n  
+\n
+\n\n\n\n\n\n\n   
+\n    
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    
+\n      
+Tweet with a location
+\n      
+\n        You can add location information to your Tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your Tweet location history.\n        
+Learn more
+\n      
+\n      
+\n        
+Turn on
+\n        
+Not now
+\n      
+\n    
+\n  
+\n
+\n\n  
+\n\n
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    
+\n      
+\n      
+\n    
+\n    
+\n    
+\n  
+\n
+\n\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Share Location
+\n      
+\n      
+\n        
+\n          
+\n          
+\n        
+\n      
+\n\n      
+\n        
+\n          
+\n          
+\n\n          
+\n            
+\n          
+\n\n          
+\n            
+Results from 
+\n            
+\n          
+\n        
+\n        
+Send
+\n      
+\n    
+\n  
+\n
+\n\n\n  
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Your lists
+\n      
+\n      
+\n        
+\n        
+\n      
+\n    
+\n  
+\n
+\n  
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Create a new list
+\n      
+\n      
+\n        
+\n  
+\n    
+List name
+\n    
+\n  
+\n  
+\n\n  
+\n    
+Description
+\n    
+\n    
+Under 100 characters, optional
+\n  
+\n  
+\n\n  
+\n    
+Privacy
+\n    
+\n      
+\n        
+\n        
+Public
+ \xb7 Anyone can follow this list\n      
+\n      
+\n        
+\n        
+Private
+ \xb7 Only you can access this list\n      
+\n    
+\n  
+\n  
+\n\n  
+\n    
+Save list
+\n  
+\n
+\n\n      
+\n    
+\n  
+\n
+\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n\n      
+\n        
+\n      
+\n\n      
+\n        
+\n  
+\n
+\n\n        
+\n        
+\n          
+\n        
+\n        
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+\n          
+\n            
+Here's the URL for this Tweet. Copy it to easily share with friends.
+\n            
+\n          
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Embed this Tweet
+\n        
+Embed this Video
+\n      
+\n      
+\n        
+\n  
+Add this Tweet to your website by copying the code below. 
+Learn more
+\n  
+Add this video to your website by copying the code below. 
+Learn more
+\n  
+\n\n    
+\n      
+\n      
+\n        
+Hmm, there was a problem reaching the server. 
+Try again?
+\n      
+\n      
+\n      
+\n        
+\n          
+\n            
+\n            Include parent Tweet\n          
+\n        
+\n        
+\n          
+\n            
+\n            Include media\n          
+\n        
+\n      
+\n    
+\n  
+\n  
+By embedding Twitter content in your website or app, you are agreeing to the Twitter 
+Developer Agreement
+ and 
+Developer Policy
+.
+\n  
+Preview
+\n  
+\n  
+\n
+\n\n      
+\n    
+\n  
+\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Why you're seeing this ad
+\n      
+\n      
+\n        
+\n          
+\n        
+\n        
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n\n  
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Log in to Twitter
+\n      
+\n      
+\n        
+\n          
+\n        
+\n        
+\n
+\n  
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Remember me
+\n    
+\n    
+\xb7
+\n    
+Forgot password?
+\n  
+\n\n  
+\n\n    
+\n\n  
+\n  
+\n  
+\n      
+\n      
+\n
+\n        
+\n      
+\n      
+\n        Don't have an account? 
+Sign up \xbb
+\n      
+\n    
+\n  
+\n
+\n\n  
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Sign up for Twitter
+\n      
+\n      
+\n        
+\n          
+\n        
+\n        
+Not on Twitter? Sign up, tune into the things you care about, and get updates as they happen.
+\n        
+\n
+\n  
+Sign up
+\n
+\n        
+\n      
+\n      
+\n        Have an account? 
+Log in \xbb
+\n      
+\n    
+\n  
+\n
+\n\n  
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Two-way (sending and receiving) short codes:
+\n      
+\n      
+\n        \n\n  \n    \n      \n      \n      \n    \n  \n  \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n    \n  \n  \n    \n      \n    \n  \n
+Country
+Code
+For customers of
+United States
+40404
+(any)
+Canada
+21212
+(any)
+United Kingdom
+86444
+Vodafone, Orange, 3, O2
+Brazil
+40404
+Nextel, TIM
+Haiti
+40404
+Digicel, Voila
+Ireland
+51210
+Vodafone, O2
+India
+53000
+Bharti Airtel, Videocon, Reliance
+Indonesia
+89887
+AXIS, 3, Telkomsel, Indosat, XL Axiata
+Italy
+4880804
+Wind
+3424486444
+Vodafone
+\n        \xbb 
+See SMS short codes for other countries
+\n      
+\n      
+\n    
+\n  
+\n
+\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Confirmation
+\n      
+\n      
+\n        
+\n          
+\n            
+\n            
+\n          
+\n        
+\n        
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+\xa0
+\n      
+\n      
+\n        
+\n          
+\n            
+\n            
+\n          
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n\n
+\n  
+\n    \n    
+\n      
+\n        
+Close
+\n      
+\n    
+\n    
+\n  
+\n
+\n\n\n
+\n  
+\n  
+\n    
+\n    
+\n      
+\n        
+\n          
+\n          
+\n            Skip all\n          
+\n        
+\n        \n\n\n\n
+\n  
+\n    
+\n    Welcome home!\n  
+\n  
+This timeline is where you\u2019ll spend most of your time, getting instant updates about what matters to you.
+\n
+\n\n\n\n
+\n  
+\n    
+\n    Tweets not working for you?\n  
+\n  
+\n    Hover over the profile pic and click the Following button to unfollow any account.\n  
+\n
+\n\n
+\n\n  
+\n    
+\n    Say a lot with a little\n  
+\n  
+\n    When you see a Tweet you love, tap the heart \u2014 it lets  the person who wrote it know you shared the love.\n  
+\n
+\n\n
+\n  
+\n    
+\n    Spread the word\n  
+\n  
+\n    The fastest way to share someone else\u2019s Tweet with your followers is with a Retweet. Tap the icon to send it instantly.\n  
+\n
+\n\n
+\n  
+\n    
+\n    Join the conversation\n  
+\n  
+\n    Add your thoughts about any Tweet with a Reply. Find a topic you\u2019re passionate about, and jump right in.\n  
+\n
+\n\n\n\n
+\n  
+\n    
+\n    Learn the latest\n  
+\n  
+\n    Get instant insight into what people are talking about now.\n  
+\n
+\n\n
+\n  
+\n    
+\n    Get more of what you love\n  
+\n  
+\n    Follow more accounts to get instant updates about topics you care about.\n  
+\n
+\n\n
+\n  
+\n    
+\n    Find what's happening\n  
+\n  
+\n    See the latest conversations about any topic instantly.\n  
+\n
+\n\n
+\n  
+\n    
+\n    Never miss a Moment\n  
+\n  
+\n    Catch up instantly on the best stories happening as they unfold.\n  
+\n
+\n      
+\n\n      
+\n        
+Back
+\n        
+Next
+\n      
+\n    
+\n  
+\n
+\n\n\n\n\n\n
+\n
+\n
+\n
+\n\n\n      
+\n  
+\n    
+\n  
+\n  
+\n    
+\n    
+Next Tweet from user
+\n  
+\n  
+\n    
+\n      
+\n    
+\n    
+\n      
+\n      
+\n    
+\n  
+\n
+\n\n    
+\n  
+\n  
+\n\n
+\n\n    \n    \n      
+\n\n  \n\n    
+\n  
+\n\n  \n    
+\n\n  \n\n>

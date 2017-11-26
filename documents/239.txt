@@ -1,0 +1,712 @@
+\n
+\n    
+\n    
+Biblioth\xe8que et Archives nationales du Qu\xe9bec | Partenaires | La Fabrique culturelle
+\n\n    
+\n    
+\n    \n    
+\n    
+\n\n    \n    \n    \n    
+\n
+\n
+\n
+\n
+\n
+\n\n\n\n\n    
+\n\n
+\n
+\n
+\n
+\n
+\n
+\n\n
+\n
+\n    \n    
+\n\n\n
+\n
+\n
+try{Typekit.load();}catch(e){}
+\n\n    
+\n\tvar _comscore = _comscore || [];\n\t_comscore.push({ c1: "2", c2: "6035744", c3: "", c4: "" });\n\n\t(function() {\n\t\tvar s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;\n\t\ts.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";\n\t\tel.parentNode.insertBefore(s, el);\n\t})();\n
+\n    \n
+\n    (function (i, s, o, g, r, a, m) {\n        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {\n            (i[r].q = i[r].q || []).push(arguments)\n        }, i[r].l = 1 * new Date(); a = s.createElement(o),\n        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)\n    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');\n    ga('create', 'UA-48304425-1', 'auto');\n    ga('send', 'pageview');\n
+\n    \n    \n    
+\n    
+\n        {\n        "@context": "http://schema.org",\n        "@type": "WebSite",\n        "name": "La Fabrique culturelle",\n        "alternateName": "La culture a une nouvelle adresse",\n        "url": "http://www.lafabriqueculturelle.tv/"\n        }\n    
+\n    
+\n        {\n        "@context": "http://schema.org",\n        "@type": "Organization",\n        "url": "http://www.lafabriqueculturelle.tv/",\n        "logo": "http://www.lafabriqueculturelle.tv/content/images/logo_w240_h135.jpg"\n        }\n    
+\n    
+\n    
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\n        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n        })(window,document,'script','dataLayer','GTM-TW5S3XJ');
+\n    
+\n\n    \n    
+\n    
+&lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW5S3XJ"\n                      height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;
+\n    
+\n\n    \n\n\n
+\n    
+\n        
+La Fabrique Culturelle
+\n        
+\n            
+\n                
+La Fabrique culturelle
+\n                
+R\xe9pertoires
+\n                
+\n                    
+Th\xe8mes
+\n                    
+\n                        
+\n                                
+Arts\xa0visuels\xa0&\xa0num\xe9riques
+\n                                
+Cin\xe9ma
+\n                                
+Court\xa0m\xe9trage
+\n                                
+Danse
+\n                                
+Design
+\n                                
+Litt\xe9rature
+\n                                
+Multi
+\n                                
+Musique
+\n                                
+Soci\xe9t\xe9\xa0&\xa0mus\xe9es
+\n                                
+Th\xe9\xe2tre\xa0&\xa0sc\xe8ne
+\n                        
+\n                    
+\n                
+\n                
+\n                    
+R\xe9gions
+\n                    
+\n                        
+\n                                
+Abitibi-T\xe9miscamingue
+\n                                
+Bas-Saint-Laurent
+\n                                
+Capitale-Nationale
+\n                                
+Centre-du-Qu\xe9bec
+\n                                
+Chaudi\xe8re-Appalaches
+\n                                
+C\xf4te-Nord
+\n                                
+Estrie
+\n                                
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                                
+International
+\n                        
+\n                        
+\n                                
+Lanaudi\xe8re
+\n                                
+Laurentides
+\n                                
+Laval
+\n                                
+Mauricie
+\n                                
+Mont\xe9r\xe9gie
+\n                                
+Montr\xe9al
+\n                                
+Nord-du-Qu\xe9bec
+\n                                
+Outaouais
+\n                                
+Saguenay\u2013Lac-Saint-Jean
+\n                        
+\n                    
+\n                
+\n            
+\n        
+\n        
+\n            
+\n                    
+\n                        
+\n                        
+\n                    
+\n            
+\n            
+\n\n                
+\xa0Se\xa0connecter
+\n        
+\n    
+\n
+\n\n
+\n
+\n    
+\n    
+La Fabrique culturelle
+\n
+\n\n
+\n    
+\n        
+\n            
+\n                
+R\xe9pertoires
+\n            
+\n            
+\n                
+Th\xe8mes
+\n                
+\n                        
+Arts visuels & num\xe9riques
+\n                        
+Cin\xe9ma
+\n                        
+Court m\xe9trage
+\n                        
+Danse
+\n                        
+Design
+\n                        
+Litt\xe9rature
+\n                        
+Multi
+\n                        
+Musique
+\n                        
+Soci\xe9t\xe9 & mus\xe9es
+\n                        
+Th\xe9\xe2tre & sc\xe8ne
+\n                
+\n            
+\n            
+\n                
+R\xe9gions
+\n                
+\n                        
+Abitibi-T\xe9miscamingue
+\n                        
+Bas-Saint-Laurent
+\n                        
+Capitale-Nationale
+\n                        
+Centre-du-Qu\xe9bec
+\n                        
+Chaudi\xe8re-Appalaches
+\n                        
+C\xf4te-Nord
+\n                        
+Estrie
+\n                        
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                        
+International
+\n                        
+Lanaudi\xe8re
+\n                        
+Laurentides
+\n                        
+Laval
+\n                        
+Mauricie
+\n                        
+Mont\xe9r\xe9gie
+\n                        
+Montr\xe9al
+\n                        
+Nord-du-Qu\xe9bec
+\n                        
+Outaouais
+\n                        
+Saguenay\u2013Lac-Saint-Jean
+\n                
+\n            
+\n        
+\n        
+\n            
+\n            
+\n        
+\n            
+\n                
+ Se connecter
+\n            
+\n    
+\n
+\n    \n\n\n\n\n
+\n    
+\n        
+\n            
+\n            
+\n                
+Biblioth\xe8que et Archives nationales du Qu\xe9bec
+\n                
+\xc0 la fois biblioth\xe8que nationale, archives nationales et biblioth\xe8que publique de grande m\xe9tropole, Biblioth\xe8que et Archives nationales du Qu\xe9bec (BAnQ) rassemble, conserve et diffuse le patrimoine documentaire qu\xe9b\xe9cois ou relatif au Qu\xe9bec. V\xe9ritable carrefour culturel, BAnQ \u0153uvre \xe0 la d\xe9mocratisation de l\u2019acc\xe8s \xe0 la connaissance \xe0 titre d\u2019acteur cl\xe9 de la soci\xe9t\xe9 du savoir et d\xe9ploie ses activit\xe9s dans 12 \xe9difices ouverts \xe0 tous sur le territoire du Qu\xe9bec.
+\n
+\n                                    
+http://www.banq.qc.ca
+\n            
+\n        
+\n    
+\n
+\n\n\n\n
+\n    
+\n        
+\n\n                
+Trier\xa0par\xa0:
+\n                
+\n                        
+\n        
+Par classement
+\n            
+Par classement
+\n            
+Les plus r\xe9centes
+\n    
+\n\n                
+\n\n\n            \n                    
+Filtrer\xa0par\xa0:
+\n                
+\n                        
+\n        
+Tous les th\xe8mes
+\n        
+Tous les th\xe8mes
+\n            
+Arts visuels & num\xe9riques
+\n            
+Cin\xe9ma
+\n            
+Court m\xe9trage
+\n            
+Danse
+\n            
+Design
+\n            
+Litt\xe9rature
+\n            
+Multi
+\n            
+Musique
+\n            
+Soci\xe9t\xe9 & mus\xe9es
+\n            
+Th\xe9\xe2tre & sc\xe8ne
+\n    
+\n\n                
+\n\n                
+\n                        
+\n        
+Toutes les r\xe9gions
+\n        
+Toutes les r\xe9gions
+\n            
+Abitibi-T\xe9miscamingue
+\n            
+Bas-Saint-Laurent
+\n            
+Capitale-Nationale
+\n            
+Centre-du-Qu\xe9bec
+\n            
+Chaudi\xe8re-Appalaches
+\n            
+C\xf4te-Nord
+\n            
+Estrie
+\n            
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n            
+International
+\n            
+Lanaudi\xe8re
+\n            
+Laurentides
+\n            
+Laval
+\n            
+Mauricie
+\n            
+Mont\xe9r\xe9gie
+\n            
+Montr\xe9al
+\n            
+Nord-du-Qu\xe9bec
+\n            
+Outaouais
+\n            
+Saguenay\u2013Lac-Saint-Jean
+\n    
+\n\n                
+\n\n\n\n        
+\n    
+\n
+\n\n\n
+\n        
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Soci\xe9t\xe9 & mus\xe9es
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Carte postale de Montr\xe9al
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Design
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+BAnQ Saint-Sulpice : d\xe9voilement du laur\xe9at du concours d'architecture
+\n                    
+Par 
+Biblioth\xe8que et Archives nationales du Qu\xe9bec
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Multi
+\n            
+\n            
+\n                
+\n                
+BAnQ : la culture sans obstacles
+\n                    
+Par 
+Biblioth\xe8que et Archives nationales du Qu\xe9bec
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Multi
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Ch\xe8re Janette - Les meilleurs moments de la soir\xe9e
+\n                    
+Par 
+Biblioth\xe8que et Archives nationales du Qu\xe9bec
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+\xab Pierre Ayot \u2013 Regard critique \xbb \xe0 la Grande Biblioth\xe8que
+\n                    
+Par 
+Biblioth\xe8que et Archives nationales du Qu\xe9bec
+\n            
+\n        
+\n    
+\n                
+\n                    \n                    
+\n                
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Soci\xe9t\xe9 & mus\xe9es
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Tranches de vie \u2013 Initiation \xe0 la recherche g\xe9n\xe9alogique
+\n                    
+Par 
+Biblioth\xe8que et Archives nationales du Qu\xe9bec
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Litt\xe9rature
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+\xc9crivain en r\xe9sidence
+\n                    
+Par 
+Biblioth\xe8que et Archives nationales du Qu\xe9bec
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+D\xe9Lire
+\n                    
+Par 
+Biblioth\xe8que et Archives nationales du Qu\xe9bec
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Robert Lepage, Alberto Manguel et BAnQ : La biblioth\xe8que, la nuit!
+\n                    
+Par 
+Biblioth\xe8que et Archives nationales du Qu\xe9bec
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+La num\xe9risation \xe0 BAnQ
+\n                    
+Par 
+Biblioth\xe8que et Archives nationales du Qu\xe9bec
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Litt\xe9rature
+\n            
+\n            
+\n                
+Montr\xe9al
+\n                
+Po\xe8me d\u2019un jour : quand les camelots rencontrent le ha\xefku
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n\n
+\n\n
+\n    
+\n        \n\n
+Afficher plus
+\n    
+\n
+\n\n\n\n    
+\n    
+\n        
+\n            
+Recevez notre infolettre
+\n            \n            
+S'abonner 
+\n        
+\n        
+\n            
+Suivez-nous sur les r\xe9seaux sociaux
+\n            \n            
+\n                
+\n                
+\n                
+\n                
+\n                
+\n            
+\n        
+\n    
+\n
+\n
+\n    
+\n        
+\n            
+R\xe9pertoires
+\n            
+\n                
+La Fabrique culturelle
+\n                
+Nos partenaires
+\n                
+La communaut\xe9
+\n            
+\n        
+\n        
+\n            
+R\xe9gions
+\n            
+\n                    
+Abitibi-T\xe9miscamingue
+\n                    
+Bas-Saint-Laurent
+\n                    
+Capitale-Nationale
+\n                    
+Centre-du-Qu\xe9bec
+\n                    
+Chaudi\xe8re-Appalaches
+\n                    
+C\xf4te-Nord
+\n                    
+Estrie
+\n                    
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                    
+International
+\n                    
+Lanaudi\xe8re
+\n                    
+Laurentides
+\n                    
+Laval
+\n                    
+Mauricie
+\n                    
+Mont\xe9r\xe9gie
+\n                    
+Montr\xe9al
+\n                    
+Nord-du-Qu\xe9bec
+\n                    
+Outaouais
+\n                    
+Saguenay\u2013Lac-Saint-Jean
+\n            
+\n        
+\n        
+\n            
+Th\xe8mes
+\n            
+\n                    
+Arts visuels & num\xe9riques
+\n                    
+Cin\xe9ma
+\n                    
+Court m\xe9trage
+\n                    
+Danse
+\n                    
+Design
+\n                    
+Litt\xe9rature
+\n                    
+Multi
+\n                    
+Musique
+\n                    
+Soci\xe9t\xe9 & mus\xe9es
+\n                    
+Th\xe9\xe2tre & sc\xe8ne
+\n            
+\n        
+\n        
+\n            
+Plan du site
+\n            
+\n                \n                
+Webs\xe9ries
+\n                
+Billets
+\n                
+Dossiers
+\n                
+Nos partenaires
+\n                
+\xc0 propos
+\n                
+Foire aux questions
+\n                
+Nous joindre
+\n                
+S'abonner \xe0 l'infolettre 
+\n                
+Fils RSS
+\n            
+\n        
+\n        
+\n            
+Une production de 
+\n        
+\n    
+\n    
+\n        
+\n            
+\xa9 T\xe9l\xe9-Qu\xe9bec \u2014 laFabriqueCulturelle.tv
+\n            
+\n                \n                
+Avis Juridiques
+\n            
+\n        
+\n    
+\n
+\n    \n    
+\n        $(document).ready(function() {\n            LAFABRIQUE.Partner.init();\n        });\n    
+\n\n\n    
+\n    
+\n        var options = [];\n        var pub_manager = new Tq.Pub.Manager(options);\n    
+\n    \n\n>

@@ -1,0 +1,437 @@
+\n\n    
+\n\n
+\n\n
+Privacy Policy
+\n
+\n
+\n\n\n\n
+\n
+\n
+\n\n\n\n\n
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n      
+\n      
+\n      
+\n      
+\n      
+\n      
+\n      
+\n      
+\n      
+\n\n\n
+\n
+\n\n
+\n\n\n
+\n\n    \n\n    \n
+\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n\n  
+\n    
+\n  
+\n
+\n
+\n  
+\n    
+\n      
+\n        
+\n          
+\n            
+\n              
+\n                
+\n                   
+\n                  
+Twitter logo icon
+\n                
+\n              
+\n            
+\n          
+\n        
+\n        
+\n          
+\n            
+\n\n  
+\n    \n  
+\n  \n\n  
+\n    
+\n      
+\n        
+Sign In
+\n      
+\n    
+\n  
+\n
+\n          
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n
+\n\n\n    \n
+\n  
+\n    
+\n      
+\n        
+\n        
+\n          
+\n\n    \n    \n    \n    
+\n
+Twitter Privacy Policy
+\n\n\n
+\n\n\n    \n    \n    \n    
+\n
+Our Services instantly connect people everywhere to what\u2019s most meaningful to them. For example, any registered user of Twitter can send a Tweet, which is public by default, and can include a message of 140 characters or less and content like photos, videos, and links to other websites.
+\n
+\n\n\n
+\n\n\n    \n    \n    \n    
+\n
+\n    \n
+What you share on Twitter may be viewed all around the world instantly. You are what you Tweet!
+\n
+\n\n\n\n
+\n\n\n    \n    \n    \n    
+\n\n
+This Privacy Policy describes how and when we collect, use, and share your information across our websites, SMS, APIs, email notifications, applications, buttons, embeds, ads, and\xa0
+our other covered services
+\xa0that link to this Policy (collectively, the \u201cServices\u201d), and from our partners and other third parties. For example, you send us information when you use our Services on the web, via SMS, or from an application such as Twitter for Mac, Twitter for Android, or TweetDeck. When using any of our Services you consent to the collection, transfer, storage, disclosure, and use of your information as described in this Privacy Policy. This includes any information you choose to provide that is deemed sensitive under applicable law.
+\n\n\n
+When this policy mentions \u201cwe\u201d or \u201cus,\u201d it refers to the controller of your information under this policy. If you live in the United States, your information is controlled by Twitter, Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103 U.S.A. If you live outside the United States, the data controller responsible for your information is Twitter International Company, an Irish company with its registered office at One Cumberland Place, Fenian Street, Dublin 2 D02 AX07 Ireland. Despite this, you alone control and are responsible for the posting of your Tweets and other content you submit through the Services, as provided in the\xa0
+Terms of Service
+\xa0and\xa0
+Twitter Rules
+.
+\n
+\n\n\n
+Irrespective of which country you live in, you authorize us to transfer, store, and use your information in the United States, Ireland, and any other country where we operate. In some of these countries, the privacy and data protection laws and rules regarding when government authorities may access data may vary from those in the country where you live. Learn more about our global operations and data transfer\xa0
+here
+.
+\n
+\n\n\n
+If you have any questions or comments about this Privacy Policy, please submit a request through our form, available at\xa0
+https://support.twitter.com/forms/privacy
+.
+\n
+\n\n\n
+\n\n\n    \n    \n    \n    
+\n
+\n    
+\n    \n        
+Information Collection and Use
+ \n    \n
+\n\n\n    \n    \n    \n    
+\n
+\n    \n
+We collect and use your information below to provide, understand, and improve our Services.
+\n
+\n\n\n\n
+\n\n\n    \n    \n    \n    
+\n\n
+Basic Account Information:
+\xa0If you choose to create a Twitter account, you must provide us with some personal information, such as your name, username, password, email address, or phone number. On Twitter, your name and username are always listed publicly, including on your profile page and in search results, and you can use either your real name or a pseudonym. You can create and manage multiple Twitter accounts. If you use\xa0
+Digits by Twitter
+, the contact information you provide to log in is not public.\xa0Some of our product features, such as searching and viewing public Twitter user profiles or watching a broadcast on Periscope\u2019s website, do not require you to create an account.
+\n\n\n
+Contact Information:
+\xa0You may use your contact information, such as your email address or phone number, to customize your account or enable certain account features, for example, for
+\xa0login verification
+\xa0or\xa0
+Twitter via SMS
+. If you provide us with your phone number, you agree to receive text messages to that number from us. We may use your contact information to send you information about our Services, to market to you, to help prevent spam, fraud, or abuse, and to help others find your account, including through third-party services and client applications. You may use your settings for\xa0
+email
+\xa0and\xa0
+mobile notifications
+\xa0to control notifications you receive from Twitter. You may also unsubscribe from a notification by following the instructions contained within the notification or the instructions on our website. Your Discoverability\xa0
+privacy settings
+\xa0control whether others can find you on Twitter by your email address or phone number.
+\n\n\n
+Additional Information:
+\xa0You may choose to provide us with additional information to help improve and personalize your experience across our Services. For example, you may choose to upload and sync your address book so that we can help you find and connect with users you know or help other users find and connect with you. We may later personalize content, such as making suggestions or showing user accounts and Tweets for you and other users, based on imported address book contacts. You can delete your imported address book contacts at any time by visiting your Contacts Dashboard at\xa0
+https://twitter.com/settings/contacts_dashboard
+. If you email us, we may keep your message, email address, and contact information to respond to your request. If you connect your account on our Services to your account on another service, the other service may send us information that you authorize for use in the Services. This information may enable cross-posting or otherwise help us improve the Services, and is deleted from our Services within a few weeks of your disconnecting from our Services your account on the other service.
+\n\n\n
+Tweets, Following, Lists, Profile, and Other Public Information:\xa0
+Twitter is primarily designed to help you share information with the world. Most of the information you provide us through Twitter is information you are asking us to make public. You may provide us with profile information such as a short biography, your location, your website, date of birth, or a picture. Additionally, your public information includes the messages you Tweet; the metadata provided with Tweets, such as when you Tweeted and the client application you used to Tweet; information about your account, such as creation time, language, country, and time zone; and the lists you create, people you follow, Tweets you Like or Retweet, and Periscope broadcasts you click or otherwise engage with (such as by commenting or hearting) on Twitter. Twitter broadly and instantly disseminates your public information to a wide range of users, customers, and services, including search engines, developers, and publishers that integrate Twitter content into their services, and organizations such as universities, public health agencies, and market research firms that analyze the information for trends and insights. When you share information or content like photos, videos, and links via the Services, you should think carefully about what you are making public. We may use this information to make\xa0
+inferences
+, like what topics you may be interested in. Our default is almost always to make the information you provide through the Services public for as long as you do not delete it, but we generally give you\xa0
+settings
+\xa0or features, like\xa0
+protected Tweets
+, to make the information more private if you want. For certain profile information fields we provide you with\xa0
+visibility settings
+\xa0to select who can see this information in your profile. If you provide us with profile information and you don\u2019t see a visibility setting, that information is public. You can change the\xa0
+language
+\xa0and\xa0
+time zone
+\xa0associated with your account at any time using your account settings, available at\xa0
+https://twitter.com/settings/account
+.
+\n\n
+Direct Messages and Non-Public Communications:
+\xa0We provide certain features that allow you to communicate more privately. For example, you can use Direct Messages to have private conversations with other Twitter users. When you privately communicate with others through our Services, such as by sending and receiving Direct Messages, we will store and process your communications, and information related to them. Please note that if you interact with public Twitter content shared with you via Direct Message, for instance by liking a Tweet shared via Direct Message, those interactions may be public.\xa0When you use features like Direct Messages to communicate privately, please remember that recipients may copy, store, and re-share the contents of your communications.
+\n\n\n
+Location Information:
+\xa0We may receive information about your location. For example, you may choose to publish your location in your Tweets and in your Twitter profile. You may also tell us your location when you set your trend location on Twitter.com. We may also determine location by using other data from your device, such as precise location information from GPS, information about wireless networks or cell towers near your mobile device, or your IP address. We may use and store information about your location to provide features of our Services, such as allowing you to Tweet with your location, and to improve and customize the Services, for example, with more relevant content like local trends, stories, ads, and suggestions for people to follow.\xa0Learn more about our use of location\xa0
+here
+, and how to set your location preferences\xa0
+here
+.
+\n\n\n
+Links:
+\xa0We may keep track of how you interact with links across our Services, including our email notifications, third-party services, and client applications, by redirecting clicks or through other means. We do this to help improve our Services, to provide more relevant advertising, and to be able to share aggregate click statistics such as how many times a particular link was clicked on. Links, Tweets, and non-public communications like Direct Messages shared on the Services will be processed and links shortened to a\xa0
+http://t.co
+\xa0link.
+\n\n\n
+Cookies:
+\xa0Like many websites, we use cookies and similar technologies to collect additional website usage data and to improve our Services, but we do not require cookies for many parts of our Services such as searching and looking at public user profiles. A cookie is a small data file that is transferred to your computer or mobile device. We may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to customize and improve our Services. Although most web browsers automatically accept cookies, some browsers\u2019 settings can be modified to decline cookies or alert you when a website is attempting to place a cookie on your computer. However, some Services may not function properly if you disable cookies.\xa0You can control how we personalize your Twitter experience and ads by using your Personalization and Data settings, which are available at\xa0
+https://twitter.com/personalization
+\xa0whether or not you have a Twitter account. We respond to these settings rather than the Do Not Track browser option, which we no longer support.\xa0Learn more about how we use cookies and similar technologies\xa0
+here
+.
+\n\n\n
+Using Our Services:
+\xa0We receive information when you view content on or otherwise interact with our Services, even if you have not created an account (\u201cLog Data\u201d). For example, when you visit our websites, sign into our Services, interact with our email notifications, use your account to authenticate to a third-party website, application, or service, or visit a third-party website, application, or service that includes Twitter content, we may receive information about you. This Log Data may include your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device information (including device and application IDs), search terms, or cookie information. We also receive Log Data when you click on, view or interact with links on our Services, including links to third-party applications, such as when you choose to install another application through Twitter. We use Log Data to make inferences, like what topics you may be interested in, and to customize the content we show you, including ads. You can learn about the interests we have inferred about you from your activity on and off of Twitter in Your Twitter Data, available at\xa0
+https://twitter.com/your_twitter_data
+. We keep Log Data as needed for the purposes described in this Privacy Policy. We will either delete Log Data or remove any common account identifiers, such as your username, full IP address, email address, or phone number, after a maximum of 18 months, if not sooner
+.
+\n\n
+Twitter for Web Data:
+\xa0We may personalize the Services for you based on your visits to third-party websites that integrate Twitter content such as embedded timelines or Tweet buttons. When you view our content on these websites, we may receive Log Data that includes the web page you visited. We never associate this web browsing history with your name, email address, phone number, or Twitter handle, and we delete, obfuscate, or aggregate it after no longer than 30 days. We may use interests or other information that we derive from this data to improve our Services and personalize content for you, such as suggestions for people to follow, advertising, and other content you may be interested in. You can see and control interests that we use to personalize your experience in Your Twitter Data, available at\xa0
+https://twitter.com/your_twitter_data
+. You can also control whether we keep track of your visits to websites with Twitter content by using your Personalization and Data settings, available at\xa0
+https://twitter.com/personalization
+.
+\n
+\n\n\n
+Advertising:
+\xa0Our Services are supported by advertising. We may use the information described in this Privacy Policy to help make our advertising more relevant to you, to measure its effectiveness, and to help recognize your devices to serve you ads on and off of Twitter. We do not use the content you share privately in Direct Messages to serve you ads. Our Twitter Ads Policy also prohibits advertisers from targeting ads based on categories we consider\xa0
+sensitive
+, such as race, religion, politics, sex life, or health. Twitter adheres to the Digital Advertising Alliance Self-Regulatory Principles for Online Behavioral Advertising (also referred to as \u201cinterest-based advertising\u201d). If you prefer, you can opt out of interest-based advertising by unchecking Personalize Ads in your Personalization and Data settings, available at\xa0
+https://twitter.com/personalization
+\xa0or through the DAA\u2019s consumer choice tool at\xa0
+https://optout.aboutads.info
+. We will not use information from the browser (and for logged in users, the account) on which you opt out for interest-based advertising, and that browser or account will not be eligible to receive interest-based ads from Twitter. Learn more about your privacy options for interest-based ads\xa0
+here
+\xa0and about how ads work on our Services\xa0
+here
+.
+\n\n\n
+Third-Parties and Affiliates:
+\xa0We may receive information about you from third parties, such as other Twitter users, partners (including ad partners), or our\xa0
+corporate affiliates
+. For example, other users may share or disclose information about you, such as when they mention you, share a photo of you, or tag you in a photo. Your\xa0
+privacy settings
+\xa0control who can tag you in a photo. Our ad partners and affiliates may share information with us such as a browser cookie ID, mobile device ID, or cryptographic hash of an email address, as well as demographic or interest data and content viewed or actions taken on a website or app. Our ad partners, particularly our advertisers, may enable us to collect similar information directly from their website or app by integrating our advertising technology.
+\n\n\n
+Personalizing Across Your Devices:
+\xa0When you log into your account with a browser or device, we will associate that browser or device with your account for purposes such as authentication and personalization. Depending on your settings, we may also personalize your experience on, and based on information from, other browsers or devices besides the ones you use to log into Twitter. For example, if you visit websites with sports content on your laptop, we may show you sports-related ads on Twitter for Android. You can control whether we link your account to browsers or devices other than the ones you use to log into Twitter (or if you\u2019re logged out, whether we link the browser or device you\u2019re currently using to any other devices) through your Personalization and Data settings, available at\xa0
+https://twitter.com/personalization
+.
+\n\n\n
+\n\n\n    \n    \n    \n    
+\n
+\n    
+\n    \n        
+Information Sharing and Disclosure
+ \n    \n
+\n\n\n    \n    \n    \n    
+\n
+\n    \n
+We do not disclose your private personal information except in the limited circumstances described here.
+\n
+\n\n\n\n
+\n\n\n    \n    \n    \n    
+\n
+User Consent or Direction:
+\xa0We may share or disclose your information at your direction, such as when you authorize a third-party web client or application to access your account or when you direct us to share your feedback with a business. When you use Digits by Twitter to sign up for or log in to a third-party application, you are directing us to share your contact information, such as your phone number, with that application. If you\u2019ve shared information, like Direct Messages or protected Tweets, with another user who accesses Twitter through a third-party service, keep in mind that the information may be shared with the third-party service.
+\n\n
+Service Providers:
+\xa0We engage service providers to perform functions and provide services to us in the United States, Ireland, and other countries. For example, we use a variety of third-party services to help provide our Services, such as hosting our various blogs and wikis, and to help us understand and improve the use of our Services, such as Google Analytics. We may share your private personal information with such service providers subject to obligations consistent with this Privacy Policy and any other appropriate confidentiality and security measures, and on the condition that the third parties use your private personal data only on our behalf and pursuant to our instructions. We share your payment information, including your credit or debit card number, card expiration date, CVV code, and billing address with payment services providers to process payments; prevent, detect and investigate fraud or other prohibited activities; facilitate dispute resolution such as chargebacks or refunds; and for other purposes associated with the acceptance of credit or debit cards.
+\n\n\n
+Law and Harm:
+\xa0Notwithstanding anything to the contrary in this Privacy Policy, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation,\xa0
+legal process, or governmental request
+; to protect the safety of any person; to address fraud, security or technical issues; or to protect our or our users\u2019 rights or property. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party\u2019s, including a government\u2019s, request to disclose your information.
+\n\n\n
+Business Transfers and Affiliates:
+\xa0In the event that we are involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. This Privacy Policy will apply to your information as transferred to the new entity. We may also disclose information about you to our\xa0
+corporate affiliates
+\xa0in order to help provide, understand, and improve our Services and our affiliates\u2019 services, including the delivery of ads.
+\n\n
+Public Information:
+\xa0We may share or disclose your public information, such as your public user profile information, public Tweets, or the people you follow or that follow you. Remember: your privacy and visibility settings control whether your Tweets and certain profile information are made public. Other information, like your name and username, is always public on Twitter, unless you delete your account, as described below.
+\n\n
+Non-Personal, Aggregated, or Device-Level Information:
+\xa0We may share or disclose non-personal, aggregated, or device-level information such as the total number of times people engaged with a Tweet, the number of users who clicked on a particular link or voted on a poll in a Tweet (even if only one did), the characteristics of a device or its user when it is available to receive an ad, the topics that people are Tweeting about in a particular location, or aggregated or device-level reports to advertisers about users who saw or clicked on their ads. This information does not include your name, email address, phone number, or Twitter handle. We may, however, share non-personal, aggregated, or device-level information through partnerships with entities that may use data in their possession (including data you may have given them) to link your name, email address, or other personal information to the information we provide them. These partnerships require that they get your consent before doing so. You can control whether Twitter shares your information under 
+these partnerships
+ by using your Personalization and Data settings, available at\xa0
+https://twitter.com/personalization
+.
+\n
+\n\n\n
+\n\n\n    \n    \n    \n    
+\n
+\n    
+\n    \n        
+Accessing and Modifying Your Personal Information
+ \n    \n
+\n\n\n    \n    \n    \n    
+\n\n
+If you are a registered user of our Services, we provide you with tools and\xa0
+account settings
+\xa0to access, correct, delete, or modify the personal information you provided to us and associated with your account. You can download certain account information, including your Tweets, by following the instructions\xa0
+here
+.\xa0You can learn more about the interests we have inferred about you in\xa0
+Your Twitter Data
+\xa0and request access to additional information\xa0
+here
+.
+\n\n\n
+You can also permanently delete your Twitter account. If you follow the instructions\xa0
+here
+, your account will be deactivated and then deleted.\xa0When deactivated, your account, including your name, username, and public profile, is not viewable on Twitter.com. For up to 30 days after deactivation it is still possible to restore your account if it was accidentally or wrongfully deactivated. Absent a separate arrangement between you and us to extend your deactivation period, after 30 days, we begin the process of deleting your account from our systems, which can take up to a week.
+\n\n\n
+Keep in mind that search engines and other third parties may still retain copies of your public information, like your user profile information and public Tweets, even after you have deleted the information from the Twitter Services or deactivated your account. Learn more\xa0
+here
+.
+\n\n\n
+\n\n\n    \n    \n    \n    
+\n
+\n    
+\n    \n        
+Our Global Operations
+ \n    \n
+\n\n\n    \n    \n    \n    
+\n\n
+To bring you the Services, we operate globally. Twitter, Inc. complies with the EU-US and Swiss-US Privacy Shield principles (the \u201cPrinciples\u201d) regarding the collection, use, sharing, and retention of personal information from the European Union and Switzerland, as described in our\xa0
+EU-US Privacy Shield certification
+\xa0and Swiss-US Privacy Shield certification.
+\n\n
+If you have a Privacy Shield-related complaint, please contact us\xa0
+here
+. As part of our participation in Privacy Shield, if you have a dispute with us about our adherence to the Principles, we will seek to resolve it through our internal complaint resolution process, alternatively through the independent dispute resolution body\xa0
+JAMS
+, and under certain conditions, through the Privacy Shield arbitration process.
+\n
+\n\n\n
+Privacy Shield participants are subject to the investigatory and enforcement powers of the US Federal Trade Commission and other authorized statutory bodies. Under certain circumstances, participants may be liable for the transfer of personal information from the EU or Switzerland to third parties outside the EU and Switzerland. Learn more about the EU-US Privacy Shield and Swiss-US Privacy Shield\xa0
+here
+.
+\n
+\n\n\n
+\n\n\n    \n    \n    \n    
+\n
+\n    
+\n    \n        
+Changes to this Policy
+ \n    \n
+\n\n\n    \n    \n    \n    
+\n\n
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at\xa0
+https://twitter.com/privacy
+. If we make a change to this policy that, in our sole discretion, is material, we will notify you via an\xa0
+@Twitter
+\xa0update or email to the email address associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+\n\n
+Effective
+: June 18, 2017
+\n\n
+Archive of Previous Privacy Policies
+\n\n\n
+Thoughts or questions about this Privacy Policy?\xa0Please, let us know by contacting us\xa0
+here
+\xa0or writing to us at the appropriate address below.
+\n\n
+For accounts based in the United States:
+\n
+\n\n
+Twitter, Inc.
+\nAttn: Privacy Policy Inquiry
+\n1355 Market Street, Suite 900
+\nSan Francisco, CA 94103
+\n\n
+For accounts outside the United States:
+\n
+\n\n
+Twitter International Company
+\nAttn: Privacy Policy Inquiry
+\nOne Cumberland Place, Fenian Street
+\nDublin 2, D02 AX07 IRELAND
+\n\n\n
+\n\n\n
+\n        
+\n      
+\n    
+\n  
+\n  
+\n    
+\n    
+\n  
+\n
+\n\n    
+\n  \n  
+\n    
+\n      
+\n        
+\xa9 2017 Twitter, Inc.
+\n        
+\n          
+Cookies
+\n        \n          
+Privacy
+\n        \n          
+Terms and Conditions
+\n        
+\n        
+\n          \n  
+Language
+\n\n  
+\n    
+\n      
+\n        
+English
+\n      
+\n    \n      
+\n        
+Italian
+\n      
+\n    \n      
+\n        
+German
+\n      
+\n    \n      
+\n        
+Spanish
+\n      
+\n    \n      
+\n        
+French
+\n      
+\n    \n      
+\n        
+Japanese
+\n      
+\n    \n      
+\n        
+Korean
+\n      
+\n    \n      
+\n        
+Portuguese
+\n      
+\n    \n      
+\n        
+Russian
+\n      
+\n    
+\n  
+\n\n\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n  
+\n  \n\n    \n
+\n
+\n
+\n
+\n\n\n\n\n\n\n\n\n\n
+\n
+\n\n    \n
+\n\n\n\n\n\n  \n  \n\n>

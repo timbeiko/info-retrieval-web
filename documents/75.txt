@@ -1,763 +1,458 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Events Archive - Concordia University Faculty Association
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Search:
-
-
-
-
-
-
-
-
+\n\n
+\n
+ | The Linguistics Student Association of Concordia University
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+ \n
+\n\n\n
+\n\n
+\n
+\n//<![CDATA[\n\nvar $j_p = jQuery.noConflict();\n$j_p(function(){\n\n\t\t\t\t\t\t\t\t\n$j_p("#yphp_submit").click(function(){\n\n\t\t\t\t\t\t\t\t\t//set the button up\n\t\t\t\t\t\t\t\t\t$j_p('#yphp_submit').val('Submitting...');\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t//Retrieve the contents of the textarea (the content)\n\t\t\t\t\t\t\t\t\tvar signup_email = $j_p("#yphp_email").val();\n\t\t\t\t\t\t\t\t\tvar signup_url = $j_p("#yphp_subscribeurl").val();\n\t\t\t\t\t\t\t\t\tvar signup_listname = $j_p("#yphp_listname").val();\n\t\t\t\t\t\t\t\t\tvar signup_listnum = $j_p("#yphp_listnum").val();\n\t\t\t\t\t\t\t\t\tvar signup_htmlemail = $j_p("#yphp_htmlemail").val();\n\t\t\t\t\t\t\t\t\tvar list_params = "";\n\n\t\t\t\t\t\t\t\t\t//Build the paramy of lists\n\t\t\t\t\t\t\t\t\t$j_p('.yphp_multlists').each(function(index) {\n\t\t\t\t\t\t\t\t\t\t list_params = list_params + "&list[" + $j_p(this).val() + "]=signup";\n\t\t\t\t\t\t\t\t\t  }); \n\t\t\t\t\t\t\t\t\t  \n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t//Build the URL that we will send\n\t\t\t\t\t\t\t\t\tvar url_paramies = "VerificationCodeX=&htmlemail=" + signup_htmlemail + "&listname=" + signup_listname + "&subscribe=subscribe&email=" + escape(signup_email) + list_params;\n\n\t\t\t\t\t\t\t\t\t//Use jQuery's ajax function to send it\n\t\t\t\t\t\t\t\t\t $j_p.ajax({\n\t\t\t\t\t\t\t\t\t   type: "POST",\n\t\t\t\t\t\t\t\t\t   url: signup_url,\n\t\t\t\t\t\t\t\t\t   data: url_paramies,\n\t\t\t\t\t\t\t\t\t   success: function(){\n\t\t\t\t\t\t\t\t\t\t\t$j_p("#yphp_newsletterform").before($j_p("<p id='yphplista_success' class='yphplista_resultmsg'>Thanks for signing up for our newsletter, <i>" + signup_email + "</i>!  Please check your email to confirm your signup.</p>").fadeIn("slow"));\n\t\t\t\t\t\t\t\t\t\t\t$j_p('.submission-elements').fadeOut("slow");\n\t\t\t\t\t\t\t\t\t   },\t\t\t\t\t   \n\t\t\t\t\t\t\t\t\t   error: function(){\n\t\t\t\t\t\t\t\t\t\t\t$j_p("#yphp_newsletterform").before($j_p("<p id='yphplista_failure' class='yphplista_resultmsg'>Sorry, we couldn't add your address.  Please try again or contact the system administrator, <i>" + signup_email + "</i>!  Please check your email to confirm your signup.</p>").fadeIn("slow"));\n\t\t\t\t\t\t\t\t\t   }\n\t\t\t\t\t\t\t\t\t });\n\n\t\t\t\t\t\t\t\t\t//We return false so when the button is clicked, it doesn't follow the action\n\t\t\t\t\t\t\t\t\treturn false;\n\n\t\t\t\t\t\t\t\t});});\n\t//]]>\n <!--\n\tfunction yphp_clearDefault(myelement) {\n\t\t\t\t\t\t\t\t\t\t\tif (myelement.defaultValue==myelement.value) myelement.value = "";\n\t\t\t\t\t\t\t\t\t\t} \n\t\t\t\t\t\t\t\t\t\t// -->\n
+\n\n
+\n\n
+\nbody.custom-background { background-color: #d8d8bb; }\n
+\n\n
+\n
+\n/* <![CDATA[ */\n\twppaBackgroundColorImage = "#eeeeee";\n\twppaPopupLinkType = "photo";\n\twppaAnimationType = "fadeover";\n\twppaAnimationSpeed = 0;\n\twppaImageDirectory = "http://linguistics.concordia.ca/lsa/wp-content/plugins/wp-photo-album-plus/images/";\n\twppaThumbnailAreaDelta = 9;\n\twppaTextFrameDelta = 181;\n\twppaBoxDelta = 16;\n\twppaSlideShowTimeOut = 2500;\n\twppaPreambule = 3;\n\twppaFilmShowGlue = true;\n\twppaSlideShow = "Slideshow";\n\twppaStart = "Start";\n\twppaStop = "Stop";\n\twppaSlower = "Slower";\n\twppaFaster = "Faster";\n\twppaPhoto = "Photo";\n\twppaOf = "of";\n\twppaPreviousPhoto = "Previous photo";\n\twppaNextPhoto = "Next photo";\n\twppaPrevP = "Prev.";\n\twppaNextP = "Next";\n\twppaUserName = "135.23.12.12";\n\twppaRatingOnce = false;\n\twppaPleaseName = "Please enter your name";\n\twppaPleaseEmail = "Please enter a valid email address";\n\twppaPleaseComment = "Please enter a comment";\n\twppaBGcolorNumbar = "#cccccc";\n\twppaBcolorNumbar = "#cccccc";\n\twppaBGcolorNumbarActive = "#333333";\n\twppaBcolorNumbarActive = "#333333";\n\twppaFontFamilyNumbar = "";\n\twppaFontSizeNumbar = "px";\n\twppaFontColorNumbar = "#777777";\n\twppaFontWeightNumbar = "normal";\n\twppaFontFamilyNumbarActive = "";\n\twppaFontSizeNumbarActive = "px";\n\twppaFontColorNumbarActive = "#777777";\n\twppaFontWeightNumbarActive = "bold";\n\twppaNumbarMax = "10";\n\twppaLocale = "en_US";\n\twppaAjaxUrl = "http://linguistics.concordia.ca/lsa/wp-admin/admin-ajax.php";\n\twppaNextOnCallback = false;\n\twppaStarOpacity = 0.2;\n\twppaTickImg.src = "http://linguistics.concordia.ca/lsa/wp-content/plugins/wp-photo-album-plus/images/tick.png";\n\twppaClockImg.src = "http://linguistics.concordia.ca/lsa/wp-content/plugins/wp-photo-album-plus/images/clock.png";\n\twppaSlideWrap = true;\n\twppaLightBox = "";\n\twppaEmailRequired = true;\n\twppaSlideBorderWidth = 0;\n\twppaAllowAjax = false;\n\twppaUsePhotoNamesInUrls = false;\n\twppaThumbTargetBlank = false;\n\twppaRatingMax = 5;\n\twppaRatingDisplayType = "graphic";\n\twppaRatingPrec = 2;\n\twppaMinThumbSpace = 4;\n\twppaThumbSpaceAuto = true;\n\twppaMagnifierCursor = "magnifier-small.png";\n\twppaArtMonkyLink = "none";\n\twppaAutoOpenComments = true;\n/* ]]> */\n
+\n\n
+\n\n\n\n
+\n\t
+\n\t\t
+\n\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t
+The Linguistics Student Association of Concordia University
+\n\n\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\n\t\t\t
+\n\t\t\t  \t\t\t\t
+Skip to content
+\n\t\t\t\t\t\t\t\t
+Home
+About the LSA
+Activities & Services
+Peer tutoring
+Tutor bank
+Request a tutor
+Become a tutor
+Contact
+\n\t\t\t
+\n\t\t
+\n\t
+\n\n\t
+\n\n\t\t
+\n\t\t\t
+\n\n\t\t\t\n\t
+\n\t\t
+\u2190
+ Older posts
+\n\t\t
+\n\t
+\n\n\n\n\n\t\t\t
+\n\t\t\t
+New Website!
+\n\n\t\t\t
+\n\t\t\t\t
+Posted on
  
-Login:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Concordia University Faculty Association
-
-
-
-
-Twitter
-
-
-<!--
-				var a='cufa';
-				var b='concordia.ca';
-				var fullEmailLink= '<li class="e'+'ma'+'il-icon"><a href="m'+'a'+'ilt'+'o:'+a+'@'+b+'">Em'+'ail CUFA</a></li>';
-				$("#header-main .networking-icons").prepend(fullEmailLink);
-				-->
-
-
-
-
-About
-
-
-
-
-Executive
-
-
-Staff
-
-
-Committees
-
-
-Council Members
-
-
-From the President
-
-
-Frequently Asked Questions
-
-
-
-
-
-
-Resources
-
-
-
-
-Constitution
-
-
-Forms
-
-
-CUFA Reports
-
-
-Other Links
-
-
-
-
-
-
-Collective Agreements
-
-
-
-
-Collective Agreement for 2015 – 2018
-
-
-Collective Agreement for 2012 – 2015
-
-
-2007-2012 Agreement
-
-
-2002-2007 Agreement
-
-
-
-
-
-
-Member Area
-
-
-
-
-Edit Your Account
-
-
-Meeting Minutes
-
-
-Suggestion Box
-
-
-Member Fora
-
-
-Member Classifieds
-
-
-Opinion Polls
-
-
-Newsletter Archive
-
-
-Financial Statements
-
-
-CAUT Documents
-
-
-FQPPU Documents
-
-
-Investment policy (updated February 2016)
-
-
-Bixi
-
-
-
-
-
-
-News
-
-
-Events
-
-
-
-
-Upcoming Events
-
-
-Past Events
-
-
-
-
-
-
-Career
-
-
-
-
-Retirement
-
-
-
-
-
-
-Elections
-
-
-
-
-Nomination forms 2017-2019
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Upcoming Events
-
-
-
-
-
-
-Monday, November 27 @ 10:00am
-
-
-CUFA Executive Meeting
-
-
-
-
-
-
-
-
-
-
-Tuesday, December 5 @ 4:00pm
-
-
-Board of Governors
-
-
-
-
-
-
-
-
-
-
-Friday, December 8 @ 2:00pm
-
-
-Senate
-
-
-
-
-
-
-
-
-
-
-Monday, December 11 @ 12:00pm
-
-
-CUFA Executive Meeting
-
-
-
-
-
-
-
-
-
-
-Tuesday, December 12 @ 1:00pm
-
-
-CUFA Council/General Meeting
-
-
-
-
-
-
-
-
-More events »
-
-
-
-
-
-
-Browse Past Events
-
-
-
-
-
-
-CUFA Member Suggestion Box
-
-
-Have a suggestion about negotiations or something else? 
-			
-Please share your input with us!
-
-
-
-
+October 7, 2017
  
-November 2017
-
-
-Previous Month
-
-
-Next Month
-
-
-
-
-S
-M
-T
-W
-T
-F
-S
-
-
-
-
-1
-2
-3
-4
-5
+by
  
-
-
-
-
-
-
-CUFA Council Meeting
-
-
-9:30am - 11:25am / S-MB 9A
-
-
-
-
-
-
-
-				6
-7
-8
-9
+admin
+\t\t\t
+\n\n\t\t\t\t
+\n\t\t\t\t
+The Concordia Linguistics Student Association website has moved to the following address:
+\n
+https://concordialsa.wixsite.com/ling
+\n
+Keep up with us and all our events!
+\n\t\t\t\t\t\t\t
+\n\t\n\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+Posted in
  
-
-
-
-
-
-
-Senate
-
-
-2:00pm - 5:00pm / EV-2.260
-
-
-
-
-
-
-
-				10
-11
-12
+Uncategorized
+\t\t\t\t\t
+\n\t\t\t\t\t
+|
+\n\t\t\t\t\t\t\t\t\t\t\t\t
+Leave a comment
+\n\t\t\t\t\t\t\t
+\n\t\t
+\n\n\t\t\n\t\n\n\n\t\t\t
+\n\t\t\t
+A Day for Thinking of Your Future
+\n\n\t\t\t
+\n\t\t\t\t
+Posted on
  
-
-
-
-
-
-
-CUFA Executive Meeting
-
-
-12:00pm - 2:00pm / SGW TBD
-
-
-
-
-
-
-
-				13
-14
-15
-16
-17
-18
-19
-20
-21
-22
+March 16, 2016
  
-
-
-
-
-
-
-CUFA 5 à 7 – November 23, 2017
-
-
-5:00pm - 7:00pm / JMSB Building, 9th Floor Rooms C and D
-
-
-
-
-
-
-
-				23
-24
-25
-26
+by
  
-
-
-
-
-
-
-CUFA Executive Meeting
-
-
-10:00am - 12:00pm / L-HB109
-
-
-
-
-
-
-
-				27
-28
-29
-30
+admin
+\t\t\t
+\n\n\t\t\t\t
+\n\t\t\t\t
+March 30th is going to be a big day! The LSA is putting on both the 
+Sell Yourself as a Linguist
+ workshop and the 
+Professional Meet & Greet
+. Both of these events will give you skills and information to get ahead in life during and after your linguistics degree.
+\n
+See the posters below for details!
+\n
+\n
+\xa0
+\n
+\n\t\t\t\t\t\t\t
+\n\t\n\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+Posted in
  
-
-
-
-
+Uncategorized
+\t\t\t\t\t
+\n\t\t\t\t\t
+|
+\n\t\t\t\t\t\t\t\t\t\t\t\t
+Leave a comment
+\n\t\t\t\t\t\t\t
+\n\t\t
+\n\n\t\t\n\t\n\n\n\t\t\t
+\n\t\t\t
+\n\n\t\t\t
+\n\t\t\t\t
+Posted on
  
-
-	jQuery(document).ready(function($){
-		$('#calendar-container').on('click', '.cal-nav', function(e) {
-			e.preventDefault();
-			$('#calendar-container').animate({opacity: 0.75}, 300);
-			$.ajax({
-				type : "post",
-				url : "http://cufa.net/wp-admin/admin-ajax.php",
-				data : { action: 'load_mini_calendar', month: $(this).data('month'), year: $(this).data('year') },
-				success: function(response) {
-					$("#calendar-container").html(response).animate({opacity: 1.0}, 200);
-				}
-			});
-		});
-		$('#calendar-container').on({
-			mouseenter: function () {
-				$(this).children('.event-details').show();
-			},
-			mouseleave: function () {
-			    $(this).children('.event-details').hide();
-			}
-		 }, '.an-event .day');
-	});
-	
-
-
-
-
-On Twitter
-
-
-
-
-CUFA/APUC
-@cufa_apuc
-
-
-https://t.co/6nardwZ6Pq
-
-
-Sunday, November 5
-
-
-
-
-CUFA/APUC
-@cufa_apuc
-
-
-In a Volatile Climate on Campus, Professors Teach on Tenterhooks 
-https://t.co/l0q7JJLHst
-
-
-Sunday, November 5
-
-
-
-
-CUFA/APUC
-@cufa_apuc
-
-
-https://t.co/syt4neq01z
-
-
-Wednesday, October 18
-
-
-
-
-
-
-
-
-Latest News
-
-
-
-
-
-
-Support for Professor Louise Briand, faculty representative on the UQO Board of Governors
-Read the letter of support from the FQPPU
-
-
-
-
-
-
-U Can’t Talk to Ur Professor Like This – The New York Times
-Read the full story
-
-
-
-
-
-
-March for Science – April 22 12:00 pm
-View details about the March
+March 5, 2016
  
-Canadian Messaging – March for Science
-
-
-
-
-
-
-Conferences are intellectual lifelines – but as a single parent I often miss out
-Read the full story
-
-
-
-
-
-
-New study suggests female professors outperform men in terms of service
-Read the full story
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contact Information
-
-
-
-
-General Inquiries
-
-Chantal Bohbot: 514-848-2424 x3999 | 
-<!--
-var a='c.bohbot';
-var b='concordia.ca';
-var fullLink= '<a href="m'+'a'+'ilt'+'o:'+a+'@'+b+'">'+a+'@'+b+'</a>';
-document.write(fullLink);
--->
-
-
-Inquiries about the Collective Agreement
-
-Genevieve Robichaud: 514-848-2424 x3984 | 
-<!--
-var a='genevieve.robichaud';
-var b='concordia.ca';
-var fullLink= '<a href="m'+'a'+'ilt'+'o:'+a+'@'+b+'">'+a+'@'+b+'</a>';
-document.write(fullLink);
--->
-
-
-View the Staff Directory »
-
-
-
-
-
-
-Mailing Address:
-
-Hingston Hall
-
-7141 Sherbrooke Street West
-
-Montreal, H4B 1R6
-
-
-Fax:
- (514) 848-3997
-
-
-
-
-
-
-
-
-
-                    Copyright © 2007-2014 Concordia University Faculty Association.               
-
-
-
-
-Contact the website developer »
-
-
-
-
-
-
-
-
-
-
-
-    jQuery(document).ready(function($) {
-        $(window).load(function() {
-            $('#news.flexslider').flexslider({
-                animation: "fade",
-                animationDuration: 800,
-                slideshowSpeed: 10000,
-                controlNav: false,
-                directionNav: true
-            });
-        });
-    });
-
-
-
->
+by
+ 
+admin
+\t\t\t
+\n\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\n\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+Posted in
+ 
+Uncategorized
+\t\t\t\t\t
+\n\t\t\t\t\t
+|
+\n\t\t\t\t\t\t\t\t\t\t\t\t
+Leave a comment
+\n\t\t\t\t\t\t\t
+\n\t\t
+\n\n\t\t\n\t\n\n\n\t\t\t
+\n\t\t\t
+\n\n\t\t\t
+\n\t\t\t\t
+Posted on
+ 
+February 29, 2016
+ 
+by
+ 
+admin
+\t\t\t
+\n\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\n\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+Posted in
+ 
+Uncategorized
+\t\t\t\t\t
+\n\t\t\t\t\t
+|
+\n\t\t\t\t\t\t\t\t\t\t\t\t
+Leave a comment
+\n\t\t\t\t\t\t\t
+\n\t\t
+\n\n\t\t\n\t\n\n\n\t\t\t
+\n\t\t\t
+\n\n\t\t\t
+\n\t\t\t\t
+Posted on
+ 
+January 13, 2016
+ 
+by
+ 
+admin
+\t\t\t
+\n\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\n\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+Posted in
+ 
+Social
+\t\t\t\t\t
+\n\t\t\t\t\t
+|
+\n\t\t\t\t\t\t\t\t\t\t\t\t
+Leave a comment
+\n\t\t\t\t\t\t\t
+\n\t\t
+\n\n\t\t\n\t\n\n\n\t\t\t
+\n\t\t\t
+\n\n\t\t\t
+\n\t\t\t\t
+Posted on
+ 
+October 17, 2015
+ 
+by
+ 
+admin
+\t\t\t
+\n\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\n\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+Posted in
+ 
+Uncategorized
+\t\t\t\t\t
+\n\t\t\t\t\t
+|
+\n\t\t\t\t\t\t\t\t\t\t\t\t
+Leave a comment
+\n\t\t\t\t\t\t\t
+\n\t\t
+\n\n\t\t\n\t\n\n\n\t\t\t
+\n\t\t\t
+NELS 46 \u2014 Hosted by Concordia
+\n\n\t\t\t
+\n\t\t\t\t
+Posted on
+ 
+October 14, 2015
+ 
+by
+ 
+admin
+\t\t\t
+\n\n\t\t\t\t
+\n\t\t\t\t
+Pre-registration is required but there is no fee for Concordia students!
+\n
+\n\t\t\t\t\t\t\t
+\n\t\n\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+Posted in
+ 
+Uncategorized
+\t\t\t\t\t
+\n\t\t\t\t\t
+|
+\n\t\t\t\t\t\t\t\t\t\t\t\t
+Leave a comment
+\n\t\t\t\t\t\t\t
+\n\t\t
+\n\n\t\t\n\t\n\n\n\t\t\t
+\n\t\t\t
+The 2nd Annual FaculTea
+\n\n\t\t\t
+\n\t\t\t\t
+Posted on
+ 
+September 30, 2015
+ 
+by
+ 
+admin
+\t\t\t
+\n\n\t\t\t\t
+\n\t\t\t\t
+New and returning students are welcome!
+\n\t\t\t\t\t\t\t
+\n\t\n\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+Posted in
+ 
+Social
+\t\t\t\t\t
+\n\t\t\t\t\t
+|
+\n\t\t\t\t\t\t\t\t\t\t\t\t
+Leave a comment
+\n\t\t\t\t\t\t\t
+\n\t\t
+\n\n\t\t\n\t\n\n\n\t\t\t
+\n\t\t\t
+Attention New Students: Classics, Modern Languages, and LINGUISTICS Orientation!
+\n\n\t\t\t
+\n\t\t\t\t
+Posted on
+ 
+September 16, 2015
+ 
+by
+ 
+admin
+\t\t\t
+\n\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\n\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+Posted in
+ 
+Social
+\t\t\t\t\t
+\n\t\t\t\t\t
+|
+\n\t\t\t\t\t\t\t\t\t\t\t\t
+Leave a comment
+\n\t\t\t\t\t\t\t
+\n\t\t
+\n\n\t\t\n\t\n\n\n\t\t\t
+\n\t\t\t
+\n\n\t\t\t
+\n\t\t\t\t
+Posted on
+ 
+September 16, 2015
+ 
+by
+ 
+admin
+\t\t\t
+\n\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\n\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+Posted in
+ 
+Academic
+\t\t\t\t\t
+\n\t\t\t\t\t
+|
+\n\t\t\t\t\t\t\t\t\t\t\t\t
+Leave a comment
+\n\t\t\t\t\t\t\t
+\n\t\t
+\n\n\t\t\n\t\n\n\t\t\t\t
+\n\t\t\t\t\t
+\u2190
+ Older posts
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t
+\n\n\n\t\t
+\n\t\t\t
+\n\n
+Welcome
+\t\t\t\n\t\t\t
+Find out about us 
+here
+.
+\n
+\n\t\t
+Contact
+\t\t\t\n\t\t\t
+Email: concordia.lsa@gmail.com
+\n
+Facebook: 
+here
+\n
+Student lounge: H-665
+\n\t\t
+Subscribe to the mailing lists
+\t\t\t\n\t\t\t
+Everything LSA: 
+lingthing
+\n
+Talks only: 
+lingmont
+\n
+Doesn't work? Get help 
+here
+.
+\n\t\t
+Past posts
+\t\t
+\n\t
+Academic
+ (44)\n
+\n\t
+External events
+ (19)\n
+\n\t
+Internal affairs
+ (33)\n
+\n\t
+Social
+ (28)\n
+\n\t
+Talks @ Concordia
+ (44)\n
+\n\t
+Uncategorized
+ (8)\n
+\n\t\t
+\n
+\t\t\t
+\n\t\t
+\n\n\t
+\n\n\t
+\n\t\t
+\n\n\n\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t
+\n\n\t\t\t
+\n\t\t\t\t\t\t\t\t
+Proudly powered by WordPress.
+\n\t\t\t
+\n\n\t\t
+\n\t
+\n\n
+\n\n\n
+\n\n\t\t\t
+\n\t\t\t
+\n\t\t\t
+\n\t\t\t\n
+jQuery("#wppa-overlay-bg").css({height:screen.height+"px"});\n\t\t\twppaOvlTxtHeight = "auto";\n\t\t\twppaOvlCloseTxt = "CLOSE";\n\t\t\twppaOvlOpacity = 0.8;\n\t\t\twppaOvlOnclickType = "none";\n\t\t\twppaOvlTheme = "black";\n\t\t\twppaOvlAnimSpeed = 300;\n\t\t\twppaVer4WindowWidth = 800;\n\t\t\twppaVer4WindowHeight = 600;\n\t\t\twppaOvlShowCounter = true;\n\t\t\twppaOvlFontFamily = "Verdana, Helvetica, sans-serif";\n\t\t\twppaOvlFontSize = "10";\n\t\t\twppaOvlFontColor = "#666";\n\t\t\twppaOvlFontWeight = "bold";\n\t\t\twppaOvlLineHeight = "12";\n\t\t\t
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar _wpcf7 = {"loaderUrl":"http:\\/\\/linguistics.concordia.ca\\/lsa\\/wp-content\\/plugins\\/contact-form-7\\/images\\/ajax-loader.gif","sending":"Sending ..."};\n/* ]]> */\n
+\n
+\n\n\n>

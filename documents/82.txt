@@ -1,0 +1,395 @@
+\n\n
+\n
+\n\n\n
+\n
+\n\n
+\n
+JMAS \u2013 John Molson Accounting Society
+\n
+\n
+\n\n
+\n
+ \n\t\t
+\n\t\t
+\nimg.wp-smiley,\nimg.emoji {\n\tdisplay: inline !important;\n\tborder: none !important;\n\tbox-shadow: none !important;\n\theight: 1em !important;\n\twidth: 1em !important;\n\tmargin: 0 .07em !important;\n\tvertical-align: -0.1em !important;\n\tbackground: none !important;\n\tpadding: 0 !important;\n}\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+ \n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n\n\n
+\n
+\n\n
+\n
+\n    var analyticsFileTypes = [''];\n    var analyticsSnippet = 'enabled';\n    var analyticsEventTracking = 'enabled';\n
+\n
+\n\tvar _gaq = _gaq || [];\n  \n\t_gaq.push(['_setAccount', 'UA-56666786-1']);\n    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google\n\t_gaq.push(['_trackPageview']);\n\n\t(function() {\n\t\tvar ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n\t\t                ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';\n                                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n\t})();\n
+\n\n\n
+\n\n
+\n@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal;\nsrc: url('https://jmas.ca/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3');\nsrc: url('https://jmas.ca/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3#iefix') format('embedded-opentype'), \nurl('https://jmas.ca/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff?v=3') format('woff'), \nurl('https://jmas.ca/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf?v=3') format('truetype'), \nurl('https://jmas.ca/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg?v=3#entypo-fontello') format('svg');\n} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }\n
+\n\n\n\n\n\n\n\n\t\n\t
+\n\n\t\n
+\n\n
+\t\t
+\n\t\n        
+Home
+\n
+About Us
+\n\n\n
+\n\t
+Executive Team
+\n\t
+First Year Representative
+\n\t
+CASAJMSB
+\n\t
+Volunteers
+\n
+\n
+\n
+Academic
+\n\n\n
+\n\t
+Become a JMAS Tutor
+\n\t
+ACCO 340 Tutorials
+\n\t
+Accounting Handbook
+\n\t
+Accountancy at JMSB
+\n\t
+Mentorship Program
+\n\t
+CPA Desgination
+\n\t
+\n\t\t
+JMSB CPA Graduate Diploma
+\n\t\t
+McGill CPA Graduate Diploma
+\n\t\t
+Online CPA
+\n\t
+\n
+\n\t
+Other Certifications
+\n
+\n
+\n
+Recruitment
+\n\n\n
+\n\t
+Firm Tours and Seminars 2017
+\n\t
+CPA Recruitment Cocktail 2017
+\n
+\n
+\n
+Events
+\n\n\n
+\n\t
+First Year Event 2017
+\n\t
+Dividends Magazine Launch 2017
+\n\t
+CPA Recruitment Cocktail 2017
+\n\t
+Accounting Conference
+\n\t
+CPA for a Day 2017
+\n\t
+JMAS Presents: Information Session Series
+\n\t
+Winter Cocktail 2017
+\n\t
+JMAS Casino Night 2017
+\n\t
+Archives
+\n\t
+\n\t\t
+Events 2015-2016
+\n\t\t
+\n\t\t\t
+First Year Event 2015
+\n\t\t\t
+Pool and Bowling
+\n\t\t\t
+Tax Speaker Series and Networking Cocktail
+\n\t\t\t
+JMAS Gets Fit 2015
+\n\t\t\t
+Game to Gain 2015
+\n\t\t\t
+JMAS Tax Clinic \u2013 Volunteer Recruitment
+\n\t\t
+\n
+\n\t\t
+Events 2014-2015
+\n\t\t
+\n\t\t\t
+Dividends Magazine Launch 2014
+\n\t\t\t
+CPA Recruitment Cocktail 2014
+\n\t\t\t
+Dividends Cup 2014
+\n\t\t\t
+First Year Event
+\n\t\t\t
+JMAS Info Session
+\n\t\t\t
+CPA Information Session
+\n\t\t\t
+JMAS Meet & Greet
+\n\t\t\t
+CPA Information Session \u2013 Part 2
+\n\t\t\t
+CPA Business Photoshoot
+\n\t\t\t
+Game to Gain
+\n\t\t\t
+JMAS Gets Fit
+\n\t\t\t
+CPA for a Day Case Competiton
+\n\t\t\t
+JMIBA & JMAS Present: NEXPATRIATES
+\n\t\t\t
+CPA Discovery Tour 2015
+\n\t\t\t
+CPA Winter Cocktail
+\n\t\t\t
+Coffee Monday
+\n\t\t
+\n
+\n\t\t
+Events 2013-2014
+\n\t\t
+\n\t\t\t
+First Year Event
+\n\t\t\t
+CPA Recruitment Cocktail
+\n\t\t\t
+JMAS \u2013 FISA 5-7
+\n\t\t\t
+Balanced Lifestyle
+\n\t\t\t
+Pool & Bowling Night
+\n\t\t\t
+JMAS & MAS Cocktail
+\n\t\t\t
+Dividends
+\n\t\t\t
+CPA Info Session
+\n\t\t\t
+Dividends Cup
+\n\t\t\t
+Winter Cocktail
+\n\t\t\t
+Designation Expo
+\n\t\t\t
+Game To Gain
+\n\t\t\t
+Beer & Pizza
+\n\t\t\t
+CPA Discovery Tour
+\n\t\t
+\n
+\n\t
+\n
+\n
+\n
+\n
+Jobs
+\n\n\n
+\n\t
+Submit a Job Posting
+\n
+\n
+\n
+JMAS Tax Clinic
+\n\n\n
+\n\t
+JMAS Tax Clinic
+\n\t
+Volunteer Registration
+\n\t
+Clinique d\u2019Imp\xf4ts JMAS 2017
+\n
+\n
+\n
+Platinum & Gold Sponsors
+\n
+\n\t\t\t\t\t\t\t
+Search
+\n\t        \t\t   
+ 
+ \n\t\t
+\n\t\t
+\n\t\t\n\t\t
+\n\n
+\n
+\n\t\t\n\t
+\n\n\t
+\n
+\n
+\n
+\n
+\n
+\n
+(function() {\n\tif (!window.mc4wp) {\n\t\twindow.mc4wp = {\n\t\t\tlisteners: [],\n\t\t\tforms    : {\n\t\t\t\ton: function (event, callback) {\n\t\t\t\t\twindow.mc4wp.listeners.push({\n\t\t\t\t\t\tevent   : event,\n\t\t\t\t\t\tcallback: callback\n\t\t\t\t\t});\n\t\t\t\t}\n\t\t\t}\n\t\t}\n\t}\n})();\n
+JMAS Newsletter
+\n
+Receive Updates from Firms and Networking Events
+\n
+Email Address:
+\n
+First Name:
+\n
+Last Name:
+\n
+Year of Study in Accountancy:
+\n
+\n    
+1st Year Student
+\n    
+2nd Year Student
+\n    
+3rd Year Student
+\n    
+4th Year Student
+\n    
+5th Year Student
+\n
+\n
+\n
+Follow us on Facebook!
+\n
+\n
+\n
+\n
+\n\n
+Facebook
+\n\n
+ 
+\t\t
+\t\t\t\t\t\t
+\n\n\t\t\t\t\t
+\n\n\t\t\t\t\t\t
+About Us
+\t\t\t
+\n
+The John Molson Accounting Society (JMAS) is a non-profit student-run organization representing the Accounting students of the John Molson School of Business. We are a subsidiary of CASAJMSB.
+\n
+\n\t\t
+Contact Us
+\t\t\t
+\u200bJohn Molson Accounting Society (JMAS) 
+\nO: 514-848-2424 ext 2855
+\nF: 514-848-7436 attn JMAS
+\nE: info@jmas.ca 
+\n
+John Molson School of Business (JMSB) 
+\nConcordia University
+\n1450 Guy Street, MB 4.118
+\nMontreal, Quebec, Canada
+\nH3G 1M8
+\n
+\n\t\t
+Affiliates
+\t\t\t
+CASAJMSB
+\n
+\n
+Accountancy Major
+\n
+\n
+John Molson School of Business
+\n
+\n
+Concordia University
+\n
+\n
+Ordre des CPAs du Qu\xe9bec
+\n\t\t
+\n\n\t\t\t\t\t
+\n\n\n\t\t\t\t
+\n\t\t\t\t
+\n\n\t\n\n\n\t\t\t\n\n\t\t\t\n\t\t\t\t
+\n                    
+\n\n                        
+jmas.ca - 
+Enfold Theme by Kriesi
+\n\n                        \n                    
+\n\n\t            
+\n\t\t\t\t
+\n\n\n\t\t\t\t\t
+\n\t\t
+\n\t\t\n\t\t
+\n\n\t\t
+\n\t\t/*<![CDATA[*/\n\t\tvar gmapstyles = 'default';\n\t\t/* ]]> */\n\t\t
+\t\t\n\t\t\n 
+\n /* <![CDATA[ */  \nvar avia_framework_globals = avia_framework_globals || {};\n    avia_framework_globals.frameworkUrl = 'https://jmas.ca/wp-content/themes/enfold/framework/';\n    avia_framework_globals.installedAt = 'https://jmas.ca/wp-content/themes/enfold/';\n    avia_framework_globals.ajaxurl = 'https://jmas.ca/wp-admin/admin-ajax.php';\n/* ]]> */ \n
+\n \n 
+(function() {function addEventListener(element,event,handler) {\n\tif(element.addEventListener) {\n\t\telement.addEventListener(event,handler, false);\n\t} else if(element.attachEvent){\n\t\telement.attachEvent('on'+event,handler);\n\t}\n}function maybePrefixUrlField() {\n\tif(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {\n\t\tthis.value = "http://" + this.value;\n\t}\n}\n\nvar urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');\nif( urlFields && urlFields.length > 0 ) {\n\tfor( var j=0; j < urlFields.length; j++ ) {\n\t\taddEventListener(urlFields[j],'blur',maybePrefixUrlField);\n\t}\n}/* test if browser supports date fields */\nvar testInput = document.createElement('input');\ntestInput.setAttribute('type', 'date');\nif( testInput.type !== 'date') {\n\n\t/* add placeholder & pattern to all date fields */\n\tvar dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');\n\tfor(var i=0; i<dateFields.length; i++) {\n\t\tif(!dateFields[i].placeholder) {\n\t\t\tdateFields[i].placeholder = 'YYYY-MM-DD';\n\t\t}\n\t\tif(!dateFields[i].pattern) {\n\t\t\tdateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';\n\t\t}\n\t}\n}\n\n})();
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar ecwd = {"ajaxurl":"https:\\/\\/jmas.ca\\/wp-admin\\/admin-ajax.php","ajaxnonce":"3127c4a55e","loadingText":"Loading...","event_popup_title_text":"Event Details","plugin_url":"https:\\/\\/jmas.ca\\/wp-content\\/plugins\\/event-calendar-wd","gmap_key":"","gmap_style":""};\n/* ]]> */\n
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar _wpcf7 = {"loaderUrl":"https:\\/\\/jmas.ca\\/wp-content\\/plugins\\/contact-form-7\\/images\\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"sending":"Sending ..."};\n/* ]]> */\n
+\n
+\n
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\\/Pause":"Play\\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\\/Subtitles":"Captions\\/Subtitles"}};\nvar _wpmejsSettings = {"pluginPath":"\\/wp-includes\\/js\\/mediaelement\\/"};\n/* ]]> */\n
+\n
+\n
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar mc4wp_forms_config = [];\n/* ]]> */\n
+\n
+\n
+\n
+Scroll to top
+\n\n
+\n\n\n>

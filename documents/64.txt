@@ -1,954 +1,151 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CUFA Reports Archive - Concordia University Faculty Association
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Search:
-
-
-
-
-
-
-
-
+\n\n
+Fibres Student Association - Fibres Student Association
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n\n
+\n  
+\n\n
+\n
+\n
+\n
+\n
+\n.wsite-header {\n\tbackground-image: url(/uploads/5/2/3/8/5238325/header_images/1313354186.jpg) !important;\n\tbackground-position: 0 0 !important;\n}\n
+\n
+\n
+<!--\nvar STATIC_BASE = 'http://cdn1.editmysite.com/';\nvar STYLE_PREFIX = 'wsite';\n//-->\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+<!--\n(function(jQuery){\nfunction initFlyouts(){initPublishedFlyoutMenus([{"id":"626449823150045933","title":"Home","url":"index.html"},{"id":"905401548867177504","title":"Blog","url":"blog.html"},{"id":"196852931690372731","title":"Contact","url":"contact.html"},{"id":"653835663956571062","title":"About Us","url":"about-us.html"},{"id":"494056923965527105","title":"Calendar","url":"calendar1.html"},{"id":"759354677884971718","title":"For members","url":"for-members.html"}],'626449823150045933',"<li class='wsite-nav-more'><a href='#'>more...<\\/a><\\/li>",'active',false)}\nif (jQuery) {\nif (jQuery.browser.msie) window.onload = initFlyouts;\nelse jQuery(initFlyouts)\n}else{\nif (Prototype.Browser.IE) window.onload = initFlyouts;\nelse document.observe('dom:loaded', initFlyouts);\n}\n})(window._W && _W.jQuery)\n//-->\n
+\n\n\n
+\n            
+\n                
+Fibres Student Association
+\n                
+Home
+Blog
+Contact
+About Us
+Photos
+DYED:  By Natural Causes
+Calendar
+For members
+news and meeting notes
+Calendar
+room and tech schedules
+\n            
+\n    \n        
+\n        
+\n            \n            
+\n                
+\n
+\n\n\n\n\n\n\n\n
+\n\n
+Application form for 
+Monstrosities
+ Exhibition at 
+Diagonale
+DEADLINE JANUARY 25
+Abjection, adaptation, abnormal, blemish, deformity, dread, exaggeration, grotesque, mutation, transgression...
+"The grotesque body is the open, protruding, extended, secreting body, the body of becoming, process, and change. The grotesque body is opposed to the classical body, which is monumental, static, closed and sleek... the grotesque body is connected to the rest of the world."
+\u2014 Mary Russo, Female Grotesques: Carnival and Theory
  
-Login:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Concordia University Faculty Association
-
-
-
-
-Twitter
-
-
-<!--
-				var a='cufa';
-				var b='concordia.ca';
-				var fullEmailLink= '<li class="e'+'ma'+'il-icon"><a href="m'+'a'+'ilt'+'o:'+a+'@'+b+'">Em'+'ail CUFA</a></li>';
-				$("#header-main .networking-icons").prepend(fullEmailLink);
-				-->
-
-
-
-
-About
-
-
-
-
-Executive
-
-
-Staff
-
-
-Committees
-
-
-Council Members
-
-
-From the President
-
-
-Frequently Asked Questions
-
-
-
-
-
-
-Resources
-
-
-
-
-Constitution
-
-
-Forms
-
-
-CUFA Reports
-
-
-Other Links
-
-
-
-
-
-
-Collective Agreements
-
-
-
-
-Collective Agreement for 2015 – 2018
-
-
-Collective Agreement for 2012 – 2015
-
-
-2007-2012 Agreement
-
-
-2002-2007 Agreement
-
-
-
-
-
-
-Member Area
-
-
-
-
-Edit Your Account
-
-
-Meeting Minutes
-
-
-Suggestion Box
-
-
-Member Fora
-
-
-Member Classifieds
-
-
-Opinion Polls
-
-
-Newsletter Archive
-
-
-Financial Statements
-
-
-CAUT Documents
-
-
-FQPPU Documents
-
-
-Investment policy (updated February 2016)
-
-
-Bixi
-
-
-
-
-
-
-News
-
-
-Events
-
-
-
-
-Upcoming Events
-
-
-Past Events
-
-
-
-
-
-
-Career
-
-
-
-
-Retirement
-
-
-
-
-
-
-Elections
-
-
-
-
-Nomination forms 2017-2019
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CUFA Report – 30 May 2012
-
-
-
-
-May 30, 2012
-
-
-
-
-
-
-What numbers and considerations should inform decision-making at universities? What achievement targets should we set for the strategic direction(s) of Concordia? Greg Butler discusses three numbers that matter.
-
-
-
-
-
-
-
-
-
-
-
-
-CUFA Report – 6 December 2011
-
-
-
-
-December 06, 2011
-
-
-
-
-
-
-In this issue, Chief Negotiator Ian Rakita discusses faculty and librarian salaries at Concordia and demonstrates how they continue to lag behind those at comparable universities in Canada. Read this article and more.
-
-
-
-
-
-
-
-
-
-
-
-
-CUFA Report – 13 February 2011
-
-
-
-
-February 13, 2011
-
-
-
-
-
-
-The February issue of CUFA Report is now available.
-
-
-
-
-
-
-
-
-
-
-
-
-CUFA Report – 14 June 2010
-
-
-
-
-June 14, 2010
-
-
-
-
-
-
-The May issue of CUFA Report is now available.
-
-
-
-
-
-
-
-
-
-
-
-
-CUFA Report – 3 March 2010
-
-
-
-
-March 03, 2010
-
-
-
-
-
-
-The March issue of CUFA Report is now available.
-
-
-
-
-
-
-
-
-
-
-
-
-CUFA Report – 26 November 2009
-
-
-
-
-November 26, 2009
-
-
-
-
-
-
-The November issue of CUFA Report is now available.
-
-
-
-
-
-
-
-
-
-
-
-
-CUFA Report – 18 September 2008
-
-
-
-
-September 18, 2008
-
-
-
-
-
-
-This issue leads up to the open CUFA Council meeting on Monday Sept.22, by rehearsing first the interface of recent constitutional projects with our stalled contractual negotiations, by our president Charles Draimin from Accountancy, and Sociology and Anthropology’s Shelley Reuter.…  
-Read More »
-
-
-
-
-
-
-
-
-
-
-
-
-CUFA Report – 31 August 2008
-
-
-
-
-August 31, 2008
-
-
-
-
-
-
-There are two articles devoted to salary concerns: “The Long and the Short of Salary Part I: Salary Structure” by Charles Draimin and “Just Say NO!” by Norman Ingram.
-
-
-
-
-
-
-
-
-
-
-
-
-CUFA Report – 10 April 2008
-
-
-
-
-April 10, 2008
-
-
-
-
-
-
-Read all about what CUFA does for you. Also read an insightful view of tuition fees in Quebec, and more….
-
-
-
-
-
-
-
-
-
-
-
-
-CUFA Report – 24 January 2008
-
-
-
-
-January 24, 2008
-
-
-
-
-
-
-This issue primarily addresses the crisis of university governance.
-
-
-
-
-
-
-
-
-More posts »
-
-
-
-
-
-
-
-
-
-
-
-
-CUFA Member Suggestion Box
-
-
-Have a suggestion about negotiations or something else? 
-			
-Please share your input with us!
-
-
-
-
- 
-November 2017
-
-
-Previous Month
-
-
-Next Month
-
-
-
-
-S
-M
-T
-W
-T
-F
-S
-
-
-
-
-1
-2
-3
-4
-5
- 
-
-
-
-
-
-
-CUFA Council Meeting
-
-
-9:30am - 11:25am / S-MB 9A
-
-
-
-
-
-
-
-				6
-7
-8
-9
- 
-
-
-
-
-
-
-Senate
-
-
-2:00pm - 5:00pm / EV-2.260
-
-
-
-
-
-
-
-				10
-11
-12
- 
-
-
-
-
-
-
-CUFA Executive Meeting
-
-
-12:00pm - 2:00pm / SGW TBD
-
-
-
-
-
-
-
-				13
-14
-15
-16
-17
-18
-19
-20
-21
-22
- 
-
-
-
-
-
-
-CUFA 5 à 7 – November 23, 2017
-
-
-5:00pm - 7:00pm / JMSB Building, 9th Floor Rooms C and D
-
-
-
-
-
-
-
-				23
-24
-25
-26
- 
-
-
-
-
-
-
-CUFA Executive Meeting
-
-
-10:00am - 12:00pm / L-HB109
-
-
-
-
-
-
-
-				27
-28
-29
-30
- 
-
-
-
-
- 
-
-	jQuery(document).ready(function($){
-		$('#calendar-container').on('click', '.cal-nav', function(e) {
-			e.preventDefault();
-			$('#calendar-container').animate({opacity: 0.75}, 300);
-			$.ajax({
-				type : "post",
-				url : "http://cufa.net/wp-admin/admin-ajax.php",
-				data : { action: 'load_mini_calendar', month: $(this).data('month'), year: $(this).data('year') },
-				success: function(response) {
-					$("#calendar-container").html(response).animate({opacity: 1.0}, 200);
-				}
-			});
-		});
-		$('#calendar-container').on({
-			mouseenter: function () {
-				$(this).children('.event-details').show();
-			},
-			mouseleave: function () {
-			    $(this).children('.event-details').hide();
-			}
-		 }, '.an-event .day');
-	});
-	
-
-
-
-
-On Twitter
-
-
-
-
-CUFA/APUC
-@cufa_apuc
-
-
-https://t.co/6nardwZ6Pq
-
-
-Sunday, November 5
-
-
-
-
-CUFA/APUC
-@cufa_apuc
-
-
-In a Volatile Climate on Campus, Professors Teach on Tenterhooks 
-https://t.co/l0q7JJLHst
-
-
-Sunday, November 5
-
-
-
-
-CUFA/APUC
-@cufa_apuc
-
-
-https://t.co/syt4neq01z
-
-
-Wednesday, October 18
-
-
-
-
-
-
-
-
-Latest News
-
-
-
-
-
-
-Support for Professor Louise Briand, faculty representative on the UQO Board of Governors
-Read the letter of support from the FQPPU
-
-
-
-
-
-
-U Can’t Talk to Ur Professor Like This – The New York Times
-Read the full story
-
-
-
-
-
-
-March for Science – April 22 12:00 pm
-View details about the March
- 
-Canadian Messaging – March for Science
-
-
-
-
-
-
-Conferences are intellectual lifelines – but as a single parent I often miss out
-Read the full story
-
-
-
-
-
-
-New study suggests female professors outperform men in terms of service
-Read the full story
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contact Information
-
-
-
-
-General Inquiries
-
-Chantal Bohbot: 514-848-2424 x3999 | 
-<!--
-var a='c.bohbot';
-var b='concordia.ca';
-var fullLink= '<a href="m'+'a'+'ilt'+'o:'+a+'@'+b+'">'+a+'@'+b+'</a>';
-document.write(fullLink);
--->
-
-
-Inquiries about the Collective Agreement
-
-Genevieve Robichaud: 514-848-2424 x3984 | 
-<!--
-var a='genevieve.robichaud';
-var b='concordia.ca';
-var fullLink= '<a href="m'+'a'+'ilt'+'o:'+a+'@'+b+'">'+a+'@'+b+'</a>';
-document.write(fullLink);
--->
-
-
-View the Staff Directory »
-
-
-
-
-
-
-Mailing Address:
-
-Hingston Hall
-
-7141 Sherbrooke Street West
-
-Montreal, H4B 1R6
-
-
-Fax:
- (514) 848-3997
-
-
-
-
-
-
-
-
-
-                    Copyright © 2007-2014 Concordia University Faculty Association.               
-
-
-
-
-Contact the website developer »
-
-
-
-
-
-
-
-
-
-
-
-    jQuery(document).ready(function($) {
-        $(window).load(function() {
-            $('#news.flexslider').flexslider({
-                animation: "fade",
-                animationDuration: 800,
-                slideshowSpeed: 10000,
-                controlNav: false,
-                directionNav: true
-            });
-        });
-    });
-
-
-
-
-
->
+TO APPLY
+-Have taken a Fibres course in the last 3 years
+-Work must be complete at the time of submission
+-Fill in the application form below
+-Include visual support- maximum 7 images, 72 dpi on a CD-DVD
+-Seal all material in an envelope and drop in FSA mailbox (EV 2nd floor)
+\xa0by 5 pm on JANUARY 25
+\n
+\n\n
+\n
+ fsa_monstrosities_application_form.doc
+File Size:  
+25 kb
+File Type:  
+ doc
+Download File
+\n
+\n\n
+\n\n
+\n
+\n
+\n(function(jQuery) {\nfunction init() { wSlideshow.render({elementID:"603860947418223863",nav:"none",navLocation:"bottom",captionLocation:"bottom",transition:"fade",autoplay:"1",speed:"5",aspectRatio:"auto",showControls:"false",randomStart:"false",images:[{"url":"5\\/2\\/3\\/8\\/5238325\\/9141766.jpg","width":"333","height":"220","caption":"www.byhookorbycrook.ca","link":"http:\\/\\/www.byhookorbycrook.caweeblylink_new_window"},{"url":"5\\/2\\/3\\/8\\/5238325\\/8600051.jpg","width":333,"height":220},{"url":"5\\/2\\/3\\/8\\/5238325\\/328697.jpg","width":165,"height":250},{"url":"5\\/2\\/3\\/8\\/5238325\\/809487.jpg","width":333,"height":220},{"url":"5\\/2\\/3\\/8\\/5238325\\/3716193.jpg","width":165,"height":250},{"url":"5\\/2\\/3\\/8\\/5238325\\/8971316.jpg","width":333,"height":220},{"url":"5\\/2\\/3\\/8\\/5238325\\/4539678.jpg","width":333,"height":220},{"url":"5\\/2\\/3\\/8\\/5238325\\/9882604.jpg","width":333,"height":220},{"url":"5\\/2\\/3\\/8\\/5238325\\/4877512.jpg","width":333,"height":220},{"url":"5\\/2\\/3\\/8\\/5238325\\/3126815.jpg","width":166,"height":250},{"url":"5\\/2\\/3\\/8\\/5238325\\/4581845.jpg","width":333,"height":220},{"url":"5\\/2\\/3\\/8\\/5238325\\/3340149.jpg","width":333,"height":220},{"url":"5\\/2\\/3\\/8\\/5238325\\/5497129.jpg","width":165,"height":250},{"url":"5\\/2\\/3\\/8\\/5238325\\/1951211.jpg","width":333,"height":220},{"url":"5\\/2\\/3\\/8\\/5238325\\/1368570.jpg","width":333,"height":220}]}) }\njQuery ? jQuery(init) : document.observe('dom:loaded', init)\n})(window._W && _W.jQuery)\n
+\n\n
+\n\n
+\n\n
+\n
+\nnew TWTR.Widget({\n  version: 2,\n  type: 'profile',\n  rpp: 5,\n  interval: 6000,\n  width: 'auto',\n  height: 300,\n  theme: {\n    shell: {\n      background: '#ffffff',\n      color: '#0a090a'\n    },\n    tweets: {\n      background: '#ffffff',\n      color: '#171617',\n      links: '#5d615b'\n    }\n  },\n  features: {\n    scrollbar: false,\n    loop: false,\n    live: false,\n    hashtags: true,\n    timestamp: true,\n    avatars: false,\n    behavior: 'all'\n  }\n}).render().setUser('FibresStudents').start();\n
+\n\n\n\n
+\n\n
+\n\n
+\n
+\n\n
+\n\n\n\n\n\n\n\n
+\n\n
+\n\n\n\n\n\n\n\n
+\n\n
+\n\n
+\n\n
+\n\n
+\n
+\n\n
+\n\n
+\n\n
+\n
+\n\n            
+\n    
+ \n            
+\n                
+\n                    \n
+\n\t
+\n\t\t
+Create a free website
+\n\t\t
+\n\t\t\tPowered by 
+\n\t\t
+\n\t
+\n
+\n\n
+\n
+\n\tWeebly.footer.setupContainer('cdn2.editmysite.com', '1511392868', 'www.weebly.com');\n
+\n\n
+\n//<!--\n\nif (document.cookie.match(/(^|;)\\s*is_mobile=1/)) {\n\tvar windowHref = window.location.href || '';\n\tif (windowHref.indexOf('?') > -1) {\n\t\twindowHref += '&';\n\t} else {\n\t\twindowHref += '?';\n\t}\n\tdocument.write(\n\t\t"&nbsp;&nbsp;&nbsp;&nbsp;" +\n\t\t"<a class='wsite-view-link-mobile' href='" + windowHref + "view=mobile'>Mobile Site</a>"\n\t);\n}\n\n//-->\n
+\n                
+\n            
+\n\n
+\n\n  var _gaq = _gaq || [];\n  _gaq.push(['_setAccount', 'UA-18957297-1']);\n  _gaq.push(['_trackPageview']);\n\n  (function() {\n    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n  })();\n\n
+\n\n\tvar _gaq = _gaq || [];\n\t_gaq.push(['_setAccount', 'UA-7870337-1']);\n\t_gaq.push(['_setDomainName', 'none']);\n\t_gaq.push(['_setAllowLinker', true]);\n\n\t(function() {\n\t\tvar ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n\t\tga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n\t\tvar s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n\t})();\n\n\t_W.Analytics = _W.Analytics || {'trackers': {}};\n\t_W.Analytics.trackers.wGA = '_gaq';\n\n
+\n\n
+\n\t;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];\n\t\t\tp.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)\n\t\t\t};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;\n\t\t\tn.src=w;g.parentNode.insertBefore(n,g)}}(window,document,'script','//cdn2.editmysite.com/js/wsnbn/snowday262.js','snowday'));\n\n\tvar r = [99, 104, 101, 99, 107, 111, 117, 116, 46, 40, 119, 101, 101, 98, 108, 121, 124, 101, 100, 105, 116, 109, 121, 115, 105, 116, 101, 41, 46, 99, 111, 109];\n\tvar snPlObR = function(arr) {\n\t\tvar s = '';\n\t\tfor (var i = 0 ; i < arr.length ; i++){\n\t\t\ts = s + String.fromCharCode(arr[i]);\n\t\t}\n\t\treturn s;\n\t};\n\tvar s = snPlObR(r);\n\n\tvar regEx = new RegExp(s);\n\n\t_W.Analytics = _W.Analytics || {'trackers': {}};\n\t_W.Analytics.trackers.wSP = 'snowday';\n\t_W.Analytics.user_id = '5238325';\n\t_W.Analytics.site_id = '463857948544786067';\n\n\n\t(function(app_id, ec_hostname, discover_root_domain) {\n\t\tvar track = window[_W.Analytics.trackers.wSP];\n\t\tif (!track) return;\n\t\ttrack('newTracker', app_id, ec_hostname, {\n\t\t\tappId: app_id,\n\t\t\tpost: true,\n\t\t\tplatform: 'web',\n\t\t\tdiscoverRootDomain: discover_root_domain,\n\t\t\tcookieName: '_snow_',\n\t\t\tcontexts: {\n\t\t\t\twebPage: true,\n\t\t\t\tperformanceTiming: true,\n\t\t\t\tgaCookies: true\n\t\t\t},\n\t\t\tcrossDomainLinker: function (linkElement) {\n\t\t\t\treturn regEx.test(linkElement.href);\n\t\t\t}\n\t\t});\n\t\ttrack('trackPageView', _W.Analytics.user_id+':'+_W.Analytics.site_id);\n\t\ttrack('crossDomainLinker', function (linkElement) {\n\t\t\treturn regEx.test(linkElement.href);\n\t\t});\n\t})(\n\t\t'_wn',\n\t\t'ec.editmysite.com',\n\t\tfalse\n\t);\n
+\n\n
+\n
+\nvar _qevents = _qevents || [];\n\n(function() {\nvar elem = document.createElement('script');\nelem.src = "https://secure.quantserve.com/quant.js";\nelem.async = true;\nelem.type = "text/javascript";\nvar scpt = document.getElementsByTagName('script')[0];\nscpt.parentNode.insertBefore(elem, scpt);\n})();\n\n_qevents.push({\nqacct:"p-0dYLvhSGGqUWo",\nlabels:"l0,u5238325.u5238325s463857948544786067"\n});\n
+\n\n
+\n&lt;div style="display:none;"&gt;\n&lt;img src="//pixel.quantserve.com/pixel/p-0dYLvhSGGqUWo.gif?labels=l0,u5238325.u5238325s463857948544786067" border="0" height="1" width="1" alt="Quantcast"/&gt;\n&lt;/div&gt;\n
+\n
+\n\n\n
+\n\n\t(function(jQuery) {\n\t\ttry {\n\t\t\tif (jQuery) {\n\t\t\t\tjQuery('div.blog-social div.fb-like').attr('class', 'blog-social-item blog-fb-like');\n\t\t\t\tvar $commentFrame = jQuery('#commentArea iframe');\n\t\t\t\tif ($commentFrame.length > 0) {\n\t\t\t\t\tvar frameHeight = jQuery($commentFrame[0].contentWindow.document).height() + 50;\n\t\t\t\t\t$commentFrame.css('min-height', frameHeight + 'px');\n\t\t\t\t}\n\t\t\t\tif (jQuery('.product-button').length > 0){\n\t\t\t\t\tjQuery(document).ready(function(){\n\t\t\t\t\t\tjQuery('.product-button').parent().each(function(index, product){\n\t\t\t\t\t\t\tif(jQuery(product).attr('target') == 'paypal'){\n\t\t\t\t\t\t\t\tif (!jQuery(product).find('> [name="bn"]').length){\n\t\t\t\t\t\t\t\t\tjQuery('<input>').attr({\n\t\t\t\t\t\t\t\t\t\ttype: 'hidden',\n\t\t\t\t\t\t\t\t\t\tname: 'bn',\n\t\t\t\t\t\t\t\t\t\tvalue: 'DragAndDropBuil_SP_EC'\n\t\t\t\t\t\t\t\t\t}).appendTo(product);\n\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t});\n\t\t\t\t\t});\n\t\t\t\t}\n\t\t\t}\n\t\t\telse {\n\t\t\t\t// Prototype\n\t\t\t\t$$('div.blog-social div.fb-like').each(function(div) {\n\t\t\t\t\tdiv.className = 'blog-social-item blog-fb-like';\n\t\t\t\t});\n\t\t\t\t$$('#commentArea iframe').each(function(iframe) {\n\t\t\t\t\tiframe.style.minHeight = '410px';\n\t\t\t\t});\n\t\t\t}\n\t\t}\n\t\tcatch(ex) {}\n\t})(window._W && _W.jQuery);\n\n
+\n
+\n\t
+\n\t
+\u2715
+\n
+\n\n
+\n\t(function($) {\n\t\twindow.cookie_location = '';\n\t\t// this cookie_content should already be pre-encoded from CookieSettingView.js\n\t\twindow.cookie_content = '' || _W.stl('templates.publish.virtual-includes.footerCode_1');\n\t\twindow.cookie_policy_key = '463857948544786067_cookie_policy';\n\t\twindow.cookie_content_hash = '';\n\n\t\tif (!_W.getCookie(window.cookie_policy_key) || _W.getCookie(window.cookie_policy_key) !== window.cookie_content_hash){\n\t\t\tif (window.cookie_location === 'top' || window.cookie_location === 'bottom'){\n\t\t\t\t$('#eu-cookie-content').text(decodeURIComponent(window.cookie_content));\n\t\t\t\t(window.cookie_location === 'top') ? animateFromTop() : animateFromBottom();\n\t\t\t\t$('#eu-cookie').show();\n\t\t\t}\n\t\t}\n\n\t\t$('#eu-cookie-close').click(function(){\n\t\t\t_W.setCookie(window.cookie_policy_key, window.cookie_content_hash, 100000);\n\t\t\t$('#eu-cookie').hide();\n\t\t});\n\n\t\tfunction animateFromTop(){\n\t\t\t$('#eu-cookie').css({\n\t\t\t\t'top': '0px',\n\t\t\t\t'animation': 'reveal-top 1 2s'\n\t\t\t});\n\t\t}\n\n\t\tfunction animateFromBottom(){\n\t\t\t$('#eu-cookie').css({\n\t\t\t\t'bottom': '0px',\n\t\t\t\t'animation': 'reveal-bottom 1 2s'\n\t\t\t});\n\t\t}\n\t})(window._W && _W.jQuery);\n
+\n\n>

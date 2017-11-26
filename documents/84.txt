@@ -1,0 +1,314 @@
+\n
+\n\t
+\n\t
+JHMA | John Molson Human Resources and Management Association
+\n\t\t\t\n\t\n\t
+\n\n\t\t
+\n\n\t
+\n\n\t
+\n
+\n
+\n
+\n\t\t
+\n\t\t\twindow._wpemojiSettings = {"baseUrl":"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/2.3\\/72x72\\/","ext":".png","svgUrl":"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/2.3\\/svg\\/","svgExt":".svg","source":{"concatemoji":"http:\\/\\/www.jhma.ca\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=4.9"}};\n\t\t\t!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);\n\t\t
+\n\t\t
+\nimg.wp-smiley,\nimg.emoji {\n\tdisplay: inline !important;\n\tborder: none !important;\n\tbox-shadow: none !important;\n\theight: 1em !important;\n\twidth: 1em !important;\n\tmargin: 0 .07em !important;\n\tvertical-align: -0.1em !important;\n\tbackground: none !important;\n\tpadding: 0 !important;\n}\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+ \n
+\n
+\n
+\n
+\n
+\n
+\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t.woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce-message, .woocommerce-error, .woocommerce-info { background: #1e89ca !important; }\n\t\t\t#et_search_icon:hover, .mobile_menu_bar:before, .et-social-icon a:hover, .et_pb_sum, .et_pb_pricing li a, .et_pb_pricing_table_button, .et_overlay:before, .entry-summary p.price ins, .woocommerce div.product span.price, .woocommerce-page div.product span.price, .woocommerce #content div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price, .et_pb_member_social_links a:hover, .woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before, .et_pb_widget li a:hover, .et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active, .et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active, .et_pb_gallery .et_pb_gallery_pagination ul li a.active, .wp-pagenavi span.current, .wp-pagenavi a:hover, .nav-single a, .posted_in a { color: #1e89ca; }\n\t\t\t.et_pb_contact_submit, .et_password_protected_form .et_submit_button, .et_pb_bg_layout_light .et_pb_newsletter_button, .comment-reply-link, .form-submit input, .et_pb_bg_layout_light .et_pb_promo_button, .et_pb_bg_layout_light .et_pb_more_button, .woocommerce a.button.alt, .woocommerce-page a.button.alt, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce-page input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button { color: #1e89ca; }\n\t\t\t.footer-widget h4 { color: #1e89ca; }\n\t\t\t.et-search-form, .nav li ul, .et_mobile_menu, .footer-widget li:before, .et_pb_pricing li:before, blockquote { border-color: #1e89ca; }\n\t\t\t.et_pb_counter_amount, .et_pb_featured_table .et_pb_pricing_heading, .et_quote_content, .et_link_content, .et_audio_content { background-color: #1e89ca; }\n\t\t\t\t\t\t\t\t\ta { color: #1e89ca; }\n\t\t\t\t\t\t\t#main-header, #main-header .nav li ul, .et-search-form, #main-header .et_mobile_menu { background-color: rgba(255,255,255,0.64); }\n\t\t\t\t\t\t\t\t\t\t\t#top-header, #et-secondary-nav li ul { background-color: #1e89ca; }\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t#main-header .nav li ul a { color: #1e89ca; }\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t#top-menu li.current-menu-ancestor > a, #top-menu li.current-menu-item > a,\n\t\t\t.et_color_scheme_red #top-menu li.current-menu-ancestor > a, .et_color_scheme_red #top-menu li.current-menu-item > a,\n\t\t\t.et_color_scheme_pink #top-menu li.current-menu-ancestor > a, .et_color_scheme_pink #top-menu li.current-menu-item > a,\n\t\t\t.et_color_scheme_orange #top-menu li.current-menu-ancestor > a, .et_color_scheme_orange #top-menu li.current-menu-item > a,\n\t\t\t.et_color_scheme_green #top-menu li.current-menu-ancestor > a, .et_color_scheme_green #top-menu li.current-menu-item > a { color: #1e89ca; }\n\t\t\t\t\t\t\t\t\t\t\t\t\t#main-footer .footer-widget h4 { color: #1e89ca; }\n\t\t\t\t\t\t\t.footer-widget li:before { border-color: #1e89ca; }\n\t\t\t\t\t\t\t\t\t\t\t#main-header { box-shadow: none; }\n\t\t\t\t\t\t\t.et-fixed-header#main-header { box-shadow: none !important; }\n\t\t\t\t\t\t\t\t\n\t\t\n\t\t\n\t\t@media only screen and ( min-width: 981px ) {\n\t\t\t\t\t\t\t\t\t\t\t\t\th1 { font-size: 45px; }\n\t\t\t\th2, .product .related h2, .et_pb_column_1_2 .et_quote_content blockquote p { font-size: 38px; }\n\t\t\t\th3 { font-size: 32px; }\n\t\t\t\th4, .et_pb_circle_counter h3, .et_pb_number_counter h3, .et_pb_column_1_3 .et_pb_post h2, .et_pb_column_1_4 .et_pb_post h2, .et_pb_blog_grid h2, .et_pb_column_1_3 .et_quote_content blockquote p, .et_pb_column_3_8 .et_quote_content blockquote p, .et_pb_column_1_4 .et_quote_content blockquote p, .et_pb_blog_grid .et_quote_content blockquote p, .et_pb_column_1_3 .et_link_content h2, .et_pb_column_3_8 .et_link_content h2, .et_pb_column_1_4 .et_link_content h2, .et_pb_blog_grid .et_link_content h2, .et_pb_column_1_3 .et_audio_content h2, .et_pb_column_3_8 .et_audio_content h2, .et_pb_column_1_4 .et_audio_content h2, .et_pb_blog_grid .et_audio_content h2, .et_pb_column_3_8 .et_pb_audio_module_content h2, .et_pb_column_1_3 .et_pb_audio_module_content h2, .et_pb_gallery_grid .et_pb_gallery_item h3, .et_pb_portfolio_grid .et_pb_portfolio_item h2, .et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2 { font-size: 27px; }\n\t\t\t\t.et_pb_slide_description h2 { font-size: 68px; }\n\t\t\t\t.woocommerce ul.products li.product h3, .woocommerce-page ul.products li.product h3, .et_pb_gallery_grid .et_pb_gallery_item h3, .et_pb_portfolio_grid .et_pb_portfolio_item h2, .et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2, .et_pb_column_1_4 .et_pb_audio_module_content h2 { font-size: 23px; }\n\t\t\t\t\t\t\t\t\t\t.footer-widget h4 { font-size: 18px; }\n\t\t\t\t\t\t\t\t\t\t.et_header_style_left #et-top-navigation, .et_header_style_split #et-top-navigation  { padding: 25px 0 0 0; }\n\t\t\t\t.et_header_style_left #et-top-navigation nav > ul > li > a, .et_header_style_split #et-top-navigation nav > ul > li > a { padding-bottom: 25px; }\n\t\t\t\t.et_header_style_split .centered-inline-logo-wrap { width: 50px; margin: -50px 0; }\n\t\t\t\t.et_header_style_split .centered-inline-logo-wrap #logo { max-height: 50px; }\n\t\t\t\t.et_pb_svg_logo.et_header_style_split .centered-inline-logo-wrap #logo { height: 50px; }\n\t\t\t\t.et_header_style_centered #top-menu > li > a { padding-bottom: 9px; }\n\t\t\t\t\t\t\t\t\t.et_header_style_centered #main-header .logo_container { height: 50px; }\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t#logo { max-height: 94%; }\n\t\t\t\t.et_pb_svg_logo #logo { height: 94%; }\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t.et-fixed-header#top-header, .et-fixed-header#top-header #et-secondary-nav li ul { background-color: #1e89ca; }\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t.et-fixed-header #top-menu li.current-menu-ancestor > a,\n\t\t\t\t.et-fixed-header #top-menu li.current-menu-item > a { color: #1e89ca !important; }\n\t\t\t\t\t\t\n\t\t\t\t\t}\n\t\t@media only screen and ( min-width: 1350px) {\n\t\t\t.et_pb_row { padding: 27px 0; }\n\t\t\t.et_pb_section { padding: 54px 0; }\n\t\t\t.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper { padding-top: 81px; }\n\t\t\t.et_pb_section.et_pb_section_first { padding-top: inherit; }\n\t\t\t.et_pb_fullwidth_section { padding: 0; }\n\t\t}\n\t\t@media only screen and ( max-width: 980px ) {\n\t\t\t\t\t\t\t#main-header, #main-header .nav li ul, .et-search-form, #main-header .et_mobile_menu { background-color: #ffffff; }\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t}\n\t\t@media only screen and ( max-width: 767px ) {\n\t\t\t\t\t\t\tbody, .et_pb_column_1_2 .et_quote_content blockquote cite, .et_pb_column_1_2 .et_link_content a.et_link_main_url, .et_pb_column_1_3 .et_quote_content blockquote cite, .et_pb_column_3_8 .et_quote_content blockquote cite, .et_pb_column_1_4 .et_quote_content blockquote cite, .et_pb_blog_grid .et_quote_content blockquote cite, .et_pb_column_1_3 .et_link_content a.et_link_main_url, .et_pb_column_3_8 .et_link_content a.et_link_main_url, .et_pb_column_1_4 .et_link_content a.et_link_main_url, .et_pb_blog_grid .et_link_content a.et_link_main_url { font-size: 17px; }\n\t\t\t\t.et_pb_slide_content, .et_pb_best_value { font-size: 19px; }\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t}\n\t
+\n\n\t\t\t\t\t
+\n\t\t\t\tbody, input, textarea, select {\n\t\t\t\t\tfont-family: 'Lato', Helvetica, Arial, Lucida, sans-serif;\t\t\t\t}\n\t\t\t\t
+\n\t\t\t\n\t\n\t
+\n\t\t\t
+\n\n\t
+\n
+\n
+\n
+\n
+\n#footer-info {display:none;}\n\n@media only screen and ( max-width: 768px ) {\n.et_pb_cta_0.et_pb_promo {\nmargin: 0 !important;\npadding: 0 !important;\n}\n.et_pb_cta_0.et_pb_promo h2 {\nfont-size: 38px !important;\nletter-spacing: 5px !important;\nword-wrap: normal;\n}\n}\n
+\n\n\t
+\n\n\t\n\t\t
+\n\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t
+Events
+\n
+\n\t
+Upcoming Events
+\n\t
+Past Events
+\n
+\n
+\n
+About
+\n
+Recruitment
+\n
+Academics
+\n
+\n\t
+Major in Human Resource Management
+\n\t
+Major in Management
+\n\t
+Minors
+\n\t
+CRHA/CPHR Designation
+\n
+\n
+\n
+Sponsorship
+\n
+Contact
+\n
+\t\t\t\t\t
+\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t\n\t\t\t\t\t
+\n\t\t\t
+\n\t\t\t\t
+Select Page
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t
+\t\t\t\t
+ 
+\n\t\t\t
+ 
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t
+\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t
+ 
+\n\n\t\t
+\n
+\n\n\n\t\t\t\n\t\t\t\t
+\n\n\t\t\t\t\n\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t
+\n\t\t\t\t\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t\n\t\t\t\t\t \n\t\t\t\t
+\n\t\t\t\t\n\t\t\t
+\n\t\t\t
+ 
+\n\t\t\t\t\t\n\t\t\t
+ 
+\n\t\t\t\t\n\t\t\t
+ 
+\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t
+\n\t\t\t\t\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t\n\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\n\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t
+Buy tickets now!
+\n\t\t\t\t\t \n\t\t\t\t
+\n\t\t\t\t
+HRM Week 2017
+\n\t\t\t
+\n\t\t\t
+ 
+\n\t\t\t\t\t\n\t\t\t
+ 
+\n\t\t\t\t\n\t\t\t
+ 
+\n\t\t\t\t\n\t\t\t\t
+\n\t\t\t\t\t\n\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\n\t\t\t
+ 
+\n\t\t\t
+ 
+\n\t\t\t
+ 
+\n\t\t\t\t\n\t\t\t
+ 
+\n\t\t\t\t
+ 
+\n\t\t\t
+ 
+\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t
+\n\t\t\t\t\n\t\t\t\t
+\n\t\t\t\t\n\t\t\t
+ 
+\n\t\t\t\t
+\n\t\t\t\t\n\n
+Affiliates
+CRHA
+CASAJMSB
+John Molson School of Business
+Concordia University
+Career Management Services
+\n\n\n\t\t\t
+ 
+\n\t\t\t\t\n\n
+Affiliates
+CRHA
+CASAJMSB
+John Molson School of Business
+Concordia University
+Career Management Services
+\n\n\n\t\t\t
+ 
+\n\t\t\t
+ 
+\n\t\t\t\t
+\n\t\t\t\t\n\n
+Contact us
+1450 Guy Street Montreal
+ Quebec, Canada, H3H 0A1
+ Room: MB 4.445
+ Email: 
+info@jmhra.com
+\n\n\n\t\t\t
+ 
+\n\t\t\t
+ 
+\n\t\t\t\t
+\n\t\t\t\t\n\n
+Follow us
+\n\n\n\t\t\t
+ 
+\n\t\t\t\t\n\n
+\n\t\t\t\t
+facebook
+\n\t\t\t\t\n\t\t\t
+\n\t\t\t\t
+Twitter
+\n\t\t\t\t\n\t\t\t
+\n\t\t\t\t
+LinkedIn
+\n\t\t\t\t\n\t\t\t
+\n\t\t\t\t
+Instagram
+\n\t\t\t\t\n\t\t\t
+\n\n\n\t\t\t
+ 
+\n\t\t\t
+ 
+\n\t\t\t\t\t\n\t\t\t
+ 
+\n\t\t\t\t\n\t\t\t
+ 
+\n\t\t\t\t\t
+ 
+\n\n\t\t\t\t\n\t\t\t\t
+ 
+\n\n\t\t\t\n\n
+ 
+\n\n\n\t
+\n\n\n\t\t\t
+\n\t\t\t\t\n
+\n\t
+\n\t
+\t\t\t
+\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-85189657-1', 'auto');\n  ga('send', 'pageview');\n\n
+\n\t\t
+ 
+ 
+\t
+ 
+\n
+\t
+\n\n\t\t\n\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\n\t\t\t\t\t\t
+Designed by 
+Elegant Themes
+ | Powered by 
+WordPress
+\n\t\t\t\t\t
+\t
+\n\t\t\t\t
+\n\t\t\t
+ 
+\n\t\t
+ 
+\n\n\n\t
+ 
+\n\n\t        
+\n        
+\n\t\t
+(function(d, s, id) {\n\t\t\tvar js, fjs = d.getElementsByTagName(s)[0];\n\t\t  \tif (d.getElementById(id)) return;\n\t\t  \tjs = d.createElement(s); js.id = id;\n\t\t  \tjs.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";\n\t\t  \tfjs.parentNode.insertBefore(js, fjs);\n\t\t}(document, 'script', 'facebook-jssdk'));
+\n\t\t
+\n \t         
+\n        
+\n            window.___gcfg = {\n              lang: 'en-US'\n            };\n            (function() {\n                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;\n                po.src = 'https://apis.google.com/js/plusone.js';\n                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);\n            })();\n        
+\n\t\t\n\t\t
+\n        
+\n          (function() {\n            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;\n            po.src = 'https://apis.google.com/js/platform.js';\n            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);\n          })();\n        
+\n\t\t\t
+\n\t\t
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+\t\n\t     
+\n\t    jQuery( document ).scroll(function( $ )\n\t\t{\n\t    \tvar y = jQuery(this).scrollTop();\n\t      \tif (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent))\n\t\t\t{\t \n\t\t\t   if(jQuery(window).scrollTop() + jQuery(window).height() >= jQuery(document).height()-100)\n\t\t\t   {\n\t\t\t\t  jQuery('.sfsi_outr_div').css({'z-index':'9996',opacity:1,top:jQuery(window).scrollTop()+"px",position:"absolute"});\n\t\t\t\t  jQuery('.sfsi_outr_div').fadeIn(200);\n\t\t\t\t  jQuery('.sfsi_FrntInner_chg').fadeIn(200);\n\t\t\t   }\n\t\t\t   else{\n\t\t\t\t   jQuery('.sfsi_outr_div').fadeOut();\n\t\t\t\t   jQuery('.sfsi_FrntInner_chg').fadeOut();\n\t\t\t   }\n\t\t  }\n\t\t  else\n\t\t  {\n\t\t\t   if(jQuery(window).scrollTop() + jQuery(window).height() >= jQuery(document).height()-3)\n\t\t\t   {\n\t\t\t\t\tjQuery('.sfsi_outr_div').css({'z-index':'9996',opacity:1,top:jQuery(window).scrollTop()+200+"px",position:"absolute"});\n\t\t\t\t\tjQuery('.sfsi_outr_div').fadeIn(200);\n\t\t\t\t\tjQuery('.sfsi_FrntInner_chg').fadeIn(200);\n\t\t  \t   }\n\t \t\t   else\n\t\t\t   {\n\t\t\t\t jQuery('.sfsi_outr_div').fadeOut();\n\t\t\t\t jQuery('.sfsi_FrntInner_chg').fadeOut();\n\t\t\t   }\n\t \t  } \n\t\t});\n     
+\n         \t
+\n\t\t\tjQuery(document).ready(function(e) {\n                jQuery("body").addClass("sfsi_1.82")\n            });\n\t\t\tfunction sfsi_processfurther(ref) {\n\t\t\t\tvar feed_id = 'QU1MajhWZ3oyUzFkaksxSGd2aGxoeHc5QXVEMGNzL0JudmI4Qjg0a2libW1EWm5Ec3ROTHNjeUc1aVJ1SGRwY3dvUHlRMncxajVla3p6bUFiaVZMZ2hoNUhUSUxta2JHOEpkU0ZLRW00ekQwdUdaUzdKWmJWMlhOSFZzRGhJUzN8eFBGbzd1UDhoZThZSjFoKzlHS3NGTUw0TW10cjhveXFLbGNCc3NPenROWT0=';\n\t\t\t\tvar feedtype = 8;\n\t\t\t\tvar email = jQuery(ref).find('input[name="data[Widget][email]"]').val();\n\t\t\t\tvar filter = /^([a-zA-Z0-9_\\.\\-])+\\@(([a-zA-Z0-9\\-])+\\.)+([a-zA-Z0-9]{2,4})+$/;\n\t\t\t\tif ((email != "Enter your email") && (filter.test(email))) {\n\t\t\t\t\tif (feedtype == "8") {\n\t\t\t\t\t\tvar url ="https://www.specificfeeds.com/widgets/subscribeWidget/"+feed_id+"/"+feedtype;\n\t\t\t\t\t\twindow.open(url, "popupwindow", "scrollbars=yes,width=1080,height=760");\n\t\t\t\t\t\treturn true;\n\t\t\t\t\t}\n\t\t\t\t} else {\n\t\t\t\t\talert("Please enter email address");\n\t\t\t\t\tjQuery(ref).find('input[name="data[Widget][email]"]').focus();\n\t\t\t\t\treturn false;\n\t\t\t\t}\n\t\t\t}\n\t\t
+\n        
+\n\t\t\t.sfsi_subscribe_Popinner\n\t\t\t{\n\t\t\t\t\t\t\t\twidth: 100% !important;\n\t\t\t\theight: auto !important;\n\t\t\t\t\t\t\t\t\t\t\t\tborder: 1px solid #b5b5b5 !important;\n\t\t\t\t\t\t\t\tpadding: 18px 0px !important;\n\t\t\t\tbackground-color: #ffffff !important;\n\t\t\t}\n\t\t\t.sfsi_subscribe_Popinner form\n\t\t\t{\n\t\t\t\tmargin: 0 20px !important;\n\t\t\t}\n\t\t\t.sfsi_subscribe_Popinner h5\n\t\t\t{\n\t\t\t\tfont-family: Helvetica,Arial,sans-serif !important;\n\t\t\t\t\t\t\t\tfont-weight: bold !important;\n\t\t\t\t\t\t\t\tcolor: #000000 !important;\n\t\t\t\tfont-size: 16px !important;\n\t\t\t\ttext-align: center !important;\n\t\t\t\tmargin: 0 0 10px !important;\n    \t\t\tpadding: 0 !important;\n\t\t\t}\n\t\t\t.sfsi_subscription_form_field {\n\t\t\t\tmargin: 5px 0 !important;\n\t\t\t\twidth: 100% !important;\n\t\t\t\tdisplay: inline-flex;\n\t\t\t\tdisplay: -webkit-inline-flex;\n\t\t\t}\n\t\t\t.sfsi_subscription_form_field input {\n\t\t\t\twidth: 100% !important;\n\t\t\t\tpadding: 10px 0px !important;\n\t\t\t}\n\t\t\t.sfsi_subscribe_Popinner input[type=email]\n\t\t\t{\n\t\t\t\tfont-family: Helvetica,Arial,sans-serif !important;\n\t\t\t\t\t\t\t\tfont-style: normal !important;\n\t\t\t\t\t\t\t\tcolor: #000000 !important;\n\t\t\t\tfont-size: 14px !important;\n\t\t\t\ttext-align: center !important;\n\t\t\t}\n\t\t\t.sfsi_subscribe_Popinner input[type=email]::-webkit-input-placeholder {\n\t\t\t   \tfont-family: Helvetica,Arial,sans-serif !important;\n\t\t\t\t\t\t\t\tfont-style: normal !important;\n\t\t\t\t\t\t\t\tcolor: #000000 !important;\n\t\t\t\tfont-size: 14px !important;\n\t\t\t\ttext-align: center !important;\n\t\t\t}\n\t\t\t.sfsi_subscribe_Popinner input[type=email]:-moz-placeholder { /* Firefox 18- */\n\t\t\t    font-family: Helvetica,Arial,sans-serif !important;\n\t\t\t\t\t\t\t\tfont-style: normal !important;\n\t\t\t\t\t\t\t\tcolor: #000000 !important;\n\t\t\t\tfont-size: 14px !important;\n\t\t\t\ttext-align: center !important;\n\t\t\t}\n\t\t\t.sfsi_subscribe_Popinner input[type=email]::-moz-placeholder {  /* Firefox 19+ */\n\t\t\t    font-family: Helvetica,Arial,sans-serif !important;\n\t\t\t\t\t\t\t\tfont-style: normal !important;\n\t\t\t\t\t\t\t\tcolor: #000000 !important;\n\t\t\t\tfont-size: 14px !important;\n\t\t\t\ttext-align: center !important;\n\t\t\t}\n\t\t\t.sfsi_subscribe_Popinner input[type=email]:-ms-input-placeholder {  \n\t\t\t  \tfont-family: Helvetica,Arial,sans-serif !important;\n\t\t\t\t\t\t\t\tfont-style: normal !important;\n\t\t\t\t\t\t\t\tcolor: #000000 !important;\n\t\t\t\tfont-size: 14px !important;\n\t\t\t\ttext-align: center !important;\n\t\t\t}\n\t\t\t.sfsi_subscribe_Popinner input[type=submit]\n\t\t\t{\n\t\t\t\tfont-family: Helvetica,Arial,sans-serif !important;\n\t\t\t\t\t\t\t\tfont-weight: bold !important;\n\t\t\t\t\t\t\t\tcolor: #000000 !important;\n\t\t\t\tfont-size: 16px !important;\n\t\t\t\ttext-align: center !important;\n\t\t\t\tbackground-color: #dedede !important;\n\t\t\t}\n\t\t
+\n\t
+\n\t\t\t\t\n.et_pb_section_0 { background-color:#9e9e9e; background-image:url(http://www.jhma.ca/wp-content/uploads/2015/09/FACEBOOKJHMA.png); }\n.et_pb_divider_0 { height: 5px; }\n.et_pb_cta_0.et_pb_promo h2 { font-size: 48px; color: #ffffff !important; letter-spacing: 14px; line-height: 1.em; }\n.et_pb_cta_0.et_pb_promo p { line-height: 1.8em; }\n.et_pb_cta_0.et_pb_promo { font-size: 56px; letter-spacing: 4px; line-height: 1.8em; padding-top: 100px !important; padding-right: 100px !important; padding-bottom: 100px !important; padding-left: 100px !important;margin-top: 50px !important; margin-right: 50px !important; margin-bottom: 50px !important; margin-left: 50px !important; }\n.et_pb_section_3 { background-color:#424242; }\n\t\t\t
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar ajax_object = {"ajax_url":"http:\\/\\/www.jhma.ca\\/wp-admin\\/admin-ajax.php"};\nvar ajax_object = {"ajax_url":"http:\\/\\/www.jhma.ca\\/wp-admin\\/admin-ajax.php","plugin_url":"http:\\/\\/www.jhma.ca\\/wp-content\\/plugins\\/ultimate-social-media-icons\\/"};\n/* ]]> */\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar et_custom = {"ajaxurl":"http:\\/\\/www.jhma.ca\\/wp-admin\\/admin-ajax.php","images_uri":"http:\\/\\/www.jhma.ca\\/wp-content\\/themes\\/Divi\\/images","builder_images_uri":"http:\\/\\/www.jhma.ca\\/wp-content\\/themes\\/Divi\\/includes\\/builder\\/images","et_load_nonce":"186e06b579","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","fill":"Fill","field":"field","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","is_builder_plugin_used":""};\n/* ]]> */\n
+\n
+\n
+\n
+\nvar mejsL10n = {"language":"en-us","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\\/\\/get.adobe.com\\/flashplayer\\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\\/Right Arrow keys to advance one second, Up\\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};\n
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar _wpmejsSettings = {"pluginPath":"\\/wp-includes\\/js\\/mediaelement\\/","classPrefix":"mejs-","stretching":"responsive"};\n/* ]]> */\n
+\n
+\n\n>

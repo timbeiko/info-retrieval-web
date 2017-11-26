@@ -1,0 +1,807 @@
+\n\n\t
+\n\t
+\n\t\t\t
+\n\t\n\t
+\n\t
+\n\t
+John Molson Sports Marketing Committee
+\n
+\n
+\n
+\n
+\n\t\t
+\n\t\t
+\nimg.wp-smiley,\nimg.emoji {\n\tdisplay: inline !important;\n\tborder: none !important;\n\tbox-shadow: none !important;\n\theight: 1em !important;\n\twidth: 1em !important;\n\tmargin: 0 .07em !important;\n\tvertical-align: -0.1em !important;\n\tbackground: none !important;\n\tpadding: 0 !important;\n}\n
+\n
+\n
+\n
+\n#rs-demo-id {}\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar userSettings = {"url":"\\/","uid":"0","time":"1511727571","secure":""};\n/* ]]> */\n
+\n
+\n
+\n
+\n
+\n
+\n
+ \n
+\n
+\n
+\n
+\n
+\n\t\t
+.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
+\n\t\t
+\n
+\n
+\n
+\n
+\n
+\n
+function setREVStartSize(e){\n\t\t\t\ttry{ var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;\t\t\t\t\t\n\t\t\t\t\tif(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})\t\t\t\t\t\n\t\t\t\t}catch(d){console.log("Failure at Presize of Slider:"+d)}\n\t\t\t};
+\n
+body{background-color:#ffffff;background-size:cover;background-attachment:scroll;background-position:center center;}body{font-family:Roboto;font-weight:300;font-style:normal;color:#333;font-size:16px;}#main-menu .nav>li>a, #main-menu ul.sub-menu li > a{font-family:Roboto;font-weight:500;font-style:normal;font-size:14px;}h1{font-family:Roboto;font-weight:700;font-style:normal;color:#000;font-size:42px;}h2{font-family:Roboto;font-weight:700;font-style:normal;color:#000;font-size:36px;}h3{font-family:Roboto;font-weight:700;font-style:normal;color:#000;font-size:24px;}h4{font-family:Roboto;font-weight:700;font-style:normal;color:#000;font-size:20px;}h5{font-family:Roboto;font-weight:700;font-style:normal;color:#000;font-size:18px;}footer{padding-top:10px;padding-bottom:10px;}
+.vc_custom_1498265288657{margin-right: -100px !important;margin-left: -100px !important;padding-top: 200px !important;padding-bottom: 200px !important;background-image: url(http://jmsm.ca/wp-content/uploads/2016/09/Untitled-design.png?id=1046) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1502208840337{padding-bottom: 40px !important;}.vc_custom_1508553817010{margin-right: -100px !important;margin-bottom: 40px !important;margin-left: -100px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1502209208170{margin-right: -100px !important;margin-left: -100px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1502209208170{margin-right: -100px !important;margin-left: -100px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1502209208170{margin-right: -100px !important;margin-left: -100px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1499482687698{margin-top: 0px !important;margin-bottom: 40px !important;padding-top: 40px !important;padding-bottom: 0px !important;}
+&lt;style type="text/css"&gt; .wpb_animate_when_almost_visible { opacity: 1; }&lt;/style&gt;
+\n\n\n\n  \n   \n        
+\n  \t
+\n        \t\t
+\n\t\t\t
+\n\t\t\t\t
+\n                    
+\n                        
+\n        \t\t\t\t\t
+\n        \t\t\t\t\t\t
+\n        \t\t\t\t\t\t\t
+\n        \t\t\t\t\t\t\t
+\n        \t\t\t\t\t\t\t
+\n        \t\t\t\t\t\t
+\n                                
+\n        \t                       
+\n        \t\t                    \t        \t\t\t\t\t\t\t\t\t\t\t\t
+\n        \t\t\t\t\t\t\t\t\t\t\t        \t\t                     
+\n                                
+     \n        \t\t\t\t\t
+    \n                        
+\n\n                        
+\n                                                         \n\n                            
+\n\n                                
+Home
+\n
+About Us
+\n
+\n\t
+2017 \u2013 2018 Executive Team
+\n
+\n
+\n
+Tickets
+\n
+Contact Us
+\n
+\n                            
+ \n                        
+\n                        \n                        \n\n                        
+\n                            
+\n                                
+Home
+\n
+About Us
+\n                
+\n                
+\n                
+\n
+\n\t
+2017 \u2013 2018 Executive Team
+\n
+\n
+\n
+Tickets
+\n
+Contact Us
+\n
+                            
+\n                        
+\n                    
+ \n\t\t\t\t
+ \n\t\t\t
+\n\n\t\t
+\n\n        \n
+\n    
+\n        
+\n                        \n                
+\n\n                    \n                    
+\n                        
+\n\t
+\n\t\t
+\n\t\t\t
+ 
+Days
+ 
+Hours
+ 
+Minutes
+ 
+Seconds
+22nd Annual JOHN MOLSON SPORTS BUSINESS CONFERENCE
+NOVEMBER 2 \u2013 4, 2017
+\n
+\n\t
+\n\t\t
+\n\t\t\t
+Montr\xe9al, Canada
+\n\n\t\t
+\n\t
+\n\n\t\t
+ \n\t
+ \n
+\n\t
+\n\t\t
+\n\t\t\t
+THIS YEAR'S CONFERENCE IS PROUDLY SPONSORED BY
+\n
+\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+What is JMSM's Sports Business Conference?
+Sports. Business. Passion.
+\n\n\t
+\n\t\t
+\n\t\t\t
+The John Molson Sports Business Conference is a three-day event hosted in the heart of beautiful downtown Montreal. It features over 25 distinguished sports industry executives and is attended by more than 350 students from across North America, who aspire to pursue careers in the sports business industry. Our interactive and innovative conference has given students the chance to engage with industry professionals and gain valuable experience.
+\n
+The conference consists of a wide variety of workshops, renowned guest speakers, panels, and much more!
+\n\n\t\t
+\n\t
+\n
+\n
+Learn More
+\n\t\t
+ \n\t
+ \n
+\n\t
+\n\t\t
+\n\t\t\t\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n\n\t
+\n\t\t
+\n\t\t\t
+30
+\nUniversities Represented
+\n\n\t\t
+\n\t
+\n\n\t\t
+ \n\t
+ \n\n\t
+\n\t\t
+\n\t\t\t\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n\n\t
+\n\t\t
+\n\t\t\t
+25
+\nExpert Speakers
+\n\n\t\t
+\n\t
+\n\n\t\t
+ \n\t
+ \n\n\t
+\n\t\t
+\n\t\t\t\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n\n\t
+\n\t\t
+\n\t\t\t
++350
+\nConference Attendees
+\n\n\t\t
+\n\t
+\n\n\t\t
+ \n\t
+ \n\n\t
+\n\t\t
+\n\t\t\t\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n\n\t
+\n\t\t
+\n\t\t\t
+15
+\nPanels & Workshops
+\n\n\t\t
+\n\t
+\n\n\t\t
+ \n\t
+ \n
+\n\t
+\n\t\t
+\n\t\t\t
+Conference Location
+\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n
+Hotel Bonaventure
+Click on the icon to learn more about the hotel!
+\n\t\t
+ \n\t
+ \n
+\n\t
+\n\t\t
+\n\t\t\t
+#JMSM17 SPEAKERS
+Click on the speaker's name to find out more about them!
+Please note that speakers are subject to change.
+\n
+Audrey Alvarado
+Business Analyst, Portland Trail Blazers
+Jack Mula
+General Counsel - Player Personnel, New England Patriots 
+Joe Mariani
+GM Brady's Enterprises/Former VP Marketing, New England Patriots
+Caroline Cameron
+Anchor, Sportsnet
+Mike Kelly
+Hockey Analyst for\xa0SPORTLOGiQ
+Craig Buntin
+CEO,\xa0SPORTLOGiQ
+Shiraz Rehman
+Assistant General Manager, Chicago Cubs
+Richard Legendre
+ Executive Vice-President of Soccer Operations & Stade Saputo, Montreal Impact
+Vincent Pannozzo
+Director of Digital & Social Content, Miami Dolphins and Hard Rock Stadium
+Jordan Nashen
+Director of Marketing & Player Relations, Roy Sports Group
+Becky Magaw
+Director of Human Resources, Columbus Blue Jackets\xa0
+Matt Pfeffer
+Data Analyst, Nashville Predators
+TOM ANSELMI
+President and CEO, Ottawa Senators
+Patrick Boivin
+President & CEO, Montreal Alouettes
+Tanya Dreesen
+VP of Partnership Activation & Special Projects, Minnesota Vikings
+Bob Black
+Chief Project Development Officer, Edmonton Oilers
+Stew MacDonald
+Chief Commercial Officer, Edmonton Oilers
+Scott Moore
+President, Sportsnet and NHL Properties\nRogers Media
+Stephen Brunt
+Author, Sportsnet
+Dimitri Filipovic
+Author, Sportsnet
+Chris Johnston
+Author, Sportsnet
+Bill Daly
+Deputy Commissioner, NHL
+Bill Manning
+President, Toronto FC
+Meghan Chayka
+Co-Founder, Stathletes
+Ross Mahoney
+Assitant General Manager, Washington Capitals
+Meredith Geisler
+Senior Vice-President of Communications, Tandem Sports & Entertainment
+Eric Joyce
+ Assistant General Manager, Florida Panthers
+Kathryn Dobbs
+VP of Community Relations, Columbus Blue Jackets & Exec. Director, CBJ Foundation
+Steve Griggs
+CEO, Tampa Bay Lightning
+Angela LaChica
+President & CEO, LaChica Sports
+\n\t\t
+ \n\t
+ \n
+\n\t
+\n\t\t
+\n\t\t\t
+#JMSM17 SCHEDULE
+Click on each date to see what's in store for you 
+02
+Nov, 2017
+03
+Nov, 2017
+04
+Nov, 2017
+#
+Session
+Speaker(s)
+Time
+Venue
+1
+Registration
+No Speakers
+ 
+12:00 
+Hotel Bonaventure
+2
+Opening Ceremony
+No Speakers
+ 
+18:30 
+Hotel Bonaventure
+3
+Panel 1: Moore on the Daly
+Scott Moore
+  , 
+Stephen Brunt
+  , 
+Bill Daly
+ 
+19:00 
+Hotel Bonaventure
+4
+Panel 2: The 401 Derby
+Richard Legendre
+  , 
+Bill Manning
+ 
+20:15 
+Hotel Bonaventure
+5
+Networking Cocktail 
+No Speakers
+ 
+21:30 
+Hotel Bonaventure
+6
+Rep Your Team Night
+No Speakers
+ 
+22:30 
+Joverse 
+#
+Session
+Speaker(s)
+Time
+Venue
+1
+Case Competition
+No Speakers
+ 
+8:30
+Hotel Bonaventure
+2
+VIP Breakfast
+Patrick Boivin
+ 
+9:00
+Hotel Bonaventure
+3
+Panel 3: Forecheck. Backcheck. Paycheck.
+TOM ANSELMI
+  , 
+Bob Black
+  , 
+Stew MacDonald
+  , 
+Steve Griggs
+ 
+10:30 
+Hotel Bonaventure
+4
+Panel 4: Putting Out the Fire
+Caroline Cameron
+  , 
+Meredith Geisler
+  , 
+Kathryn Dobbs
+  , 
+Angela LaChica
+ 
+12:00
+Hotel Bonaventure
+5
+Workshop Series 1
+Audrey Alvarado
+  , 
+Becky Magaw
+  , 
+Ross Mahoney
+ 
+14:30 
+Hotel Bonaventure
+6
+Workshop Series 2
+Jack Mula
+  , 
+Jordan Nashen
+  , 
+Ross Mahoney
+ 
+16:00 
+Hotel Bonaventure
+7
+VIP Cocktail
+No Speakers
+ 
+19:00 
+Hotel Bonaventure
+8
+Dinner at St-Hubert
+No Speakers
+ 
+20:00 
+St-Hubert
+#
+Session
+Speaker(s)
+Time
+Venue
+1
+Panel 5: Grit & Character
+Mike Kelly
+  , 
+Matt Pfeffer
+  , 
+Dimitri Filipovic
+  , 
+Meghan Chayka
+  , 
+Eric Joyce
+ 
+10:30 
+Hotel Bonaventure
+2
+Panel 6: 4th and Goal
+Joe Mariani
+  , 
+Vincent Pannozzo
+  , 
+Tanya Dreesen
+ 
+12:00 
+Hotel Bonaventure
+3
+Panel 7: Full Count
+Shiraz Rehman
+ 
+14:15 
+Hotel Bonaventure
+4
+Workshop Series 3
+Jordan Nashen
+  , 
+Matt Pfeffer
+  , 
+Tanya Dreesen
+ 
+15:45 
+Hotel Bonaventure
+5
+Closing Gala
+Craig Buntin
+ 
+19:00 
+Hotel Bonaventure
+6
+Night Out
+No Speakers
+ 
+22:00 
+Hotel Bonaventure
+\n\t\t
+ \n\t
+ \n
+\n\t
+\n\t\t
+\n\t\t\t
+#JMSM17 SPONSORS
+This Year's Conference Is Proudly Sponsored By
+\n\t\t
+ \n\t
+ \n\n\t
+\n\t\t
+\n\t\t\t
+\n\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n\n\t\t
+ \n\t
+ \n\n\t
+\n\t\t
+\n\t\t\t
+\n\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n\n\t\t
+ \n\t
+ \n\n\t
+\n\t\t
+\n\t\t\t
+\n\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n\n\t\t
+ \n\t
+ \n\n\t
+\n\t\t
+\n\t\t\t\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n\n\t
+\n\t\t\n\t\t
+\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n\n\t\t
+ \n\t
+ \n
+\n                                            
+\n\n                
+\n\n                \n                    
+ 
+\n    
+ 
+\n
+ 
+\n    \n
+\n        
+\n        
+\n            
+\n                
+\n                    
+\n                        
+\n                                                                        
+\n                                                                
+\n\n                           \n                            
+\n                                \xa9 2017 John Molson Sports Marketing Committee. All Rights Reserved.                            
+\n                         \n\n                        
+\n                            
+                            
+                                                                                                                
+                                                                                                                                                                        
+                        
+\n\n                    
+ 
+\n                
+ 
+\n            
+ 
+\n        
+ 
+\n    
+\n
+ 
+\n\n    \n   \n    
+\n
+\n
+\n\n    
+\n        var preloader = document.getElementById('hidden_id').value;\n        var preloader_bg = document.getElementById('hidden_pre').value;\n        window.addEventListener('DOMContentLoaded', function() {\n            "use strict";\n            new QueryLoader2(document.querySelector("body"), {\n                barColor: preloader,\n                backgroundColor: preloader_bg,\n                percentage: true,\n                barHeight: 2,\n                minimumTime: 200,\n                fadeOutTime: 1000\n            });\n        });\n    
+\n \n\n\t
+\n\t
+\n\t\t<div class="media-frame-menu"></div>\n\t\t<div class="media-frame-title"></div>\n\t\t<div class="media-frame-router"></div>\n\t\t<div class="media-frame-content"></div>\n\t\t<div class="media-frame-toolbar"></div>\n\t\t<div class="media-frame-uploader"></div>\n\t
+\n\n\t
+\n\t\t<div class="media-modal wp-core-ui">\n\t\t\t<button type="button" class="media-modal-close"><span class="media-modal-icon"><span class="screen-reader-text">Close media panel</span></span></button>\n\t\t\t<div class="media-modal-content"></div>\n\t\t</div>\n\t\t<div class="media-modal-backdrop"></div>\n\t
+\n\n\t
+\n\t\t<div class="uploader-window-content">\n\t\t\t<h1>Drop files to upload</h1>\n\t\t</div>\n\t
+\n\n\t
+\n\t\t<div class="uploader-editor-content">\n\t\t\t<div class="uploader-editor-title">Drop files to upload</div>\n\t\t</div>\n\t
+\n\n\t
+\n\t\t<# var messageClass = data.message ? 'has-upload-message' : 'no-upload-message'; #>\n\t\t<# if ( data.canClose ) { #>\n\t\t<button class="close dashicons dashicons-no"><span class="screen-reader-text">Close uploader</span></button>\n\t\t<# } #>\n\t\t<div class="uploader-inline-content {{ messageClass }}">\n\t\t<# if ( data.message ) { #>\n\t\t\t<h2 class="upload-message">{{ data.message }}</h2>\n\t\t<# } #>\n\t\t\t\t\t<div class="upload-ui">\n\t\t\t\t<h2 class="upload-instructions drop-instructions">Drop files anywhere to upload</h2>\n\t\t\t\t<p class="upload-instructions drop-instructions">or</p>\n\t\t\t\t<button type="button" class="browser button button-hero">Select Files</button>\n\t\t\t</div>\n\n\t\t\t<div class="upload-inline-status"></div>\n\n\t\t\t<div class="post-upload-ui">\n\t\t\t\t\n\t\t\t\t<p class="max-upload-size">Maximum upload file size: 32 MB.</p>\n\n\t\t\t\t<# if ( data.suggestedWidth && data.suggestedHeight ) { #>\n\t\t\t\t\t<p class="suggested-dimensions">\n\t\t\t\t\t\tSuggested image dimensions: {{data.suggestedWidth}} by {{data.suggestedHeight}} pixels.\t\t\t\t\t</p>\n\t\t\t\t<# } #>\n\n\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t
+\n\n\t
+\n\t\t<a href="/?mode=list" class="view-list">\n\t\t\t<span class="screen-reader-text">List View</span>\n\t\t</a>\n\t\t<a href="/?mode=grid" class="view-grid current">\n\t\t\t<span class="screen-reader-text">Grid View</span>\n\t\t</a>\n\t
+\n\n\t
+\n\t\t<h2>Uploading</h2>\n\t\t<button type="button" class="button-link upload-dismiss-errors"><span class="screen-reader-text">Dismiss Errors</span></button>\n\n\t\t<div class="media-progress-bar"><div></div></div>\n\t\t<div class="upload-details">\n\t\t\t<span class="upload-count">\n\t\t\t\t<span class="upload-index"></span> / <span class="upload-total"></span>\n\t\t\t</span>\n\t\t\t<span class="upload-detail-separator">&ndash;</span>\n\t\t\t<span class="upload-filename"></span>\n\t\t</div>\n\t\t<div class="upload-errors"></div>\n\t
+\n\n\t
+\n\t\t<span class="upload-error-filename">{{{ data.filename }}}</span>\n\t\t<span class="upload-error-message">{{ data.message }}</span>\n\t
+\n\n\t
+\n\t\t<div class="edit-media-header">\n\t\t\t<button class="left dashicons <# if ( ! data.hasPrevious ) { #> disabled <# } #>"><span class="screen-reader-text">Edit previous media item</span></button>\n\t\t\t<button class="right dashicons <# if ( ! data.hasNext ) { #> disabled <# } #>"><span class="screen-reader-text">Edit next media item</span></button>\n\t\t</div>\n\t\t<div class="media-frame-title"></div>\n\t\t<div class="media-frame-content"></div>\n\t
+\n\n\t
+\n\t\t<div class="attachment-media-view {{ data.orientation }}">\n\t\t\t<div class="thumbnail thumbnail-{{ data.type }}">\n\t\t\t\t<# if ( data.uploading ) { #>\n\t\t\t\t\t<div class="media-progress-bar"><div></div></div>\n\t\t\t\t<# } else if ( data.sizes && data.sizes.large ) { #>\n\t\t\t\t\t<img class="details-image" src="{{ data.sizes.large.url }}" draggable="false" alt="" />\n\t\t\t\t<# } else if ( data.sizes && data.sizes.full ) { #>\n\t\t\t\t\t<img class="details-image" src="{{ data.sizes.full.url }}" draggable="false" alt="" />\n\t\t\t\t<# } else if ( -1 === jQuery.inArray( data.type, [ 'audio', 'video' ] ) ) { #>\n\t\t\t\t\t<img class="details-image icon" src="{{ data.icon }}" draggable="false" alt="" />\n\t\t\t\t<# } #>\n\n\t\t\t\t<# if ( 'audio' === data.type ) { #>\n\t\t\t\t<div class="wp-media-wrapper">\n\t\t\t\t\t<audio style="visibility: hidden" controls class="wp-audio-shortcode" width="100%" preload="none">\n\t\t\t\t\t\t<source type="{{ data.mime }}" src="{{ data.url }}"/>\n\t\t\t\t\t</audio>\n\t\t\t\t</div>\n\t\t\t\t<# } else if ( 'video' === data.type ) {\n\t\t\t\t\tvar w_rule = '';\n\t\t\t\t\tif ( data.width ) {\n\t\t\t\t\t\tw_rule = 'width: ' + data.width + 'px;';\n\t\t\t\t\t} else if ( wp.media.view.settings.contentWidth ) {\n\t\t\t\t\t\tw_rule = 'width: ' + wp.media.view.settings.contentWidth + 'px;';\n\t\t\t\t\t}\n\t\t\t\t#>\n\t\t\t\t<div style="{{ w_rule }}" class="wp-media-wrapper wp-video">\n\t\t\t\t\t<video controls="controls" class="wp-video-shortcode" preload="metadata"\n\t\t\t\t\t\t<# if ( data.width ) { #>width="{{ data.width }}"<# } #>\n\t\t\t\t\t\t<# if ( data.height ) { #>height="{{ data.height }}"<# } #>\n\t\t\t\t\t\t<# if ( data.image && data.image.src !== data.icon ) { #>poster="{{ data.image.src }}"<# } #>>\n\t\t\t\t\t\t<source type="{{ data.mime }}" src="{{ data.url }}"/>\n\t\t\t\t\t</video>\n\t\t\t\t</div>\n\t\t\t\t<# } #>\n\n\t\t\t\t<div class="attachment-actions">\n\t\t\t\t\t<# if ( 'image' === data.type && ! data.uploading && data.sizes && data.can.save ) { #>\n\t\t\t\t\t<button type="button" class="button edit-attachment">Edit Image</button>\n\t\t\t\t\t<# } else if ( 'pdf' === data.subtype && data.sizes ) { #>\n\t\t\t\t\tDocument Preview\t\t\t\t\t<# } #>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t<div class="attachment-info">\n\t\t\t<span class="settings-save-status">\n\t\t\t\t<span class="spinner"></span>\n\t\t\t\t<span class="saved">Saved.</span>\n\t\t\t</span>\n\t\t\t<div class="details">\n\t\t\t\t<div class="filename"><strong>File name:</strong> {{ data.filename }}</div>\n\t\t\t\t<div class="filename"><strong>File type:</strong> {{ data.mime }}</div>\n\t\t\t\t<div class="uploaded"><strong>Uploaded on:</strong> {{ data.dateFormatted }}</div>\n\n\t\t\t\t<div class="file-size"><strong>File size:</strong> {{ data.filesizeHumanReadable }}</div>\n\t\t\t\t<# if ( 'image' === data.type && ! data.uploading ) { #>\n\t\t\t\t\t<# if ( data.width && data.height ) { #>\n\t\t\t\t\t\t<div class="dimensions"><strong>Dimensions:</strong> {{ data.width }} &times; {{ data.height }}</div>\n\t\t\t\t\t<# } #>\n\t\t\t\t<# } #>\n\n\t\t\t\t<# if ( data.fileLength ) { #>\n\t\t\t\t\t<div class="file-length"><strong>Length:</strong> {{ data.fileLength }}</div>\n\t\t\t\t<# } #>\n\n\t\t\t\t<# if ( 'audio' === data.type && data.meta.bitrate ) { #>\n\t\t\t\t\t<div class="bitrate">\n\t\t\t\t\t\t<strong>Bitrate:</strong> {{ Math.round( data.meta.bitrate / 1000 ) }}kb/s\n\t\t\t\t\t\t<# if ( data.meta.bitrate_mode ) { #>\n\t\t\t\t\t\t{{ ' ' + data.meta.bitrate_mode.toUpperCase() }}\n\t\t\t\t\t\t<# } #>\n\t\t\t\t\t</div>\n\t\t\t\t<# } #>\n\n\t\t\t\t<div class="compat-meta">\n\t\t\t\t\t<# if ( data.compat && data.compat.meta ) { #>\n\t\t\t\t\t\t{{{ data.compat.meta }}}\n\t\t\t\t\t<# } #>\n\t\t\t\t</div>\n\t\t\t</div>\n\n\t\t\t<div class="settings">\n\t\t\t\t<label class="setting" data-setting="url">\n\t\t\t\t\t<span class="name">URL</span>\n\t\t\t\t\t<input type="text" value="{{ data.url }}" readonly />\n\t\t\t\t</label>\n\t\t\t\t<# var maybeReadOnly = data.can.save || data.allowLocalEdits ? '' : 'readonly'; #>\n\t\t\t\t\t\t\t\t<label class="setting" data-setting="title">\n\t\t\t\t\t<span class="name">Title</span>\n\t\t\t\t\t<input type="text" value="{{ data.title }}" {{ maybeReadOnly }} />\n\t\t\t\t</label>\n\t\t\t\t\t\t\t\t<# if ( 'audio' === data.type ) { #>\n\t\t\t\t\t\t\t\t<label class="setting" data-setting="artist">\n\t\t\t\t\t<span class="name">Artist</span>\n\t\t\t\t\t<input type="text" value="{{ data.artist || data.meta.artist || '' }}" />\n\t\t\t\t</label>\n\t\t\t\t\t\t\t\t<label class="setting" data-setting="album">\n\t\t\t\t\t<span class="name">Album</span>\n\t\t\t\t\t<input type="text" value="{{ data.album || data.meta.album || '' }}" />\n\t\t\t\t</label>\n\t\t\t\t\t\t\t\t<# } #>\n\t\t\t\t<label class="setting" data-setting="caption">\n\t\t\t\t\t<span class="name">Caption</span>\n\t\t\t\t\t<textarea {{ maybeReadOnly }}>{{ data.caption }}</textarea>\n\t\t\t\t</label>\n\t\t\t\t<# if ( 'image' === data.type ) { #>\n\t\t\t\t\t<label class="setting" data-setting="alt">\n\t\t\t\t\t\t<span class="name">Alt Text</span>\n\t\t\t\t\t\t<input type="text" value="{{ data.alt }}" {{ maybeReadOnly }} />\n\t\t\t\t\t</label>\n\t\t\t\t<# } #>\n\t\t\t\t<label class="setting" data-setting="description">\n\t\t\t\t\t<span class="name">Description</span>\n\t\t\t\t\t<textarea {{ maybeReadOnly }}>{{ data.description }}</textarea>\n\t\t\t\t</label>\n\t\t\t\t<label class="setting">\n\t\t\t\t\t<span class="name">Uploaded By</span>\n\t\t\t\t\t<span class="value">{{ data.authorName }}</span>\n\t\t\t\t</label>\n\t\t\t\t<# if ( data.uploadedToTitle ) { #>\n\t\t\t\t\t<label class="setting">\n\t\t\t\t\t\t<span class="name">Uploaded To</span>\n\t\t\t\t\t\t<# if ( data.uploadedToLink ) { #>\n\t\t\t\t\t\t\t<span class="value"><a href="{{ data.uploadedToLink }}">{{ data.uploadedToTitle }}</a></span>\n\t\t\t\t\t\t<# } else { #>\n\t\t\t\t\t\t\t<span class="value">{{ data.uploadedToTitle }}</span>\n\t\t\t\t\t\t<# } #>\n\t\t\t\t\t</label>\n\t\t\t\t<# } #>\n\t\t\t\t<div class="attachment-compat"></div>\n\t\t\t</div>\n\n\t\t\t<div class="actions">\n\t\t\t\t<a class="view-attachment" href="{{ data.link }}">View attachment page</a>\n\t\t\t\t<# if ( data.can.save ) { #> |\n\t\t\t\t\t<a href="post.php?post={{ data.id }}&action=edit">Edit more details</a>\n\t\t\t\t<# } #>\n\t\t\t\t<# if ( ! data.uploading && data.can.remove ) { #> |\n\t\t\t\t\t\t\t\t\t\t\t<button type="button" class="button-link delete-attachment">Delete Permanently</button>\n\t\t\t\t\t\t\t\t\t<# } #>\n\t\t\t</div>\n\n\t\t</div>\n\t
+\n\n\t
+\n\t\t<div class="attachment-preview js--select-attachment type-{{ data.type }} subtype-{{ data.subtype }} {{ data.orientation }}">\n\t\t\t<div class="thumbnail">\n\t\t\t\t<# if ( data.uploading ) { #>\n\t\t\t\t\t<div class="media-progress-bar"><div style="width: {{ data.percent }}%"></div></div>\n\t\t\t\t<# } else if ( 'image' === data.type && data.sizes ) { #>\n\t\t\t\t\t<div class="centered">\n\t\t\t\t\t\t<img src="{{ data.size.url }}" draggable="false" alt="" />\n\t\t\t\t\t</div>\n\t\t\t\t<# } else { #>\n\t\t\t\t\t<div class="centered">\n\t\t\t\t\t\t<# if ( data.image && data.image.src && data.image.src !== data.icon ) { #>\n\t\t\t\t\t\t\t<img src="{{ data.image.src }}" class="thumbnail" draggable="false" alt="" />\n\t\t\t\t\t\t<# } else if ( data.sizes && data.sizes.medium ) { #>\n\t\t\t\t\t\t\t<img src="{{ data.sizes.medium.url }}" class="thumbnail" draggable="false" alt="" />\n\t\t\t\t\t\t<# } else { #>\n\t\t\t\t\t\t\t<img src="{{ data.icon }}" class="icon" draggable="false" alt="" />\n\t\t\t\t\t\t<# } #>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class="filename">\n\t\t\t\t\t\t<div>{{ data.filename }}</div>\n\t\t\t\t\t</div>\n\t\t\t\t<# } #>\n\t\t\t</div>\n\t\t\t<# if ( data.buttons.close ) { #>\n\t\t\t\t<button type="button" class="button-link attachment-close media-modal-icon"><span class="screen-reader-text">Remove</span></button>\n\t\t\t<# } #>\n\t\t</div>\n\t\t<# if ( data.buttons.check ) { #>\n\t\t\t<button type="button" class="check" tabindex="-1"><span class="media-modal-icon"></span><span class="screen-reader-text">Deselect</span></button>\n\t\t<# } #>\n\t\t<#\n\t\tvar maybeReadOnly = data.can.save || data.allowLocalEdits ? '' : 'readonly';\n\t\tif ( data.describe ) {\n\t\t\tif ( 'image' === data.type ) { #>\n\t\t\t\t<input type="text" value="{{ data.caption }}" class="describe" data-setting="caption"\n\t\t\t\t\tplaceholder="Caption this image&hellip;" {{ maybeReadOnly }} />\n\t\t\t<# } else { #>\n\t\t\t\t<input type="text" value="{{ data.title }}" class="describe" data-setting="title"\n\t\t\t\t\t<# if ( 'video' === data.type ) { #>\n\t\t\t\t\t\tplaceholder="Describe this video&hellip;"\n\t\t\t\t\t<# } else if ( 'audio' === data.type ) { #>\n\t\t\t\t\t\tplaceholder="Describe this audio file&hellip;"\n\t\t\t\t\t<# } else { #>\n\t\t\t\t\t\tplaceholder="Describe this media file&hellip;"\n\t\t\t\t\t<# } #> {{ maybeReadOnly }} />\n\t\t\t<# }\n\t\t} #>\n\t
+\n\n\t
+\n\t\t<h2>\n\t\t\tAttachment Details\t\t\t<span class="settings-save-status">\n\t\t\t\t<span class="spinner"></span>\n\t\t\t\t<span class="saved">Saved.</span>\n\t\t\t</span>\n\t\t</h2>\n\t\t<div class="attachment-info">\n\t\t\t<div class="thumbnail thumbnail-{{ data.type }}">\n\t\t\t\t<# if ( data.uploading ) { #>\n\t\t\t\t\t<div class="media-progress-bar"><div></div></div>\n\t\t\t\t<# } else if ( 'image' === data.type && data.sizes ) { #>\n\t\t\t\t\t<img src="{{ data.size.url }}" draggable="false" alt="" />\n\t\t\t\t<# } else { #>\n\t\t\t\t\t<img src="{{ data.icon }}" class="icon" draggable="false" alt="" />\n\t\t\t\t<# } #>\n\t\t\t</div>\n\t\t\t<div class="details">\n\t\t\t\t<div class="filename">{{ data.filename }}</div>\n\t\t\t\t<div class="uploaded">{{ data.dateFormatted }}</div>\n\n\t\t\t\t<div class="file-size">{{ data.filesizeHumanReadable }}</div>\n\t\t\t\t<# if ( 'image' === data.type && ! data.uploading ) { #>\n\t\t\t\t\t<# if ( data.width && data.height ) { #>\n\t\t\t\t\t\t<div class="dimensions">{{ data.width }} &times; {{ data.height }}</div>\n\t\t\t\t\t<# } #>\n\n\t\t\t\t\t<# if ( data.can.save && data.sizes ) { #>\n\t\t\t\t\t\t<a class="edit-attachment" href="{{ data.editLink }}&amp;image-editor" target="_blank">Edit Image</a>\n\t\t\t\t\t<# } #>\n\t\t\t\t<# } #>\n\n\t\t\t\t<# if ( data.fileLength ) { #>\n\t\t\t\t\t<div class="file-length">Length: {{ data.fileLength }}</div>\n\t\t\t\t<# } #>\n\n\t\t\t\t<# if ( ! data.uploading && data.can.remove ) { #>\n\t\t\t\t\t\t\t\t\t\t\t<button type="button" class="button-link delete-attachment">Delete Permanently</button>\n\t\t\t\t\t\t\t\t\t<# } #>\n\n\t\t\t\t<div class="compat-meta">\n\t\t\t\t\t<# if ( data.compat && data.compat.meta ) { #>\n\t\t\t\t\t\t{{{ data.compat.meta }}}\n\t\t\t\t\t<# } #>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<label class="setting" data-setting="url">\n\t\t\t<span class="name">URL</span>\n\t\t\t<input type="text" value="{{ data.url }}" readonly />\n\t\t</label>\n\t\t<# var maybeReadOnly = data.can.save || data.allowLocalEdits ? '' : 'readonly'; #>\n\t\t\t\t<label class="setting" data-setting="title">\n\t\t\t<span class="name">Title</span>\n\t\t\t<input type="text" value="{{ data.title }}" {{ maybeReadOnly }} />\n\t\t</label>\n\t\t\t\t<# if ( 'audio' === data.type ) { #>\n\t\t\t\t<label class="setting" data-setting="artist">\n\t\t\t<span class="name">Artist</span>\n\t\t\t<input type="text" value="{{ data.artist || data.meta.artist || '' }}" />\n\t\t</label>\n\t\t\t\t<label class="setting" data-setting="album">\n\t\t\t<span class="name">Album</span>\n\t\t\t<input type="text" value="{{ data.album || data.meta.album || '' }}" />\n\t\t</label>\n\t\t\t\t<# } #>\n\t\t<label class="setting" data-setting="caption">\n\t\t\t<span class="name">Caption</span>\n\t\t\t<textarea {{ maybeReadOnly }}>{{ data.caption }}</textarea>\n\t\t</label>\n\t\t<# if ( 'image' === data.type ) { #>\n\t\t\t<label class="setting" data-setting="alt">\n\t\t\t\t<span class="name">Alt Text</span>\n\t\t\t\t<input type="text" value="{{ data.alt }}" {{ maybeReadOnly }} />\n\t\t\t</label>\n\t\t<# } #>\n\t\t<label class="setting" data-setting="description">\n\t\t\t<span class="name">Description</span>\n\t\t\t<textarea {{ maybeReadOnly }}>{{ data.description }}</textarea>\n\t\t</label>\n\t
+\n\n\t
+\n\t\t<div class="selection-info">\n\t\t\t<span class="count"></span>\n\t\t\t<# if ( data.editable ) { #>\n\t\t\t\t<button type="button" class="button-link edit-selection">Edit Selection</button>\n\t\t\t<# } #>\n\t\t\t<# if ( data.clearable ) { #>\n\t\t\t\t<button type="button" class="button-link clear-selection">Clear</button>\n\t\t\t<# } #>\n\t\t</div>\n\t\t<div class="selection-view"></div>\n\t
+\n\n\t
+\n\t\t<h2>Attachment Display Settings</h2>\n\n\t\t<# if ( 'image' === data.type ) { #>\n\t\t\t<label class="setting align">\n\t\t\t\t<span>Alignment</span>\n\t\t\t\t<select class="alignment"\n\t\t\t\t\tdata-setting="align"\n\t\t\t\t\t<# if ( data.userSettings ) { #>\n\t\t\t\t\t\tdata-user-setting="align"\n\t\t\t\t\t<# } #>>\n\n\t\t\t\t\t<option value="left">\n\t\t\t\t\t\tLeft\t\t\t\t\t</option>\n\t\t\t\t\t<option value="center">\n\t\t\t\t\t\tCenter\t\t\t\t\t</option>\n\t\t\t\t\t<option value="right">\n\t\t\t\t\t\tRight\t\t\t\t\t</option>\n\t\t\t\t\t<option value="none" selected>\n\t\t\t\t\t\tNone\t\t\t\t\t</option>\n\t\t\t\t</select>\n\t\t\t</label>\n\t\t<# } #>\n\n\t\t<div class="setting">\n\t\t\t<label>\n\t\t\t\t<# if ( data.model.canEmbed ) { #>\n\t\t\t\t\t<span>Embed or Link</span>\n\t\t\t\t<# } else { #>\n\t\t\t\t\t<span>Link To</span>\n\t\t\t\t<# } #>\n\n\t\t\t\t<select class="link-to"\n\t\t\t\t\tdata-setting="link"\n\t\t\t\t\t<# if ( data.userSettings && ! data.model.canEmbed ) { #>\n\t\t\t\t\t\tdata-user-setting="urlbutton"\n\t\t\t\t\t<# } #>>\n\n\t\t\t\t<# if ( data.model.canEmbed ) { #>\n\t\t\t\t\t<option value="embed" selected>\n\t\t\t\t\t\tEmbed Media Player\t\t\t\t\t</option>\n\t\t\t\t\t<option value="file">\n\t\t\t\t<# } else { #>\n\t\t\t\t\t<option value="none" selected>\n\t\t\t\t\t\tNone\t\t\t\t\t</option>\n\t\t\t\t\t<option value="file">\n\t\t\t\t<# } #>\n\t\t\t\t\t<# if ( data.model.canEmbed ) { #>\n\t\t\t\t\t\tLink to Media File\t\t\t\t\t<# } else { #>\n\t\t\t\t\t\tMedia File\t\t\t\t\t<# } #>\n\t\t\t\t\t</option>\n\t\t\t\t\t<option value="post">\n\t\t\t\t\t<# if ( data.model.canEmbed ) { #>\n\t\t\t\t\t\tLink to Attachment Page\t\t\t\t\t<# } else { #>\n\t\t\t\t\t\tAttachment Page\t\t\t\t\t<# } #>\n\t\t\t\t\t</option>\n\t\t\t\t<# if ( 'image' === data.type ) { #>\n\t\t\t\t\t<option value="custom">\n\t\t\t\t\t\tCustom URL\t\t\t\t\t</option>\n\t\t\t\t<# } #>\n\t\t\t\t</select>\n\t\t\t</label>\n\t\t\t<input type="text" class="link-to-custom" data-setting="linkUrl" />\n\t\t</div>\n\n\t\t<# if ( 'undefined' !== typeof data.sizes ) { #>\n\t\t\t<label class="setting">\n\t\t\t\t<span>Size</span>\n\t\t\t\t<select class="size" name="size"\n\t\t\t\t\tdata-setting="size"\n\t\t\t\t\t<# if ( data.userSettings ) { #>\n\t\t\t\t\t\tdata-user-setting="imgsize"\n\t\t\t\t\t<# } #>>\n\t\t\t\t\t\t\t\t\t\t\t<#\n\t\t\t\t\t\tvar size = data.sizes['thumbnail'];\n\t\t\t\t\t\tif ( size ) { #>\n\t\t\t\t\t\t\t<option value="thumbnail" >\n\t\t\t\t\t\t\t\tThumbnail &ndash; {{ size.width }} &times; {{ size.height }}\n\t\t\t\t\t\t\t</option>\n\t\t\t\t\t\t<# } #>\n\t\t\t\t\t\t\t\t\t\t\t<#\n\t\t\t\t\t\tvar size = data.sizes['medium'];\n\t\t\t\t\t\tif ( size ) { #>\n\t\t\t\t\t\t\t<option value="medium" >\n\t\t\t\t\t\t\t\tMedium &ndash; {{ size.width }} &times; {{ size.height }}\n\t\t\t\t\t\t\t</option>\n\t\t\t\t\t\t<# } #>\n\t\t\t\t\t\t\t\t\t\t\t<#\n\t\t\t\t\t\tvar size = data.sizes['large'];\n\t\t\t\t\t\tif ( size ) { #>\n\t\t\t\t\t\t\t<option value="large" >\n\t\t\t\t\t\t\t\tLarge &ndash; {{ size.width }} &times; {{ size.height }}\n\t\t\t\t\t\t\t</option>\n\t\t\t\t\t\t<# } #>\n\t\t\t\t\t\t\t\t\t\t\t<#\n\t\t\t\t\t\tvar size = data.sizes['full'];\n\t\t\t\t\t\tif ( size ) { #>\n\t\t\t\t\t\t\t<option value="full"  selected='selected'>\n\t\t\t\t\t\t\t\tFull Size &ndash; {{ size.width }} &times; {{ size.height }}\n\t\t\t\t\t\t\t</option>\n\t\t\t\t\t\t<# } #>\n\t\t\t\t\t\t\t\t\t</select>\n\t\t\t</label>\n\t\t<# } #>\n\t
+\n\n\t
+\n\t\t<h2>Gallery Settings</h2>\n\n\t\t<label class="setting">\n\t\t\t<span>Link To</span>\n\t\t\t<select class="link-to"\n\t\t\t\tdata-setting="link"\n\t\t\t\t<# if ( data.userSettings ) { #>\n\t\t\t\t\tdata-user-setting="urlbutton"\n\t\t\t\t<# } #>>\n\n\t\t\t\t<option value="post" <# if ( ! wp.media.galleryDefaults.link || 'post' == wp.media.galleryDefaults.link ) {\n\t\t\t\t\t#>selected="selected"<# }\n\t\t\t\t#>>\n\t\t\t\t\tAttachment Page\t\t\t\t</option>\n\t\t\t\t<option value="file" <# if ( 'file' == wp.media.galleryDefaults.link ) { #>selected="selected"<# } #>>\n\t\t\t\t\tMedia File\t\t\t\t</option>\n\t\t\t\t<option value="none" <# if ( 'none' == wp.media.galleryDefaults.link ) { #>selected="selected"<# } #>>\n\t\t\t\t\tNone\t\t\t\t</option>\n\t\t\t</select>\n\t\t</label>\n\n\t\t<label class="setting">\n\t\t\t<span>Columns</span>\n\t\t\t<select class="columns" name="columns"\n\t\t\t\tdata-setting="columns">\n\t\t\t\t\t\t\t\t\t<option value="1" <#\n\t\t\t\t\t\tif ( 1 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }\n\t\t\t\t\t#>>\n\t\t\t\t\t\t1\t\t\t\t\t</option>\n\t\t\t\t\t\t\t\t\t<option value="2" <#\n\t\t\t\t\t\tif ( 2 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }\n\t\t\t\t\t#>>\n\t\t\t\t\t\t2\t\t\t\t\t</option>\n\t\t\t\t\t\t\t\t\t<option value="3" <#\n\t\t\t\t\t\tif ( 3 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }\n\t\t\t\t\t#>>\n\t\t\t\t\t\t3\t\t\t\t\t</option>\n\t\t\t\t\t\t\t\t\t<option value="4" <#\n\t\t\t\t\t\tif ( 4 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }\n\t\t\t\t\t#>>\n\t\t\t\t\t\t4\t\t\t\t\t</option>\n\t\t\t\t\t\t\t\t\t<option value="5" <#\n\t\t\t\t\t\tif ( 5 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }\n\t\t\t\t\t#>>\n\t\t\t\t\t\t5\t\t\t\t\t</option>\n\t\t\t\t\t\t\t\t\t<option value="6" <#\n\t\t\t\t\t\tif ( 6 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }\n\t\t\t\t\t#>>\n\t\t\t\t\t\t6\t\t\t\t\t</option>\n\t\t\t\t\t\t\t\t\t<option value="7" <#\n\t\t\t\t\t\tif ( 7 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }\n\t\t\t\t\t#>>\n\t\t\t\t\t\t7\t\t\t\t\t</option>\n\t\t\t\t\t\t\t\t\t<option value="8" <#\n\t\t\t\t\t\tif ( 8 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }\n\t\t\t\t\t#>>\n\t\t\t\t\t\t8\t\t\t\t\t</option>\n\t\t\t\t\t\t\t\t\t<option value="9" <#\n\t\t\t\t\t\tif ( 9 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }\n\t\t\t\t\t#>>\n\t\t\t\t\t\t9\t\t\t\t\t</option>\n\t\t\t\t\t\t\t</select>\n\t\t</label>\n\n\t\t<label class="setting">\n\t\t\t<span>Random Order</span>\n\t\t\t<input type="checkbox" data-setting="_orderbyRandom" />\n\t\t</label>\n\n\t\t<label class="setting size">\n\t\t\t<span>Size</span>\n\t\t\t<select class="size" name="size"\n\t\t\t\tdata-setting="size"\n\t\t\t\t<# if ( data.userSettings ) { #>\n\t\t\t\t\tdata-user-setting="imgsize"\n\t\t\t\t<# } #>\n\t\t\t\t>\n\t\t\t\t\t\t\t\t\t<option value="thumbnail">\n\t\t\t\t\t\tThumbnail\t\t\t\t\t</option>\n\t\t\t\t\t\t\t\t\t<option value="medium">\n\t\t\t\t\t\tMedium\t\t\t\t\t</option>\n\t\t\t\t\t\t\t\t\t<option value="large">\n\t\t\t\t\t\tLarge\t\t\t\t\t</option>\n\t\t\t\t\t\t\t\t\t<option value="full">\n\t\t\t\t\t\tFull Size\t\t\t\t\t</option>\n\t\t\t\t\t\t\t</select>\n\t\t</label>\n\t
+\n\n\t
+\n\t\t<h2>Playlist Settings</h2>\n\n\t\t<# var emptyModel = _.isEmpty( data.model ),\n\t\t\tisVideo = 'video' === data.controller.get('library').props.get('type'); #>\n\n\t\t<label class="setting">\n\t\t\t<input type="checkbox" data-setting="tracklist" <# if ( emptyModel ) { #>\n\t\t\t\tchecked="checked"\n\t\t\t<# } #> />\n\t\t\t<# if ( isVideo ) { #>\n\t\t\t<span>Show Video List</span>\n\t\t\t<# } else { #>\n\t\t\t<span>Show Tracklist</span>\n\t\t\t<# } #>\n\t\t</label>\n\n\t\t<# if ( ! isVideo ) { #>\n\t\t<label class="setting">\n\t\t\t<input type="checkbox" data-setting="artists" <# if ( emptyModel ) { #>\n\t\t\t\tchecked="checked"\n\t\t\t<# } #> />\n\t\t\t<span>Show Artist Name in Tracklist</span>\n\t\t</label>\n\t\t<# } #>\n\n\t\t<label class="setting">\n\t\t\t<input type="checkbox" data-setting="images" <# if ( emptyModel ) { #>\n\t\t\t\tchecked="checked"\n\t\t\t<# } #> />\n\t\t\t<span>Show Images</span>\n\t\t</label>\n\t
+\n\n\t
+\n\t\t<label class="setting link-text">\n\t\t\t<span>Link Text</span>\n\t\t\t<input type="text" class="alignment" data-setting="linkText" />\n\t\t</label>\n\t\t<div class="embed-container" style="display: none;">\n\t\t\t<div class="embed-preview"></div>\n\t\t</div>\n\t
+\n\n\t
+\n\t\t<div class="thumbnail">\n\t\t\t<img src="{{ data.model.url }}" draggable="false" alt="" />\n\t\t</div>\n\n\t\t\t\t\t<label class="setting caption">\n\t\t\t\t<span>Caption</span>\n\t\t\t\t<textarea data-setting="caption" />\n\t\t\t</label>\n\t\t\n\t\t<label class="setting alt-text">\n\t\t\t<span>Alt Text</span>\n\t\t\t<input type="text" data-setting="alt" />\n\t\t</label>\n\n\t\t<div class="setting align">\n\t\t\t<span>Align</span>\n\t\t\t<div class="button-group button-large" data-setting="align">\n\t\t\t\t<button class="button" value="left">\n\t\t\t\t\tLeft\t\t\t\t</button>\n\t\t\t\t<button class="button" value="center">\n\t\t\t\t\tCenter\t\t\t\t</button>\n\t\t\t\t<button class="button" value="right">\n\t\t\t\t\tRight\t\t\t\t</button>\n\t\t\t\t<button class="button active" value="none">\n\t\t\t\t\tNone\t\t\t\t</button>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class="setting link-to">\n\t\t\t<span>Link To</span>\n\t\t\t<div class="button-group button-large" data-setting="link">\n\t\t\t\t<button class="button" value="file">\n\t\t\t\t\tImage URL\t\t\t\t</button>\n\t\t\t\t<button class="button" value="custom">\n\t\t\t\t\tCustom URL\t\t\t\t</button>\n\t\t\t\t<button class="button active" value="none">\n\t\t\t\t\tNone\t\t\t\t</button>\n\t\t\t</div>\n\t\t\t<input type="text" class="link-to-custom" data-setting="linkUrl" />\n\t\t</div>\n\t
+\n\n\t
+\n\t\t<div class="media-embed">\n\t\t\t<div class="embed-media-settings">\n\t\t\t\t<div class="column-image">\n\t\t\t\t\t<div class="image">\n\t\t\t\t\t\t<img src="{{ data.model.url }}" draggable="false" alt="" />\n\n\t\t\t\t\t\t<# if ( data.attachment && window.imageEdit ) { #>\n\t\t\t\t\t\t\t<div class="actions">\n\t\t\t\t\t\t\t\t<input type="button" class="edit-attachment button" value="Edit Original" />\n\t\t\t\t\t\t\t\t<input type="button" class="replace-attachment button" value="Replace" />\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<# } #>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class="column-settings">\n\t\t\t\t\t\t\t\t\t\t\t<label class="setting caption">\n\t\t\t\t\t\t\t<span>Caption</span>\n\t\t\t\t\t\t\t<textarea data-setting="caption">{{ data.model.caption }}</textarea>\n\t\t\t\t\t\t</label>\n\t\t\t\t\t\n\t\t\t\t\t<label class="setting alt-text">\n\t\t\t\t\t\t<span>Alternative Text</span>\n\t\t\t\t\t\t<input type="text" data-setting="alt" value="{{ data.model.alt }}" />\n\t\t\t\t\t</label>\n\n\t\t\t\t\t<h2>Display Settings</h2>\n\t\t\t\t\t<div class="setting align">\n\t\t\t\t\t\t<span>Align</span>\n\t\t\t\t\t\t<div class="button-group button-large" data-setting="align">\n\t\t\t\t\t\t\t<button class="button" value="left">\n\t\t\t\t\t\t\t\tLeft\t\t\t\t\t\t\t</button>\n\t\t\t\t\t\t\t<button class="button" value="center">\n\t\t\t\t\t\t\t\tCenter\t\t\t\t\t\t\t</button>\n\t\t\t\t\t\t\t<button class="button" value="right">\n\t\t\t\t\t\t\t\tRight\t\t\t\t\t\t\t</button>\n\t\t\t\t\t\t\t<button class="button active" value="none">\n\t\t\t\t\t\t\t\tNone\t\t\t\t\t\t\t</button>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\n\t\t\t\t\t<# if ( data.attachment ) { #>\n\t\t\t\t\t\t<# if ( 'undefined' !== typeof data.attachment.sizes ) { #>\n\t\t\t\t\t\t\t<label class="setting size">\n\t\t\t\t\t\t\t\t<span>Size</span>\n\t\t\t\t\t\t\t\t<select class="size" name="size"\n\t\t\t\t\t\t\t\t\tdata-setting="size"\n\t\t\t\t\t\t\t\t\t<# if ( data.userSettings ) { #>\n\t\t\t\t\t\t\t\t\t\tdata-user-setting="imgsize"\n\t\t\t\t\t\t\t\t\t<# } #>>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<#\n\t\t\t\t\t\t\t\t\t\tvar size = data.sizes['thumbnail'];\n\t\t\t\t\t\t\t\t\t\tif ( size ) { #>\n\t\t\t\t\t\t\t\t\t\t\t<option value="thumbnail">\n\t\t\t\t\t\t\t\t\t\t\t\tThumbnail &ndash; {{ size.width }} &times; {{ size.height }}\n\t\t\t\t\t\t\t\t\t\t\t</option>\n\t\t\t\t\t\t\t\t\t\t<# } #>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<#\n\t\t\t\t\t\t\t\t\t\tvar size = data.sizes['medium'];\n\t\t\t\t\t\t\t\t\t\tif ( size ) { #>\n\t\t\t\t\t\t\t\t\t\t\t<option value="medium">\n\t\t\t\t\t\t\t\t\t\t\t\tMedium &ndash; {{ size.width }} &times; {{ size.height }}\n\t\t\t\t\t\t\t\t\t\t\t</option>\n\t\t\t\t\t\t\t\t\t\t<# } #>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<#\n\t\t\t\t\t\t\t\t\t\tvar size = data.sizes['large'];\n\t\t\t\t\t\t\t\t\t\tif ( size ) { #>\n\t\t\t\t\t\t\t\t\t\t\t<option value="large">\n\t\t\t\t\t\t\t\t\t\t\t\tLarge &ndash; {{ size.width }} &times; {{ size.height }}\n\t\t\t\t\t\t\t\t\t\t\t</option>\n\t\t\t\t\t\t\t\t\t\t<# } #>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<#\n\t\t\t\t\t\t\t\t\t\tvar size = data.sizes['full'];\n\t\t\t\t\t\t\t\t\t\tif ( size ) { #>\n\t\t\t\t\t\t\t\t\t\t\t<option value="full">\n\t\t\t\t\t\t\t\t\t\t\t\tFull Size &ndash; {{ size.width }} &times; {{ size.height }}\n\t\t\t\t\t\t\t\t\t\t\t</option>\n\t\t\t\t\t\t\t\t\t\t<# } #>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="custom">\n\t\t\t\t\t\t\t\t\t\tCustom Size\t\t\t\t\t\t\t\t\t</option>\n\t\t\t\t\t\t\t\t</select>\n\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t<# } #>\n\t\t\t\t\t\t\t<div class="custom-size<# if ( data.model.size !== 'custom' ) { #> hidden<# } #>">\n\t\t\t\t\t\t\t\t<label><span>Width <small>(px)</small></span> <input data-setting="customWidth" type="number" step="1" value="{{ data.model.customWidth }}" /></label><span class="sep">&times;</span><label><span>Height <small>(px)</small></span><input data-setting="customHeight" type="number" step="1" value="{{ data.model.customHeight }}" /></label>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t<# } #>\n\n\t\t\t\t\t<div class="setting link-to">\n\t\t\t\t\t\t<span>Link To</span>\n\t\t\t\t\t\t<select data-setting="link">\n\t\t\t\t\t\t<# if ( data.attachment ) { #>\n\t\t\t\t\t\t\t<option value="file">\n\t\t\t\t\t\t\t\tMedia File\t\t\t\t\t\t\t</option>\n\t\t\t\t\t\t\t<option value="post">\n\t\t\t\t\t\t\t\tAttachment Page\t\t\t\t\t\t\t</option>\n\t\t\t\t\t\t<# } else { #>\n\t\t\t\t\t\t\t<option value="file">\n\t\t\t\t\t\t\t\tImage URL\t\t\t\t\t\t\t</option>\n\t\t\t\t\t\t<# } #>\n\t\t\t\t\t\t\t<option value="custom">\n\t\t\t\t\t\t\t\tCustom URL\t\t\t\t\t\t\t</option>\n\t\t\t\t\t\t\t<option value="none">\n\t\t\t\t\t\t\t\tNone\t\t\t\t\t\t\t</option>\n\t\t\t\t\t\t</select>\n\t\t\t\t\t\t<input type="text" class="link-to-custom" data-setting="linkUrl" />\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class="advanced-section">\n\t\t\t\t\t\t<h2><button type="button" class="button-link advanced-toggle">Advanced Options</button></h2>\n\t\t\t\t\t\t<div class="advanced-settings hidden">\n\t\t\t\t\t\t\t<div class="advanced-image">\n\t\t\t\t\t\t\t\t<label class="setting title-text">\n\t\t\t\t\t\t\t\t\t<span>Image Title Attribute</span>\n\t\t\t\t\t\t\t\t\t<input type="text" data-setting="title" value="{{ data.model.title }}" />\n\t\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t\t\t<label class="setting extra-classes">\n\t\t\t\t\t\t\t\t\t<span>Image CSS Class</span>\n\t\t\t\t\t\t\t\t\t<input type="text" data-setting="extraClasses" value="{{ data.model.extraClasses }}" />\n\t\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class="advanced-link">\n\t\t\t\t\t\t\t\t<div class="setting link-target">\n\t\t\t\t\t\t\t\t\t<label><input type="checkbox" data-setting="linkTargetBlank" value="_blank" <# if ( data.model.linkTargetBlank ) { #>checked="checked"<# } #>>Open link in a new tab</label>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<label class="setting link-rel">\n\t\t\t\t\t\t\t\t\t<span>Link Rel</span>\n\t\t\t\t\t\t\t\t\t<input type="text" data-setting="linkRel" value="{{ data.model.linkClassName }}" />\n\t\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t\t\t<label class="setting link-class-name">\n\t\t\t\t\t\t\t\t\t<span>Link CSS Class</span>\n\t\t\t\t\t\t\t\t\t<input type="text" data-setting="linkClassName" value="{{ data.model.linkClassName }}" />\n\t\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t
+\n\n\t
+\n\t\t<div id="media-head-{{ data.id }}"></div>\n\t\t<div id="image-editor-{{ data.id }}"></div>\n\t
+\n\n\t
+\n\t\t<# var ext, html5types = {\n\t\t\tmp3: wp.media.view.settings.embedMimes.mp3,\n\t\t\togg: wp.media.view.settings.embedMimes.ogg\n\t\t}; #>\n\n\t\t\t\t<div class="media-embed media-embed-details">\n\t\t\t<div class="embed-media-settings embed-audio-settings">\n\t\t\t\t<audio style="visibility: hidden"\n\tcontrols\n\tclass="wp-audio-shortcode"\n\twidth="{{ _.isUndefined( data.model.width ) ? 400 : data.model.width }}"\n\tpreload="{{ _.isUndefined( data.model.preload ) ? 'none' : data.model.preload }}"\n\t<#\n\tif ( ! _.isUndefined( data.model.autoplay ) && data.model.autoplay ) {\n\t\t#> autoplay<#\n\t}\n\tif ( ! _.isUndefined( data.model.loop ) && data.model.loop ) {\n\t\t#> loop<#\n\t}\n\t#>\n>\n\t<# if ( ! _.isEmpty( data.model.src ) ) { #>\n\t<source src="{{ data.model.src }}" type="{{ wp.media.view.settings.embedMimes[ data.model.src.split('.').pop() ] }}" />\n\t<# } #>\n\n\t<# if ( ! _.isEmpty( data.model.mp3 ) ) { #>\n\t<source src="{{ data.model.mp3 }}" type="{{ wp.media.view.settings.embedMimes[ 'mp3' ] }}" />\n\t<# } #>\n\t<# if ( ! _.isEmpty( data.model.ogg ) ) { #>\n\t<source src="{{ data.model.ogg }}" type="{{ wp.media.view.settings.embedMimes[ 'ogg' ] }}" />\n\t<# } #>\n\t<# if ( ! _.isEmpty( data.model.m4a ) ) { #>\n\t<source src="{{ data.model.m4a }}" type="{{ wp.media.view.settings.embedMimes[ 'm4a' ] }}" />\n\t<# } #>\n\t<# if ( ! _.isEmpty( data.model.wav ) ) { #>\n\t<source src="{{ data.model.wav }}" type="{{ wp.media.view.settings.embedMimes[ 'wav' ] }}" />\n\t<# } #>\n\t</audio>\n\n\t\t\t\t<# if ( ! _.isEmpty( data.model.src ) ) {\n\t\t\t\t\text = data.model.src.split('.').pop();\n\t\t\t\t\tif ( html5types[ ext ] ) {\n\t\t\t\t\t\tdelete html5types[ ext ];\n\t\t\t\t\t}\n\t\t\t\t#>\n\t\t\t\t<label class="setting">\n\t\t\t\t\t<span>SRC</span>\n\t\t\t\t\t<input type="text" disabled="disabled" data-setting="src" value="{{ data.model.src }}" />\n\t\t\t\t\t<button type="button" class="button-link remove-setting">Remove audio source</button>\n\t\t\t\t</label>\n\t\t\t\t<# } #>\n\t\t\t\t<# if ( ! _.isEmpty( data.model.mp3 ) ) {\n\t\t\t\t\tif ( ! _.isUndefined( html5types.mp3 ) ) {\n\t\t\t\t\t\tdelete html5types.mp3;\n\t\t\t\t\t}\n\t\t\t\t#>\n\t\t\t\t<label class="setting">\n\t\t\t\t\t<span>MP3</span>\n\t\t\t\t\t<input type="text" disabled="disabled" data-setting="mp3" value="{{ data.model.mp3 }}" />\n\t\t\t\t\t<button type="button" class="button-link remove-setting">Remove audio source</button>\n\t\t\t\t</label>\n\t\t\t\t<# } #>\n\t\t\t\t<# if ( ! _.isEmpty( data.model.ogg ) ) {\n\t\t\t\t\tif ( ! _.isUndefined( html5types.ogg ) ) {\n\t\t\t\t\t\tdelete html5types.ogg;\n\t\t\t\t\t}\n\t\t\t\t#>\n\t\t\t\t<label class="setting">\n\t\t\t\t\t<span>OGG</span>\n\t\t\t\t\t<input type="text" disabled="disabled" data-setting="ogg" value="{{ data.model.ogg }}" />\n\t\t\t\t\t<button type="button" class="button-link remove-setting">Remove audio source</button>\n\t\t\t\t</label>\n\t\t\t\t<# } #>\n\t\t\t\t<# if ( ! _.isEmpty( data.model.m4a ) ) {\n\t\t\t\t\tif ( ! _.isUndefined( html5types.m4a ) ) {\n\t\t\t\t\t\tdelete html5types.m4a;\n\t\t\t\t\t}\n\t\t\t\t#>\n\t\t\t\t<label class="setting">\n\t\t\t\t\t<span>M4A</span>\n\t\t\t\t\t<input type="text" disabled="disabled" data-setting="m4a" value="{{ data.model.m4a }}" />\n\t\t\t\t\t<button type="button" class="button-link remove-setting">Remove audio source</button>\n\t\t\t\t</label>\n\t\t\t\t<# } #>\n\t\t\t\t<# if ( ! _.isEmpty( data.model.wav ) ) {\n\t\t\t\t\tif ( ! _.isUndefined( html5types.wav ) ) {\n\t\t\t\t\t\tdelete html5types.wav;\n\t\t\t\t\t}\n\t\t\t\t#>\n\t\t\t\t<label class="setting">\n\t\t\t\t\t<span>WAV</span>\n\t\t\t\t\t<input type="text" disabled="disabled" data-setting="wav" value="{{ data.model.wav }}" />\n\t\t\t\t\t<button type="button" class="button-link remove-setting">Remove audio source</button>\n\t\t\t\t</label>\n\t\t\t\t<# } #>\n\t\t\t\t\n\t\t\t\t<# if ( ! _.isEmpty( html5types ) ) { #>\n\t\t\t\t<div class="setting">\n\t\t\t\t\t<span>Add alternate sources for maximum HTML5 playback:</span>\n\t\t\t\t\t<div class="button-large">\n\t\t\t\t\t<# _.each( html5types, function (mime, type) { #>\n\t\t\t\t\t<button class="button add-media-source" data-mime="{{ mime }}">{{ type }}</button>\n\t\t\t\t\t<# } ) #>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<# } #>\n\n\t\t\t\t<div class="setting preload">\n\t\t\t\t\t<span>Preload</span>\n\t\t\t\t\t<div class="button-group button-large" data-setting="preload">\n\t\t\t\t\t\t<button class="button" value="auto">Auto</button>\n\t\t\t\t\t\t<button class="button" value="metadata">Metadata</button>\n\t\t\t\t\t\t<button class="button active" value="none">None</button>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\n\t\t\t\t<label class="setting checkbox-setting autoplay">\n\t\t\t\t\t<input type="checkbox" data-setting="autoplay" />\n\t\t\t\t\t<span>Autoplay</span>\n\t\t\t\t</label>\n\n\t\t\t\t<label class="setting checkbox-setting">\n\t\t\t\t\t<input type="checkbox" data-setting="loop" />\n\t\t\t\t\t<span>Loop</span>\n\t\t\t\t</label>\n\t\t\t</div>\n\t\t</div>\n\t
+\n\n\t
+\n\t\t<# var ext, html5types = {\n\t\t\tmp4: wp.media.view.settings.embedMimes.mp4,\n\t\t\togv: wp.media.view.settings.embedMimes.ogv,\n\t\t\twebm: wp.media.view.settings.embedMimes.webm\n\t\t}; #>\n\n\t\t\t\t<div class="media-embed media-embed-details">\n\t\t\t<div class="embed-media-settings embed-video-settings">\n\t\t\t\t<div class="wp-video-holder">\n\t\t\t\t<#\n\t\t\t\tvar w = ! data.model.width || data.model.width > 640 ? 640 : data.model.width,\n\t\t\t\t\th = ! data.model.height ? 360 : data.model.height;\n\n\t\t\t\tif ( data.model.width && w !== data.model.width ) {\n\t\t\t\t\th = Math.ceil( ( h * w ) / data.model.width );\n\t\t\t\t}\n\t\t\t\t#>\n\n\t\t\t\t<#  var w_rule = '', classes = [],\n\t\tw, h, settings = wp.media.view.settings,\n\t\tisYouTube = isVimeo = false;\n\n\tif ( ! _.isEmpty( data.model.src ) ) {\n\t\tisYouTube = data.model.src.match(/youtube|youtu\\.be/);\n\t\tisVimeo = -1 !== data.model.src.indexOf('vimeo');\n\t}\n\n\tif ( settings.contentWidth && data.model.width >= settings.contentWidth ) {\n\t\tw = settings.contentWidth;\n\t} else {\n\t\tw = data.model.width;\n\t}\n\n\tif ( w !== data.model.width ) {\n\t\th = Math.ceil( ( data.model.height * w ) / data.model.width );\n\t} else {\n\t\th = data.model.height;\n \t}\n\n\tif ( w ) {\n\t\tw_rule = 'width: ' + w + 'px; ';\n\t}\n\n\tif ( isYouTube ) {\n\t\tclasses.push( 'youtube-video' );\n\t}\n\n\tif ( isVimeo ) {\n\t\tclasses.push( 'vimeo-video' );\n\t}\n\n#>\n<div style="{{ w_rule }}" class="wp-video">\n<video controls\n\tclass="wp-video-shortcode {{ classes.join( ' ' ) }}"\n\t<# if ( w ) { #>width="{{ w }}"<# } #>\n\t<# if ( h ) { #>height="{{ h }}"<# } #>\n\t<#\n\t\tif ( ! _.isUndefined( data.model.poster ) && data.model.poster ) {\n\t\t\t#> poster="{{ data.model.poster }}"<#\n\t\t} #>\n\t\tpreload="{{ _.isUndefined( data.model.preload ) ? 'metadata' : data.model.preload }}"<#\n\t if ( ! _.isUndefined( data.model.autoplay ) && data.model.autoplay ) {\n\t\t#> autoplay<#\n\t}\n\t if ( ! _.isUndefined( data.model.loop ) && data.model.loop ) {\n\t\t#> loop<#\n\t}\n\t#>\n>\n\t<# if ( ! _.isEmpty( data.model.src ) ) {\n\t\tif ( isYouTube ) { #>\n\t\t<source src="{{ data.model.src }}" type="video/youtube" />\n\t\t<# } else if ( isVimeo ) { #>\n\t\t<source src="{{ data.model.src }}" type="video/vimeo" />\n\t\t<# } else { #>\n\t\t<source src="{{ data.model.src }}" type="{{ settings.embedMimes[ data.model.src.split('.').pop() ] }}" />\n\t\t<# }\n\t} #>\n\n\t<# if ( data.model.mp4 ) { #>\n\t<source src="{{ data.model.mp4 }}" type="{{ settings.embedMimes[ 'mp4' ] }}" />\n\t<# } #>\n\t<# if ( data.model.m4v ) { #>\n\t<source src="{{ data.model.m4v }}" type="{{ settings.embedMimes[ 'm4v' ] }}" />\n\t<# } #>\n\t<# if ( data.model.webm ) { #>\n\t<source src="{{ data.model.webm }}" type="{{ settings.embedMimes[ 'webm' ] }}" />\n\t<# } #>\n\t<# if ( data.model.ogv ) { #>\n\t<source src="{{ data.model.ogv }}" type="{{ settings.embedMimes[ 'ogv' ] }}" />\n\t<# } #>\n\t<# if ( data.model.flv ) { #>\n\t<source src="{{ data.model.flv }}" type="{{ settings.embedMimes[ 'flv' ] }}" />\n\t<# } #>\n\t\t{{{ data.model.content }}}\n</video>\n</div>\n\n\t\t\t\t<# if ( ! _.isEmpty( data.model.src ) ) {\n\t\t\t\t\text = data.model.src.split('.').pop();\n\t\t\t\t\tif ( html5types[ ext ] ) {\n\t\t\t\t\t\tdelete html5types[ ext ];\n\t\t\t\t\t}\n\t\t\t\t#>\n\t\t\t\t<label class="setting">\n\t\t\t\t\t<span>SRC</span>\n\t\t\t\t\t<input type="text" disabled="disabled" data-setting="src" value="{{ data.model.src }}" />\n\t\t\t\t\t<button type="button" class="button-link remove-setting">Remove video source</button>\n\t\t\t\t</label>\n\t\t\t\t<# } #>\n\t\t\t\t<# if ( ! _.isEmpty( data.model.mp4 ) ) {\n\t\t\t\t\tif ( ! _.isUndefined( html5types.mp4 ) ) {\n\t\t\t\t\t\tdelete html5types.mp4;\n\t\t\t\t\t}\n\t\t\t\t#>\n\t\t\t\t<label class="setting">\n\t\t\t\t\t<span>MP4</span>\n\t\t\t\t\t<input type="text" disabled="disabled" data-setting="mp4" value="{{ data.model.mp4 }}" />\n\t\t\t\t\t<button type="button" class="button-link remove-setting">Remove video source</button>\n\t\t\t\t</label>\n\t\t\t\t<# } #>\n\t\t\t\t<# if ( ! _.isEmpty( data.model.m4v ) ) {\n\t\t\t\t\tif ( ! _.isUndefined( html5types.m4v ) ) {\n\t\t\t\t\t\tdelete html5types.m4v;\n\t\t\t\t\t}\n\t\t\t\t#>\n\t\t\t\t<label class="setting">\n\t\t\t\t\t<span>M4V</span>\n\t\t\t\t\t<input type="text" disabled="disabled" data-setting="m4v" value="{{ data.model.m4v }}" />\n\t\t\t\t\t<button type="button" class="button-link remove-setting">Remove video source</button>\n\t\t\t\t</label>\n\t\t\t\t<# } #>\n\t\t\t\t<# if ( ! _.isEmpty( data.model.webm ) ) {\n\t\t\t\t\tif ( ! _.isUndefined( html5types.webm ) ) {\n\t\t\t\t\t\tdelete html5types.webm;\n\t\t\t\t\t}\n\t\t\t\t#>\n\t\t\t\t<label class="setting">\n\t\t\t\t\t<span>WEBM</span>\n\t\t\t\t\t<input type="text" disabled="disabled" data-setting="webm" value="{{ data.model.webm }}" />\n\t\t\t\t\t<button type="button" class="button-link remove-setting">Remove video source</button>\n\t\t\t\t</label>\n\t\t\t\t<# } #>\n\t\t\t\t<# if ( ! _.isEmpty( data.model.ogv ) ) {\n\t\t\t\t\tif ( ! _.isUndefined( html5types.ogv ) ) {\n\t\t\t\t\t\tdelete html5types.ogv;\n\t\t\t\t\t}\n\t\t\t\t#>\n\t\t\t\t<label class="setting">\n\t\t\t\t\t<span>OGV</span>\n\t\t\t\t\t<input type="text" disabled="disabled" data-setting="ogv" value="{{ data.model.ogv }}" />\n\t\t\t\t\t<button type="button" class="button-link remove-setting">Remove video source</button>\n\t\t\t\t</label>\n\t\t\t\t<# } #>\n\t\t\t\t<# if ( ! _.isEmpty( data.model.flv ) ) {\n\t\t\t\t\tif ( ! _.isUndefined( html5types.flv ) ) {\n\t\t\t\t\t\tdelete html5types.flv;\n\t\t\t\t\t}\n\t\t\t\t#>\n\t\t\t\t<label class="setting">\n\t\t\t\t\t<span>FLV</span>\n\t\t\t\t\t<input type="text" disabled="disabled" data-setting="flv" value="{{ data.model.flv }}" />\n\t\t\t\t\t<button type="button" class="button-link remove-setting">Remove video source</button>\n\t\t\t\t</label>\n\t\t\t\t<# } #>\n\t\t\t\t\t\t\t\t</div>\n\n\t\t\t\t<# if ( ! _.isEmpty( html5types ) ) { #>\n\t\t\t\t<div class="setting">\n\t\t\t\t\t<span>Add alternate sources for maximum HTML5 playback:</span>\n\t\t\t\t\t<div class="button-large">\n\t\t\t\t\t<# _.each( html5types, function (mime, type) { #>\n\t\t\t\t\t<button class="button add-media-source" data-mime="{{ mime }}">{{ type }}</button>\n\t\t\t\t\t<# } ) #>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<# } #>\n\n\t\t\t\t<# if ( ! _.isEmpty( data.model.poster ) ) { #>\n\t\t\t\t<label class="setting">\n\t\t\t\t\t<span>Poster Image</span>\n\t\t\t\t\t<input type="text" disabled="disabled" data-setting="poster" value="{{ data.model.poster }}" />\n\t\t\t\t\t<button type="button" class="button-link remove-setting">Remove poster image</button>\n\t\t\t\t</label>\n\t\t\t\t<# } #>\n\t\t\t\t<div class="setting preload">\n\t\t\t\t\t<span>Preload</span>\n\t\t\t\t\t<div class="button-group button-large" data-setting="preload">\n\t\t\t\t\t\t<button class="button" value="auto">Auto</button>\n\t\t\t\t\t\t<button class="button" value="metadata">Metadata</button>\n\t\t\t\t\t\t<button class="button active" value="none">None</button>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\n\t\t\t\t<label class="setting checkbox-setting autoplay">\n\t\t\t\t\t<input type="checkbox" data-setting="autoplay" />\n\t\t\t\t\t<span>Autoplay</span>\n\t\t\t\t</label>\n\n\t\t\t\t<label class="setting checkbox-setting">\n\t\t\t\t\t<input type="checkbox" data-setting="loop" />\n\t\t\t\t\t<span>Loop</span>\n\t\t\t\t</label>\n\n\t\t\t\t<label class="setting" data-setting="content">\n\t\t\t\t\t<span>Tracks (subtitles, captions, descriptions, chapters, or metadata)</span>\n\t\t\t\t\t<#\n\t\t\t\t\tvar content = '';\n\t\t\t\t\tif ( ! _.isEmpty( data.model.content ) ) {\n\t\t\t\t\t\tvar tracks = jQuery( data.model.content ).filter( 'track' );\n\t\t\t\t\t\t_.each( tracks.toArray(), function (track) {\n\t\t\t\t\t\t\tcontent += track.outerHTML; #>\n\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\t<input class="content-track" type="text" value="{{ track.outerHTML }}" />\n\t\t\t\t\t\t\t<button type="button" class="button-link remove-setting remove-track">Remove video track</button>\n\t\t\t\t\t\t</p>\n\t\t\t\t\t\t<# } ); #>\n\t\t\t\t\t<# } else { #>\n\t\t\t\t\t<em>There are no associated subtitles.</em>\n\t\t\t\t\t<# } #>\n\t\t\t\t\t<textarea class="hidden content-setting">{{ content }}</textarea>\n\t\t\t\t</label>\n\t\t\t</div>\n\t\t</div>\n\t
+\n\n\t
+\n\t\t<# if ( data.attachments.length ) { #>\n\t\t\t<div class="gallery gallery-columns-{{ data.columns }}">\n\t\t\t\t<# _.each( data.attachments, function( attachment, index ) { #>\n\t\t\t\t\t<dl class="gallery-item">\n\t\t\t\t\t\t<dt class="gallery-icon">\n\t\t\t\t\t\t\t<# if ( attachment.thumbnail ) { #>\n\t\t\t\t\t\t\t\t<img src="{{ attachment.thumbnail.url }}" width="{{ attachment.thumbnail.width }}" height="{{ attachment.thumbnail.height }}" alt="" />\n\t\t\t\t\t\t\t<# } else { #>\n\t\t\t\t\t\t\t\t<img src="{{ attachment.url }}" alt="" />\n\t\t\t\t\t\t\t<# } #>\n\t\t\t\t\t\t</dt>\n\t\t\t\t\t\t<# if ( attachment.caption ) { #>\n\t\t\t\t\t\t\t<dd class="wp-caption-text gallery-caption">\n\t\t\t\t\t\t\t\t{{{ data.verifyHTML( attachment.caption ) }}}\n\t\t\t\t\t\t\t</dd>\n\t\t\t\t\t\t<# } #>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<# if ( index % data.columns === data.columns - 1 ) { #>\n\t\t\t\t\t\t<br style="clear: both;">\n\t\t\t\t\t<# } #>\n\t\t\t\t<# } ); #>\n\t\t\t</div>\n\t\t<# } else { #>\n\t\t\t<div class="wpview-error">\n\t\t\t\t<div class="dashicons dashicons-format-gallery"></div><p>No items found.</p>\n\t\t\t</div>\n\t\t<# } #>\n\t
+\n\n\t
+\n\t\t<img class="crop-image" src="{{ data.url }}" alt="Image crop area preview. Requires mouse interaction.">\n\t\t<div class="upload-errors"></div>\n\t
+\n\n\t
+\n\t\t<h2>Preview</h2>\n\t\t<strong aria-hidden="true">As a browser icon</strong>\n\t\t<div class="favicon-preview">\n\t\t\t<img src="http://jmsm.ca/wp-admin/images/browser.png" class="browser-preview" width="182" height="" alt="" />\n\n\t\t\t<div class="favicon">\n\t\t\t\t<img id="preview-favicon" src="{{ data.url }}" alt="Preview as a browser icon"/>\n\t\t\t</div>\n\t\t\t<span class="browser-title" aria-hidden="true">John Molson Sports Marketing Committee</span>\n\t\t</div>\n\n\t\t<strong aria-hidden="true">As an app icon</strong>\n\t\t<div class="app-icon-preview">\n\t\t\t<img id="preview-app-icon" src="{{ data.url }}" alt="Preview as an app icon"/>\n\t\t</div>\n\t
+\n\n\t
+\n  <input type="hidden" name="{{{ data.fieldName }}}" value="{{{ data.id }}}" class="rwmb-media-input">\n  <div class="rwmb-media-preview">\n    <div class="rwmb-media-content">\n      <div class="centered">\n        <# if ( 'image' === data.type && data.sizes ) { #>\n          <# if ( data.sizes.thumbnail ) { #>\n            <img src="{{{ data.sizes.thumbnail.url }}}">\n          <# } else { #>\n            <img src="{{{ data.sizes.full.url }}}">\n          <# } #>\n        <# } else { #>\n          <# if ( data.image && data.image.src && data.image.src !== data.icon ) { #>\n            <img src="{{ data.image.src }}" />\n          <# } else { #>\n            <img src="{{ data.icon }}" />\n          <# } #>\n        <# } #>\n      </div>\n    </div>\n  </div>\n  <div class="rwmb-media-info">\n    <h4>\n      <a href="{{{ data.url }}}" target="_blank" title="{{{ i18nRwmbMedia.view }}}">\n        <# if( data.title ) { #> {{{ data.title }}}\n          <# } else { #> {{{ i18nRwmbMedia.noTitle }}}\n        <# } #>\n      </a>\n    </h4>\n    <p>{{{ data.mime }}}</p>\n    <p>\n      <a class="rwmb-edit-media" title="{{{ i18nRwmbMedia.edit }}}" href="{{{ data.editLink }}}" target="_blank">\n        <span class="dashicons dashicons-edit"></span>{{{ i18nRwmbMedia.edit }}}\n      </a>\n      <a href="#" class="rwmb-remove-media" title="{{{ i18nRwmbMedia.remove }}}">\n        <span class="dashicons dashicons-no-alt"></span>{{{ i18nRwmbMedia.remove }}}\n      </a>\n    </p>\n  </div>\n
+\n\n
+\n\t<# if ( data.maxFiles > 0 ) { #>\n\t\t{{{ data.length }}}/{{{ data.maxFiles }}}\n\t\t<# if ( 1 < data.maxFiles ) { #>  {{{ i18nRwmbMedia.multiple }}} <# } else {#> {{{ i18nRwmbMedia.single }}} <# } #>\n\t<# } #>\n
+\n
+\n\t<input type="hidden" name="{{{ data.fieldName }}}" value="{{{ data.id }}}" class="rwmb-media-input">\n\t<div class="rwmb-media-preview">\n\t\t<div class="rwmb-media-content">\n\t\t\t<div class="centered">\n\t\t\t\t<# if ( 'image' === data.type && data.sizes ) { #>\n\t\t\t\t\t<# if ( data.sizes.thumbnail ) { #>\n\t\t\t\t\t\t<img src="{{{ data.sizes.thumbnail.url }}}">\n\t\t\t\t\t<# } else { #>\n\t\t\t\t\t\t<img src="{{{ data.sizes.full.url }}}">\n\t\t\t\t\t<# } #>\n\t\t\t\t<# } else { #>\n\t\t\t\t\t<# if ( data.image && data.image.src && data.image.src !== data.icon ) { #>\n\t\t\t\t\t\t<img src="{{ data.image.src }}" />\n\t\t\t\t\t<# } else { #>\n\t\t\t\t\t\t<img src="{{ data.icon }}" />\n\t\t\t\t\t<# } #>\n\t\t\t\t<# } #>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n\t<div class="rwmb-overlay"></div>\n\t<div class="rwmb-media-bar">\n\t\t<a class="rwmb-edit-media" title="{{{ i18nRwmbMedia.edit }}}" href="{{{ data.editLink }}}" target="_blank">\n\t\t\t<span class="dashicons dashicons-edit"></span>\n\t\t</a>\n\t\t<a href="#" class="rwmb-remove-media" title="{{{ i18nRwmbMedia.remove }}}">\n\t\t\t<span class="dashicons dashicons-no-alt"></span>\n\t\t</a>\n\t</div>\n
+\n
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar wpcf7 = {"apiSettings":{"root":"http:\\/\\/jmsm.ca\\/wp-json\\/contact-form-7\\/v1","namespace":"contact-form-7\\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};\n/* ]]> */\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar _wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}};\n/* ]]> */\n
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar _wpMediaModelsL10n = {"settings":{"ajaxurl":"\\/wp-admin\\/admin-ajax.php","post":{"id":0}}};\n/* ]]> */\n
+\n
+\n
+\n/* <![CDATA[ */\nvar pluploadL10n = {"queue_limit_exceeded":"You have attempted to queue too many files.","file_exceeds_size_limit":"%s exceeds the maximum upload size for this site.","zero_byte_file":"This file is empty. Please try another.","invalid_filetype":"Sorry, this file type is not permitted for security reasons.","not_an_image":"This file is not an image. Please try another.","image_memory_exceeded":"Memory exceeded. Please try another smaller file.","image_dimensions_exceeded":"This is larger than the maximum size. Please try another.","default_error":"An error occurred in the upload. Please try again later.","missing_upload_url":"There was a configuration error. Please contact the server administrator.","upload_limit_exceeded":"You may only upload 1 file.","http_error":"HTTP error.","upload_failed":"Upload failed.","big_upload_failed":"Please try uploading this file with the %1$sbrowser uploader%2$s.","big_upload_queued":"%s exceeds the maximum upload size for the multi-file uploader when used in your browser.","io_error":"IO error.","security_error":"Security error.","file_cancelled":"File canceled.","upload_stopped":"Upload stopped.","dismiss":"Dismiss","crunching":"Crunching\\u2026","deleted":"moved to the trash.","error_uploading":"\\u201c%s\\u201d has failed to upload."};\nvar _wpPluploadSettings = {"defaults":{"runtimes":"html5,flash,silverlight,html4","file_data_name":"async-upload","url":"\\/wp-admin\\/async-upload.php","flash_swf_url":"http:\\/\\/jmsm.ca\\/wp-includes\\/js\\/plupload\\/plupload.flash.swf","silverlight_xap_url":"http:\\/\\/jmsm.ca\\/wp-includes\\/js\\/plupload\\/plupload.silverlight.xap","filters":{"max_file_size":"33554432b","mime_types":[{"extensions":"jpg,jpeg,jpe,gif,png,bmp,tiff,tif,ico,asf,asx,wmv,wmx,wm,avi,divx,flv,mov,qt,mpeg,mpg,mpe,mp4,m4v,ogv,webm,mkv,3gp,3gpp,3g2,3gp2,txt,asc,c,cc,h,srt,csv,tsv,ics,rtx,css,vtt,dfxp,mp3,m4a,m4b,ra,ram,wav,ogg,oga,mid,midi,wma,wax,mka,rtf,js,pdf,class,tar,zip,gz,gzip,rar,7z,psd,xcf,doc,pot,pps,ppt,wri,xla,xls,xlt,xlw,mdb,mpp,docx,docm,dotx,dotm,xlsx,xlsm,xlsb,xltx,xltm,xlam,pptx,pptm,ppsx,ppsm,potx,potm,ppam,sldx,sldm,onetoc,onetoc2,onetmp,onepkg,oxps,xps,odt,odp,ods,odg,odc,odb,odf,wp,wpd,key,numbers,pages,redux"}]},"multipart_params":{"action":"upload-attachment","_wpnonce":"3b0de34a6a"}},"browser":{"mobile":false,"supported":true},"limitExceeded":false};\n/* ]]> */\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Download File":"Download File","Download Video":"Download Video","Play":"Play","Pause":"Pause","Captions\\/Subtitles":"Captions\\/Subtitles","None":"None","Time Slider":"Time Slider","Skip back %1 seconds":"Skip back %1 seconds","Video Player":"Video Player","Audio Player":"Audio Player","Volume Slider":"Volume Slider","Mute Toggle":"Mute Toggle","Unmute":"Unmute","Mute":"Mute","Use Up\\/Down Arrow keys to increase or decrease volume.":"Use Up\\/Down Arrow keys to increase or decrease volume.","Use Left\\/Right Arrow keys to advance one second, Up\\/Down arrows to advance ten seconds.":"Use Left\\/Right Arrow keys to advance one second, Up\\/Down arrows to advance ten seconds."}};\nvar _wpmejsSettings = {"pluginPath":"\\/wp-includes\\/js\\/mediaelement\\/"};\n/* ]]> */\n
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar _wpMediaViewsL10n = {"url":"URL","addMedia":"Add Media","search":"Search","select":"Select","cancel":"Cancel","update":"Update","replace":"Replace","remove":"Remove","back":"Back","selected":"%d selected","dragInfo":"Drag and drop to reorder media files.","uploadFilesTitle":"Upload Files","uploadImagesTitle":"Upload Images","mediaLibraryTitle":"Media Library","insertMediaTitle":"Insert Media","createNewGallery":"Create a new gallery","createNewPlaylist":"Create a new playlist","createNewVideoPlaylist":"Create a new video playlist","returnToLibrary":"\\u2190 Return to library","allMediaItems":"All media items","allDates":"All dates","noItemsFound":"No items found.","insertIntoPost":"Insert into post","unattached":"Unattached","trash":"Trash","uploadedToThisPost":"Uploaded to this post","warnDelete":"You are about to permanently delete this item from your site.\\nThis action cannot be undone.\\n 'Cancel' to stop, 'OK' to delete.","warnBulkDelete":"You are about to permanently delete these items from your site.\\nThis action cannot be undone.\\n 'Cancel' to stop, 'OK' to delete.","warnBulkTrash":"You are about to trash these items.\\n  'Cancel' to stop, 'OK' to delete.","bulkSelect":"Bulk Select","cancelSelection":"Cancel Selection","trashSelected":"Trash Selected","untrashSelected":"Untrash Selected","deleteSelected":"Delete Selected","deletePermanently":"Delete Permanently","apply":"Apply","filterByDate":"Filter by date","filterByType":"Filter by type","searchMediaLabel":"Search Media","searchMediaPlaceholder":"Search media items...","noMedia":"No media files found.","attachmentDetails":"Attachment Details","insertFromUrlTitle":"Insert from URL","setFeaturedImageTitle":"Featured Image","setFeaturedImage":"Set featured image","createGalleryTitle":"Create Gallery","editGalleryTitle":"Edit Gallery","cancelGalleryTitle":"\\u2190 Cancel Gallery","insertGallery":"Insert gallery","updateGallery":"Update gallery","addToGallery":"Add to gallery","addToGalleryTitle":"Add to Gallery","reverseOrder":"Reverse order","imageDetailsTitle":"Image Details","imageReplaceTitle":"Replace Image","imageDetailsCancel":"Cancel Edit","editImage":"Edit Image","chooseImage":"Choose Image","selectAndCrop":"Select and Crop","skipCropping":"Skip Cropping","cropImage":"Crop Image","cropYourImage":"Crop your image","cropping":"Cropping\\u2026","suggestedDimensions":"Suggested image dimensions: %1$s by %2$s pixels.","cropError":"There has been an error cropping your image.","audioDetailsTitle":"Audio Details","audioReplaceTitle":"Replace Audio","audioAddSourceTitle":"Add Audio Source","audioDetailsCancel":"Cancel Edit","videoDetailsTitle":"Video Details","videoReplaceTitle":"Replace Video","videoAddSourceTitle":"Add Video Source","videoDetailsCancel":"Cancel Edit","videoSelectPosterImageTitle":"Select Poster Image","videoAddTrackTitle":"Add Subtitles","playlistDragInfo":"Drag and drop to reorder tracks.","createPlaylistTitle":"Create Audio Playlist","editPlaylistTitle":"Edit Audio Playlist","cancelPlaylistTitle":"\\u2190 Cancel Audio Playlist","insertPlaylist":"Insert audio playlist","updatePlaylist":"Update audio playlist","addToPlaylist":"Add to audio playlist","addToPlaylistTitle":"Add to Audio Playlist","videoPlaylistDragInfo":"Drag and drop to reorder videos.","createVideoPlaylistTitle":"Create Video Playlist","editVideoPlaylistTitle":"Edit Video Playlist","cancelVideoPlaylistTitle":"\\u2190 Cancel Video Playlist","insertVideoPlaylist":"Insert video playlist","updateVideoPlaylist":"Update video playlist","addToVideoPlaylist":"Add to video playlist","addToVideoPlaylistTitle":"Add to Video Playlist","settings":{"tabs":[],"tabUrl":"http:\\/\\/jmsm.ca\\/wp-admin\\/media-upload.php?chromeless=1","mimeTypes":{"image":"Images","audio":"Audio","video":"Video"},"captions":true,"nonce":{"sendToEditor":"8948d894fe","wpRestApi":"8200774e06"},"post":{"id":0},"defaultProps":{"link":"none","align":"","size":""},"attachmentCounts":{"audio":1,"video":1},"oEmbedProxyUrl":"http:\\/\\/jmsm.ca\\/wp-json\\/oembed\\/1.0\\/proxy","embedExts":["mp3","ogg","m4a","wav","mp4","m4v","webm","ogv","flv"],"embedMimes":{"mp3":"audio\\/mpeg","ogg":"audio\\/ogg","m4a":"audio\\/mpeg","wav":"audio\\/wav","mp4":"video\\/mp4","m4v":"video\\/mp4","webm":"video\\/webm","ogv":"video\\/ogg","flv":"video\\/x-flv"},"contentWidth":null,"months":[{"year":"2017","month":"11","text":"November 2017"},{"year":"2017","month":"10","text":"October 2017"},{"year":"2017","month":"9","text":"September 2017"},{"year":"2017","month":"8","text":"August 2017"},{"year":"2017","month":"7","text":"July 2017"},{"year":"2017","month":"6","text":"June 2017"},{"year":"2016","month":"9","text":"September 2016"},{"year":"2016","month":"1","text":"January 2016"},{"year":"2015","month":"10","text":"October 2015"},{"year":"2015","month":"9","text":"September 2015"}],"mediaTrash":0}};\n/* ]]> */\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\\/\\/jmsm.ca\\/wp-includes\\/js\\/thickbox\\/loadingAnimation.gif"};\n/* ]]> */\n
+\n
+\n
+\n
+\n
+\n<br />\n<b>Fatal error</b>:  Uncaught Error: Call to undefined function themeum_options() in /home/jmsm/public_html/wp-content/themes/eventum/footer.php:100\nStack trace:\n#0 /home/jmsm/public_html/wp-includes/template.php(688): require_once()\n#1 /home/jmsm/public_html/wp-includes/template.php(647): load_template('/home/jmsm/publ...', true)\n#2 /home/jmsm/public_html/wp-includes/general-template.php(84): locate_template(Array, true)\n#3 /home/jmsm/public_html/wp-content/themes/eventum/homepage.php(36): get_footer()\n#4 /home/jmsm/public_html/wp-includes/template-loader.php(74): include('/home/jmsm/publ...')\n#5 /home/jmsm/public_html/wp-blog-header.php(19): require_once('/home/jmsm/publ...')\n#6 /home/jmsm/public_html/index.php(17): require('/home/jmsm/publ...')\n#7 {main}\n  thrown in <b>/home/jmsm/public_html/wp-content/themes/eventum/footer.php</b> on line <b>100</b><br />\n
+>

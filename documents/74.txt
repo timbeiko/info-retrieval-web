@@ -1,900 +1,274 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-News - Concordia University Faculty Association
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Search:
-
-
-
-
-
-
-
-
- 
-Login:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Concordia University Faculty Association
-
-
-
-
-Twitter
-
-
-<!--
-				var a='cufa';
-				var b='concordia.ca';
-				var fullEmailLink= '<li class="e'+'ma'+'il-icon"><a href="m'+'a'+'ilt'+'o:'+a+'@'+b+'">Em'+'ail CUFA</a></li>';
-				$("#header-main .networking-icons").prepend(fullEmailLink);
-				-->
-
-
-
-
+\n\n\t  \n\t  
+\n\t  \n    
+\n
+\n
+\n
+Liberal Arts Society
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+try{Typekit.load();}catch(e){}
+\n
+\n
+SQUARESPACE_ROLLUPS = {};
+\n
+(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//static.squarespace.com/universal/scripts-compressed/common-809928c868e83ccb540a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');
+\n
+Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","rollups":{"squarespace-announcement-bar":{"css":"//static.squarespace.com/universal/styles-compressed/announcement-bar-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/announcement-bar-ac2a0f0cb81a572d0a86-min.en-US.js"},"squarespace-audio-player":{"css":"//static.squarespace.com/universal/styles-compressed/audio-player-e1b486594965430889af24c93ffeb509-min.css","js":"//static.squarespace.com/universal/scripts-compressed/audio-player-740457bfa6e78a08012a-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//static.squarespace.com/universal/styles-compressed/blog-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/blog-collection-list-39a7a221943aeaab7d95-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//static.squarespace.com/universal/styles-compressed/calendar-block-renderer-bba726056d2134131ce9d3077c28adbe-min.css","js":"//static.squarespace.com/universal/scripts-compressed/calendar-block-renderer-7b21d70a1ff407c7128e-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//static.squarespace.com/universal/styles-compressed/chartjs-helpers-9935a41d63cf08ca108505d288c1712e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/chartjs-helpers-5e0b7d3b5e20b551af66-min.en-US.js"},"squarespace-comments":{"css":"//static.squarespace.com/universal/styles-compressed/comments-fd2f389570c2a57065011600abb62cf3-min.css","js":"//static.squarespace.com/universal/scripts-compressed/comments-f432ade3b7e13631dd96-min.en-US.js"},"squarespace-dialog":{"css":"//static.squarespace.com/universal/styles-compressed/dialog-9489ad8eb7daab1644e1eb45a671ba44-min.css","js":"//static.squarespace.com/universal/scripts-compressed/dialog-e4873549a21b8e2b7585-min.en-US.js"},"squarespace-events-collection":{"css":"//static.squarespace.com/universal/styles-compressed/events-collection-bba726056d2134131ce9d3077c28adbe-min.css","js":"//static.squarespace.com/universal/scripts-compressed/events-collection-ff1a046c52ae9f007173-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//static.squarespace.com/universal/scripts-compressed/form-rendering-utils-74ffedc1164d9c644a5c-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//static.squarespace.com/universal/styles-compressed/gallery-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/gallery-collection-list-d8469246ea5eaf41cfcc-min.en-US.js"},"squarespace-image-zoom":{"css":"//static.squarespace.com/universal/styles-compressed/image-zoom-ae974921915aeccaff8ad60c60e19c31-min.css","js":"//static.squarespace.com/universal/scripts-compressed/image-zoom-57af5172250ee66d6f82-min.en-US.js"},"squarespace-pinterest":{"css":"//static.squarespace.com/universal/styles-compressed/pinterest-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/pinterest-3f206381433e339b60fc-min.en-US.js"},"squarespace-popup-overlay":{"css":"//static.squarespace.com/universal/styles-compressed/popup-overlay-fdcf92196a4aebc72317a5c5f60f0289-min.css","js":"//static.squarespace.com/universal/scripts-compressed/popup-overlay-81fbc2a98a988c917695-min.en-US.js"},"squarespace-product-quick-view":{"css":"//static.squarespace.com/universal/styles-compressed/product-quick-view-9abaaa4dfff182aa8d4ccf3b6ffdbe8d-min.css","js":"//static.squarespace.com/universal/scripts-compressed/product-quick-view-884f9c690046cf488ee2-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//static.squarespace.com/universal/styles-compressed/products-collection-item-v2-ae974921915aeccaff8ad60c60e19c31-min.css","js":"//static.squarespace.com/universal/scripts-compressed/products-collection-item-v2-1e091039926a2e5c877d-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//static.squarespace.com/universal/styles-compressed/products-collection-list-v2-ae974921915aeccaff8ad60c60e19c31-min.css","js":"//static.squarespace.com/universal/scripts-compressed/products-collection-list-v2-a8e7359d7ecf43aa22b5-min.en-US.js"},"squarespace-search-page":{"css":"//static.squarespace.com/universal/styles-compressed/search-page-9c747eeaabe96dacfea4932a63336f54-min.css","js":"//static.squarespace.com/universal/scripts-compressed/search-page-bb1d821c88c0636b26e5-min.en-US.js"},"squarespace-search-preview":{"js":"//static.squarespace.com/universal/scripts-compressed/search-preview-a4064635d7505cd238db-min.en-US.js"},"squarespace-share-buttons":{"js":"//static.squarespace.com/universal/scripts-compressed/share-buttons-47a2d8be498064377741-min.en-US.js"},"squarespace-simple-liking":{"css":"//static.squarespace.com/universal/styles-compressed/simple-liking-09fa291ec2800c97714f0d157fd0a6ca-min.css","js":"//static.squarespace.com/universal/scripts-compressed/simple-liking-d19b07c3d705e126d238-min.en-US.js"},"squarespace-social-buttons":{"css":"//static.squarespace.com/universal/styles-compressed/social-buttons-7a696232d1cd101fd62b5f174f9ae6ff-min.css","js":"//static.squarespace.com/universal/scripts-compressed/social-buttons-ea61c429dd9f25a948fb-min.en-US.js"},"squarespace-tourdates":{"css":"//static.squarespace.com/universal/styles-compressed/tourdates-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/tourdates-00b96d97ada06be48330-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//static.squarespace.com/universal/styles-compressed/website-overlays-manager-d1b0ace5f5af772d643f5a6ce0056946-min.css","js":"//static.squarespace.com/universal/scripts-compressed/website-overlays-manager-ac2bd8700e3bbfe6d6d1-min.en-US.js"}},"pageType":2,"website":{"id":"55511573e4b059dd136d4586","identifier":"liberalartssociety","websiteType":1,"contentModifiedOn":1508636547825,"cloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Montreal","machineTimeZoneOffset":-18000000,"timeZoneOffset":-18000000,"timeZoneAbbr":"EST","siteTitle":"Liberal Arts Society","siteDescription":"","location":{"mapZoom":12.0,"mapLat":45.49677080000001,"mapLng":-73.57927619999998,"markerLat":45.49677080000001,"markerLng":-73.57927619999998,"addressTitle":"Liberal Arts Society","addressLine1":"2040 Rue Mackay","addressLine2":"Montr\\u00E9al, QC, H3G 2J1","addressCountry":"Canada"},"logoImageId":"59e935f66f4ca370a8732c29","socialLogoImageId":"59ea346db1ffb65af6f32c2d","shareButtonOptions":{"1":true,"3":true,"6":true,"8":true,"7":true,"4":true,"5":true,"2":true},"logoImageUrl":"//static1.squarespace.com/static/55511573e4b059dd136d4586/t/59e935f66f4ca370a8732c29/1508636547825/","socialLogoImageUrl":"//static1.squarespace.com/static/55511573e4b059dd136d4586/t/59ea346db1ffb65af6f32c2d/1508636547825/","authenticUrl":"http://www.liberalartssociety.com","internalUrl":"http://liberalartssociety.squarespace.com","baseUrl":"http://www.liberalartssociety.com","primaryDomain":"www.liberalartssociety.com","sslSetting":1,"isHstsEnabled":false,"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"57b29481"},"websiteSettings":{"id":"55511573e4b059dd136d4588","websiteId":"55511573e4b059dd136d4586","type":"Non-Profit","subjects":[],"country":"CA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":true,"contactPhoneNumber":"","storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"orderRefundedSubjectFormat":"%s: Order #%o Refunded","orderRefundedTitleFormat":"Order Refunded: #%o","paymentSettings":{},"expressCheckout":false,"useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"multipleQuantityAllowedForServices":true,"currenciesSupported":["CHF","HKD","MXN","EUR","DKK","USD","CAD","MYR","NOK","THB","AUD","SGD","ILS","PLN","GBP","CZK","SEK","NZD","PHP","RUB"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"enableMailingListOptInByDefault":true,"businessName":"Liberal Arts Society","sameAsRetailLocation":false,"businessId":"","isLive":false},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isRestrictiveCookiePolicyEnabled":false},"websiteCloneable":false,"collection":{"title":"About","id":"55511a5be4b04fae16fc34f2","fullUrl":"/","type":10},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","gallery-arrow-style":"Round Corners","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Slideshow","gallery-info-overlay":"Always Show","gallery-loop":"false","gallery-navigation":"Thumbnails","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"350px","gridSpacing":"20px","hdr-bg-image":"{background-image:none;background-position:top center;background-size:contain;background-attachment:scroll;background-repeat:repeat-x}","product-gallery-auto-crop":"true","product-image-auto-crop":"true"},"templateId":"503ba86de4b04953d0f49846","pageFeatures":[1,2,4],"impersonatedSession":false,"demoCollections":[{"collectionId":"517ea573e4b077614f1786ec","deleted":true},{"collectionId":"517eb5d5e4b00cbd5d97d5c7","deleted":true},{"collectionId":"517ea55ee4b0d5eb59e27d6c","deleted":true},{"collectionId":"517ea56de4b0d7e92bf789e0","deleted":true},{"collectionId":"517eaaaae4b0770fc4169f38","deleted":true},{"collectionId":"517eb92ce4b0bec12a288468","deleted":true},{"collectionId":"50649e01e4b000b6a5f3008e","deleted":true},{"collectionId":"506612b284ae9eec10724582","deleted":true},{"collectionId":"517eb24fe4b0809658b0b86e","deleted":true},{"collectionId":"520bd9b6e4b059321a307fe8","deleted":true}],"isFacebookTab":false,"tzData":{"zones":[[-300,"Canada","E%sT",null]],"rules":{"Canada":[[1974,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"useNewImageLoader":true};
+ SquarespaceFonts.loadViaContext(); Squarespace.load(window);
+{"@context":"http://schema.org","@type":"WebSite","url":"http://www.liberalartssociety.com","name":"Liberal Arts Society","description":"","image":"//static1.squarespace.com/static/55511573e4b059dd136d4586/t/59e935f66f4ca370a8732c29/1508636547825/"}
+{"@context":"http://schema.org","@type":"Organization","legalName":"Liberal Arts Society","address":"2040 Rue Mackay\\nMontr\\u00E9al, QC, H3G 2J1\\nCanada","email":"liberalartsconcordia@gmail.com","telephone":""}
+\n
+\n
+\n
+\n    
+\n  \n  \n  \n\n\t\t\n\t\t\n
+\n
+\n  
+Liberal Arts Society
+\n  
+\n  
+\n    \n      
+\n        \n          \n            
 About
-
-
-
-
-Executive
-
-
-Staff
-
-
-Committees
-
-
-Council Members
-
-
-From the President
-
-
-Frequently Asked Questions
-
-
-
-
-
-
-Resources
-
-
-
-
-Constitution
-
-
-Forms
-
-
-CUFA Reports
-
-
-Other Links
-
-
-
-
-
-
-Collective Agreements
-
-
-
-
-Collective Agreement for 2015 – 2018
-
-
-Collective Agreement for 2012 – 2015
-
-
-2007-2012 Agreement
-
-
-2002-2007 Agreement
-
-
-
-
-
-
-Member Area
-
-
-
-
-Edit Your Account
-
-
-Meeting Minutes
-
-
-Suggestion Box
-
-
-Member Fora
-
-
-Member Classifieds
-
-
-Opinion Polls
-
-
-Newsletter Archive
-
-
-Financial Statements
-
-
-CAUT Documents
-
-
-FQPPU Documents
-
-
-Investment policy (updated February 2016)
-
-
-Bixi
-
-
-
-
-
-
+\n          \n          \n        \n      
+\n    \n      
+\n        \n          \n            
 News
-
-
+\n          \n          \n        \n      
+\n    \n      
+\n        \n          \n            
+Elections & Referenda
+\n          \n          \n        \n      
+\n    \n      
+\n        \n          
+\n          
+Documents
+\n          \n            \n                
+Bylaws
+\n            \n            \n          \n            \n                
+Minutes
+\n            \n            \n          \n            \n                
+Budgets
+\n            \n            \n          \n            \n                
+Reports
+\n            \n            \n          \n        \n      
+\n    \n      
+\n        \n          \n            
+Theatre Society
+\n          \n          \n        \n      
+\n    \n      
+\n        \n          \n            
+Student Academic Conference
+\n          \n          \n        \n      
+\n    \n      
+\n        \n          \n            
+Student Journal
+\n          \n          \n        \n      
+\n    \n      
+\n        \n          \n            
 Events
-
-
-
-
-Upcoming Events
-
-
-Past Events
-
-
-
-
-
-
-Career
-
-
-
-
-Retirement
-
-
-
-
-
-
-Elections
-
-
-
-
-Nomination forms 2017-2019
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Support for Professor Louise Briand, faculty representative on the UQO Board of Governors
-
-
-
-
-June 05, 2017
-
-
-
-
-
-
-Read the letter of support from the FQPPU
-
-
-
-
-
-
-
-
-
-
-
-
-U Can’t Talk to Ur Professor Like This – The New York Times
-
-
-
-
-May 15, 2017
-
-
-
-
-
-
-Read the full story
-
-
-
-
-
-
-
-
-
-
-
-
-March for Science – April 22 12:00 pm
-
-
-
-
-April 18, 2017
-
-
-
-
-
-
-View details about the March
+\n          \n          \n        \n      
+\n    \n    \n  
+\n
+\n\n\n\t\t\n\n\t  
+\n\t  \t
+\n\n\n\t\t\t\t
+\n\t\t\t\t\t
+\n\n\t\t\t\t    
+\n\t\t\t\t    \t
+\n\n\t\t\t\t    \t\t
+\n\t\t\t\t\t      \n\t\t\t\t\t      \t\n\t\t\t\t\t\t      
+\n\t\t\t\t\t\t        
+\n\t\t\t\t\t\t      
+\n\t\t\t\t\t        \n\n\t\t\t\t\t    \t\t\n
+\n  
+\n  \n\n    \n\n    
+About
+/
+\n  \n\n    \n\n    
+News
+/
+\n  \n\n    \n\n    
+Elections & Referenda
+/
+\n  \n\n    \n\n    
+Documents
+/
+Bylaws
+Minutes
+Budgets
+Reports
+\n  \n\n    \n\n    
+Theatre Society
+/
+\n  \n\n    \n\n    
+Student Academic Conference
+/
+\n  \n\n    \n\n    
+Student Journal
+/
+\n  \n\n    \n\n    
+Events
+/
+\n  \n     \n  
+\n
+\n\n\n\t\t\t\t          \n\t\t\t\t\t      \n\n\t\t\t\t    \t
+\n\t\t\t\t    
+\n\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\n                \n                  \n                \n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t
+\n\n\t\t\t\t      
+\n\t\t\t\t      \n\t\t\t\t      \t\n\t\t\t\t\t      
+\n\t\t\t\t\t        
+\n\t\t\t\t\t        \t
+\n\t\t\t\t\t\t        \n\t\t\t\t\t\t      
+\n\t\t\t\t\t      
+\n\t\t\t\t        \n\t\t\t\t      \n\n\t\t\t\t\t\t\t
+\n\t\t\t\t      \n\t\t\t\t\t      
+\n\t\t\t\t          
+About
+\n\t\t\t\t      \t\t\n\t\t\t\t        
+\n\t\t\t\t      \n\n\t\t\t\t      
+\n\t\t\t\t    
+\n\n\t\t\t\t    
+\n\t\t\t\t    \t
+\n\n\t\t\t\t    \t\t
+\n\t\t\t\t\t      \n\t\t\t\t\t      \t\n\t\t\t\t\t\t      
+\n\t\t\t\t\t\t        
+\n\t\t\t\t\t\t      
+\n\t\t\t\t\t        \n\n\t\t\t\t\t\t\t\t\t\n
+\n  
+\n  \n\n    \n\n    
+About
+/
+\n  \n\n    \n\n    
+News
+/
+\n  \n\n    \n\n    
+Elections & Referenda
+/
+\n  \n\n    \n\n    
+Documents
+/
+Bylaws
+Minutes
+Budgets
+Reports
+\n  \n\n    \n\n    
+Theatre Society
+/
+\n  \n\n    \n\n    
+Student Academic Conference
+/
+\n  \n\n    \n\n    
+Student Journal
+/
+\n  \n\n    \n\n    
+Events
+/
+\n  \n     \n  
+\n
+\n\n\n\n\t\t\t\t          \n\t\t\t\t\t      \n\n\t\t\t\t    \t
+\n\t\t\t\t    
+\n\n\t\t\t\t  
+\n\t\t\t\t
+\n\n\n\t\t\t
+\n\t\t\t\t
+\n\n\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+The Liberal Arts Society is the members association that represents the students who are majoring and minoring in the Western Society and Culture program of the 
+Liberal Arts College of Concordia
+ in Montr\xe9al, Qu\xe9bec.\xa0 Its purpose is to represent the students of the Liberal Arts College to its faculty and to the 
+Arts and Sciences Federation of Associations
+.\xa0 It also provides and promotes social, academic, and recreational activities and services for the students of the Liberal Arts College while creating a spirit of community.\xa0 Its goal is to provide the opportunity for each member to participate in activities that contribute to their development as a person and as a member of the College, especially those activities and programs that are conducive to a student.
+Contact us at liberalartsconcordia@gmail.com!
+Visit us at the Liberal Arts College in room 202 in the upstairs lounge at 2040 Mackay! Office hours are held Monday 16h00-17h00 and Thursday 11h30-13:00
+\n\t\t\t\t\t\t\t
+\n\n\t\t\t\t\t    
+\n\t\t\t\t\t    \n\n\t\t\t\t\t    
+\n\t\t\t\t\t\t\t\t
+2017-2018 Executive
+General Co\xf6rdinator: Jesse MacMillan
+Financial Co\xf6rdinator: Dylan Hunt
+External Co\xf6rdinator: Robert Young
+Internal Co\xf6rdinator: Holly Schweitzer
+Social Co\xf6rdinator: Nelson de Montrouge
+Academic Co\xf6rdinator: Natalia Espinel
+\xa0
+2016-2017 Executive
+General Co\xf6rdinator: Robert Young
+Financial Co\xf6rdinator: Dylan Hunt
+External Co\xf6rdinator: Jesse MacMillan
+Internal & Sustainability Co\xf6rdinator: Brianna Benn
+Social Co\xf6rdinator: Brianna Benn
+Academic Co\xf6rdinator: Darragh Mondoux
+\xa0
+2015-2016 Executive
+President: Aloyse Muller
+Vice-President of Finance: 
+Maya Occhionero Boyd
+Vice-President of External Affairs:\xa0
+Sophie Pineau
+Vice-President of Communications: Darragh Mondoux
+Vice-President of Social Affairs: Haley Currier
+Vice-President of Administration and Academic Affairs: Gus Minter
+\xa0
+2014-2015 Executive
+President: Lana Galbraith
+Vice-President of Administration and Academic Affairs: Koichi Sato
+Vice-President of External Affairs: Aloyse Muller
+Vice-President of Finance: Danya Gilday
+Vice-President of Communications: Katherine Morielli
+Vice-President of Social Affairs: Amanda Siino
+\xa0
+\xa0
+\xa0
+\xa0
+\xa0
+\xa0
+\n\t\t\t\t\t\t\t
+\n\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\n\t\t\t\t\t\t
+\n\t\t\t\t\t
  
-Canadian Messaging – March for Science
-
-
-
-
-
-
-
-
-
-
-
-
-Conferences are intellectual lifelines – but as a single parent I often miss out
-
-
-
-
-April 18, 2017
-
-
-
-
-
-
-Read the full story
-
-
-
-
-
-
-
-
-
-
-
-
-New study suggests female professors outperform men in terms of service
-
-
-
-
-April 12, 2017
-
-
-
-
-
-
-Read the full story
-
-
-
-
-
-
-
-
-
-
-
-
-The Slow Professor movement: reclaiming the intellectual life of the university
-
-
-
-
-March 18, 2017
-
-
-
-
-
-
-Read and hear the full story
-
-
-
-
-
-
-
-
-
-
-
-
-Trump immigration ban ushers in an age of academic darkness – The Globe and Mail
-
-
-
-
-March 08, 2017
-
-
-
-
-
-
-Read the full story
-
-
-
-
-
-
-
-
-
-
-
-
-The problem with annual performance evaluations
-
-
-
-
-February 27, 2017
-
-
-
-
-
-
-Read the full article
-
-
-
-
-
-
-
-
-
-
-
-
-Canadian academics boycott U.S. conferences over Trump ban | Toronto Star
-
-
-
-
-February 03, 2017
-
-
-
-
-
-
-Read the full story
-
-
-
-
-
-
-
-
-
-
-
-
-Stand Against the Ban
-
-
-
-
-January 31, 2017
-
-
-
-
-
-
-Stand Against the Ban
-
-
-
-
-
-
-
-
-More posts »
-
-
-
-
-
-
-
-
-
-
-
-
-CUFA Member Suggestion Box
-
-
-Have a suggestion about negotiations or something else? 
-			
-Please share your input with us!
-
-
-
-
+\n\n\t\t\t\t\t
+\n\n\t      
+\n\t    
  
-November 2017
-
-
-Previous Month
-
-
-Next Month
-
-
-
-
-S
-M
-T
-W
-T
-F
-S
-
-
-
-
-1
-2
-3
-4
-5
+\n\n\n\t\t    
+\n\t\t      
+\n\t\t        \n\t\t          \n\t\t        \n\t\t        
+\xa0
+\n\t\t      
+\n\t\t    
+\n\n\n\t\t  
+\n\t\t
  
-
-
-
-
-
-
-CUFA Council Meeting
-
-
-9:30am - 11:25am / S-MB 9A
-
-
-
-
-
-
-
-				6
-7
-8
-9
- 
-
-
-
-
-
-
-Senate
-
-
-2:00pm - 5:00pm / EV-2.260
-
-
-
-
-
-
-
-				10
-11
-12
- 
-
-
-
-
-
-
-CUFA Executive Meeting
-
-
-12:00pm - 2:00pm / SGW TBD
-
-
-
-
-
-
-
-				13
-14
-15
-16
-17
-18
-19
-20
-21
-22
- 
-
-
-
-
-
-
-CUFA 5 à 7 – November 23, 2017
-
-
-5:00pm - 7:00pm / JMSB Building, 9th Floor Rooms C and D
-
-
-
-
-
-
-
-				23
-24
-25
-26
- 
-
-
-
-
-
-
-CUFA Executive Meeting
-
-
-10:00am - 12:00pm / L-HB109
-
-
-
-
-
-
-
-				27
-28
-29
-30
- 
-
-
-
-
- 
-
-	jQuery(document).ready(function($){
-		$('#calendar-container').on('click', '.cal-nav', function(e) {
-			e.preventDefault();
-			$('#calendar-container').animate({opacity: 0.75}, 300);
-			$.ajax({
-				type : "post",
-				url : "http://cufa.net/wp-admin/admin-ajax.php",
-				data : { action: 'load_mini_calendar', month: $(this).data('month'), year: $(this).data('year') },
-				success: function(response) {
-					$("#calendar-container").html(response).animate({opacity: 1.0}, 200);
-				}
-			});
-		});
-		$('#calendar-container').on({
-			mouseenter: function () {
-				$(this).children('.event-details').show();
-			},
-			mouseleave: function () {
-			    $(this).children('.event-details').hide();
-			}
-		 }, '.an-event .day');
-	});
-	
-
-
-
-
-On Twitter
-
-
-
-
-CUFA/APUC
-@cufa_apuc
-
-
-https://t.co/6nardwZ6Pq
-
-
-Sunday, November 5
-
-
-
-
-CUFA/APUC
-@cufa_apuc
-
-
-In a Volatile Climate on Campus, Professors Teach on Tenterhooks 
-https://t.co/l0q7JJLHst
-
-
-Sunday, November 5
-
-
-
-
-CUFA/APUC
-@cufa_apuc
-
-
-https://t.co/syt4neq01z
-
-
-Wednesday, October 18
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contact Information
-
-
-
-
-General Inquiries
-
-Chantal Bohbot: 514-848-2424 x3999 | 
-<!--
-var a='c.bohbot';
-var b='concordia.ca';
-var fullLink= '<a href="m'+'a'+'ilt'+'o:'+a+'@'+b+'">'+a+'@'+b+'</a>';
-document.write(fullLink);
--->
-
-
-Inquiries about the Collective Agreement
-
-Genevieve Robichaud: 514-848-2424 x3984 | 
-<!--
-var a='genevieve.robichaud';
-var b='concordia.ca';
-var fullLink= '<a href="m'+'a'+'ilt'+'o:'+a+'@'+b+'">'+a+'@'+b+'</a>';
-document.write(fullLink);
--->
-
-
-View the Staff Directory »
-
-
-
-
-
-
-Mailing Address:
-
-Hingston Hall
-
-7141 Sherbrooke Street West
-
-Montreal, H4B 1R6
-
-
-Fax:
- (514) 848-3997
-
-
-
-
-
-
-
-
-
-                    Copyright © 2007-2014 Concordia University Faculty Association.               
-
-
-
-
-Contact the website developer »
-
-
-
-
-
-
-
-
-
-
-
-    jQuery(document).ready(function($) {
-        $(window).load(function() {
-            $('#news.flexslider').flexslider({
-                animation: "fade",
-                animationDuration: 800,
-                slideshowSpeed: 10000,
-                controlNav: false,
-                directionNav: true
-            });
-        });
-    });
-
-
-
-
-
->
+\n\n\t\t
+(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();
+Squarespace.afterBodyLoad(Y);
+\n\n\t\n\n>

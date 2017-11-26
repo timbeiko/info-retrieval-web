@@ -1,0 +1,645 @@
+\n\n\t
+\n\t\n\t
+JMUCC | The John Molson Undergraduate Case Competition
+\n\n\t\n\t\t\t\n\t\t\t\t\t\t
+\n\t\t\n\t
+\n\t
+\n\t
+\n\t
+\n\t
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n\t\tvar disableStr = 'ga-disable-UA-17269447-1';\n\n\t/* Function to detect opted out users */\n\tfunction __gaTrackerIsOptedOut() {\n\t\treturn document.cookie.indexOf(disableStr + '=true') > -1;\n\t}\n\n\t/* Disable tracking if the opt-out cookie exists. */\n\tif ( __gaTrackerIsOptedOut() ) {\n\t\twindow[disableStr] = true;\n\t}\n\n\t/* Opt-out function */\n\tfunction __gaTrackerOptout() {\n\t  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';\n\t  window[disableStr] = true;\n\t}\n\t\t(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n\t\t(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n\t\tm=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n\t})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');\n\n\t__gaTracker('create', 'UA-17269447-1', 'auto');\n\t__gaTracker('set', 'forceSSL', true);\n\t__gaTracker('require', 'displayfeatures');\n\t__gaTracker('require', 'linkid', 'linkid.js');\n\t__gaTracker('send','pageview');\n
+\n
+\n\t\t
+\n\t\t\twindow._wpemojiSettings = {"baseUrl":"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/2.3\\/72x72\\/","ext":".png","svgUrl":"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/2.3\\/svg\\/","svgExt":".svg","source":{"concatemoji":"https:\\/\\/www.jmucc.ca\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=4.9"}};\n\t\t\t!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);\n\t\t
+\n\t\t
+\nimg.wp-smiley,\nimg.emoji {\n\tdisplay: inline !important;\n\tborder: none !important;\n\tbox-shadow: none !important;\n\theight: 1em !important;\n\twidth: 1em !important;\n\tmargin: 0 .07em !important;\n\tvertical-align: -0.1em !important;\n\tbackground: none !important;\n\tpadding: 0 !important;\n}\n
+\n
+\n
+\n
+\n
+\n#rs-demo-id {}\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar LS_Meta = {"v":"6.3.0"};\n/* ]]> */\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"https:\\/\\/www.jmucc.ca","track_download_as":"event","internal_label":"int","hash_tracking":"false"};\n/* ]]> */\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+ \n
+\n
+\n
+\n
+\n
+\n\t\t
+.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
+\n\t\t
+\n
+\n
+function setREVStartSize(e){\n\t\t\t\ttry{ var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;\t\t\t\t\t\n\t\t\t\t\tif(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})\t\t\t\t\t\n\t\t\t\t}catch(d){console.log("Failure at Presize of Slider:"+d)}\n\t\t\t};
+\n
+.vc_custom_1503767328353{padding-top: 10px !important;}
+&lt;style type="text/css"&gt; .wpb_animate_when_almost_visible { opacity: 1; }&lt;/style&gt;
+\n\n\n\n\t\t\t\t\t\t
+\n\t
+\n\t
+\n\t\t
+\n\n\t\n\n\n
+\n    
+\n\n\t\t
+\n\t\t
+\n\t\t    \t\t\t\t
+\n\t\t\t\t\t
+\n                    \t\t\t                \t\t\t\t\t
+\n                        \t\t\t\t\t\t\t\t\t\t\t\t\t
+\n                                
+\n                                    
+                                
+\n                            
+\n\t\t\t\t\t\t\t\t\t\t\t\t
+\n                            \t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n                            \t\t\t\t\t\t
+\n                                                \t\t\t\t\t
+\n                    \t\t\t\t\t                                                \t\t\t\t\t\t\t
+\n                                
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t                                    
+\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                                                                                                                    
+\n                                
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+Home
+\n
+About Us
+\n
+\n\t
+Organizing Committee
+\n\t
+Board of Directors
+\n\t
+Competition 2017
+\n\t
+History of JMUCC
+\n
+\n
+\n
+Get Involved
+\n
+\n\t
+Sponsor JMUCC
+\n\t
+Become a Judge
+\n
+\n
+\n
+Contact Us
+\n
+\t\t\t\t\t\t
+\n\t\t\t\t\t\t                        \t\t\t\t\t\t\t\t\t\t
+\n                        
+Home
+\n
+About Us
+\n
+\n\t
+Organizing Committee
+\n\t
+Board of Directors
+\n\t
+Competition 2017
+\n\t
+History of JMUCC
+\n
+\n
+\n
+Get Involved
+\n
+\n\t
+Sponsor JMUCC
+\n\t
+Become a Judge
+\n
+\n
+\n
+Contact Us
+\n
+\t\t\t\t\t
+\n\t\t\t                    \t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t
+\n\t
+\n\t
+\n\n
+\n\t\t\n\n    \t\t
+\n\t\t\t
+\n\t\t\t\t
+\n\t\t\t
+\n\t\t
+\n\t    \t\n    \n\t\t\n\t\n    \n
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\tvar page_scroll_amount_for_sticky = 650;\n\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t
+\n\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+John Molson Undergraduate Case Competition
+The Largest International Undergraduate Case Competition
+Learn More About JMUCC
+\t\t\t
+\n\t\t\t
+\n\t
+\n\t\t\t\t\t\t\t\t\t\t
+\n\t
+\n\t\t
+\n\t\t\t
+The 2018 Edition of the John Molson Undergraduate Case Competition Begins in:
+\n\n\t\t
+ \n\t
+ 
+\n
+\n\t
+\n\t\t
+\n\t\t\t
+THE LARGEST COMPETITION OF ITS KIND
+\n\n\t\t
+ \n\t
+ 
+\n\n\t
+\n\t\t
+\n\t\t\t
+Each year, the John Molson Undergraduate Case Competition prepares the world\u2019s brightest undergraduate business students to become leaders in a globally interdependent, culturally diverse and rapidly changing economic environment, while fostering strategic thinking, innovative problem-solving and sound decision-making.
+\n\n\t\t
+ \n\t
+ 
+\n\t
+\n\t\t
+\n\t\t\t
+WHAT WE DO
+\n\n\t\t
+ \n\t
+ 
+\n\n\t
+\n\t\t
+\n\t\t\t
+A memorable week-long case competition in the heart of Montreal!
+\n\n\t\t
+ \n\t
+ 
+\n
+LARGEST COMPETITION OF ITS KIND
+Every year, it is 24 renowned business schools that travel to Montreal to compete at JMUCC.
+\n
+CHALLENGING AND DIVERSE CASES
+Three challenging 3-hour case and one unique 24-hour covering various industries and business disciplines.
+\n
+UNIQUE NETWORKING EVENTS
+Beyond the competition, JMUCC is also a series of great social events designed to connect the academic and business world.
+\n
+Learn more about JMUCC
+\n
+\n
+\n
+9
+YEARS
+\n
+\n
+\n
+36
+CASES
+\n
+\n
+864
+COMPETITORS
+\n
+\n
+\n
+1
+STORY
+\n
+\n
+\n\t
+\n\t\t
+\n\t\t\t
+Our 2017 Sponsors
+\n\n\t\t
+ \n\t
+ 
+\n
+\n
+Platinum Sponsors
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n
+\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+Gold Sponsors
+\n
+\n
+\n
+\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n
+\n
+Silver Sponsors
+\n
+\n
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n
+\n
+Bronze Sponsors
+\n
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n
+\n
+Friends of the Competition
+\n
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n
+\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n
+\n\n\t
+\n\t\t
+\n\t\t\t\n\t\t\t
+\n\t\t
+\n\t
+\n
+\n
+\n
+\n\t\t\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t
+\n\t\t\t\t\n\t
+\n
+\n\n\n\n\t
+\n\t\t
+\n\t\t\t\t
+\n            \t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t
+\t\t\t
+\n
+\n\t\t
+\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t
+\t\t\t
+\xa0
+\n
+Email:\xa0
+Info@jmucc.ca
+\nPhone: +1 (514) 848-2424 x5660
+\nFax: +1 (514) 848-7436
+\n
+\n\t\t
+\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+\n\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t\t
+\n                \t\t\t\t\t\t\t\t\t
+\n\t\t\t\t
+Footer
+\t\t\t
+\xa9 Copyright JMUCC 2017\xa0| \xa9 Photo Credits Toshimi Jan Mu\xf1iz
+\n
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t\t\t
+\n\t\t\t\t
+\n\t
+\n\t\t\n
+\n
+\n
+\n/* <![CDATA[ */\nvar QodeAdminAjax = {"ajaxurl":"https:\\/\\/www.jmucc.ca\\/wp-admin\\/admin-ajax.php"};\n/* ]]> */\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar qodeLike = {"ajaxurl":"https:\\/\\/www.jmucc.ca\\/wp-admin\\/admin-ajax.php"};\n/* ]]> */\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};\n/* ]]> */\n
+\n
+\n
+\n
+\n
+\njQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n\n>

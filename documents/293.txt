@@ -1,0 +1,1079 @@
+\n
+\n    
+U Can\u2019t Talk to Ur Professor Like This - The New York Times
+\n        
+\n    
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n    \n            
+\n    
+\n        
+\n    
+\n    
+\n
+\n                
+\n
+\n
+NYTD.Abra.init([["www-story-reader-satisfaction",[[21474837,"Control",1],[21474836,"VariantA",1],[4252017623,null,0]]],["www-signup-favor-test",[[2147483648,"0",1],[2147483648,"1",1]]],["www-fixed-nav-subscribe-test",[[4294967296,"1",1]]],["www-ad-diagnostic",[[21474837,"1",0],[4273492459,null,0]]],["www-fabrik-off",[[4294967296,"1",1]]],["www-auto-newsletter",[[4294967296,"1",1]]],["www-STORY_3bundlePayflow-v3",[[4294967296,"1",1]]],["Liftoff",[[19520627,"0",1],[19520626,"1",1],[19520627,"2",1],[19520626,"3",1],[19520626,"4",1],[19520627,"5",1],[14839112,"0",1],[14839112,"1",1],[14839112,"2",1],[14839112,"3",1],[14839112,"4",1],[14839112,"5",1],[34359738,"8",1],[34359738,"9",1],[34359739,"12",1],[34359738,"13",1],[34359739,"16",1],[34359738,"17",1],[2147483648,"22_us",1],[1735166787,null,0]]],["www-STRIK-nl-regi",[[1434519077,"control",1],[1430224110,"1",1],[1430224109,"2",1],[0,null,0]]],["www-indexAsHeaderBidder",[[4294967296,"2",1]]],["EC_SampleTest",[[2147483648,"variantA",0],[2147483648,"variantB",0]]],["EC_DigiAbandonmentTest",[[4294967296,"sendAbandonmentEmail",1]]],["EC_HdAbandonmentTest",[[4294967296,"sendAbandonmentEmail",1]]],["EC_CrosswordsUpsellTest",[[2147483648,"control",1],[2147483648,"upsell",1]]]], '//et.nytimes.com/')
+\n
+\n\n
+\n(function () {\n  var e;\n  if (/^mobile\\./.test(window.location.hostname) || /^www\\./.test(window.location.hostname)) {\n    var vi = (document.cookie.match(/(?:^|;) *vistory=([^;]*)/) || [])[1] || '';\n    e = /^a/.test(vi) ? 'WP_ProjectVi_story_desktop&variant=sd'\n      : /^b/.test(vi) ? 'WP_ProjectVi_story_desktop&variant=sdh'\n      : /^c/.test(vi) ? 'WP_ProjectVi_story_desktop&variant=nyt5'\n      : /^z/.test(vi) ? 'WP_ProjectVi_story_desktop&variant=nyt5h'\n                      : '';\n  }\n  if (e) {\n    var x = new XMLHttpRequest();\n    x.withCredentials = true;\n    x.open('POST','//et.nytimes.com/');\n    x.send('subject=ab-alloc&test=' + e + '&url=' + encodeURIComponent(window.location.href) + '&instant=1&skipAugment=true\\n');\n  }\n})();\n
+\n                
+\n{"pageconfig":{"ledeMediaSize":"full_bleed","keywords":["On Campus","on-campus","article-long"],"collections":{"columns":["oncampus"],"sections":["opinion","sundayreview","education"]}}}
+\n
+\n            ["INCLUDE_TRANSPARENT_MASTHEAD_WITH_BLACK_ICONS","HIDE_RIBBON","HIDE_TOP_AD","HIDE_NAVIGATION-EDGE","HIDE_KICKER","HIDE_STORY-META_COMMUNITY_BUTTON"]    
+\n\n\t\t\t    
+\n        (function() {\n            var s = document.getElementsByTagName("script")[0];\n            var mediaDotNet = 'https://contextual.media.net/bidexchange.js?cid=8CU2553YN&amp;https=1';\n            var indexBid = 'https://js-sec.indexww.com/ht/p/183760-203795517182556.js';\n            var timeout = 300;\n\n            function loadScript(tagSrc) {\n                if (tagSrc.substr(0, 4) !== 'http') {\n                    var isSSL = 'https:' == document.location.protocol;\n                    tagSrc = (isSSL ? 'https:' : '') + tagSrc;\n                }\n                var scriptTag = document.createElement('script'),\n                    placeTag = document.getElementsByTagName("script")[0];\n                scriptTag.type = 'text/javascript';\n                scriptTag.async = true;\n                scriptTag.src = tagSrc;\n                s.parentNode.insertBefore(scriptTag, s);\n            }\n\n            function loadGPT() {\n                if (!window.advBidxc.isAdServerLoaded) {\n                    loadScript('//www.googletagservices.com/tag/js/gpt.js');\n                    window.advBidxc.isAdServerLoaded = true;\n                }\n            }\n\n            window.advBidxc = window.advBidxc || {};\n            window.advBidxc.renderAd = function () {};\n            window.advBidxc.startTime = new Date().getTime();\n            window.advBidxc.customerId = "8CU2553YN"; //Media.net Customer ID\n            window.advBidxc.timeout = 300;\n            window.advBidxc.loadGPT = setTimeout(loadGPT, window.advBidxc.timeout);\n\n            // append index\n            var a = document.createElement("script");\n            a.type = "text/javascript";\n            a.async = true;\n            a.src = indexBid;\n            s.parentNode.insertBefore(a, s);\n\n            // append media.net\n            var b = document.createElement("script");\n            b.type = "text/javascript";\n            b.async = true;\n            b.src = mediaDotNet;\n            s.parentNode.insertBefore(b, s);\n        })();\n    
+\n\n    
+\n    
+\n        //Load the ApsTag JavaScript Library\n        !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");\n\n        apstag.init({\n            pubID: '3030',\n            adServer: 'googletag'\n        });\n    
+\n\n\n\t
+\n\t
+\n\n
+\n
+["limitFabrikSave","moreFollowSuggestions","unfollowComments","scoopTool","videoVHSCover","videoVHSShareTools","videoVHSLive","videoVHSNewControls","videoVHSEmbeddedOnly","allTheEmphases","freeTrial","dedupeWhatsNext","trendingPageLinks","sprinklePaidPost","headerBidder","standardizeWhatsNextCollection","onlyLayoutA","simple","simpleExtendedByline","collectionsWhatsNext","mobileMediaViewer","podcastInLede","MovieTickets","MoreInSubsectionFix","seriesIssueMarginalia","serverSideCollectionUrls","multipleBylines","fabrikWebsocketsOnly","translationLinks","papihttps","verticalFullBleed","updateRestaurantReservations","mapDining","newsletterInlineModule","PersonalizationApiUpdate","apsTagEnabled","removeInternationalEdition","headlineBalancer","clientSideABRA","newsletterTitleTracking","surveyInterstitial","removeFBMessengerPromo","removeMarginaliaAbTest","paidpostSprinklingFix","abraOverrideVersion","headlineBalancerEverywhere","signupFavor","lazyloadOakImages","mapleFreeTrial","adQuerySupportForMultipleUserAddedKeywords","removeSectionDependentAdLogicForJanuary","oakUpdateAdStride","autoPlaceNewsletter","piiBlockDFP","adExclusiveIERibbonCheck","FlexAdDoubleHeightTracking","didScroll","supportedByAdFullBleed","anchorsHttps","oakBylineMargin","TopFlexAdSiteWide","BundlePayFlow","loadArticleOptimizely","oakStyleTouchups","oakBasicHeader","serveOakOnVI","opinionHeadline","indexAsHeaderBidder","newsletterRegiTest","bookReviewBuyButton","caslOpt","sectionBasedAmp","abraInCustomParams","jkiddScript","blueKai","showNewDealbookLogo"]
+\n
+\nvar require = {\n    baseUrl: 'https://g1.nyt.com/assets/',\n    waitSeconds: 20,\n    paths: {\n        'foundation': 'article/20171121-160808/js/foundation',\n        'shared': 'article/20171121-160808/js/shared',\n        'article': 'article/20171121-160808/js/article',\n        'application': 'article/20171121-160808/js/article/story',\n        'videoFactory': 'https://static01.nyt.com/js2/build/video/2.0/videofactoryrequire',\n        'videoPlaylist': 'https://static01.nyt.com/js2/build/video/players/extended/2.0/appRequire',\n        'auth/mtr': 'https://static01.nyt.com/js/mtr',\n        'auth/growl': 'https://static01.nyt.com/js/auth/growl/default',\n        'vhs': 'https://static01.nyt.com/video/vhs/build/vhs-2.x.min',\n        'vhs3': 'https://static01.nyt.com/video-static/vhs3/vhs.min'\n    },\n    map: {\n        '*': {\n            'story/main': 'article/story/main'\n        }\n    }\n};\n
+\n
+\n
+\n
+\n
+\n    
+\n    require(['foundation/main'], function () {\n        require(['auth/mtr', 'auth/growl']);\n    });\n    
+\n\n\n\n    \n    
+\n    .lt-ie10 .messenger.suggestions {\n        display: block !important;\n        height: 50px;\n    }\n\n    .lt-ie10 .messenger.suggestions .message-bed {\n        background-color: #f8e9d2;\n        border-bottom: 1px solid #ccc;\n    }\n\n    .lt-ie10 .messenger.suggestions .message-container {\n        padding: 11px 18px 11px 30px;\n    }\n\n    .lt-ie10 .messenger.suggestions .action-link {\n        font-family: "nyt-franklin", arial, helvetica, sans-serif;\n        font-size: 10px;\n        font-weight: bold;\n        color: #a81817;\n        text-transform: uppercase;\n    }\n\n    .lt-ie10 .messenger.suggestions .alert-icon {\n        background: url('https://static01.nyt.com/images/icons/icon-alert-12x12-a81817.png') no-repeat;\n        width: 12px;\n        height: 12px;\n        display: inline-block;\n        margin-top: -2px;\n        float: none;\n    }\n\n    .lt-ie10 .masthead,\n    .lt-ie10 .navigation,\n    .lt-ie10 .comments-panel {\n        margin-top: 50px !important;\n    }\n\n    .lt-ie10 .ribbon {\n        margin-top: 97px !important;\n    }\n
+\n
+\n    
+\n        
+\n            
+\n                
+\n                    
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+\n                    
+LEARN MORE \xbb
+\n                
+\n            
+\n        
+\n    
+\n
+\n\n    
+\n    
+\n    
+\n        
+\n            
+Sections
+\n            
+Home
+\n            
+Search
+\n            
+Skip to content
+\n                        
+Skip to navigation
+\n                                    
+View mobile version
+\n                    
+\n        
+\n            
+\n                
+\n                    
+The New York Times
+\n                
+\n            
+\n            
+window.magnum.writeLogo('small', 'https://g1.nyt.com/assets/article/20171121-160808/images/foundation/logos/', 'opinion', 'masthead-theme-transparent', 'standard', 'branding-heading-link', 'article');
+\n                            
+\n                    
+\n                                                    
+Opinion
+\n                                            
+\n                
+\n                    
+\n                
+\n            
+SundayReview
+|
+U Can\u2019t Talk to Ur Professor Like This
+\n        
+\n        
+\n            
+\n
+\n
+\n
+\n            
+\n                
+\n
+\n                
+\n            
+\n        
+\n    
+\n    
+\n    
+Close search
+\n    
+\n    
+Site Search Navigation
+\n    
+\n        
+\n            
+\n                                
+Search NYTimes.com
+\n                            
+\n            
+\n                                
+\n                \n                
+Clear this text input
+\n                
+\n                    
+\n                
+\n                
+Go
+\n            
+\n        
+\n    
+\n
+\n\n\n
+\n    
+\n
+https://nyti.ms/2rci5wH
+\n            \n
+\n(function () {\n    var ribbon;\n    if (window.magnum.getFlags().indexOf('adAggro') !== -1 &&\n        (window.NYTD.Abra('www-story-pro-agro') !== 'control' &&\n        window.NYTD.Abra('www-story-pro-agro') !== null &&\n        window.NYTD.Abra('www-story-pro-agro') !== 'null' &&\n        window.NYTD.Abra('www-story-pro-agro') !== '')) {\n        ribbon = document.querySelector('#ribbon');\n        if (ribbon && ribbon.parentNode) {\n            ribbon.parentNode.removeChild(ribbon);\n        }\n    }\n})();\n
+\n        
+\n    
+Site Navigation
+\n
+\n\n
+\n    
+Site Mobile Navigation
+\n
+\n\n    
+\n                
+\n        
+\n\n    
+\n\n    \n    
+\n                    
+\n    
+Cover Photo
+\n    
+\n        
+\n    
+\n        
+\n                        
+\n            
+Credit
+\n            Erik Carter        
+\n            
+\n        
+\n    
+\n
+\n                                
+\n                                        
+\n                                                                                            
+SundayReview
+\n                                                                                                                                                                    
+\n                                    
+U Can\u2019t Talk to Ur Professor Like This
+\n        
+Formal manners and titles aren\u2019t elitist. They ensure respect for everyone.
+\n                                                    
+\n                
+\n    
+\n        
+            
+\n        
+    
+\n    
+\n                    
+\n                                                            
+\n                            
+                                
+Molly Worthen
+\n                            
+                        
+\n                                                
+\n                
+\n                            
+ON CAMPUS
+\n                        
+MAY 13, 2017
+\n        
+\n    
+\n
+\n                                                \n                                    
+\n                        
+\n
+Continue reading the main story
+\n
+Share This Page
+\n
+\n
+Continue reading the main story
+\n
+\n
+\n                                            
+\n                            
+\n        
+\n    
+\n\n    
+\n        if (\n            window.magnum\n            && window.magnum.getFlags().indexOf('headlineBalancer') > 0\n            && window.magnum.headlineBalancer\n            && window.magnum.headlineBalancer.initialize\n            && window.magnum.headlineBalancer.shouldRun()\n        ) {\n            window.magnum.headlineBalancer.initialize();\n        }\n    
+\n\n        \n    
+\n    
+\n        
+\n\tif (window.magnum && window.magnum.responsiveImages && window.magnum.responsiveImages.setCoverImage) {\n\t\twindow.magnum.responsiveImages.setCoverImage('100000005095621','headline-image-topper',581,600,0,0,0,0,'#FFFFFF');\n\t}\n
+\n
+Chapel Hill, N.C. \u2014 At the start of my teaching career, when I was fresh out of graduate school, I briefly considered trying to pass myself off as a cool professor. Luckily, I soon came to my senses and embraced my true identity as a young fogey.
+After one too many students called me by my first name and sent me email that resembled a drunken late-night Facebook post, I took a very fogeyish step. I began 
+attaching a page
+ on etiquette to every syllabus: basic rules for how to address teachers and write polite, grammatically correct emails.
+Over the past decade or two, college students have become far more casual in their interactions with faculty members. My colleagues around the country grumble about students\u2019 sloppy emails and blithe informality.
+Mark Tomforde, a math professor at the University of Houston who has been teaching for almost two decades, added etiquette 
+guidelines
+ to his website. \u201cWhen students started calling me by my first name, I felt that was too far, and I\u2019ve got to say something,\u201d he told me. \u201cThere were also the emails written like text messages. Worse than the text abbreviations was the level of informality, with no address or signoff.\u201d
+\n    
+\n    
+Advertisement
+\n
+\n
+Continue reading the main story
+\n
+\n
+His webpage covers matters ranging from appropriate email addresses (if you\u2019re still using \u201ccutie_pie_98@hotmail.com,\u201d then \u201cit\u2019s time to retire that address\u201d) to how to be gracious when making a request (\u201cdo not make demands\u201d).
+        
+Continue reading the main story
+\n    
+\n    
+\n    
+\n
+\n
+\n    
+\n    
+\n    
+Advertisement
+\n
+\n
+Continue reading the main story
+\n    
+\n
+\n
+\n
+\n    
+\n        
+\n\tif (window.magnum && window.magnum.responsiveImages && window.magnum.responsiveImages.setCoverImage) {\n\t\twindow.magnum.responsiveImages.setCoverImage('100000005095621','headline-image-topper',581,600,0,0,0,0,'#FFFFFF');\n\t}\n
+\n
+Sociologists who 
+surveyed
+ undergraduate syllabuses from 2004 and 2010 found that in 2004, 14 percent addressed issues related to classroom etiquette; six years later, that number had more than doubled, to 33 percent. This phenomenon crosses socio-economic lines. My colleagues at Stanford gripe as much as the ones who teach at state schools, and students from more privileged backgrounds are often the worst offenders.
+Why are so many teachers bent out of shape because a student fails to call them \u201cProfessor\u201d or neglects to proofread an email? Are academics really that insecure? Is this just another case of scapegoating millennials for changes in the broader culture?
+Don\u2019t dismiss these calls for old-fashioned courtesy as a case of fragile ivory tower egos or misplaced nostalgia. There is a strong liberal case for using formal manners and titles to ensure respect for all university professionals, regardless of age, race or gender. More important, doing so helps defend the university\u2019s dearest values at a time when they are under continual assault.
+It\u2019s true that the conventions that have, until recently, ruled higher education did not rule from time immemorial. Two centuries ago, students often rejected expectations of deference. In 1834, Harvard students rebelled when some of their classmates were punished for refusing to memorize their Latin textbook. They 
+broke
+ the windows of a teacher\u2019s apartment and destroyed his furniture. When the president of the college cracked down and suspended the entire sophomore class, the juniors retaliated by hanging and burning him in effigy and setting off a rudimentary explosive in the campus chapel.
+Later in the 19th century, etiquette manuals proliferated in bookstores, and Americans began to emphasize elaborate social protocols. As colleges expanded and academic disciplines professionalized, they mimicked the hierarchical cultures of the German research universities, where students cowered before \u201cHerr Professor Doktor.\u201d
+The historian John Kasson has noted that back then, formal etiquette was not aimed at ensuring respect for all. It was, in part, a system to enforce boundaries of race, class and gender at a time when the growth of cities and mass transit forced Americans into close quarters with strangers. Codes of behavior served \u201cas checks against a fully democratic order and in support of special interests, institutions of privilege and structures of domination,\u201d he 
+writes
+ in his book \u201cRudeness and Civility
+.
+\u201d
+\n    
+Photo
+\n    
+\n            
+\n            
+\n            
+\n    
+\n        
+\n                        
+\n            
+Credit
+\n            Erik Carter        
+\n            
+\n    
+\n
+But today, on the other side of the civil rights revolution, formal titles and etiquette can be tools to protect disempowered minorities and ensure that the modern university belongs to all of us. Students seem more inclined to use casual forms of address with professors who are young, nonwhite and female \u2014 some of whom have responded by becoming vocal defenders of old-fashioned propriety.
+\n    
+\n    
+Advertisement
+\n
+\n
+Continue reading the main story
+\n
+\n
+Angela Jackson-Brown, a professor of English at Ball State University in Muncie, Ind., told me that \u201cmost of my students will acknowledge that I\u2019m the first and only black teacher they\u2019ve ever had.\u201d Insisting on her formal title is important, she said: \u201cI feel the extra burden of having to go in from Day 1 and establish that I belong here.\u201d
+When Professor Jackson-Brown began teaching in the 1990s, most students respected her authority. But in recent years, that deference has waned (she blames the informality of social media). \u201cI go out of my way now to not give them access to my first name,\u201d she said. \u201cOn every syllabus, it states clearly: \u2018Please address me as Professor Jackson-Brown.\u2019 \u201d
+She linked this policy to the atmosphere of mutual respect that she cultivates in her classes. These days, simply being considerate can feel like a political act. \u201cAfter this recent election, I\u2019ve had several female students come to me and say, \u2018I\u2019m noticing differences in how men are treating me.\u2019 It\u2019s heartbreaking,\u201d she said. \u201cWe\u2019re trying to set standards for them that they may not see outside the classroom, places where you\u2019d think there would be decorum.\u201d
+This logic resonates with some students. \u201cHaving these titles forces everyone to give that respect,\u201d Lyndah Lovell, a graduating senior at the College of William & Mary in Williamsburg, Va., said. \u201cThey know they have to use these manners with everyone. Even if the underlying thoughts of prejudice will still be there to some extent, you give these thoughts less power.\u201d
+Insisting on traditional etiquette is also simply good pedagogy. It\u2019s a teacher\u2019s job to correct sloppy prose, whether in an essay or an email. And I suspect that most of the time, students who call faculty members by their first names and send slangy messages are not seeking a more casual rapport. They just don\u2019t know they should do otherwise \u2014 no one has bothered to explain it to them. Explaining the rules of professional interaction is not an act of condescension; it\u2019s the first step in treating students like adults.
+\n    
+Newsletter Sign Up
+\n    
+Continue reading the main story
+\n        
+[{"headline":"Opinion Today","summary":"Every weekday, get thought-provoking commentary from Op-Ed columnists, The Times editorial board and contributing writers from around the world.","product-code":"TY","product-title":"Opinion Today","sample-url":"http:\\/\\/www.nytimes.com\\/newsletters\\/sample\\/opinion-today?pgtype=subscriptionspage&version=new&contentId=TY&eventName=sample&module=newsletter-sign-up"},{"headline":"The Upshot","summary":"Get the best of The Upshot\\u2019s news, analysis and graphics about politics, policy and everyday life.","product-code":"UP","product-title":"The Upshot","sample-url":"http:\\/\\/www.nytimes.com\\/newsletters\\/sample\\/upshot?pgtype=subscriptionspage&version=new&contentId=UP&eventName=sample&module=newsletter-sign-up"},{"headline":"Morning Briefing","summary":"Get what you need to know to start your day in the United States, Canada and the Americas, delivered to your inbox.","product-code":"NN","product-title":"Morning Briefing","sample-url":"http:\\/\\/www.nytimes.com\\/newsletters\\/sample\\/morning-briefing?pgtype=subscriptionspage&version=new&contentId=NN&eventName=sample&module=newsletter-sign-up"}]
+\n        
+    
+    
+\n        
+\n            
+\n                
+Please verify you're not a robot by clicking the box.
+\n                
+Invalid email address. Please re-enter.
+\n                
+You must select a newsletter to subscribe to.
+\n            
+\n            
+\n                
+\n                
+Sign Up
+\n            
+\n        
+\n        
+\n            
+\n                
+\n            
+\n            
+\n                
+You agree to receive occasional updates and special offers for The New York Times's products and services.
+\n            
+\n        
+\n        
+\n    
+\n    
+\n        
+Thank you for subscribing.
+\n        
+An error has occurred. Please try again later.
+\n        
+You are already subscribed to this email.
+\n        
+View all New York Times newsletters.
+\n    
+\n    
+\n                
+See Sample
+\n                
+Manage Email Preferences
+\n        
+Not you?
+\n        
+Privacy Policy
+\n        
+Opt out or 
+contact us
+ anytime
+\n    
+\n    
+\n
+\n
+\n
+That said, the teacher-student relationship depends on a special kind of inequality. \u201cOnce I refer to them as I would my best friend, I eliminate that boundary of clarity,\u201d Ms. Lovell told me. She recalled how awkward she felt when the head of the research lab where she worked asked undergraduates to call him Willy. \u201cAll my friends were saying: \u2018Oh, man, do we do this? He has a Ph.D. He\u2019s a professor. Is it O.K. to do this?\u2019 Sometimes I do, but he\u2019s a great mentor, and it\u2019s confusing. A lot of us like to preserve that distance.\u201d
+Alexis Delgado, a sophomore at the University of Rochester, is skeptical of professors who make a point of insisting on their title. \u201cI always think it\u2019s a power move,\u201d she told me. \u201cJust because someone gave you a piece of paper that says you\u2019re smart doesn\u2019t mean you can communicate those ideas to me. I reserve the right to judge if you\u2019re a good professor.\u201d
+But she ruefully recalled one young professor who made the mistake of telling the class that he didn\u2019t care if they used his first name. \u201cHe didn\u2019t realize how far it would go, and we all thought, this is awkward,\u201d she said. \u201cI had no desire to be friends. I only wanted to ask questions.\u201d
+During office hours, we have frank conversations about career choices, mental health crises and family tribulations. But the last thing most students want from a mentor is the pretense of chumminess.
+\n    
+\n    
+Advertisement
+\n
+\n
+Continue reading the main story
+\n
+\n
+Ms. Lovell said the very act of communicating more formally helps her get some distance on a personal problem. \u201cWhen I explain my difficulties and struggles, I try to explain in a mature way,\u201d she said. \u201cI want to know: How would someone older than me think through this?\u201d
+The facile egalitarianism of the first-name basis can impede good teaching and mentoring, but it also presents a more insidious threat. It undermines the message that academic titles are meant to convey: esteem for learning. The central endeavor of higher education is not the pursuit of money or fame but knowledge. \u201cThere needs to be some understanding that degrees mean something,\u201d Professor Jackson-Brown said. \u201cOtherwise, why are we encouraging them to get an education?\u201d
+The values of higher education are not the values of the commercial, capitalist paradigm. At a time when corporate executives populate university boards and politicians demand proof of a diploma\u2019s immediate cash value, this distinction needs vigilant defense.
+The erosion of etiquette encourages students to view faculty members as a bunch of overeducated customer service agents. \u201cMore and more, students view the process of going to college as a business transaction,\u201d Dr. Tomforde, the math professor, told me. \u201cThey see themselves as a customer, and they view knowledge as a physical thing where they pay money and I hand them the knowledge \u2014 so if they don\u2019t do well on a test, they think I haven\u2019t kept up my side of the business agreement.\u201d He added, \u201cThey view professors in a way similar to the person behind the counter getting their coffee.\u201d
+But if American culture in general \u2014 including many workplaces \u2014 has become less formal, are professors doing students a disservice by insisting on old-fashioned manners?
+When Anna Lewis left a Ph.D. program in English to work at a technology firm, she had to learn to operate in a different culture. Yet she has noticed that the informality of the tech industry can mislead new millennial employees.
+\u201cThey see they can call everyone from the C.E.O. down by their first name, and that can be confusing \u2014 because what they often don\u2019t realize is that there\u2019s still a high standard of professionalism,\u201d she told me. \u201cAt the intern level, these things are basic, but they require reminders: show up to meetings on time; be aware that you, yourself, are fully responsible for your work schedule. No one is going to tell you to attend a meeting.\u201d In other words, young graduates mistake informality for license to act unprofessionally.
+\u201cThere is some value in being schooled in more formal etiquette, developing personal and professional accountability, a work ethic and a level of empathy, which is very much valued in the tech industry,\u201d Ms. Lewis said.
+\n    
+\n    
+Advertisement
+\n
+\n
+Continue reading the main story
+\n
+\n
+Here\u2019s an analogy: We should teach students traditional etiquette for the same reason most great abstract painters first mastered figurative painting. In order to abandon or riff on a form, you have to get the hang of its underlying principles.
+\n
+\n
+That means that professors should take the time to explain these principles, making it clear that learning how to write a professional email and relate to authority figures is not just preparation for a job after graduation. The real point is to stand up for the values that have made our universities the guardians of civilization.
+And if you\u2019re going to write an angry email telling me how wrong I am, I beg you: Please proofread it before you hit \u201csend.\u201d
+\n    
+\n                
+Molly Worthen
+ is the author of \u201cApostles of Reason: The Crisis of Authority in American Evangelicalism,\u201d an assistant professor of history at the University of North Carolina, Chapel Hill, and a contributing opinion writer.
+\n        
+I invite you to join me on Twitter (
+@MollyWorthen
+). Follow The New York Times Opinion section on 
+Facebook
+ and 
+Twitter (@NYTopinion)
+, and sign up for the 
+Opinion Today newsletter
+.
+\n\n        \n        
+A version of this op-ed appears in print on May 14, 2017, on Page SR1 of the 
+New York edition
+ with the headline: U Can\u2019t Talk to Ur Professor Like This. 
+  
+Today's Paper
+|
+Subscribe
+\n
+\n
+\n\n    
+\n    
+\n        
+Continue reading the main story
+\n    
+\n    
+\n    
+\n
+\n\n    \n    
+\n
+\n    
+We\u2019re interested in your feedback on this page. 
+Tell us what you think.
+\n
+\n
+\n\n    
+\n        
+\n    
+\n    
+\n    
+\n        
+\n        
+\n        
+\n        
+\n    
+\n
+\n
+\n
+\n    
+\n
+\n
+\n
+\n    
+\n
+\n
+\n
+\n    
+\n
+\n
+\n
+\n    
+\n    
+\n                
+\n                        
+\n                
+\n            
+\n                        
+\n                
+\n                    
+On Campus
+\n                    
+Dispatches from college students, professors and administrators on higher education and university life. You can reach the editors at oncampus@nytimes.com.
+\n                
+\n            
+\n            
+\n        
+\n        
+\n                        
+\n    
+\n        
+\n            
+\n                                The Catch-22 of Applying for Private Scholarships            
+\n            
+NOV 7
+\n        
+\n    
+\n
+\n
+\n                        
+\n    
+\n        
+\n            
+\n                                Competition Is Ruining Childhood. The Kids Should Fight Back.            
+\n            
+NOV 6
+\n        
+\n    
+\n
+\n
+\n                        
+\n    
+\n        
+\n            
+\n                                Let\u2019s Waste College on the Old            
+\n            
+OCT 31
+\n        
+\n    
+\n
+\n
+\n                        
+\n    
+\n        
+\n            
+\n                                Your College Ghost Stories            
+\n            
+OCT 31
+\n        
+\n    
+\n
+\n
+\n                        
+\n    
+\n        
+\n            
+\n                                The Misguided Student Crusade Against \u2018Fascism\u2019            
+\n            
+OCT 23
+\n        
+\n    
+\n
+\n
+\n                    
+\n        
+\n            
+See More \xbb
+\n        
+\n    
+\n
+\n
+\n    
+\n\n
+\n
+\n    
+What's Next
+\n    
+\n        
+\n            
+Loading...
+\n        
+\n    
+\n
+\n
+\n
+\n       
+    
+ 
+\n
+\n\n\n                    
+\n            
+\n            
+\n    
+\n        
+Go to Home Page \xbb
+\n        
+\n            
+Site Index
+\n            
+\n                
+The New York Times
+\n            
+\n        
+\n        
+window.magnum.writeLogo('small', 'https://g1.nyt.com/assets/article/20171121-160808/images/foundation/logos/', '', '', 'standard', 'site-index-branding-link', '');
+\n    
+\n\n    
+\n        
+Site Index Navigation
+\n        
+\n\n                                                        \n                    
+\n                        
+News
+\n                        
+\n\n                                                                                                                                                                                    \n                                    
+\n                                        
+World
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+U.S.
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Politics
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+N.Y.
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Business
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Tech
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Science
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Health
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Sports
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Education
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Obituaries
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Today's Paper
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Corrections
+\n                                    
+\n\n                                                            \n                        
+\n                    
+\n\n                                            \n                    
+\n                        
+Opinion
+\n                        
+\n\n                                                            \n                                    
+\n                                        
+Today's Opinion
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Op-Ed Columnists
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Editorials
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Op-Ed Contributors
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Letters
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Sunday Review
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Video: Opinion
+\n                                    
+\n\n                                                            \n                        
+\n                    
+\n\n                                            \n                    
+\n                        
+Arts
+\n                        
+\n\n                                                            \n                                    
+\n                                        
+Today's Arts
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Art & Design
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Books
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Dance
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Movies
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Music
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+N.Y.C. Events Guide
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Television
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Theater
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Video: Arts
+\n                                    
+\n\n                                                            \n                        
+\n                    
+\n\n                                            \n                    
+\n                        
+Living
+\n                        
+\n\n                                                            \n                                    
+\n                                        
+Automobiles
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Crossword
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Food
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Education
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Fashion & Style
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Health
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Jobs
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Magazine
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+N.Y.C. Events Guide
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Real Estate
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+T Magazine
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Travel
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Weddings & Celebrations
+\n                                    
+\n\n                                                            \n                        
+\n                    
+\n\n                                            \n                    
+\n                        
+Listings & More
+\n                        
+\n\n                                                            \n                                    
+\n                                        
+Reader Center
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Classifieds
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Tools & Services
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+N.Y.C. Events Guide
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Multimedia
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Photography
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Video
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+NYT Store
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Times Journeys
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Subscribe
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+Manage My Account
+\n                                    
+\n\n                                                                                            \n                                    
+\n                                        
+NYTCo
+\n                                    
+\n\n                                                            \n                        
+\n                    
+\n\n                            \n            
+\n                \n
+Subscribe
+\n\n
+\n    
+Subscribe
+\n    
+\n        
+\n                    
+Home Delivery
+\n            
+\n    
+\n        
+\n                    
+Digital Subscriptions
+\n            
+\n    
+\n        
+\n        
+Crossword
+\n    
+\n
+\n\n
+\n\n    
+\n        
+Email Newsletters
+\n    
+\n    
+\n        
+Alerts
+\n    
+\n    
+\n                    
+Gift Subscriptions
+\n            
+\n    
+\n                    
+Corporate Subscriptions
+\n            
+\n    
+\n                    
+Education Rate
+\n            
+\n\n
+\n
+\n    
+\n        
+Mobile Applications
+\n    
+\n    
+\n                    
+Replica Edition
+\n            
+\n    \n
+\n\n            
+\n\n        
+\n\n    
+\n\n
+\n\n            
+\n    
+\n        
+Site Information Navigation
+\n         
+\n             
+\n                
+\n                    \xa9 
+2017
+ The New York Times Company
+\n                
+\n            
+\n            
+Home
+\n            
+Search
+\n            
+Accessibility concerns? Email us at 
+accessibility@nytimes.com
+. We would love to hear from you.
+\n            
+Contact Us
+\n            
+Work With Us
+\n            
+Advertise
+\n            
+Your Ad Choices
+\n            
+Privacy
+\n            
+Terms of Service
+\n            
+Terms of Sale
+\n         
+\n    
+\n    
+\n        
+Site Information Navigation
+\n        
+\n            
+Site Map
+\n            
+Help
+\n            
+Site Feedback
+\n            
+Subscriptions
+\n        
+\n    
+\n
+\n        
+\n    
+\n        
+\n            
+\n    
+\nrequire(['foundation/main'], function () {\n    require(['story/main']);\n\n\n         \n\n    require(['jquery/nyt', 'foundation/views/page-manager'], function ($, pageManager) {\n        if (window.location.search.indexOf('disable_tagx') > 0) {\n            return;\n        }\n        $(document).ready(function () {\n            require(['https://a1.nyt.com/analytics/json-kidd.min.js'], function () {\n                pageManager.trackingFireEventQueue();\n            });\n        });\n    });\n});\n
+\n
+\n\n    
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n\n\n>

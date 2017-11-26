@@ -1,0 +1,941 @@
+\n
+\n    
+\n    
+Laurentides | La Fabrique culturelle
+\n\n    
+\n    
+\n    \n    
+\n    
+\n\n    \n    \n    \n
+\n
+\n
+\n
+\n
+\n
+\n\n\n    
+\n\n
+\n
+\n
+\n
+\n
+\n
+\n\n
+\n
+\n    \n    
+\n\n\n
+\n
+\n
+try{Typekit.load();}catch(e){}
+\n\n    
+\n\tvar _comscore = _comscore || [];\n\t_comscore.push({ c1: "2", c2: "6035744", c3: "", c4: "" });\n\n\t(function() {\n\t\tvar s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;\n\t\ts.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";\n\t\tel.parentNode.insertBefore(s, el);\n\t})();\n
+\n    \n
+\n    (function (i, s, o, g, r, a, m) {\n        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {\n            (i[r].q = i[r].q || []).push(arguments)\n        }, i[r].l = 1 * new Date(); a = s.createElement(o),\n        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)\n    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');\n    ga('create', 'UA-48304425-1', 'auto');\n    ga('send', 'pageview');\n
+\n    \n    \n    
+\n    
+\n        {\n        "@context": "http://schema.org",\n        "@type": "WebSite",\n        "name": "La Fabrique culturelle",\n        "alternateName": "La culture a une nouvelle adresse",\n        "url": "http://www.lafabriqueculturelle.tv/"\n        }\n    
+\n    
+\n        {\n        "@context": "http://schema.org",\n        "@type": "Organization",\n        "url": "http://www.lafabriqueculturelle.tv/",\n        "logo": "http://www.lafabriqueculturelle.tv/content/images/logo_w240_h135.jpg"\n        }\n    
+\n    
+\n    
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\n        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n        })(window,document,'script','dataLayer','GTM-TW5S3XJ');
+\n    
+\n\n    \n    
+\n    
+&lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW5S3XJ"\n                      height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;
+\n    
+\n\n    \n\n\n
+\n    
+\n        
+La Fabrique Culturelle
+\n        
+\n            
+\n                
+La Fabrique culturelle
+\n                
+R\xe9pertoires
+\n                
+\n                    
+Th\xe8mes
+\n                    
+\n                        
+\n                                
+Arts\xa0visuels\xa0&\xa0num\xe9riques
+\n                                
+Cin\xe9ma
+\n                                
+Court\xa0m\xe9trage
+\n                                
+Danse
+\n                                
+Design
+\n                                
+Litt\xe9rature
+\n                                
+Multi
+\n                                
+Musique
+\n                                
+Soci\xe9t\xe9\xa0&\xa0mus\xe9es
+\n                                
+Th\xe9\xe2tre\xa0&\xa0sc\xe8ne
+\n                        
+\n                    
+\n                
+\n                
+\n                    
+R\xe9gions
+\n                    
+\n                        
+\n                                
+Abitibi-T\xe9miscamingue
+\n                                
+Bas-Saint-Laurent
+\n                                
+Capitale-Nationale
+\n                                
+Centre-du-Qu\xe9bec
+\n                                
+Chaudi\xe8re-Appalaches
+\n                                
+C\xf4te-Nord
+\n                                
+Estrie
+\n                                
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                                
+International
+\n                        
+\n                        
+\n                                
+Lanaudi\xe8re
+\n                                
+Laurentides
+\n                                
+Laval
+\n                                
+Mauricie
+\n                                
+Mont\xe9r\xe9gie
+\n                                
+Montr\xe9al
+\n                                
+Nord-du-Qu\xe9bec
+\n                                
+Outaouais
+\n                                
+Saguenay\u2013Lac-Saint-Jean
+\n                        
+\n                    
+\n                
+\n            
+\n        
+\n        
+\n            
+\n                    
+\n                        
+\n                        
+\n                    
+\n            
+\n            
+\n\n                
+\xa0Se\xa0connecter
+\n        
+\n    
+\n
+\n\n
+\n
+\n    
+\n    
+La Fabrique culturelle
+\n
+\n\n
+\n    
+\n        
+\n            
+\n                
+R\xe9pertoires
+\n            
+\n            
+\n                
+Th\xe8mes
+\n                
+\n                        
+Arts visuels & num\xe9riques
+\n                        
+Cin\xe9ma
+\n                        
+Court m\xe9trage
+\n                        
+Danse
+\n                        
+Design
+\n                        
+Litt\xe9rature
+\n                        
+Multi
+\n                        
+Musique
+\n                        
+Soci\xe9t\xe9 & mus\xe9es
+\n                        
+Th\xe9\xe2tre & sc\xe8ne
+\n                
+\n            
+\n            
+\n                
+R\xe9gions
+\n                
+\n                        
+Abitibi-T\xe9miscamingue
+\n                        
+Bas-Saint-Laurent
+\n                        
+Capitale-Nationale
+\n                        
+Centre-du-Qu\xe9bec
+\n                        
+Chaudi\xe8re-Appalaches
+\n                        
+C\xf4te-Nord
+\n                        
+Estrie
+\n                        
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                        
+International
+\n                        
+Lanaudi\xe8re
+\n                        
+Laurentides
+\n                        
+Laval
+\n                        
+Mauricie
+\n                        
+Mont\xe9r\xe9gie
+\n                        
+Montr\xe9al
+\n                        
+Nord-du-Qu\xe9bec
+\n                        
+Outaouais
+\n                        
+Saguenay\u2013Lac-Saint-Jean
+\n                
+\n            
+\n        
+\n        
+\n            
+\n            
+\n        
+\n            
+\n                
+ Se connecter
+\n            
+\n    
+\n
+\n    \n\n\n\n\n\n\n\n\n\n\n
+\n    
+\n        
+Laurentides
+\n    
+\n
+\n\n\n\n\n\n\n
+\n    
+\n        
+\n\n                
+Trier\xa0par\xa0:
+\n                
+\n                        
+\n        
+Par classement
+\n            
+Par classement
+\n            
+Les plus r\xe9centes
+\n    
+\n\n                
+\n\n\n            \n                    
+Filtrer\xa0par\xa0:
+\n                
+\n                        
+\n        
+Tous les th\xe8mes
+\n        
+Tous les th\xe8mes
+\n            
+Arts visuels & num\xe9riques
+\n            
+Cin\xe9ma
+\n            
+Court m\xe9trage
+\n            
+Danse
+\n            
+Design
+\n            
+Litt\xe9rature
+\n            
+Multi
+\n            
+Musique
+\n            
+Soci\xe9t\xe9 & mus\xe9es
+\n            
+Th\xe9\xe2tre & sc\xe8ne
+\n    
+\n\n                
+\n\n\n\n\n        
+\n    
+\n
+\n\n\n\n\n    
+\n        
+\n            
+La Fabrique culturelle
+\n        
+\n    
+\n    
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Laurentides
+\n                
+Sylvie Tisserand   | La tisserande de broche
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Laurentides
+\n                
+Dans la bulle cr\xe9ative de Michel Robichaud | Laur\xe9at des Grands prix de la culture des Laurentides
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Laurentides
+\n                
+Les oiseaux magn\xe9tiques de Richard Purdy
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Laurentides
+\n                
+R\xe9my Caset, de la ville \xe0 la Minerve
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Laurentides
+\n                
+Ren\xe9 Derouin et le Mur des rapaces
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n                
+\n                    \n                    
+\n                
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Laurentides
+\n                
+Alexandre Da Costa au Festival International Hautes-Laurentides
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Laurentides
+\n                
+\xab Se peindre le visage \xbb par Claudelle | Les Sessions #LaFab
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Laurentides
+\n                
+Val\xe9rie Levasseur : l\u2019identit\xe9 des objets
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Laurentides
+\n                
+Concours Jeunes artistes des Laurentides | Les laur\xe9ates au mus\xe9e
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Litt\xe9rature
+\n            
+\n            
+\n                
+Laurentides
+\n                
+Jacques Falquet | Cro\xeetre par le conte
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Laurentides
+\n                
+\xab Les attrapes \xbb de Babins | Les Sessions #LaFab
+\n                    
+Par 
+La Fabrique culturelle
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            \n\n
+Afficher plus
+\n        
+\n    
+\n\n\n\n\n    
+\n        
+\n            
+Les partenaires 
+\n        
+\n    
+\n    
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Litt\xe9rature
+\n            
+\n            
+\n                
+Laurentides
+\n                
+Le libraire engag\xe9 | Librairie Ste-Th\xe9r\xe8se
+\n                    
+Par 
+Les Libraires
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Soci\xe9t\xe9 & mus\xe9es
+\n            
+\n            
+\n                
+Laurentides
+\n                
+\xab Mon p\xe8re avait une dent contre les m\xe9decins \xbb, Alain Vadebonc\u0153ur
+\n                    
+Par 
+Canal Savoir
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Laurentides
+\n                
+Thierry Marceau, artiste invit\xe9 | Intercoll\xe9gial d'arts visuels 16-17
+\n                    
+Par 
+RIASQ
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Design
+\n            
+\n            
+\n                
+Laurentides
+\n                
+Habiter la nature (la suite) | L'Atelier Pierre Thibault
+\n                    
+Par 
+On est 10
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Laurentides
+\n                
+Une journ\xe9e \xe0 CAMMAC
+\n                    
+Par 
+Conseil qu\xe9b\xe9cois de la musique
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Design
+\n            
+\n            
+\n                
+Laurentides
+\n                
+Habiter la nature | L'Atelier Pierre Thibault
+\n                    
+Par 
+On est 10
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Laurentides
+\n                
+Max & Marine, laur\xe9ats du prix Cr\xe9ation | C\xe9geps en spectacle
+\n                    
+Par 
+RIASQ
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Laurentides
+\n                
+L\u2019Accro du mois de mai : M\xe9lanie Barney
+\n                    
+Par 
+Conseil qu\xe9b\xe9cois de la musique
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Litt\xe9rature
+\n            
+\n            
+\n                
+Laurentides
+\n                
+J\xe9r\xe9my Laniel : libraire de la rel\xe8ve
+\n                    
+Par 
+Les Libraires
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Musique
+\n            
+\n            
+\n                
+Laurentides
+\n                
+Apollon, Centre coll\xe9gial de Mont-Tremblant | C\xe9geps en spectacle
+\n                    
+Par 
+RIASQ
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            \n\n
+Afficher plus
+\n        
+\n    
+\n\n\n    
+\n        
+\n            
+La communaut\xe9
+\n        
+\n    
+\n    
+\n            
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Multi
+\n            
+\n            
+\n                
+Laurentides
+\n                
+L'\xe9volution des travaux du Th\xe9\xe2tre Gilles-Vigneault : l'humour
+\n                    
+Par 
+Th\xe9\xe2tre Gilles-Vigneault
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Arts visuels & num\xe9riques
+\n            
+\n            
+\n                
+Laurentides
+\n                
+Faire impression au rouleau compresseur
+\n                    
+Par 
+Nicole Deschamps
+\n            
+\n        
+\n    
+\n    
+\n        
+\n            
+\n                \n                
+\n                
+\n                
+Th\xe9\xe2tre & sc\xe8ne
+\n            
+\n            
+\n                
+Laurentides
+\n                
+L'\xe9volution des travaux du Th\xe9\xe2tre Gilles-Vigneault : le th\xe9\xe2tre
+\n                    
+Par 
+Th\xe9\xe2tre Gilles-Vigneault
+\n            
+\n        
+\n    
+\n\n    
+\n    
+\n        
+\n            \n\n
+Afficher plus
+\n        
+\n    
+\n\n\n\n\n\n\n\n\n\n\n
+\n\n\n    
+\n    
+\n        
+\n            
+Recevez notre infolettre
+\n            \n            
+S'abonner 
+\n        
+\n        
+\n            
+Suivez-nous sur les r\xe9seaux sociaux
+\n            \n            
+\n                
+\n                
+\n                
+\n                
+\n                
+\n            
+\n        
+\n    
+\n
+\n
+\n    
+\n        
+\n            
+R\xe9pertoires
+\n            
+\n                
+La Fabrique culturelle
+\n                
+Nos partenaires
+\n                
+La communaut\xe9
+\n            
+\n        
+\n        
+\n            
+R\xe9gions
+\n            
+\n                    
+Abitibi-T\xe9miscamingue
+\n                    
+Bas-Saint-Laurent
+\n                    
+Capitale-Nationale
+\n                    
+Centre-du-Qu\xe9bec
+\n                    
+Chaudi\xe8re-Appalaches
+\n                    
+C\xf4te-Nord
+\n                    
+Estrie
+\n                    
+Gasp\xe9sie-\xceles-de-la-Madeleine
+\n                    
+International
+\n                    
+Lanaudi\xe8re
+\n                    
+Laurentides
+\n                    
+Laval
+\n                    
+Mauricie
+\n                    
+Mont\xe9r\xe9gie
+\n                    
+Montr\xe9al
+\n                    
+Nord-du-Qu\xe9bec
+\n                    
+Outaouais
+\n                    
+Saguenay\u2013Lac-Saint-Jean
+\n            
+\n        
+\n        
+\n            
+Th\xe8mes
+\n            
+\n                    
+Arts visuels & num\xe9riques
+\n                    
+Cin\xe9ma
+\n                    
+Court m\xe9trage
+\n                    
+Danse
+\n                    
+Design
+\n                    
+Litt\xe9rature
+\n                    
+Multi
+\n                    
+Musique
+\n                    
+Soci\xe9t\xe9 & mus\xe9es
+\n                    
+Th\xe9\xe2tre & sc\xe8ne
+\n            
+\n        
+\n        
+\n            
+Plan du site
+\n            
+\n                \n                
+Webs\xe9ries
+\n                
+Billets
+\n                
+Dossiers
+\n                
+Nos partenaires
+\n                
+\xc0 propos
+\n                
+Foire aux questions
+\n                
+Nous joindre
+\n                
+S'abonner \xe0 l'infolettre 
+\n                
+Fils RSS
+\n            
+\n        
+\n        
+\n            
+Une production de 
+\n        
+\n    
+\n    
+\n        
+\n            
+\xa9 T\xe9l\xe9-Qu\xe9bec \u2014 laFabriqueCulturelle.tv
+\n            
+\n                \n                
+Avis Juridiques
+\n            
+\n        
+\n    
+\n
+\n    \n        
+\n            $(document).ready(function () {\n                LAFABRIQUE.Capsules.init();\n            });\n        
+\n    \n\n    
+\n    
+\n        var options = [];\n        var pub_manager = new Tq.Pub.Manager(options);\n    
+\n    \n\n>

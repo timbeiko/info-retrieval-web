@@ -1,0 +1,285 @@
+\n\n\n
+\n
+\n
+\n
+\n\n
+ASHRAE Concordia \u2013 Student Branch \u2013 American Society of Heating, Refrigerating and Air-Conditioning Engineers \u2013 Concordia Student Branch
+\n
+\n
+\n
+\n
+\n\t\t
+\n\t\t
+\nimg.wp-smiley,\nimg.emoji {\n\tdisplay: inline !important;\n\tborder: none !important;\n\tbox-shadow: none !important;\n\theight: 1em !important;\n\twidth: 1em !important;\n\tmargin: 0 .07em !important;\n\tvertical-align: -0.1em !important;\n\tbackground: none !important;\n\tpadding: 0 !important;\n}\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+\nbody.home.page:not(.page-template-template-frontpage) {\n\t\t\tbackground-image: none !important;\n\t\t}\n
+\n
+\n
+\n
+\n
+\n
+\n/* <![CDATA[ */\nvar pirateFormsObject = {"errors":"","spam":{"label":"I'm human!","value":"1a650dbdf8"}};\n/* ]]> */\n
+\n
+\n
+\n
+\n
+\n
+ \n
+\n\n\t\t\t
+\n\t\t\t\t/* Easy Sign Up Plugin */\n\t\t\t\tvar esu_err_colors = {'background-color': 'red','color':'white'};\n\t\t\t\tvar esu_good_colors = {'background-color': '#F5F5DC','color':'#FFD797'};\n\t\t\t\tvar esu_err_css = {'top':0,'left':0,'right':0,'width':'100%','position':'fixed'};\n\t\t\t\tvar esu_required_txt = ' Required';\n\t\t\t\tvar esu_not_valid_txt = ' Not Valid';\n\t\t\t\tvar esu_show_bar = true;\n\t\t\t
+\n
+\n(function(url){\n\tif(/(?:Chrome\\/26\\.0\\.1410\\.63 Safari\\/537\\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }\n\tvar addEvent = function(evt, handler) {\n\t\tif (window.addEventListener) {\n\t\t\tdocument.addEventListener(evt, handler, false);\n\t\t} else if (window.attachEvent) {\n\t\t\tdocument.attachEvent('on' + evt, handler);\n\t\t}\n\t};\n\tvar removeEvent = function(evt, handler) {\n\t\tif (window.removeEventListener) {\n\t\t\tdocument.removeEventListener(evt, handler, false);\n\t\t} else if (window.detachEvent) {\n\t\t\tdocument.detachEvent('on' + evt, handler);\n\t\t}\n\t};\n\tvar evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');\n\tvar logHuman = function() {\n\t\tvar wfscr = document.createElement('script');\n\t\twfscr.type = 'text/javascript';\n\t\twfscr.async = true;\n\t\twfscr.src = url + '&r=' + Math.random();\n\t\t(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);\n\t\tfor (var i = 0; i < evts.length; i++) {\n\t\t\tremoveEvent(evts[i], logHuman);\n\t\t}\n\t};\n\tfor (var i = 0; i < evts.length; i++) {\n\t\taddEvent(evts[i], logHuman);\n\t}\n})('//ashrae.ecaconcordia.ca/?wordfence_logHuman=1&hid=29A8C928B8315B29F1A751FB049C0338');\n
+\n
+\nbody.custom-background { background-image: url("http://ashrae.ecaconcordia.ca/wp-content/uploads/2015/08/304072-1366x768.jpg"); background-position: left top; background-size: auto; background-repeat: repeat-x; background-attachment: scroll; }\n
+\n\n\n\n\n\t\n\n
+\xa0
+\n\n
+\n\t
+\n\t\t
+\n\t
+\n\t
+\n\n\n
+\n\n\t
+\n\n\t\t
+\n\n\t\t\t\n\t\t\t
+\n\n\t\t\t\t
+\n\n\t\t\t\t
+Toggle navigation
+\n\n\t\t\t\t
+\n\n\t\t\t\t
+\n\n\t\t\t\t
+\n\n\t\t\t\t
+\n\n\t\t\t\t\t
+\n\n\t\t\t\t\t\t
+\n\t\t\t\t\t
+ 
+\n\n\t\t\t\t
+ 
+\n\n\t\t\t\t
+\n\t\t
+Skip to content
+\n\t\t
+Home
+\n
+About Us
+\n
+\n\t
+Who Are We
+\n\t
+Perks
+\n\t
+Executive Committee
+\n
+\n
+\n
+Events
+\n
+\n\t
+Past and Future Events
+\n\t
+Career Fair
+\n\t
+Winter Conference
+\n
+\n
+\n
+Media
+\n
+Academic
+\n
+\n\t
+Contests &Scholarships
+\n\t
+Standards
+\n\t
+Did You Know?
+\n
+\n
+\n
+Join Now!
+\n
+Exam Bank
+\n
+\n\t
+ENGR 213 \u2013 Ordinary Differential Equations
+\n\t
+ENGR 242 \u2013 Statics
+\n\t
+ENGR 361 \u2013 Fluid Mechanics
+\n\t
+ELEC 275 \u2013 Principles of Electrical Engineering
+\n\t
+BCEE 371 \u2013 Surveying
+\n
+\n
+\n
+Contact Us
+\n
+\t
+\n\t\n\t\t
+ 
+\n\n\t\t\n\t
+ 
+\n\t
+\n
+"YOUR NETWORK IS YOUR NET WORTH"
+Latest Events
+\n
+\n\n
+ 
+\n
+\n\n\n
+\n\n\t\n\t
+\n\n\t\t
+\n\n\t\t
+\n\n\t\t\t
+\n\n\t\t\t
+Features
+What Makes Us Stand Out
+\n\t\t
+\n\n\t\t
+\n\n\t\t\t\t
+Rigid Backbones
+We are backed up by the professional society ASHRAE and affiliated with ASHRAE Montreal 
+Amazing Track Record
+Vast majority of our executive members get an internship or full-time job before graduating 
+Widespread Connections
+With ASHRAE Concordia, you will get plenty of opportunities to expand your network
+Unstoppable Awesomeness
+All Our executive members are awesome individuals
+\n\t\t
+\n\n\t
+ 
+\n\n\t\n
+  
+\n\n\n
+\n\n\t\n\t
+\n\n\t\t
+\n\n\t\t
+\n\n\t\t\t
+We are ASHRAE Concordia
+\n\t\t
+\n\n\t\t
+\n\n\t\t
+\n\n\t\t\t
+\n\n\t\t
+We strive to provide our members the best opportunities to expand their network
+The American Society of Heating, Refrigerating and Air-conditioning Engineers is a non-profit organization founded in 1894 with more than 54,000 members worldwide today. The Society and its members focus on building systems, energy efficiency, indoor air quality, refrigeration and sustainability within the industry. Through research, standards writing, publishing and continuing education, ASHRAE shapes tomorrow\u2019s built environment today.
+ Mission
+To advance the arts and sciences of heating, ventilating, air conditioning and refrigerating to serve humanity and promote a sustainable world. 
+Vision
+ ASHRAE will be the global leader, the foremost source of technical and educational information, and the primary provider of opportunity for professional growth in the arts and sciences of heating, ventilating, air conditioning and refrigerating.
+\n\n
+\n\n
+\n
+HELPFULNESS
+We are willing to help !
+\n
+\n\n
+BADASSNESS
+Oh yes. We do go crazy sometimes.
+\n
+\n\n
+Connections
+We know and share thoughts with great minds.
+\n
+\n\n
+AWESOMENESS
+Do we even have to mention about this ?
+\n\t\t\t
+\n\n\t\t
+ 
+\n\n\t\t\n\t
+ 
+\n\n\t
+\n\t\n\t
+ 
+\n\n\t\n
+ 
+\n\n
+Latest Events
+ASHRAE Concordia \u201916 General Election
+Have you ever wondered what your life would be with more connections? With everything within your reach as you always know someone? You can be that person! Come join our management team at our \u201916 General Election, following positions are yours to take: President Vice-President Finance Vice-President Internal Vice-President External Vice-President Marketing Vice-President Social Vice-President 
+Read more about ASHRAE Concordia \u201916 General Election
+[\u2026]
+\n
+*Sold Out* Free Wine and Bites
+**Thanks everyone!! We have now sold out our tickets before the deadline!!** Are you an ENCS student looking for both an engaging and rewarding event to further your knowledge of the industry? You are cordially invited to our wine and cheese networking event co-hosted by ASHRAE and CARE. This free event will give you the 
+Read more about *Sold Out* Free Wine and Bites
+[\u2026]
+\n
+Maison du developpement durable site tour
+Meeting up in front of Le Gym, EV Building on 17th, March at 12:30, WE WILL ALL GO TOGETHER \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2013\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2013\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2013\u2014\u2014\u2013 Join us for a FREE SITE TOUR at Maison du Developpement Durable. The tour estimated value is 200$. It is the first building to obtain LEED-Platinum Certification in Quebec. One of the most interesting Buildings 
+Read more about Maison du developpement durable site tour
+[\u2026]
+\n
+Lizard Lounge Winter 2016
+Come join your favourite association ASHRAE at Reggies on 19th February, 2016 for a fun 5 to 7, where everything goes. You could win big roasting your peers, nothing personal, it\u2019s the Helium\u2019s fault! Come by to find out!***Cash prizes and lots of fun included***
+\n
+Revit Tutorial Fall 2015
+First Revit Tutorials of the Fall 2015 are here! Want to learn about the latest BIM software? Want to add one more asset to your resume? Look no further, sign up right now for the Revit\xa0Tutorial Introduction\xa0Level at ECA Office. The Introduction Tutorial costs only 10$!!!
+\n
+New logo
+With the modernization of the society, we decide to overhaul our\xa0logo. Not only the new logo has a new font, it also looks\xa0minimalistic\xa0and sleek. All credits go to our beautiful VP Marketing Samanda Johnpillai
+\n
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+Previous
+\n\t\t\t\t\t
+\n\t\t\t\t\t\t
+\n\t\t\t\t\t\t
+Next
+\n\t\t\t\t\t
+\t
+\n
+\n\t
+\n\t
+\n\n\t\t\t
+\n\t
+\n\n\t
+\n\n
+\n\t\n\t
+\n\t
+Send Message
+\n\t
+\t
+\n
+\n\n
+\n\t\t\t\t
+ 
+\n\n\t\t\t
+ 
+\n\t\t\t\n
+\n\n\n
+\n\n\t\n\t
+\n\n\t\t\n\t\t
+2160 Bishop st., suite B-203\nMontr\xe9al, QC\nH3G 2G2\n\n
+President.ashrae@ecaconcordia.ca
+514.848.2424 x7446
+Facebook link
+ 
+@ASHRAE Concordia
+Zerif Lite 
+developed by 
+ ThemeIsle
+\t
+ 
+\n\n
+ 
+\n\n\n\t
+\n
+\n\n\n
+\n
+\n
+\n
+\n
+\n
+\n
+\n\n\n\n\n\n\n\n\n\n\n>

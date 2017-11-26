@@ -1,0 +1,4571 @@
+\n\n    \n    \n    \n    \n    \n    \n    \n    
+\n    \n    
+&lt;meta http-equiv="refresh" content="0; URL=https://mobile.twitter.com/i/nojs_router?path=%2F"&gt;
+\n      
+\n    \n    \n  \n  
+\n    if (window.top != window) {\n  window.top.postMessage({'bouncer': true, 'event': 'complete'}, '*');\n}\n  
+\n  
+\n    !function(){function n(){var n=window.location.href.match(/#(.)(.*)$/);return n&&"!"==n[1]&&n[2].replace(/^\\//,"")}function t(){var t=n();t&&window.location.replace("//"+window.location.host+"/"+t)}t(),window.addEventListener?window.addEventListener("hashchange",t,!1):window.attachEvent&&window.attachEvent("onhashchange",t)}();\n  
+\n  
+\n    !function(){function e(e){if(e||(e=window.event),!e)return!1;if(e.timestamp=(new Date).getTime(),!e.target&&e.srcElement&&(e.target=e.srcElement),document.documentElement.getAttribute("data-scribe-reduced-action-queue"))for(var t=e.target;t&&t!=document.body;){if("A"==t.tagName)return;t=t.parentNode}return i("all",o(e)),a(e)?(document.addEventListener||(e=o(e)),e.preventDefault=e.stopPropagation=e.stopImmediatePropagation=function(){},y?(v.push(e),i("captured",e)):i("ignored",e),!1):(i("direct",e),!0)}function t(e){n();for(var t,r=0;t=v[r];r++){var a=e(t.target),i=a.closest("a")[0];if("click"==t.type&&i){var o=e.data(i,"events"),u=o&&o.click,c=!i.hostname.match(g)||!i.href.match(/#$/);if(!u&&c){window.location=i.href;continue}}a.trigger(e.event.fix(t))}window.swiftActionQueue.wasFlushed=!0}function r(){for(var e in b)if("all"!=e)for(var t=b[e],r=0;r<t.length;r++)console.log("actionQueue",c(t[r]))}function n(){clearTimeout(w);for(var e,t=0;e=h[t];t++)document["on"+e]=null}function a(e){if(!e.target)return!1;var t=e.target,r=(t.tagName||"").toLowerCase();if(e.metaKey)return!1;if(e.shiftKey&&"a"==r)return!1;if(t.hostname&&!t.hostname.match(g))return!1;if(e.type.match(p)&&s(t))return!1;if("label"==r){var n=t.getAttribute("for");if(n){var a=document.getElementById(n);if(a&&f(a))return!1}else for(var i,o=0;i=t.childNodes[o];o++)if(f(i))return!1}return!0}function i(e,t){t.bucket=e,b[e].push(t)}function o(e){var t={};for(var r in e)t[r]=e[r];return t}function u(e){for(;e&&e!=document.body;){if("A"==e.tagName)return e;e=e.parentNode}}function c(e){var t=[];e.bucket&&t.push("["+e.bucket+"]"),t.push(e.type);var r,n,a=e.target,i=u(a),o="",c=e.timestamp&&e.timestamp-d;return"click"===e.type&&i?(r=i.className.trim().replace(/\\s+/g,"."),n=i.id.trim(),o=/[^#]$/.test(i.href)?" ("+i.href+")":"",a='"'+i.innerText.replace(/\\n+/g," ").trim()+'"'):(r=a.className.trim().replace(/\\s+/g,"."),n=a.id.trim(),a=a.tagName.toLowerCase(),e.keyCode&&(a=String.fromCharCode(e.keyCode)+" : "+a)),t.push(a+o+(n&&"#"+n)+(!n&&r?"."+r:"")),c&&t.push(c),t.join(" ")}function f(e){var t=(e.tagName||"").toLowerCase();return"input"==t&&"checkbox"==e.getAttribute("type")}function s(e){var t=(e.tagName||"").toLowerCase();return"textarea"==t||"input"==t&&"text"==e.getAttribute("type")||"true"==e.getAttribute("contenteditable")}for(var m,d=(new Date).getTime(),l=1e4,g=/^([^\\.]+\\.)*twitter\\.com$/,p=/^key/,h=["click","keydown","keypress","keyup"],v=[],w=null,y=!0,b={captured:[],ignored:[],direct:[],all:[]},k=0;m=h[k];k++)document["on"+m]=e;w=setTimeout(function(){y=!1},l),window.swiftActionQueue={buckets:b,flush:t,logActions:r,wasFlushed:!1}}();\n  
+\n  
+\n    !function(){function t(t){t.target.setAttribute("data-in-composition","true")}function n(t){t.target.removeAttribute("data-in-composition")}document.addEventListener&&(document.addEventListener("compositionstart",t,!1),document.addEventListener("compositionend",n,!1))}();\n  
+\n\n    
+\n  
+\n  
+\n\n    
+\n    
+\n      
+\n      
+\n\n      
+Twitter. It's what's happening.
+\n      
+\n  
+\n\n\n\n
+\n
+\n\n\n\n
+\n\n
+\n
+\n\n
+\n\n\n  
+\n  
+\n\n    
+\n  
+\n  
+\n\n  \n\n  
+\n\n\n
+\n\n    
+\n\n    \n  \n  \n      
+\n        document.body.className=document.body.className+" "+document.body.getAttribute("data-fouc-class-names");\n      
+\n\n    
+Skip to content
+\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    
+\n        
+\n  
+\n    
+\n\n      
+\n          
+\n      
+\n\n      
+\n        
+Home
+\n        
+Sign up
+\n        
+Log in
+\n      
+\n\n      
+\n        
+What\u2019s happening?
+\n      
+\n\n    
+\n\n    
+\n      
+\n  
+\n    
+\n      
+\n      
+Search
+\n    
+\n  
+\n\n    
+\n      
+Featured
+\n    
+\n    
+\n      
+News
+\n    
+\n    
+\n      
+Hockey 
+\n    
+\n    
+\n      
+Sports
+\n    
+\n    
+\n      
+Music
+\n    
+\n    
+\n      
+Lifestyle & Culture
+\n    
+\n\n  
+\n    
+More 
+\n    
+\n      
+\n          
+Entertainment
+\n          
+Local News 
+\n          
+Television
+\n          
+YouTubers 
+\n          
+Gaming
+\n          
+Government
+\n          
+Politics 
+\n          
+Fun
+\n      
+\n    
+\n  
+\n
+\n\n    
+\n    
+\n  
+\n    
+\n      
+\n        
+Search Twitter
+\n      
+\n      
+Search query
+\n      
+\n    
+\n      \n\n\n
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    
+\n  
+Saved searches
+\n  
+\n    \n    
+\n      
+Remove
+\n      
+\n    
+\n  
+\n
+\n\n    
+\n  \n  
+\n    
+\n  
+\n
+\n    
+\n  \n  
+\n    \n    
+\n      
+\n        
+\n        
+In this conversation
+\n      
+\n      
+\n      
+\n        
+Verified account
+Protected Tweets
+\xa0
+@
+\n      
+\n      
+\n    
+\n  
+\n  
+\n
+\n\n    
+\n  \n  
+\n
+\n    \n
+\n  
+\n    Suggested users\n  
+\n  
+\n    \n    
+\n      \n      
+\n        
+\n        
+\n          
+\n          
+\n          
+Verified account
+Protected Tweets
+\xa0
+@
+\n        
+\n      
+\n    
+\n    
+\n  
+\n\n  
+\n    \n    
+\n      \n      
+\n        
+\n        
+\n          
+\n          
+\n          
+Verified account
+Protected Tweets
+\xa0
+@
+\n        
+\n      
+\n    
+\n    
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n    
+\n  
+\n
+\n  
+\n
+\n\n  
+\n  
+\n    
+\n      
+Close
+\n    
+\n  
+\n
+\n\n  
+\n
+\n\n\n
+\n    \n\n  
+\n  &lt;div class="front-warning"&gt;\n    &lt;h3&gt;Twitter.com makes heavy use of JavaScript&lt;/h3&gt;\n    &lt;p&gt;If you cannot enable it in your browser's preferences, you may have a better experience on our &lt;a href="http://m.twitter.com" rel="noopener"&gt;mobile site&lt;/a&gt;.&lt;/p&gt;\n  &lt;/div&gt;\n
+\n\n
+\n  
+Twitter.com makes heavy use of browser cookies
+\n  
+Please enable cookies in your browser preferences before signing in.
+\n
+\n\n\n    
+\n  
+\n    Moments\n    
+\xb7 
+View all
+\n  
+\n\n  
+\n      
+\n  
+\n        \n
+\n  
+\n    
+\n    
+\n      
+\n    
+\n  
+\n
+\n\n  
+\n\n  
+\n    \n\n      
+\n          The Nazi sympathizer profile that's receiving backlash\n\n      
+\n\n    \n
+\n  \n\n  \n    \n      
+\n        US news\n      
+\n\n    \n        
+\n    \n    3 hours ago\n  
+\n\n
+\n\n      
+\n        The New York Times ran a profile of a Nazi sympathizer from Ohio, which is gaining criticism for its treatment of the subject and the fact that it was written at all. \n      
+\n\n\n    
+\n      \n      \n    
+\n  
+\n
+\n\n      
+\n  
+\n        \n
+\n  
+\n    
+\n    
+\n      
+\n    
+\n  
+\n
+\n\n  
+\n\n  
+\n    \n\n      
+\n          It's five years since Lenny Kravitz wore this iconic scarf\n\n      
+\n\n    \n
+\n  \n\n  \n    \n      
+\n        Haha\n      
+\n\n    \n        
+\n    \n    5 hours ago\n  
+\n\n
+\n\n      
+\n        This weekend marked five years since the musician sported a massive scarf on the streets of New York, and it's clear people haven't forgotten. \n      
+\n\n\n    
+\n      \n      \n    
+\n  
+\n
+\n\n      
+\n  
+\n        \n
+\n  
+\n    
+\n    
+\n      
+\n    
+\n  
+\n
+\n\n  
+\n\n  
+\n    \n\n      
+\n          Ivana Trump had a cutting one-liner when asked about Melania\n\n      
+\n\n    \n
+\n  \n\n  \n    \n      
+\n        US news\n      
+\n\n    \n        
+\n    \n    Last night\n  
+\n\n
+\n\n      
+\n        President Trump's first wife Ivana was on Ireland's Ray D'Arcy Show when she was asked about her life with Donald and her frosty relationship with First Lady Melania. \n      
+\n\n\n    
+\n      \n      \n    
+\n  
+\n
+\n\n\n      \n    
+\n      
+\n  
+\n    
+\n      New to Twitter?\n    
+\n  
+\n  
+\n    Sign up now to get your own personalized timeline!\n  
+\n  
+\n  
+Sign up
+\n
+\n\n
+\n\n    
+\n\n  
+\n\n  
+\n    
+Featured Tweets
+\n  
+\n
+\n\n\n    
+\n      
+\n\n       
+\n  
+\n    
+Movies
+\n  
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n      
+\n  
+\n
+\n\n\n    
+\n    
+\n      
+\n  
+\n
+\n\n\n    
+\n
+\n\n      
+\n    
+\n  
+\n\n\n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+Ava DuVernay
+\u200f
+Verified account
+\xa0
+@
+ava
+\n\n        \n        
+\n  
+9m
+9 minutes ago
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Just came across an email I sent to a new filmmaker last year who sought advice on shooting her first feature. Maybe it can be helpful to someone else out there. xo
+pic.twitter.com/e64y1jDaLl
+\n
+\n\n\n      \n\n      \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+295 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+919 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+295
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+295
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+919
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+919
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n
+\n       
+\n  
+\n    
+Classic Rock 
+\n  
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n            
+\n    
+\n      
+\n          
+\n  
+\n      
+\n\n\n  
+\n    
+\n    
+\n\n  
+\n
+\n\n  
+\n
+\n\n      
+\n    
+\n  
+\n\n\n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+The Rolling Stones
+\u200f
+Verified account
+\xa0
+@
+RollingStones
+\n\n        \n        
+\n  
+13m
+13 minutes ago
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+\u201cReceived hundreds of letters from parents complaining about you, but thousands from teenagers saying how much they enjoyed your performance\u201d\nEd Sullivan's letter to The Rolling Stones, following their performance on his show in October 1964. 
+#
+StonesOnAir
+ 
+https://
+the-rolling-stones.lnk.to/OnAirUncutTW
+\xa0
+pic.twitter.com/FJjiGPZz0A
+\n
+\n\n\n      \n\n      \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+95 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+293 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+95
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+95
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+293
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+293
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n
+\n       
+\n  
+\n    
+Television
+\n  
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n\n
+\n      
+\n    
+\n  
+\n\n\n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+The Walking Dead AMC
+\u200f
+Verified account
+\xa0
+@
+WalkingDead_AMC
+\n\n        \n        
+\n  
+26m
+26 minutes ago
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+What is Carl looking for beyond Alexandria\u2019s walls? New episode airs tonight at 9/8C. 
+#
+TWD
+pic.twitter.com/2C8Itx5BET
+\n
+\n\n\n      \n\n      \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+237 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+891 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+237
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+237
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+891
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+891
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n
+\n       
+\n  
+\n    
+NCAA Basketball
+\n  
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n\n
+\n      
+\n    
+\n  
+\n\n\n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+Oklahoma Basketball
+\u200f
+Verified account
+\xa0
+@
+OU_MBBall
+\n\n        \n        
+\n  
+14m
+14 minutes ago
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+.
+@
+thetraeyoung
+ checks out of the game with 43 points.\n\nHe has the first 40 point game by a 
+#
+Sooner
+ since Buddy dropped 46 in triple OT against Kansas.
+pic.twitter.com/54Xcqa87Qd
+\n
+\n\n\n      \n\n      \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+213 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+295 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+213
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+213
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+295
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+295
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n
+\n       
+\n  
+\n    
+Dance/Electronic
+\n  
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n            
+\n    
+\n      
+\n          
+\n  
+\n      
+\n\n\n  
+\n    
+\n    
+\n\n  
+\n
+\n\n  
+\n
+\n\n      
+\n    
+\n  
+\n\n\n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+All Night Aoki
+\u200f
+Verified account
+\xa0
+@
+steveaoki
+\n\n        \n        
+\n  
+14h
+14 hours ago
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Rocking 
+#
+micdropremix
+ live for the first time!! Less blow this record up!! 
+@
+BTS_twt
+pic.twitter.com/c1lGWPvXNs
+\n
+\n\n\n      \n\n      \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+36,864 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+74,310 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n
+\n       
+\n  
+\n    
+Vloggers 
+\n  
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n      
+\n  
+\n
+\n\n\n    
+\n  
+\n      
+\n        
+\n  
+\n
+\n\n\n      
+      \n      
+\n        
+\n  
+\n
+\n\n\n      
+      \n      
+\n        
+\n  
+\n
+\n\n\n      
+      \n  
+\n
+\n\n      
+\n    
+\n  
+\n\n\n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+\u2601\ufe0ejaysee
+\u200f
+Verified account
+\xa0
+@
+jccaylen
+\n\n        \n        
+\n  
+Nov 25
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+my sister is the cutest thing in the world. i told her to be my little model this weekend & she do it better than most y\u2019all girls
+pic.twitter.com/QXEqoy7Hl1
+\n
+\n\n\n      \n\n      \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+5,771 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+47,821 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n
+\n       
+\n  
+\n    
+Cute
+\n  
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n      
+\n  
+\n
+\n\n\n    
+\n    
+\n      
+\n  
+\n
+\n\n\n    
+\n
+\n\n      
+\n    
+\n  
+\n\n\n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+WeRateDogs\u2122
+\u200f
+Verified account
+\xa0
+@
+dog_rates
+\n\n        \n        
+\n  
+Nov 25
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+This is Hatch. He grew pup and now his favorite hat is too small. Ears won\u2019t fit through the holes. Rather pupset. 13/10 would comfort
+pic.twitter.com/LVisnueYEL
+\n
+\n\n\n      \n\n      \n\n        
+\n    
+\n        
+Ella
+\n\n  
+\n\n
+\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+7,199 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+42,736 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n
+\n  
+\n  
+\n\n       
+\n  
+\n    
+NCAA Football
+\n  
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n\n
+\n      
+\n    
+\n  
+\n\n\n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+Clay Travis
+\u200f
+Verified account
+\xa0
+@
+ClayTravis
+\n\n        \n        
+\n  
+29m
+29 minutes ago
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Desperate times call for desperate measures. Make his phone blow up and voice your displeasure.
+pic.twitter.com/RwNF1eZs2Z
+\n
+\n\n\n      \n\n      \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+1,596 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+1,971 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n
+\n       
+\n  
+\n    
+NFL
+\n  
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n            
+\n    
+\n      
+\n          
+\n  
+\n      
+\n\n\n  
+\n    
+\n    
+\n\n  
+\n
+\n\n  
+\n
+\n\n      
+\n    
+\n  
+\n\n\n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+NFL
+\u200f
+Verified account
+\xa0
+@
+NFL
+\n\n        \n        
+\n  
+12m
+12 minutes ago
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+"GO DEEP!" - 
+@
+JoshMcCown12
+\n\nAnd that's exactly what 
+@
+YoungAmazing9
+ did.\n\nAnother 
+@
+NYJets
+ TD! 
+#
+Jets
+pic.twitter.com/Gdi31ZUDG0
+\n
+\n\n\n      \n\n      \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+288 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+635 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+288
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+288
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+635
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+635
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n
+\n       
+\n  
+\n    
+World News
+\n  
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n\n
+\n      
+\n    
+\n  
+\n\n\n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+CNN
+\u200f
+Verified account
+\xa0
+@
+CNN
+\n\n        \n        
+\n  
+26m
+26 minutes ago
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+The 25 to 30 men who carried out the attack on a mosque in Eqypt wore military uniforms and arrived in SUVs 
+http://
+cnn.it/2hU0dnK
+\xa0
+pic.twitter.com/gVutsIMlR1
+\n
+\n\n\n      \n\n      \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+65 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+95 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+65
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+65
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+95
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+95
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n
+\n       
+\n  
+\n    
+US Politics
+\n  
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n\n
+\n      
+\n    
+\n  
+\n\n\n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+Daniel Dale
+\u200f
+Verified account
+\xa0
+@
+ddale8
+\n\n        \n        
+\n  
+Nov 25
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+It is completely insane that big U.S. media keep printing the anti-Semitic garbage of *actual Nazis* without even bothering to correct them. Like... 
+https://www.
+nytimes.com/2017/11/25/us/
+ohio-hovater-white-nationalist.html?_r=0
+\xa0
+\u2026
+pic.twitter.com/0DDWYSpDc9
+\n
+\n\n\n      \n\n      \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+3,083 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+5,783 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n
+\n       
+\n  
+\n    
+Wrestling
+\n  
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n            
+\n    
+\n      
+\n          
+\n  
+\n      
+\n\n\n  
+\n    
+\n    
+\n\n        
+\n          
+ Roman Reigns crashes Lana and Rusev\u2019s Wedding Celebration
+\n          
+For the latest WWE news and highlights, visit WWE.com.  Sign up now at WWENetwork.com to get your 30-day free trial.
+\n        
+\n  
+\n
+\n\n  
+\n
+\n\n      
+\n    
+\n  
+\n\n\n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+WWE
+\u200f
+Verified account
+\xa0
+@
+WWE
+\n\n        \n        
+\n  
+23m
+23 minutes ago
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Even though 
+@
+WWERomanReigns
+\u200b might disagree, take this as an example of how NOT to celebrate 
+#
+NationalCakeDay
+!  
+@
+RusevBUL
+ 
+@
+LanaWWE
+pic.twitter.com/q4hNST8STl
+\n
+\n\n\n      \n\n      \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+94 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+345 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+94
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+94
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+345
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+345
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n
+\n       
+\n  
+\n    
+Premier League 
+\n  
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n      
+\n  
+\n
+\n\n\n    
+\n  
+\n      
+\n        
+\n  
+\n
+\n\n\n      
+      \n      
+\n        
+\n  
+\n
+\n\n\n      
+      \n  
+\n
+\n\n      
+\n    
+\n  
+\n\n\n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+Vincent Kompany
+\u200f
+Verified account
+\xa0
+@
+VincentKompany
+\n\n        \n        
+\n  
+1h
+1 hour ago
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Proud of this team, not for the talent and performance but for the mental strength we\u2019ve shown on many occasions already this season. Fans and staff always there to back us too. Minds turned to Wednesday now, other big game coming up. 
+#
+ManCity
+ 
+#
+KeepGoing
+pic.twitter.com/hCRRRst9G3
+\n
+\n\n\n      \n\n      \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+342 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+2,163 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n
+\n       
+\n  
+\n    
+Politics
+\n  
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n\n
+\n      
+\n    
+\n  
+\n\n\n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+United Nations
+\u200f
+Verified account
+\xa0
+@
+UN
+\n\n        \n        
+\n  
+20m
+20 minutes ago
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Investing in women & girls helps them build better lives & create a more peaceful 
+ for ALL.\n\nHere's how the UN works for gender equality: 
+http://
+bit.ly/1EsFUDg
+\xa0
+ 
+#
+GlobalGoals
+pic.twitter.com/GXcmI58wdf
+\n
+\n\n\n      \n\n      \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+89 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+135 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+89
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+89
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+135
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+135
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n
+\n  
+\n  
+\n\n       
+\n  
+\n    
+PGA
+\n  
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n\n
+\n      
+\n    
+\n  
+\n\n\n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+SportsCenter
+\u200f
+Verified account
+\xa0
+@
+SportsCenter
+\n\n        \n        
+\n  
+58m
+58 minutes ago
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Breaking: Florida is working on finalizing a deal to make Dan Mullen its next head coach. (via 
+@
+ClowESPN
+)
+pic.twitter.com/ZvPHexF6ak
+\n
+\n\n\n      \n\n      \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+1,817 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+2,712 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n
+\n       
+\n  
+\n    
+US News
+\n  
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n\n
+\n      
+\n    
+\n  
+\n\n\n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+Fox News
+\u200f
+Verified account
+\xa0
+@
+FoxNews
+\n\n        \n        
+\n  
+26m
+26 minutes ago
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+On "Justice," 
+@
+dbongino
+ blasted Congress' sexual harassment settlement fund, which used taxpayer dollars. 
+http://
+bit.ly/2BdIaAG
+\xa0
+pic.twitter.com/d4V1AcBF3o
+\n
+\n\n\n      \n\n      \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+86 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+218 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+86
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+86
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+218
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+218
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n
+\n       
+\n  
+\n    
+Business
+\n  
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n\n
+\n      
+\n    
+\n  
+\n\n\n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+Forbes
+\u200f
+Verified account
+\xa0
+@
+Forbes
+\n\n        \n        
+\n  
+55m
+55 minutes ago
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+If legalized, marijuana demand would exceed ice cream and movie tickets  
+http://
+on.forbes.com/6014D6ozO
+\xa0
+pic.twitter.com/q8zyRfXy05
+\n
+\n\n\n      \n\n      \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+218 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+352 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+218
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+218
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+352
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+352
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n
+\n       
+\n  
+\n    
+Celebrity
+\n  
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n\n
+\n      
+\n    
+\n  
+\n\n\n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+Kim Kardashian West
+\u200f
+Verified account
+\xa0
+@
+KimKardashian
+\n\n        \n        
+\n  
+18m
+18 minutes ago
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+My 
+@
+TheKidsSupply
+ 
+#
+CyberMonday
+ Deal starts TONIGHT at 6pm PST! Get free U.S. shipping (use code: FREESHIP) OR 10% off your order (use code: SAVE10) at 
+http://
+THEKIDSSUPPLY.COM
+\xa0
+ through Nov 27 11:59pm PST
+pic.twitter.com/ko2PktJP7s
+\n
+\n\n\n      \n\n      \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+56 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+383 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+56
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+56
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+383
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+383
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n
+\n       
+\n  
+\n    
+Science
+\n  
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n      
+\n  
+\n
+\n\n\n    
+\n    
+\n      
+\n  
+\n
+\n\n\n    
+\n
+\n\n      
+\n    
+\n  
+\n\n\n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+NASA
+\u200f
+Verified account
+\xa0
+@
+NASA
+\n\n        \n        
+\n  
+4m
+4 minutes ago
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+Exploration requires mobility. And whether you\u2019re on Earth or as far away as the Moon or Mars, you need good tires to get your vehicle from one place to another. Take a look at how we reinvent the wheel: 
+http://
+go.nasa.gov/2i5K2aJ
+\xa0
+pic.twitter.com/lgGhjkpajR
+\n
+\n\n\n      \n\n      \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+79 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+241 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+79
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+79
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+241
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+241
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n
+\n       
+\n  
+\n    
+Champions League
+\n  
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n\n
+\n      
+\n    
+\n  
+\n\n\n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+Manchester City
+\u200f
+Verified account
+\xa0
+@
+ManCity
+\n\n        \n        
+\n  
+2h
+2 hours ago
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+11th successive away win (all comps) - a new record!\n\n26 games unbeaten (all comps)\n\n18 wins in a row (all comps)\n\nFirst PL away win in 22 years after losing at half time\n\nBest ever start by a PL team\n\nCity.
+pic.twitter.com/DJE5R2ch77
+\n
+\n\n\n      \n\n      \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+2,934 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+6,123 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n
+\n       
+\n  
+\n    
+Gaming
+\n  
+\n    \n\n\n\n  
+\n\n    
+\n      \n      \n    
+\n\n    
+\n      \n            
+\n    
+\n      
+\n          
+\n    
+\n  
+\n
+\n\n\n
+\n      
+\n    
+\n  
+\n\n\n\n      \n\n      \n      
+\n          
+\n      
+\n    
+\n      
+pewdiepie 
+\xa0
+\U0001f4b0
+\u200f
+Verified account
+\xa0
+@
+pewdiepie
+\n\n        \n        
+\n  
+Nov 25
+\n
+\n\n          
+\n    
+\n  
+\n      
+\n        
+\n        
+More
+\n      
+\n  
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    \n      
+\n        
+Copy link to Tweet
+\n      
+\n  
+\n
+\n
+\n\n  
+\n\n      
+\n\n      \n\n\n      \n        
+\n  
+My dog has evolved and can now levetate. Please send help
+pic.twitter.com/c9IT7djLAE
+\n
+\n\n\n      \n\n      \n\n\n      \n      \n\n      \n      
+\n  \n      
+\n    \n    \n    
+\n      
+\n        
+0 replies
+\n      
+\n    
+\n    
+\n      
+\n        
+6,539 retweets
+\n      
+\n    
+\n    
+\n      
+\n        
+68,159 likes
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n    
+\n      
+\n      
+Reply
+\n    
+\n      
+\n        
+\n      
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n      
+Retweet
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Retweeted
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n
+\n\n\n    
+\n  
+\n    
+\n      
+\n      
+\n      
+Like
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+\n      
+Liked
+\n    
+\n      
+\n    
+\n  
+\n\n  
+\n
+\n\n\n    \n\n    \n\n  
+\n\n
+\n  \n\n\n\n      \n      \n\n      \n\n      \n\n    
+\n\n  
+\n\n\n
+\n  
+\n\n\n      
+\n  
+\n      
+\n    
+\n        
+\n\n      
+\n\n          \n      
+\n\n        
+Back to top \u2191
+\n    
+\n  
+\n\n\n    
+\n  
+\n    
+\n  
+\n
+\n\n  
+\n
+\n
+\n    
+\n  
+\n    
+Loading seems to be taking a while.
+\n    
+\n      Twitter may be over capacity or experiencing a momentary hiccup. 
+Try again
+ or visit 
+Twitter Status
+ for more information.\n    
+\n  
+\n
+\n
+\n\n  
+\n\n
+\n\n
+\n  
+\n    
+About
+\n    
+Help Center
+\n    
+Blog
+\n    
+Status
+\n    
+Jobs
+\n    
+Terms
+\n    
+Privacy Policy
+\n    
+Cookies
+\n    
+Ads info
+\n    
+Brand
+\n    
+Apps
+\n    
+Advertise
+\n    
+Marketing
+\n    
+Businesses
+\n    
+Developers
+\n    
+Directory
+\n    
+Settings
+\n    
+\xa9 2017 Twitter
+\n  
+\n
+\n\n\n\n    
+\n    
+\n    
+\n  
+\n    
+\n      
+\n        
+Dismiss
+\n      
+\n  
+\n
+\n
+\n\n    \n\n\n
+\n
+\n  
+\n  
+\n  
+\n    
+\n  
+\n    
+Close
+\n  
+\n
+\n\n    
+\n    
+\n      
+\n        
+\n          
+\n            Previous\n          
+\n        
+\n      
+\n    
+\n    
+\n      
+\n        
+\n          
+\n            Next\n          
+\n        
+\n      
+\n    
+\n    
+\n  
+\n
+\n\n\n\n
+\n\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n\n      
+\n        
+Go to a person's profile
+\n      
+\n\n      
+\n        
+\n          
+\n            
+\n            \n\n\n
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    
+\n  
+Saved searches
+\n  
+\n    \n    
+\n      
+Remove
+\n      
+\n    
+\n  
+\n
+\n\n    
+\n  \n  
+\n    
+\n  
+\n
+\n    
+\n  \n  
+\n    \n    
+\n      
+\n        
+\n        
+In this conversation
+\n      
+\n      
+\n      
+\n        
+Verified account
+Protected Tweets
+\xa0
+@
+\n      
+\n      
+\n    
+\n  
+\n  
+\n
+\n\n    
+\n  \n  
+\n
+\n    \n
+\n  
+\n    Suggested users\n  
+\n  
+\n    \n    
+\n      \n      
+\n        
+\n        
+\n          
+\n          
+\n          
+Verified account
+Protected Tweets
+\xa0
+@
+\n        
+\n      
+\n    
+\n    
+\n  
+\n\n  
+\n    \n    
+\n      \n      
+\n        
+\n        
+\n          
+\n          
+\n          
+Verified account
+Protected Tweets
+\xa0
+@
+\n        
+\n      
+\n    
+\n    
+\n  
+\n
+\n\n    
+\n  
+\n    
+\n      
+\n    
+\n  
+\n
+\n  
+\n
+\n\n          
+\n        
+\n      
+\n\n    
+\n  
+\n
+\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Promote this Tweet
+\n      
+\n      
+\n        
+\n          
+\n            
+\n            
+\n          
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n\n      
+\n        
+Block
+\n      
+\n\n      
+\n  
+\n
+\n\n      
+\n\n      
+\n        
+Cancel
+\n        
+Block
+\n      
+\n    
+\n  
+\n
+\n\n\n\n\n\n\n   
+\n    
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    
+\n      
+Tweet with a location
+\n      
+\n        You can add location information to your Tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your Tweet location history.\n        
+Learn more
+\n      
+\n      
+\n        
+Turn on
+\n        
+Not now
+\n      
+\n    
+\n  
+\n
+\n\n  
+\n\n
+\n  
+\n  
+\n    
+\n    
+\n  
+\n  
+\n    
+\n      
+\n      
+\n    
+\n    
+\n    
+\n  
+\n
+\n\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Share Location
+\n      
+\n      
+\n        
+\n          
+\n          
+\n        
+\n      
+\n\n      
+\n        
+\n          
+\n          
+\n\n          
+\n            
+\n          
+\n\n          
+\n            
+Results from 
+\n            
+\n          
+\n        
+\n        
+Send
+\n      
+\n    
+\n  
+\n
+\n\n\n  
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Your lists
+\n      
+\n      
+\n        
+\n        
+\n      
+\n    
+\n  
+\n
+\n  
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Create a new list
+\n      
+\n      
+\n        
+\n  
+\n    
+List name
+\n    
+\n  
+\n  
+\n\n  
+\n    
+Description
+\n    
+\n    
+Under 100 characters, optional
+\n  
+\n  
+\n\n  
+\n    
+Privacy
+\n    
+\n      
+\n        
+\n        
+Public
+ \xb7 Anyone can follow this list\n      
+\n      
+\n        
+\n        
+Private
+ \xb7 Only you can access this list\n      
+\n    
+\n  
+\n  
+\n\n  
+\n    
+Save list
+\n  
+\n
+\n\n      
+\n    
+\n  
+\n
+\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n\n      
+\n        
+\n      
+\n\n      
+\n        
+\n  
+\n
+\n\n        
+\n        
+\n          
+\n        
+\n        
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Copy link to Tweet
+\n      
+\n      
+\n        
+\n          
+\n            
+Here's the URL for this Tweet. Copy it to easily share with friends.
+\n            
+\n          
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Embed this Tweet
+\n        
+Embed this Video
+\n      
+\n      
+\n        
+\n  
+Add this Tweet to your website by copying the code below. 
+Learn more
+\n  
+Add this video to your website by copying the code below. 
+Learn more
+\n  
+\n\n    
+\n      
+\n      
+\n        
+Hmm, there was a problem reaching the server. 
+Try again?
+\n      
+\n      
+\n      
+\n        
+\n          
+\n            
+\n            Include parent Tweet\n          
+\n        
+\n        
+\n          
+\n            
+\n            Include media\n          
+\n        
+\n      
+\n    
+\n  
+\n  
+By embedding Twitter content in your website or app, you are agreeing to the Twitter 
+Developer Agreement
+ and 
+Developer Policy
+.
+\n  
+Preview
+\n  
+\n  
+\n
+\n\n      
+\n    
+\n  
+\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Why you're seeing this ad
+\n      
+\n      
+\n        
+\n          
+\n        
+\n        
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n\n  
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Log in to Twitter
+\n      
+\n      
+\n        
+\n          
+\n        
+\n        
+\n
+\n  
+\n    
+\n  
+\n\n  
+\n    
+\n  
+\n\n  
+\n    
+\n      
+\n      
+Remember me
+\n    
+\n    
+\xb7
+\n    
+Forgot password?
+\n  
+\n\n  
+\n\n    
+\n\n  
+\n  
+\n  
+\n      
+\n      
+\n
+\n        
+\n      
+\n      
+\n        Don't have an account? 
+Sign up \xbb
+\n      
+\n    
+\n  
+\n
+\n\n  
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Sign up for Twitter
+\n      
+\n      
+\n        
+\n          
+\n        
+\n        
+Not on Twitter? Sign up, tune into the things you care about, and get updates as they happen.
+\n        
+\n
+\n  
+Sign up
+\n
+\n        
+\n      
+\n      
+\n        Have an account? 
+Log in \xbb
+\n      
+\n    
+\n  
+\n
+\n\n  
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Two-way (sending and receiving) short codes:
+\n      
+\n      
+\n        \n\n  \n    \n      \n      \n      \n    \n  \n  \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n    \n  \n  \n    \n      \n    \n  \n
+Country
+Code
+For customers of
+United States
+40404
+(any)
+Canada
+21212
+(any)
+United Kingdom
+86444
+Vodafone, Orange, 3, O2
+Brazil
+40404
+Nextel, TIM
+Haiti
+40404
+Digicel, Voila
+Ireland
+51210
+Vodafone, O2
+India
+53000
+Bharti Airtel, Videocon, Reliance
+Indonesia
+89887
+AXIS, 3, Telkomsel, Indosat, XL Axiata
+Italy
+4880804
+Wind
+3424486444
+Vodafone
+\n        \xbb 
+See SMS short codes for other countries
+\n      
+\n      
+\n    
+\n  
+\n
+\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+Confirmation
+\n      
+\n      
+\n        
+\n          
+\n            
+\n            
+\n          
+\n        
+\n        
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n
+\n  
+\n    
+\n      
+\n  
+\n    
+Close
+\n  
+\n
+\n\n      
+\n        
+\xa0
+\n      
+\n      
+\n        
+\n          
+\n            
+\n            
+\n          
+\n        
+\n      
+\n    
+\n  
+\n
+\n\n\n\n
+\n  
+\n    \n    
+\n      
+\n        
+Close
+\n      
+\n    
+\n    
+\n  
+\n
+\n\n\n
+\n  
+\n  
+\n    
+\n    
+\n      
+\n        
+\n          
+\n          
+\n            Skip all\n          
+\n        
+\n        \n\n\n\n
+\n  
+\n    
+\n    Welcome home!\n  
+\n  
+This timeline is where you\u2019ll spend most of your time, getting instant updates about what matters to you.
+\n
+\n\n\n\n
+\n  
+\n    
+\n    Tweets not working for you?\n  
+\n  
+\n    Hover over the profile pic and click the Following button to unfollow any account.\n  
+\n
+\n\n
+\n\n  
+\n    
+\n    Say a lot with a little\n  
+\n  
+\n    When you see a Tweet you love, tap the heart \u2014 it lets  the person who wrote it know you shared the love.\n  
+\n
+\n\n
+\n  
+\n    
+\n    Spread the word\n  
+\n  
+\n    The fastest way to share someone else\u2019s Tweet with your followers is with a Retweet. Tap the icon to send it instantly.\n  
+\n
+\n\n
+\n  
+\n    
+\n    Join the conversation\n  
+\n  
+\n    Add your thoughts about any Tweet with a Reply. Find a topic you\u2019re passionate about, and jump right in.\n  
+\n
+\n\n\n\n
+\n  
+\n    
+\n    Learn the latest\n  
+\n  
+\n    Get instant insight into what people are talking about now.\n  
+\n
+\n\n
+\n  
+\n    
+\n    Get more of what you love\n  
+\n  
+\n    Follow more accounts to get instant updates about topics you care about.\n  
+\n
+\n\n
+\n  
+\n    
+\n    Find what's happening\n  
+\n  
+\n    See the latest conversations about any topic instantly.\n  
+\n
+\n\n
+\n  
+\n    
+\n    Never miss a Moment\n  
+\n  
+\n    Catch up instantly on the best stories happening as they unfold.\n  
+\n
+\n      
+\n\n      
+\n        
+Back
+\n        
+Next
+\n      
+\n    
+\n  
+\n
+\n\n\n\n\n\n
+\n
+\n
+\n
+\n\n\n      
+\n  
+\n    
+\n  
+\n  
+\n    
+\n    
+Next Tweet from user
+\n  
+\n  
+\n    
+\n      
+\n    
+\n    
+\n      
+\n      
+\n    
+\n  
+\n
+\n\n    
+\n  
+\n  
+\n\n
+\n\n    \n    \n      
+\n\n  \n\n    
+\n  
+\n\n  \n    
+\n\n  \n\n>
